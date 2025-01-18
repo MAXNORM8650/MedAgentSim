@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when your symptoms started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think it started about a month ago, to be honest, I was feeling pretty normal after I finished my sinusitis treatment, but then I started to feel really tired and had some aches in my sides. It's been a bit of a persistent feeling, to be honest.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did you experience any fever or flank pain before starting the antibiotics?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yes, I did have a fever when I was taking the amoxicillin. It was a pretty high fever, and I had to take it down with some acetaminophen. It was a bit concerning, to be honest, since I didn't have any symptoms like that with my sinusitis.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your urine, like it being cloudy or smelly? REQUEST TEST: Urinalysis"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Leukocyturia (6%), Bacterial_Culture (Negative), pH Normal, Protein Normal, Blood Normal, Ketones Normal, Glucose Normal, Specific_Gravity Normal, WBC Normal, RBC Normal, RBC Cast Normal, Protein Cast Normal, Blood Cast Normal, White_Blood_Cells Present (3%), Casts Present (1%), Crystalline_Casts Present (0%), Red_Blood_Cells Present (0%), Granular_Cast Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you have a history of kidney problems or diabetes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, I don't think so. I do have a history of high blood pressure and high cholesterol, though. But I've been managing those with my medications.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Are you experiencing any swelling in your legs or ankles?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, I have noticed that my feet have been feeling a bit heavier than usual, but I couldn't quite put my finger on it. It's not painful, though, and it's not like I'm experiencing any swelling, per se. It's just that my clothes seem to be feeling a bit tighter than they did before.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent urinary tract infections or other infections? REQUEST TEST: Urinalysis and Blood Cultures"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n Urinalysis: \n Leukocyturia (6%), Bacterial_Culture (Negative), pH Normal, Protein Normal, Blood Normal, Ketones Normal, Glucose Normal, Specific_Gravity Normal, WBC Normal, RBC Normal, RBC Cast Normal, Protein Cast Normal, Blood Cast Normal, White_Blood_Cells Present (3%), Casts Present (1%), Crystalline_Casts Present (0%), Red_Blood_Cells Present (0"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you have any nausea or vomiting? DIAGNOSIS READY: Acute Pyelonephritis pending urinalysis and blood culture results."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Acute interstitial nephritis",
+    "DIAGNOSIS_READY_Simulation": "Scene 4, The diagnosis was INCORRECT (0%)"
+  }
+]

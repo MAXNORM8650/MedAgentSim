@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides fatigue, mild fever, abdominal pain, and nausea?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've also noticed that my urine has been darker than usual, but I thought it was just because I haven't been drinking enough water."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your bowel movements, such as diarrhea or constipation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, my bowel movements have been normal. I haven't noticed any changes in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to anyone who has been ill?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't traveled recently, and I haven't been around anyone who was sick."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any weight loss or changes in your appetite recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant weight loss, but my appetite has been a bit off lately; I don't feel like eating as much as I usually do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections or illnesses, such as a cold or flu, prior to these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections or illnesses like a cold or flu. I just started feeling this way about three weeks ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any exposure to potential toxins, such as chemicals or contaminated food or water?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I did attend the state fair about a month ago and tried various regional foods. I'm not sure if that could be related, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any itching or jaundice, such as yellowing of your skin or eyes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any yellowing of my skin or eyes, but I do feel a bit more tired than usual. No itching either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or liver function tests done? If so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests or liver function tests done. I haven't seen a doctor since these symptoms started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint pain or swelling during this time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any joint pain or swelling. My discomfort has mostly been in my abdomen."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin, such as rashes or unusual bruising?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any rashes or unusual bruising on my skin. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any chills or night sweats along with your fever?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any chills or night sweats, just a mild fever that comes and goes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations, particularly for hepatitis or any other viral infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations for hepatitis or any other viral infections. I usually keep up with my vaccinations, but nothing new in the last few months."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any abdominal tenderness or swelling when you press on your abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, there is some tenderness when I press on my abdomen, especially in the lower part. It feels uncomfortable, but I wouldn't say it's severely painful."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your menstrual cycle, such as irregular periods or increased pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my menstrual cycle. It's been regular, but I do feel more fatigued than usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of liver disease or any family history of liver conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any personal history of liver disease, and as far as I know, there's no family history of liver conditions either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent exposure to someone with hepatitis or any other viral infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't been around anyone with hepatitis or any viral infections recently. My interactions have been pretty normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual cravings or changes in your sense of taste?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any unusual cravings, but my sense of taste seems a bit off lately. Foods don't taste as good as they usually do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your legs or abdomen, or any fluid retention?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my legs or abdomen, and I don't feel like I have any fluid retention. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or liver function tests done? If so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests or liver function tests done. I haven't seen a doctor since these symptoms started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Liver_Function_Tests."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  }
+]

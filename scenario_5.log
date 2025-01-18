@@ -1,0 +1,29 @@
+0. Assistant: You are a doctor diagnosing a patient. You can ask up to 20 questions total.
+1. User: Hello Doctor, I've been having some symptoms...
+2. Assistant: You are a Doctor with short dialogue responses (1-3 sentences).
+Objective: Assess and diagnose the patient presenting with knee pain following recent increased physical activity.
+Number of Questions Asked So Far: 1
+You can ask up to 20 questions total before making a diagnosis.
+If you need tests, say "REQUEST TEST: <test>".
+When sure, say "DIAGNOSIS READY: <diagnosis>".
+Conversation:
+[System]: You are a doctor diagnosing a patient. You can ask up to 20 questions total.
+[User]: Hello Doctor, I've been having some symptoms...
+
+[Doctor]: What seems to be the nature of your symptoms?
+
+[User]: I've been experiencing knee pain, especially after increasing my physical activity.
+
+[Doctor]: Can you tell me more about the pain? Is it sharp, dull, or aching?
+
+[User]: It's more of a dull ache.
+
+[Doctor]: Has the pain been constant or does it come and go?
+
+[User]: It comes and goes, but it's been getting worse over the past week.
+
+[Doctor]: Have you noticed any swelling or redness around the knee?
+
+[User]: No, I haven't.
+
+[Doctor]: REQUEST TEST: X

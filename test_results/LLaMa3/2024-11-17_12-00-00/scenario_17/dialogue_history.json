@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about when you first noticed the painful ulcerative skin lesion on your leg? Was it sudden or did it develop over time?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think it started as a small red spot, and it just kind of... grew, I guess you'd say. It's been about a month now, and it's gotten bigger and more painful. I remember getting an ant bite on my leg at the same time it started.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, can you describe the location of the lesion exactly? Is it on the top, bottom, or side of your leg, and is it closer to the knee or further up?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's on the outer part of my leg, about halfway down from the knee. It's not directly next to the knee, but a bit above it. I'd say it's about an inch and a half from the outer edge of my leg.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you show me exactly where the lesion is on your leg? I'd like to take a closer look, if possible.\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll show you. *lifts pant leg* It's right here. *points to the location described earlier* See? It's about an inch and a half from the outer edge, right above the knee.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Great, let me take a closer look. (examines the lesion) Hmmm, it appears to be about 5 centimeters in diameter and has a clear demarcation between the healthy skin and the ulcerative area. Can you tell me, have you noticed any other symptoms such as fever, chills, or swollen lymph nodes?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Not that I can think of, no fever, no chills. But I do feel a bit more tired than usual lately, and I've been experiencing some swelling in my legs, especially after standing for long periods. I've also been noticing that my feet feel a bit more puffy than usual.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your activities and environment over the past week? Have you been traveling, working outdoors, or engaging in activities that may have exposed you to potential skin irritants?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been pretty active, I guess. I went for a hike in Wisconsin about 2 months ago, but that was the last time I was outside for an extended period. Other than that, I've just been running errands, going to work, and taking care of my usual daily routines. I do take care of my garden at home, though, and I have to be careful not to get too close to the plants when I'm pruning.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the color and texture of the ulcerative area? Is it red, pink, or more of a brownish color, and is it tender to the touch?\n\n\n\nAlso, have you noticed any bleeding or oozing from the lesion, and has the pain increased or decreased over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, the ulcerative area is more of a purplish color, and it has these irregular borders that make it look a bit... lumpy. When I press on it, it's tender to the touch, but it's not extremely painful. To be honest, it's more of a dull ache that's always there, but it gets worse when I'm standing or walking around a lot.\"\n\n\"As for bleeding, I don't think I've seen any oozing or discharge from the lesion. But I do notice that it seems to be getting bigger, and the edges are getting more ragged. And yeah, the pain has been increasing over time, it's been getting worse and worse.\"\n\n\"I do feel like my legs are getting more swollen lately, especially after standing for long periods. It's not just the ulcerative area, it's like there's some sort of... puffiness in my legs that's not going away.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Thank you for pointing it out. It appears to be on the outer aspect of your leg, roughly 5 centimeters above the ankle. Can you tell me if you've had any recent insect bites or scratches on that area?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I remember getting an ant bite on my leg at the same time the lesion started. I was in Wisconsin visiting some family, and I think I must have gotten bitten by an ant that was in my garden. I didn't think much of it at the time, but now I'm not so sure.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, I've taken a good look at the lesion. Based on its size and location, I'm starting to consider a few possibilities. Can you tell me more about the color and texture of the ulcerative area? Is it red, pink, or more of a brownish color, and is it tender to the touch?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's definitely more purplish than red, and the texture is a bit rough, especially around the edges. When I press on it, it's tender, like I said, but it's not excruciatingly painful. It's more of a dull ache that's always there, but it gets worse when I'm on my feet for a long time.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your recent activities, have you been gardening, hiking, or engaging in any outdoor activities that may have exposed you to potential insect bites or scratches?\n\n\n\nAlso, I'd like to request a test to check for the presence of certain bacteria, REQUEST TEST: Swab from the lesion.\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.6\u00b0C (98\u00b0F)\n  - Pulse: 98/min\n  - Blood Pressure: 126/88 mm Hg\n\nSkin Examination: \n  - Inspection: A 4-cm tender ulcerative lesion on the anterior right leg with a central necrotic base and purplish irregular borders. Pitting pedal edema is noted along with dilated tortuous veins in both lower legs.\n  - Palpation: Tenderness over the lesion. Femoral and pedal pulses palpable bilaterally.\n\ntests: \n  - Complete Blood Count: \n    - WBC: Normal\n    - Hemoglobin: Normal\n    - Platelets: Normal\n  - Blood Glucose Level: \n    - Random: Elevated\n  - Skin Biopsy: \n    - Histopathology: \n      - Findings: Neutrophilic infiltration without infection, consistent with pyoderma gang"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your recent activities, have you been gardening, hiking, or engaging in any outdoor activities that may have exposed you to potential insect bites or scratches?\n\n\n\nAlso, have you noticed any signs of increased redness or swelling around the lesion, and is the pain constant or does it come and go?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah, I've been gardening a lot lately, trying to get everything ready for winter. I've been pruning and weeding, and I have to admit, I've been getting pretty close to the plants when I'm doing that. I've been trying to be careful, but I guess I didn't realize how close I was getting when I got bitten by the ant.\"\n\n\"As for the redness and swelling, it's actually gotten worse over the past week or so. The skin around the lesion is pretty red and inflamed, and I can see some swelling in the area too. It's not just the ulcerative area itself, but it seems to be spreading to the surrounding skin.\"\n\n\"The pain is pretty constant, to be honest. It's always there, but like I said, it gets worse when I'm standing or walking around a lot. I've been trying to take it easy, but it's hard when you have to get around and do things.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the color and texture of the ulcerative area? Is it red, pink, or more of a brownish color, and is it tender to the touch?\"\n\n\n\nAlso, have you noticed any signs of increased redness or swelling around the lesion, and is the pain constant or does it come and go?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, so the color of the ulcerative area is definitely more purplish than red, and it's got these irregular borders that make it look a bit lumpy. When I press on it, it's tender to the touch, like I mentioned before. It's not extremely painful, but the dull ache is always there, and it gets worse when I'm standing or walking around a lot.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to request a test to check for the presence of certain bacteria, REQUEST TEST: Culture from the lesion, and also can you tell me more about your recent travel history, have you been to any areas that may have had an outbreak of a specific disease?\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.6\u00b0C (98\u00b0F)\n  - Pulse: 98/min\n  - Blood Pressure: 126/88 mm Hg\n\nSkin Examination: \n  - Inspection: A 4-cm tender ulcerative lesion on the anterior right leg with a central necrotic base and purplish irregular borders. Pitting pedal edema is noted along with dilated tortuous veins in both lower legs.\n  - Palpation: Tenderness over the lesion. Femoral and pedal pulses palpable bilaterally.\n\ntests: \n  - Complete Blood Count: \n    - WBC: Normal\n    - Hemoglobin: Normal\n    - Platelets: Normal\n  - Blood Glucose Level: \n    - Random: Elevated\n  - Skin Biopsy: \n    - Histopathology: \n      - Findings: Neutrophilic infiltration without infection, consistent with pyoderma gang"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the surrounding skin? Is it red, inflamed, or normal in appearance?\n\n\n\nAlso, have you noticed any changes in your overall health or energy levels over the past week?\n\n\n\nAnd can you describe the pain in the lesion to me - is it a sharp, stabbing pain or a dull ache?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, the surrounding skin is definitely red and inflamed, especially around the edges of the ulcerative area. It looks like there's some kind of rash or eczema going on, and it's making the whole area look pretty swollen. I've been noticing that the redness is spreading a bit, so it's not just limited to the area around the lesion.\"\n\n\"I've noticed that I'm feeling a bit more tired than usual lately, and my energy levels have been really low. I've been having trouble sleeping at night, and even when I do sleep, I wake up feeling pretty exhausted. It's like my body is just drained, you know?\"\n\n\"The pain in the lesion is more of a dull ache, like I mentioned before. It's not sharp or stabbing, but it's always there, especially when I'm standing or walking around. It's hard to describe, but it feels like there's a constant pressure or tension in the area, even when I'm not actively"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to take a closer look at the surrounding skin and see if there are any signs of inflammation or infection. Can you show me the entire leg, including the area above and below the lesion, to get a better understanding of the overall condition?\n\n\n\nAlso, I'd like to ask, have you been taking any medications recently, such as antibiotics or antihistamines, that may have affected the skin or altered your immune response?\n\n\n\nAnd, I'd like to request a test to check for the presence of certain fungi, REQUEST TEST: Skin Scraping from the lesion.\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.6\u00b0C (98\u00b0F)\n  - Pulse: 98/min\n  - Blood Pressure: 126/88 mm Hg\n\nSkin Examination: \n  - Inspection: A 4-cm tender ulcerative lesion on the anterior right leg with a central necrotic base and purplish irregular borders. Pitting pedal edema is noted along with dilated tortuous veins in both lower legs.\n  - Palpation: Tenderness over the lesion. Femoral and pedal pulses palpable bilaterally.\n  - Additional Inspection: Redness and inflammation around the edges of the lesion, with a rash or eczema-like appearance.\n  - Additional Palpation: Constant dull ache in the lesion, with pressure or tension felt even when not actively using the affected area.\n\ntests: \n  - Complete Blood Count: \n    - WBC: Normal\n    - Hemoglobin: Normal\n   "
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, I've taken a good look at the entire leg and noticed that the surrounding skin appears to be slightly inflamed and red, but not excessively so. I'd like to request a test to check for the presence of certain fungi, REQUEST TEST: Skin Scraping from the lesion, to see if that might be contributing to the infection. Can you tell me more about your recent exposure to damp environments or areas with poor ventilation?\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.6\u00b0C (98\u00b0F)\n  - Pulse: 98/min\n  - Blood Pressure: 126/88 mm Hg\n\nSkin Examination: \n  - Inspection: A 4-cm tender ulcerative lesion on the anterior right leg with a central necrotic base and purplish irregular borders. Pitting pedal edema is noted along with dilated tortuous veins in both lower legs.\n  - Palpation: Tenderness over the lesion. Femoral and pedal pulses palpable bilaterally.\n  - Additional Inspection: Redness and inflammation around the edges of the lesion, with a rash or eczema-like appearance.\n  - Additional Palpation: Constant dull ache in the lesion, with pressure or tension felt even when not actively using the affected area.\n\ntests: \n  - Complete Blood Count: \n    - WBC: Normal\n    - Hemoglobin: Normal\n   "
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Based on the results of the skin scraping test, have you noticed any signs of fungal growth or discharge from the lesion?\n\n\n\nAlso, can you tell me more about your work or living environment, do you live in a crowded space or have you recently been in close proximity to others?\n\n\n\nI'd also like to request a test to check for the presence of certain parasites, REQUEST TEST: Blood Test to check for Leishmania.\"\n\n\n\nAnd, I'd like to ask, have you noticed any changes in the color or texture of the surrounding skin, such as crusting or scaling?\n\n\n\nLet's take a look at the entire leg again, I'd like to see if there are any other signs of infection or inflammation.\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.6\u00b0C (98\u00b0F)\n  - Pulse: 98/min\n  - Blood Pressure: 126/88 mm Hg\n\nSkin Examination: \n  - Inspection: A 4-cm tender ulcerative lesion on the anterior right leg with a central necrotic base and purplish irregular borders. Pitting pedal edema is noted along with dilated tortuous veins in both lower legs.\n  - Palpation: Tenderness over the lesion. Femoral and pedal pulses palpable bilaterally.\n  - Additional Inspection: Redness and inflammation around the edges of the lesion, with a rash or eczema-like appearance.\n  - Additional Palpation: Constant dull ache in the lesion, with pressure or tension felt even when not actively using the affected area.\n\ntests: \n  - Complete Blood Count: \n    - WBC: Normal\n    - Hemoglobin: Normal\n "
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your work or living environment, do you live in a crowded space or have you recently been in close proximity to others?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, I live alone in a pretty spacious house. I've been trying to stay organized and keep my home tidy, but I have to admit, I've been feeling a bit overwhelmed lately. I've been working from home more often than not, and sometimes I'll get caught up in my work and forget to take breaks. I've also been noticing that my neighbors have been having some issues with their own homes, like flooding and whatnot. I'm not sure if that's related to my situation, but it's definitely been on my mind.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to take another look at the entire leg, focusing on the surrounding skin. Can you point out to me any areas that seem red, inflamed, or swollen?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'd say the area around the lesion is definitely red and inflamed, especially around the edges. It looks like there's some kind of rash or eczema going on, and it's making the whole area look pretty swollen. I've been noticing that the redness is spreading a bit, so it's not just limited to the area around the lesion.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, let me take a closer look at the entire leg, focusing on the surrounding skin. (examines the leg) I notice that the area above the lesion appears to be slightly swollen, but not excessively so. I'd like to request a test to check for the presence of certain parasites, REQUEST TEST: Blood Test to check for Leishmania, to see if that might be contributing to the infection. Can you tell me more about your work or living environment, do you live in a crowded space or have you recently been in close proximity to others?\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.6\u00b0C (98\u00b0F)\n  - Pulse: 98/min\n  - Blood Pressure: 126/88 mm Hg\n\nSkin Examination: \n  - Inspection: A 4-cm tender ulcerative lesion on the anterior right leg with a central necrotic base and purplish irregular borders. Pitting pedal edema is noted along with dilated tortuous veins in both lower legs.\n  - Palpation: Tenderness over the lesion. Femoral and pedal pulses palpable bilaterally.\n  - Additional Inspection: Redness and inflammation around the edges of the lesion, with a rash or eczema-like appearance.\n  - Additional Palpation: Constant dull ache in the lesion, with pressure or tension felt even when not actively using the affected area.\n  - Additional Finding: Slight swelling above the lesion, but not excessively so.\n\ntests: \n  - Complete Blood Count"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Based on the information you've provided, I'm going to make a diagnosis. It appears that you have a case of cutaneous leishmaniasis, a disease caused by a parasite that is typically spread through the bite of an infected sandfly. The location of the lesion, the color and texture of the ulcerative area, and the surrounding skin inflammation all point towards this diagnosis. I'm going to request a blood test to confirm the presence of Leishmania parasites. Can you please provide a sample of blood for this test?\""
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pyoderma gangrenosum",
+    "DIAGNOSIS_READY_Simulation": "Scene 17, The diagnosis was INCORRECT (0.00%)"
+  }
+]

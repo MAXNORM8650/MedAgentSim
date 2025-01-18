@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the onset of the swelling and pain? Was it sudden or gradual?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started suddenly, actually. I was playing football and I got caught in the jersey of another player, and then he pulled away pretty forcefully. Next thing I knew, I was feeling a sharp pain and the finger just started swelling up.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the swelling and pain been getting worse throughout the day, or does it improve at any point?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's actually gotten worse, to be honest. The pain and swelling seem to be getting more pronounced by the minute, and it's making it harder to even use my finger, let alone move it normally.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is there any redness or warmth around the affected finger?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yeah, there's a bit of redness around the joint, to be honest. It's pretty noticeable, especially when I compare it to the rest of my hand.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any difficulty moving your finger or hearing any popping sounds when you use it? REQUEST TEST: Finger X-ray"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you have any history of injury to that finger recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, nothing out of the ordinary, just a bit of a freak accident during the game, like I mentioned. The finger was fine before that, and then it just happened. Nothing that I can recall doing anything unusual to it beforehand.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the pain been constant or does it come and go? REQUEST TEST: Finger X-ray"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Pain is intermittent, with periods of exacerbation, but no constant pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the swelling been accompanied by fever or chills? DIAGNOSIS READY: Possible infection of the right ring finger. Request a blood test and continue monitoring for improvement with antibiotics if an infection is confirmed."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Rupture of the flexor digitorum profundus tendon at its point of insertion",
+    "DIAGNOSIS_READY_Simulation": "Scene 14, The diagnosis was INCORRECT (0%)"
+  }
+]

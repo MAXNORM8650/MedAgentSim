@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the swelling in your neck? How long has it been present?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's been getting bigger over the past two months, and it's kind of hard to ignore, to be honest. It's located at the back of my neck, just above my shoulders. It feels a bit firm to the touch, but I don't feel any pain when I move it or press on it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the swelling changed in size recently? Are you experiencing any pain or difficulty swallowing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, yes, it's been getting bigger over the past few weeks. I'd say it's about an inch or two larger than it was a month ago. As for difficulty swallowing, no, I don't have any issues with that.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any lumps or changes in texture within the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, actually, I did notice that it's become slightly firmer to the touch over the past few weeks. It's not really noticeable, but I can feel a bit more resistance when I press on it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any fever or unexplained weight loss? REQUEST TEST: Thyroid function tests"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nFever: NORMAL READINGS \nUnexplained weight loss: NORMAL READINGS \nThyroid function tests: \nTSH: 2.1 mU/L (normal range: 0.4-4.5 mU/L) \nFree T4: 1.6 ng/dL (normal range: 0.7-2.5 ng/dL) \nFree T3: 2.5 pg/mL (normal range: 2.5-"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections or illnesses?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, nothing that I can think of. I've just been going about my usual routine, working as a traffic warden and playing golf. I did have a bit of a sore throat a few weeks ago, but it cleared up on its own within a day or two.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any hoarseness in your voice or cough that doesn't go away? DIAGNOSIS READY: Thyroid nodule or inflammation, considering thyroid function tests and recent infections."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Epidermoid cyst",
+    "DIAGNOSIS_READY_Simulation": "Scene 15, The diagnosis was INCORRECT (0%)"
+  }
+]

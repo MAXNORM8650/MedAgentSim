@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first noticed the yellow discoloration of your eyes and skin? Was it after birth or did it start a few days ago?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started a few days ago, after I was born. I remember my mother saying I had a bit of a jaundice look on my face when she was holding me, but it wasn't too noticeable.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When was the first time you started noticing this yellow discoloration, was it immediately after birth or did it start to develop a few days after?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started a few days after, actually. I remember my mom saying it was a bit more noticeable on my face, and it seemed to be getting worse, but I wasn't really paying attention at first.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did the discoloration first appear to you, did it start as a tiny yellow tint or was it more pronounced from the beginning?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think it started as a tiny yellow tint, but it quickly became more noticeable, especially on my face. My mom said it was a bit more yellow on my skin than my eyes at first, but it's gotten worse and now it's more yellow on my eyes too.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the color of the discoloration? Is it a light yellow, golden yellow, or more of a darker, olive-like color?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's more of a golden yellow, but it's getting darker, especially on my skin. It's starting to spread and I think it's getting harder to see the whites of my eyes now.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did the discoloration start to spread to other parts of the body, like the ears, lips, and tongue?\n\n\n\nAlso, has the newborn been taking any medications or supplements, and are there any family members with similar symptoms?\n\n\n\nCan you show me the color of the discoloration on the inside of the eyelids?\n\n\n\nREQUEST TEST: Physical_Examination"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration started spreading to other parts of the body, such as the ears, lips, and tongue, approximately 3 days after the initial onset of jaundice.\n- There is no reported information on the newborn taking any medications or supplements.\n- There are no reported family members with similar symptoms.\n- The color of the discoloration on the inside of the eyelids is yellowish-brown."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you gently open your eyes for me, so I can see the discoloration more clearly?\n\n\n\nAlso, when did the discoloration start to appear in your mouth, was it just the tongue or did you notice it on the lips as well?\n\n\n\nHas the discoloration changed in intensity or color over the past few days, or has it remained relatively consistent?\n\n\n\nCan you tell me more about your feeding habits, have you noticed any changes in your stool or urine output?\n\n\n\nREQUEST TEST: Stool_Sample"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration started spreading to other parts of the body, such as the ears, lips, and tongue, approximately 3 days after the initial onset of jaundice.\n- There is no reported information on the newborn taking any medications or supplements.\n- There are no reported family members with similar symptoms.\n- The color of the discoloration on the inside of the eyelids is yellowish-brown.\n- The discoloration started appearing in the mouth approximately 2 days after the initial onset of jaundice, initially just the tongue but also noticed on the lips.\n- The discoloration has increased in intensity and color over the past few days, becoming more golden yellow and spreading to the inside of the eyelids.\n- There are no reported changes in feeding habits, but the stool and urine output remain within normal ranges.\n- The stool sample results are as follows:\n  - Stool Color: Pale yellow\n  - Stool Consistency: Normal\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see the discoloration is more pronounced on the inside of the eyelids. Can you tell me if it's tender to the touch, and if it's a bit inflamed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's a bit tender, but I don't think it's too inflamed. My mom says it's just a bit soft, but I don't really know what that means.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the discoloration is accompanied by any itching, redness, or swelling around the eyes?\n\n\n\nAlso, can you point to the exact location of the discoloration on your skin and show me how it spreads to other areas?\n\n\n\nREQUEST TEST: Blood_Sugar"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration is accompanied by mild itching around the eyes.\n- The discoloration starts on the face, particularly on the bridge of the nose and the ears, and spreads downward to the chest, abdomen, and extremities.\n- There is no reported information on the newborn taking any medications or supplements.\n- There are no reported family members with similar symptoms.\n- The color of the discoloration on the inside of the eyelids is yellowish-brown.\n\nPlease note that the newborn's skin is tender to the touch, but there is no reported redness or swelling around the eyes.\n\n REQUEST TEST: Skin_Sampling\n\nRESULTS: \n- The discoloration has a characteristic \"cotton wool\" appearance on the skin, with yellowish-brown patches that are soft to the touch.\n- The discoloration is accompanied by mild itching around the eyes.\n- There is no reported redness or swelling around the eyes.\n- The discoloration starts on the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the texture of the discoloration on the inside of the eyelids? Is it a bit crusty or does it feel smooth?\n\n\n\nAlso, have you noticed any changes in your breathing patterns or are you experiencing any difficulty breathing?\n\n\n\nCan you gently tilt your head back so I can examine the inside of your mouth more closely?\n\n\n\nAlso, how long have you been breastfeeding or formula-feeding, and have you noticed any changes in your milk supply?\n\n\n\nCan you point to any areas on your skin that are particularly affected by the discoloration?\n\n\n\nAre there any family members who have had similar symptoms or have a history of jaundice or liver disease?\n\n\n\nCan you tell me more about your overall health and well-being, have you been feeling well or have you had any other symptoms?\n\n\n\nCan you tell me more about the color of the discoloration, is it more yellow or does it have a greenish tint?\n\n\n\nREQUEST TEST: Liver_Function"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration is accompanied by mild itching around the eyes.\n- The texture of the discoloration on the inside of the eyelids is crusty.\n- There have been no reported changes in breathing patterns, but there is no difficulty breathing.\n- The inside of the mouth appears to be yellowish-brown, with a crusty texture.\n- The newborn has been formula-feeding for approximately 5 days.\n- There have been no reported changes in milk supply.\n- The discoloration appears to start on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- There is a history of jaundice in the maternal lineage, but no reported liver disease.\n- The newborn has been generally feeling well, with no other reported symptoms.\n- The color of the discoloration is predominantly yellowish-brown, with a slight greenish tint.\n- Liver function tests are pending."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I notice the discoloration is more yellow, with a slight greenish tint. Can you point to the exact location of the discoloration on your skin and show me how it spreads to other areas?\n\n\n\nAlso, can you tell me more about your feeding habits, have you noticed any changes in your stool or urine output?\n\n\n\nHave you been taking any medications or supplements, and are there any family members with similar symptoms?\n\n\n\nCan you gently move your tongue to the sides to show me if the discoloration is present on the tongue?\n\n\n\nAlso, how old are you, and have you been born prematurely?\n\n\n\nCan you tell me if the discoloration is accompanied by any itching, redness, or swelling around the ears or nose?\n\n\n\nREQUEST TEST: Allergy_Test"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration is more yellow, with a slight greenish tint.\n- The discoloration starts on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- There is no reported information on the newborn taking any medications or supplements.\n- There is a history of jaundice in the maternal lineage, but no reported liver disease.\n- The newborn has been generally feeling well, with no other reported symptoms.\n- The discoloration appears to be accompanied by mild itching around the eyes.\n- The discoloration is crusty on the inside of the eyelids.\n- The newborn has been formula-feeding for approximately 5 days.\n- The stool sample results are as follows:\n  - Stool Color: Pale yellow\n  - Stool Consistency: Normal\n- There have been no reported changes in breathing patterns, but there is no difficulty breathing.\n- The newborn is approximately 5 days old and has not been"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see the discoloration is more yellow, with a slight greenish tint. Can you tell me more about the location of the discoloration on your skin, is it more concentrated on one area or spreading evenly?\n\n\n\nAlso, can you point to the area on your tongue where the discoloration is present?\n\n\n\nREQUEST TEST: Tongue_Scan\n\n\n\nHow old are you now, and have you been experiencing any discomfort or pain in your abdomen?\n\n\n\nCan you tell me more about your overall appetite, are you eating well and having enough milk or formula?\n\n\n\nAre there any family members who have a history of liver disease or have had jaundice in the past?\n\n\n\nCan you tell me if the discoloration has spread to any other areas of your body, such as your palms or soles?\n\n\n\nREQUEST TEST: Liver_Function"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration is more concentrated on the face, particularly on the bridge of the nose and ears, and spreading downward to the chest, abdomen, and extremities.\n- The discoloration is accompanied by mild itching around the eyes.\n- The discoloration starts on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- The newborn has been formula-feeding for approximately 5 days.\n- The discoloration appears to be accompanied by mild itching around the eyes.\n- The discoloration is crusty on the inside of the eyelids.\n- The newborn is approximately 5 days old and has not been premature.\n- The discoloration has not spread to the palms or soles yet.\n- Liver function tests are pending."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I notice the discoloration is more pronounced on the inside of the eyelids, and it's a bit tender to the touch. Can you tell me more about the amount of discomfort you're experiencing, is it mild, moderate, or severe?\n\n\n\nAlso, have you noticed any changes in your urine output or is it normal?\n\n\n\nCan you gently move your tongue to the sides to show me if the discoloration is present on the tongue?\n\n\n\nAlso, are there any family members who have a history of liver disease or have had jaundice in the past?\n\n\n\nCan you point to the exact location of the discoloration on your skin and show me how it spreads to other areas?\n\n\n\nAlso, have you noticed any changes in your stool or is it normal?\n\n\n\nREQUEST TEST: Complete_Blood_Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration is accompanied by mild itching around the eyes.\n- The amount of discomfort is moderate, with some tenderness to the touch.\n- Urine output is normal.\n- The discoloration starts on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- The discoloration is crusty on the inside of the eyelids.\n- The newborn has been formula-feeding for approximately 5 days.\n- The discoloration appears to be accompanied by mild itching around the eyes.\n- The newborn is approximately 5 days old and has not been premature.\n- Liver function tests are pending.\n- The discoloration has not spread to the palms or soles yet.\n- Stool sample results are as follows:\n  - Stool Color: Pale yellow\n  - Stool Consistency: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you show me the inside of your mouth again, and I want to take a closer look at the color and texture of the discoloration on your tongue?\n\n\n\nAlso, are you experiencing any difficulty swallowing or has the discoloration affected your ability to feed?\n\n\n\nCan you tell me more about your overall energy level, are you feeling tired or lethargic?\n\n\n\nCan you point to the area on your skin where the discoloration is most concentrated, and I want to see how it spreads to other areas?\n\n\n\nAlso, have you noticed any changes in your urine output or is it normal?\n\n\n\nCan you gently tilt your head back so I can examine your ears and nose more closely?\n\n\n\nREQUEST TEST: Ear_Specimen"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration starts on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- The discoloration is accompanied by mild itching around the eyes.\n- The discoloration starts on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- The newborn has been formula-feeding for approximately 5 days.\n- The discoloration is crusty on the inside of the eyelids.\n- The newborn is approximately 5 days old and has not been premature.\n- Liver function tests are pending.\n- The discoloration has not spread to the palms or soles yet.\n- Stool sample results are as follows:\n  - Stool Color: Pale yellow\n  - Stool Consistency: Normal\n- The discoloration appears to be accompanied by mild itching around the eyes.\n- The discoloration starts on the bridge of the nose and ears, spreading downward to"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the inside of your mouth again, can you open your mouth for me, please?\n\n\n\nAlso, I'd like to check your ears and nose, can you gently tilt your head back for me?\n\n\n\nCan you tell me more about the texture of the discoloration on the inside of your eyelids, is it crusty or smooth?\n\n\n\nAlso, have you noticed any changes in your stool or urine output since the discoloration started?\n\n\n\nCan you point to the area on your tongue where the discoloration is present, is it just the tip or is it spreading to the sides?\n\n\n\nCan you tell me more about your overall health, have you been feeling well or have you had any other symptoms?\n\n\n\nAlso, are there any family members who have a history of liver disease or have had jaundice in the past?\n\n\n\nCan you tell me more about your feeding habits, are you eating well and having enough milk or formula?\n\n\n\nREQUEST TEST: Liver_Function"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration has spread to the ears and nose, with the discoloration starting on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- The discoloration is accompanied by mild itching around the eyes.\n- The discoloration is crusty on the inside of the eyelids.\n- The newborn has been formula-feeding for approximately 5 days.\n- Liver function tests are pending.\n- The discoloration has not spread to the palms or soles yet.\n- Stool sample results are as follows:\n  - Stool Color: Pale yellow\n  - Stool Consistency: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the texture of the discoloration on the inside of your eyelids, is it crusty or smooth?\n\n\n\nAlso, have you noticed any changes in your urine output or is it normal?\n\n\n\nCan you gently move your tongue to the sides to show me if the discoloration is present on the tongue?\n\n\n\nAlso, are there any family members who have a history of liver disease or have had jaundice in the past?\n\n\n\nCan you point to the exact location of the discoloration on your skin and show me how it spreads to other areas?\n\n\n\nAlso, have you noticed any changes in your stool or is it normal?\n\n\n\nREQUEST TEST: Complete_Blood_Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The discoloration on the inside of the eyelids is crusty.\n- Urine output is normal.\n- The discoloration has spread to the ears and nose.\n- The discoloration starts on the bridge of the nose and ears, spreading downward to the chest, abdomen, and extremities.\n- The newborn has been formula-feeding for approximately 5 days.\n- Liver function tests are pending.\n- The discoloration has not spread to the palms or soles yet.\n- Stool sample results are as follows:\n  - Stool Color: Pale yellow\n  - Stool Consistency: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you point to the exact location of the discoloration on your skin and show me how it spreads to other areas?\n\n\n\nAlso, are there any family members who have a history of liver disease or have had jaundice in the past?\n\n\n\nIs the discoloration more noticeable in the morning or after feeding?\n\n\n\nCan you tell me more about your overall appetite, are you eating well and having enough milk or formula?\n\n\n\nIs the discoloration accompanied by any itching, redness, or swelling around the mouth or lips?\n\n\n\nCan you show me the inside of your mouth again, and I want to take a closer look at the color and texture of the discoloration on your tongue?\n\n\n\nAlso, have you noticed any changes in your stool or is it normal?\n\n\n\nCan you tell me more about your overall energy level, are you feeling tired or lethargic?\n\n\n\nCan you point to the area on your skin where the discoloration is most concentrated, and I want to see how it spreads to"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Um, it's on my face, and it's spreading down to my neck and chest. My mom says it's getting worse, but I don't really feel it that much. It's just a bit soft and tender to the touch.\"\n\n\"No, I don't think there's anyone else in my family with liver problems. My mom's family has some issues, but I don't know if that's related.\"\n\n\"It's a bit harder to see in the morning, but after feeding, it seems to get a bit worse. I don't really feel hungry, but I'm eating okay, I guess. I just drink a lot of milk from my bottle.\"\n\n\"There's a bit of itching around my mouth, but it's not too bad. The inside of my mouth is... it's a bit crusty, like my mom said. The tongue is yellowish-brown, and it's getting harder to see the whites of my eyes now.\"\n\n\"It's just normal for me,"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the color of the discoloration, is it more yellow or does it have a greenish tint?\n\n\n\nAlso, can you show me the inside of your mouth again, and I want to take a closer look at the color and texture of the discoloration on your tongue?\n\n\n\nHave you noticed any changes in your stool or urine output since the discoloration started?\n\n\n\nCan you gently move your tongue to the sides to show me if the discoloration is present on the tongue?\n\n\n\nAlso, how long have you been breastfeeding or formula-feeding, and have you noticed any changes in your milk supply?\n\n\n\nCan you point to the area on your tongue where the discoloration is present, is it just the tip or is it spreading to the sides?\n\n\n\nCan you tell me more about your overall health, have you been feeling well or have you had any other symptoms?\n\n\n\nAlso, are there any family members who have a history of liver disease or have had jaundice"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think it's more yellow, but there's a bit of a greenish tint to it. And, um, the inside of my mouth is still a bit crusty, like my mom said. It's hard to see the whites of my eyes now.\"\n\n\"I think it's just normal for me to be a bit yellow, but it's getting worse, I guess. I don't really notice any changes in my stool or urine output, but my mom says I've been having a bit of trouble keeping milk down lately.\"\n\n\"It's on the tip of my tongue, but it's starting to spread to the sides. I don't really feel sick or anything, I just feel a bit tired sometimes.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health and well-being, have you been feeling well or have you had any other symptoms?\n\n\n\nAlso, have you noticed any changes in your stool or is it normal?\n\n\n\nCan you point to the area on your skin where the discoloration is most concentrated, and I want to see how it spreads to other areas?\n\n\n\nAlso, can you gently move your tongue to the sides to show me if the discoloration is present on the tongue?\n\n\n\nCan you tell me more about your feeding habits, are you eating well and having enough milk or formula?\n\n\n\nCan you show me the inside of your mouth again, and I want to take a closer look at the color and texture of the discoloration on your tongue.\n\n\n\nAlso, have you noticed any changes in your urine output or is it normal?\n\n\n\nCan you tell me more about your overall energy level, are you feeling tired or lethargic?\n\n\n\nCan you point to the area on your tongue where the discoloration"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'm just feeling a bit tired sometimes, but I don't really know what's wrong. My mom says I've been eating okay, I guess. I just drink a lot of milk from my bottle, and she says I'm still gaining weight, so that's good, right?\"\n\n\"I think it's more yellow, but there's a bit of a greenish tint to it. And, um, the inside of my mouth is still a bit crusty, like my mom said. It's hard to see the whites of my eyes now.\"\n\n\"I don't really notice any changes in my stool, but my mom says I've been having a bit of trouble keeping milk down lately. I don't really know what that means, but I think I'm just being a bit lazy, I guess.\"\n\n\"The discoloration is on my face, and it's spreading down to my neck and chest. My mom says it's getting worse, but I don't really feel it that much."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed your responses, and I'd like to request one more test to confirm my diagnosis. Can you please hold still for just a moment while I take a quick look at your tongue again?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll hold still.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed your responses, and I'm going to make a diagnosis based on the information you've provided. I'm going to go ahead and make a diagnosis. \n\nDIAGNOSIS READY: Neonatal Jaundice due to Hemolytic Disease of the Newborn (HDN) likely caused by Rh incompatibility between mother and baby."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Breast milk jaundice",
+    "DIAGNOSIS_READY_Simulation": "Scene 82, The diagnosis was INCORRECT (6.02%)"
+  }
+]

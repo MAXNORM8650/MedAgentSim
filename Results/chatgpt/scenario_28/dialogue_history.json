@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What specific changes in your mental status have you been experiencing? Are you feeling confused, disoriented, or having trouble concentrating?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really confused lately, like I can't keep my thoughts straight. Sometimes I don't even recognize where I am or what I'm doing. It's like everything is just a blur."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your sleep patterns or appetite recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really tired and lethargic, and I don't have much of an appetite. I just don't feel like eating like I used to."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent stressors or significant life changes that might be contributing to these feelings?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any major life changes recently, but I guess I've been feeling a bit overwhelmed with everything. It's hard to pinpoint exactly what's causing this confusion."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any physical symptoms, such as headaches, dizziness, or changes in vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any headaches or dizziness, and my vision seems fine. It's mostly just the confusion and feeling really tired."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses, infections, or hospitalizations that could be related to these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been sick recently, and I haven't been hospitalized for anything. I feel like I've been generally healthy aside from this confusion."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been taking any medications, supplements, or recreational drugs that could be affecting your mental status?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't taken any medications or supplements recently, and I don't use any recreational drugs. I do take medication for my blood pressure, but that's about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any changes in your blood pressure readings or experienced any episodes of high or low blood pressure recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my blood pressure readings. I take my medication regularly, so I think it's been stable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your mood, such as increased sadness, anxiety, or irritability?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've felt a bit more anxious and overwhelmed than usual, but I wouldn't say I'm really sad or irritable. It's mostly just this confusion that's been bothering me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your hydration levels, such as increased thirst or urination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any increased thirst or urination. My fluid intake feels pretty normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your memory, such as forgetting names, appointments, or important events?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've definitely been forgetting things more often, like names and where I put my stuff. It's frustrating because I used to have a good memory."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent head injuries or falls that could have affected your brain function?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any head injuries or falls recently. I can't think of anything that would have caused a change in my brain function."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or screenings done that might provide insight into your overall health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests or screenings. The last time I had any tests done was quite a while ago, and I don't remember what they showed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your bowel habits, such as constipation or diarrhea?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my bowel habits. Everything seems pretty normal in that regard. It's mostly just the confusion and tiredness that's concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual sensations, such as tingling or numbness in your extremities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt any tingling or numbness in my arms or legs. It's really just the confusion and tiredness that I'm dealing with."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to toxins, chemicals, or any unusual environments that could be affecting your health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been exposed to any toxins or chemicals that I know of. My environment has been pretty normal, just my usual home and work. I can't think of anything unusual that might have affected my health."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your vision, such as blurriness or difficulty focusing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any changes in my vision. Everything seems clear, but my mind feels foggy and it's hard to focus on anything."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of fever, chills, or night sweats recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fever, chills, or night sweats. I feel pretty stable in that regard, just really confused and tired."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your weight, either gaining or losing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my weight lately. It feels about the same, but I just haven't been eating much."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your ability to perform daily activities, such as work or self-care?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've definitely been struggling with my daily activities. Simple tasks feel overwhelming, and I find it hard to concentrate on work or even take care of myself like I used to."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms of confusion, fatigue, difficulty concentrating, and struggles with daily activities, I suspect there may be an underlying issue. I would like to assess your overall health further. REQUEST TEST: Complete_Blood_Count."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  }
+]

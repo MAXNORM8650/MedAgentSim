@@ -1,0 +1,90 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "So you've noticed a breast mass, when did this start and have you noticed any changes in its size or shape?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started about 4 weeks ago, and I was just getting used to seeing it there. To be honest, it's grown quite a bit over the past week or so - it's definitely bigger than it was when I first noticed it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation of the mass? Does it feel hard, soft, or does it move when you press on it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It feels... firm, I'd say. It's not painful, but when I press on it, it doesn't seem to move much, but I did notice that it doesn't really have any distinct edges or boundaries."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your lifestyle recently? Have you been under any stress or have you noticed any hormonal changes, such as changes in your menstrual cycle or weight?\n\nAlso, REQUEST TEST: Mammogram"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your menstrual cycle? Do you have a regular cycle, and have you noticed any irregularities such as spotting or changes in the duration of your periods?\n\nAlso, have you noticed any changes in your body temperature, such as hot flashes or night sweats?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my cycle is pretty regular - I get my period every 28 days, and I've noticed it's usually pretty consistent. As for changes in my body temperature, I don't really experience hot flashes or night sweats, but I have had a slight increase in night sweats lately, I'm not sure if it's related or not."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your physical activity level? Have you been engaging in any strenuous exercises or activities that may have caused any breast trauma or strain recently?\n\nAlso, REQUEST TEST: Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.0\u00b0C (98.6\u00b0F)\n  Blood_Pressure: 125/80 mmHg\n  Heart_Rate: 72 bpm\n  Respiratory_Rate: 14 breaths/min\n\nBreast_Examination:\n  Inspection: No skin changes, nipple retraction, or discharge.\n  Palpation: A 6-cm, nontender, multinodular mass palpated in the upper outer quadrant of the left breast. No palpable axillary or cervical lymphadenopathy.\n\ntests:\n  Mammography: \n    Findings: Smooth polylobulated mass in the left breast.\n  Biopsy: \n    Microscopic_Description: Image shows leaf-like structures with stromal cellular overgrowth.\n  Ultrasound:\n    Findings: The mass appears to be solid with posterior echo enhancement, suggesting a possible cystic component. Further evaluation with MRI or additional imaging may be recommended for further characterization."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your family history? Are there any relatives who have been diagnosed with breast cancer or any other cancers?\n\nAlso, REQUEST TEST: MRI\n\nHow long have you been using any hormonal birth control methods, such as the pill or IUD, and have you had any breast biopsies or mammograms in the past?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS\n\nRegarding your family history, there is no mention of any relatives being diagnosed with breast cancer or other cancers."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the results of the MRI, can you tell me if there's anything that catches your eye or anything that you'd like me to pay particular attention to?\n\nAnd also, can you tell me about your lifestyle habits, do you smoke, and do you consume excessive alcohol?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd love to take a look at the MRI results, I'm a bit curious to see what it shows. And as for lifestyle habits, I do have a moderate amount of alcohol, about one drink a day, but I don't smoke. I do try to stay active and eat a balanced diet, though.\n\nAnd, I have to admit, the thought of cancer is always a concern for me, but I've never really thought much about it before this... this mass appeared."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the MRI results now. Can you tell me if you notice anything unusual about the mass on the MRI? \n\nAlso, I'd like to perform a clinical breast exam to take a closer look at the mass and surrounding tissue."
+  },
+  {
+    "speaker": "Patient",
+    "text": "The MRI results look like a detailed picture of the mass, I can see that it's still there, but I'm not really sure what it looks like. It's hard to tell what it is, I don't know if it's just a cyst or something more serious.\n\nCan I ask, what's the next step after this exam?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's take a closer look at this mass. I'd like to perform a clinical breast exam to get a better understanding of the size, shape, and texture of the mass. Can you please place your arm above your head and I'll examine it again.\n\nAlso, I'd like to ask, have you noticed any changes in your sleep patterns, such as waking up during the night or having trouble sleeping due to discomfort or pain?\n\nAlso, REQUEST TEST: Fine Needle Aspiration Cytology (FNAC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs:\n  Temperature: 37.0\u00b0C (98.6\u00b0F)\n  Blood_Pressure: 125/80 mmHg\n  Heart_Rate: 72 bpm\n  Respiratory_Rate: 14 breaths/min\n\nBreast_Examination:\n  Inspection: No skin changes, nipple retraction, or discharge.\n  Palpation: A 6-cm, nontender, multinodular mass palpated in the upper outer quadrant of the left breast. No palpable axillary or cervical lymphadenopathy.\n\ntests:\n  Mammography:\n    Findings: Smooth polylobulated mass in the left breast.\n  Biopsy:\n    Microscopic_Description: Image shows leaf-like structures with stromal cellular overgrowth.\n  Ultrasound:\n    Findings: The mass appears to be solid with posterior echo enhancement, suggesting a possible cystic component. Further evaluation with MRI or additional imaging may be recommended for further characterization.\n  MRI:\n    Findings: The mass appears to be complex with both solid and cystic components, with a heterogeneous texture. The leaf-like structures seen on biopsy are consistent with a benign fibroadenolipoma. Further follow-up may be recommended to monitor the mass.\n\nFNAC:\n  Cytology: The aspirate shows benign cellular morphology, consistent with a fibroadenolipoma. The presence of leaf-like structures is confirmed, which is characteristic of this type of tumor. The risk of malignancy is low."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like we've gathered a significant amount of information about your breast mass. I'd like to summarize the findings so far. We've seen a solid, multinodular mass in the upper outer quadrant of the left breast, with a history of rapid growth over the past week. The mammogram, ultrasound, and MRI have all shown a complex mass with both solid and cystic components, which is consistent with a fibroadenolipoma. The biopsy and FNAC have confirmed the presence of leaf-like structures, which is a characteristic feature of this type of tumor. The cytology results show benign cellular morphology.\n\nI'd like to ask a few more questions to confirm the diagnosis. Can you tell me if you've noticed any changes in your overall health, such as fatigue, weight loss, or fever, since the mass appeared?\n\nAlso, REQUEST TEST: Genetic Testing for BRCA1 and BRCA2"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital_Signs:\n  Temperature: 37.0\u00b0C (98.6\u00b0F)\n  Blood_Pressure: 125/80 mmHg\n  Heart_Rate: 72 bpm\n  Respiratory_Rate: 14 breaths/min\n\nBreast_Examination:\n  Inspection: No skin changes, nipple retraction, or discharge.\n  Palpation: A 6-cm, nontender, multinodular mass palpated in the upper outer quadrant of the left breast. No palpable axillary or cervical lymphadenopathy.\n\ntests:\n  Mammography:\n    Findings: Smooth polylobulated mass in the left breast.\n  Biopsy:\n    Microscopic_Description: Image shows leaf-like structures with stromal cellular overgrowth.\n  Ultrasound:\n    Findings: The mass appears to be solid with posterior echo enhancement, suggesting a possible cystic component. Further evaluation with MRI or additional imaging may be recommended for further characterization.\n  MRI:\n    Findings: The mass appears to be complex with both solid and cystic components, with a heterogeneous texture. The leaf-like structures seen on biopsy are consistent with a benign fibroadenolipoma. Further follow-up may be recommended to monitor the mass.\n  Genetic Testing:\n    BRCA1 and BRCA2: No pathogenic variants identified."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I think we've gathered enough information to make a diagnosis. Based on the biopsy and FNAC results, it appears that the mass is indeed a benign fibroadenolipoma. The leaf-like structures and stromal cellular overgrowth seen on the biopsy are characteristic features of this type of tumor. The genetic testing also came back negative for BRCA1 and BRCA2, which reduces the likelihood of a hereditary component to the tumor.\n\nI'd like to reassure you that fibroadenolipomas are common, benign tumors that can cause discomfort or anxiety, but they are not cancerous. However, it's always a good idea to monitor them for any changes or growth over time.\n\nDIAGNOSIS READY: Benign Fibroadenolipoma"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Phyllodes tumor",
+    "DIAGNOSIS_READY_Simulation": "Scene 8, The diagnosis was INCORRECT, 0%"
+  }
+]

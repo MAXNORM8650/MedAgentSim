@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides wrist pain, fever, and skin lesions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really chilled and generally unwell, like I have no energy. The pain in my wrist is quite severe, especially when I try to move it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling or redness around your wrist or any of the skin lesions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, my left wrist is swollen and red. The skin lesions on both wrists and hands are also quite noticeable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, injuries, or illnesses prior to these symptoms appearing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I had some knee pain last week, but it went away on its own. Other than that, I haven't had any infections or injuries that I can think of."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint pain or swelling in other areas of your body, such as your knees or ankles?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I had some pain in my left knee last week, but it resolved quickly. Right now, the only joint that's bothering me is my left wrist."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to anyone who has been ill?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I recently returned from a camping trip in Minnesota. I haven't been around anyone who was sick, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific patterns or triggers for your symptoms, such as certain activities or times of day when they worsen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any specific patterns or triggers. The pain seems to be constant, but it does feel worse in the morning when I first wake up."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my appetite, but I do feel a bit less hungry than usual. My weight seems to be about the same, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any rashes or skin changes elsewhere on your body, or have you experienced any unusual hair loss?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any rashes or skin changes anywhere else on my body, and I haven't experienced any unusual hair loss either. The skin lesions are only on my wrists and hands."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of autoimmune diseases in your family, or have you been diagnosed with any autoimmune conditions yourself?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known history of autoimmune diseases in my family, and I haven't been diagnosed with any autoimmune conditions myself. I'm generally healthy aside from this recent issue."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any eye symptoms, such as redness, pain, or vision changes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any eye symptoms like redness or pain, and my vision seems to be normal. It's really just the wrist pain and the skin lesions that are concerning me right now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin lesions, such as increased size, color changes, or any discharge?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The skin lesions haven't changed much in size, but they do look a bit more pronounced and have a violaceous color. There's no discharge, but they are definitely concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent exposure to ticks or other insects during your camping trip?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I was out in the woods a lot, and I remember getting bitten by some mosquitoes and possibly ticks. I didn't notice any ticks on me at the time, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any neurological symptoms, such as headaches, dizziness, or numbness in your extremities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any headaches or dizziness, but I do feel a bit weak and fatigued. There's no numbness in my arms or legs either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, or would you be willing to undergo some tests to check for infections or autoimmune conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm open to undergoing tests to check for infections or autoimmune conditions. I just want to find out what's causing these symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Complete_Blood_Count (CBC) REQUEST TEST: Erythrocyte_Sedimentation_Rate (ESR) REQUEST TEST: Antinuclear_Antibody (ANA) REQUEST TEST: Lyme_Disease_Serology REQUEST TEST: Skin_Biopsy Let's start with these tests to help us understand what's going on with your symptoms."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: {'Complete_Blood_Count': {'WBC': '15,000 /\u03bcL (elevated)', 'Hemoglobin': '14 g/dL', 'Platelets': '300,000 /\u03bcL'}, 'Erythrocyte_Sedimentation_Rate': 'Pending', 'Antinuclear_Antibody': 'Pending', 'Lyme_Disease_Serology': 'Pending', 'Skin_Biopsy': 'Pending'}"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It looks like your white blood cell count is elevated, which suggests an ongoing infection or inflammation. Have you experienced any joint stiffness or morning stiffness in your wrist?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any stiffness in my wrist, but it does feel more painful in the morning when I wake up. The swelling and tenderness make it hard to move."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or changes in medications that could be relevant to your current symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations, and I haven't changed any medications either. I'm not on any regular medications at the moment."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the elevated white blood cell count, I'm concerned about a possible inflammatory or infectious process. Have you experienced any rashes or skin changes that resemble a target or bullseye pattern, particularly around the lesions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any rashes that look like a target or bullseye pattern. The lesions on my wrists and hands are more violaceous and don't have that specific appearance."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the symptoms you've described, including the wrist pain, fever, skin lesions, and elevated white blood cell count, I suspect an inflammatory condition. Have you experienced any recent exposure to animals or pets that could be relevant to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been around any animals or pets recently. The only exposure I've had is during my camping trip, but I didn't interact with any animals there."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms, elevated white blood cell count, and recent camping trip, I suspect you may have Lyme disease, especially considering the possibility of tick exposure. However, I will wait for the results of the pending tests to confirm. DIAGNOSIS READY: Lyme Disease"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Disseminated Gonococcal Infection",
+    "DIAGNOSIS_READY_Simulation": "Scene 29, The diagnosis was INCORRECT, 40%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I understand, but I'm really worried about what this could mean for me. What should I expect next?"
+  }
+]

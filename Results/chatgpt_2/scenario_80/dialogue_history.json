@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides the swelling in your right knee?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any other symptoms. No fever, rash, or anything else that seems unusual. Just the swelling in my knee."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent injuries or trauma to your knee?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any injuries or trauma to my knee. It just started swelling after I was playing in the park."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your range of motion or difficulty walking due to the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really tried to walk much since it started swelling, but my parents say I seem a bit hesitant to put weight on it. It feels a little stiff, but I can still move it a bit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous episodes of swelling in your joints, or is this the first time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "This is the first time I've had swelling in my joints. I haven't experienced anything like this before."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you or any family members had a history of arthritis or other joint-related diseases?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My mom mentioned that an uncle on her side had similar problems with his joints. That's the only family history I know of."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any redness or warmth around the swollen area of your knee?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any redness or warmth around my knee. It just feels swollen and a bit stiff."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain in your knee, and if so, how would you rate it on a scale of 1 to 10?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really know how to rate pain, but my knee feels uncomfortable. It\u2019s not super painful, just a little sore when I try to move it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, such as a cold or flu, before the swelling started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections like a cold or flu. I felt fine before the swelling started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been involved in any new physical activities or sports recently that could have contributed to the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't started any new activities or sports. I was just playing at the park like I usually do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in other joints, or is it just your right knee that is affected?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just my right knee that's swollen. I haven't noticed any swelling in other joints."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or imaging done for your knee, or would you like me to request some?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests or imaging done yet. I think it would be a good idea to check it out further."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Blood_Test for inflammatory markers (CRP, ESR) and REQUEST TEST: Knee_X-Ray. Let's check for any signs of inflammation in your blood and see if there are any structural issues in your knee with an X-ray."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given that your blood tests and X-ray results came back normal, have you experienced any changes in your diet or weight recently that might be relevant?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my diet or weight recently. I've been eating the same foods and my weight seems normal to my parents."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint stiffness in the morning or after sitting for a long time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any stiffness in the morning or after sitting. It mostly feels stiff when I try to move it after being active."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or medical treatments that could be relevant to your current condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations or medical treatments. Everything has been normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any family members experiencing similar symptoms or joint issues at a young age?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My mom mentioned that an uncle on her side had similar joint problems when he was younger. That's the only family history I know about."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of fever or illness that might suggest an autoimmune condition, even if they were mild?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any episodes of fever or illness at all. I felt perfectly fine before the swelling started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the information you've provided, it seems like we might be dealing with a case of juvenile idiopathic arthritis, especially considering the family history and the isolated swelling in your knee. However, I would like to confirm this further. Have you noticed any fatigue or changes in your energy levels recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any fatigue or changes in my energy levels. I still play and run around like I usually do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It\u2019s good to hear that you\u2019re still active and energetic. Based on everything you've shared, I suspect we might be looking at juvenile idiopathic arthritis, especially with the family history and the swelling in your knee. However, I would like to confirm this diagnosis. Would you be open to seeing a pediatric rheumatologist for further evaluation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I think seeing a pediatric rheumatologist sounds like a good idea. I want to make sure we figure out what's going on with my knee."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Juvenile Idiopathic Arthritis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Hemophilia A",
+    "DIAGNOSIS_READY_Simulation": "Scene 80, The diagnosis was INCORRECT, 19%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "What does that mean for me? Will I need any special treatments or medications?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I\u2019m not really sure what it means yet. I just hope it doesn\u2019t hurt too much and that I can still play like I used to. What kind of treatments might I need?"
+  }
+]

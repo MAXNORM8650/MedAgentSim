@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What specific symptoms is the newborn experiencing in terms of respiratory distress? Are there any accompanying signs like cyanosis or grunting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm having trouble breathing, and I can hear some grunting sounds. Sometimes my skin looks a bit blue, especially on my hands and feet."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn experienced any feeding difficulties or lethargy? Additionally, when did the respiratory distress first begin?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been able to feed well, and I feel really tired. The breathing trouble started about two hours after I was born."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn been exposed to any potential risk factors during pregnancy, such as maternal smoking, infections, or complications during delivery?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know much about that, but my mom had a normal pregnancy until I was born early. There wasn't any mention of smoking or infections."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Was the newborn delivered vaginally or via cesarean section, and were there any complications during the delivery?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have the details about the delivery method or any complications. I just know I was born a bit early."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the newborn has any abnormal breathing patterns, such as rapid breathing or pauses in breathing? Additionally, is there any nasal flaring or retractions of the chest?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm breathing really fast, and sometimes it feels like I'm struggling to catch my breath. I can see my chest pulling in a bit, especially around the ribs."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any abnormal findings on physical examination, such as abnormal lung sounds or heart murmurs? Additionally, can you describe the newborn's color and temperature?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can't really tell about the lung sounds or heart murmurs, but I feel warm. My skin sometimes looks a little blue, especially on my hands and feet."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of fluid retention or swelling in the newborn? Also, can you tell me if there is any family history of respiratory issues or congenital heart defects?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't notice any swelling or fluid retention. As for family history, I don't know if anyone has had respiratory issues or heart problems."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of a cough or wheezing? Additionally, can you tell me if the newborn has had any fever or unusual irritability?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any coughing or wheezing, but I do feel a bit irritable sometimes. I don't think I've had a fever, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of meconium-stained amniotic fluid during delivery? Additionally, can you tell me if the newborn has had any difficulty maintaining body temperature?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know if there was meconium-stained fluid during delivery. As for my temperature, I feel warm, but I'm not sure if I'm maintaining it well."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abnormal heart rate or rhythm, such as a heart rate that is too fast or too slow? Additionally, can you tell me if there is any visible nasal congestion or discharge?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can't really tell if my heart is beating too fast or slow. I don't notice any congestion or discharge from my nose either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abdominal distension or difficulty with bowel movements? Additionally, can you tell me if there is any unusual skin rash or discoloration?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my belly or trouble with bowel movements. My skin sometimes looks a little blue, especially on my hands and feet, but no rashes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of hypoglycemia, such as jitteriness or tremors? Additionally, can you tell me if the newborn has had any difficulty with oxygen saturation levels?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt jittery or had any tremors. As for my oxygen levels, I can't really tell, but I know I'm having a hard time breathing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any results from a pulse oximetry test to check the newborn's oxygen saturation levels? Additionally, can you tell me if there have been any signs of respiratory infections, such as nasal flaring or increased work of breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had a pulse oximetry test yet, so I don't know my oxygen levels. I do feel like I'm working really hard to breathe, and my chest is pulling in a lot."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Pulse_Oximetry. Can you tell me if there have been any signs of abnormal heart sounds or murmurs during the physical examination? Additionally, has there been any assessment of the newborn's blood glucose levels?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abnormal heart sounds or murmurs during the physical examination? Additionally, has there been any assessment of the newborn's blood glucose levels?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can't tell if there are any abnormal heart sounds or murmurs. I haven't had my blood glucose levels checked yet either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of respiratory distress worsening, such as increased retractions or grunting? Additionally, can you tell me if there have been any changes in the newborn's color or responsiveness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm still having trouble breathing, and the grunting sounds seem to be getting louder. My skin looks a bit more blue, especially on my hands and feet, and I feel really tired."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the worsening respiratory distress and increased cyanosis, I need to assess your lung function further. REQUEST TEST: Chest_X-Ray. Have there been any signs of abnormal breathing sounds, such as crackles or wheezing, during your examination?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Decreased breath sounds, with fine crackles. Chest Radiograph findings: Fine reticular granulation with ground glass appearance on both lungs."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the chest X-ray findings and your symptoms, it seems like you may be experiencing respiratory distress syndrome, commonly seen in premature infants. Have you had any treatments or interventions since birth, such as oxygen support or surfactant therapy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any treatments yet, but I know they are considering giving me some help with breathing. I hope that will make it easier for me to breathe."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're in need of some support to help with your breathing. Given your symptoms and the chest X-ray findings, I believe you may benefit from oxygen therapy and possibly surfactant replacement therapy. Are you ready for the medical team to start these treatments?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I really hope that helps me breathe better. I'm feeling really tired and struggling right now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Respiratory Distress Syndrome (RDS) due to surfactant deficiency in a premature infant."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Respiratory Distress Syndrome",
+    "DIAGNOSIS_READY_Simulation": "Scene 30, The diagnosis was CORRECT, 29%"
+  }
+]

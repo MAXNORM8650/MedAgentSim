@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about when you first noticed the limp and where exactly you're feeling pain?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think it started a few weeks ago, after I was playing soccer with my friends. I remember I was running really fast and I felt a weird ache in my knee, but I didn't think much of it. It's been bothering me ever since, and sometimes it hurts more when I'm playing or running.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, so the limp and pain started a few days ago, and the pain is mainly in the left knee, can you tell me more about that? Is it a sharp pain or a dull ache?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's more of a dull ache, like when I bend my knee or put weight on it. It doesn't hurt all the time, but it does when I'm running or playing soccer. It's especially bad when I'm kicking the ball, I feel like it's going to give way or something.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the activities you've been doing recently that may have caused or exacerbated the pain, such as running, playing sports, or lifting heavy objects?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah, like I said, I've been playing soccer a lot lately, and it's been hurting more when I kick the ball or run really fast. My friends and I also like to play tag and ride our bikes, but I don't think that's making it worse, it's just the activities that involve running or kicking that hurt.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the activities you've been doing recently that may have caused or exacerbated the pain, such as running, playing sports, or lifting heavy objects?\n\n\n\nAnd can you walk for me, slowly and carefully, so I can assess your gait and see how the pain is affecting your movement?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I can try. But I'm a little worried it might hurt. *takes a deep breath* I'll try to walk slowly.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me if the pain is constant or does it come and go, and if there's any pain when you put weight on the left knee?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's mostly constant, but sometimes it feels better when I rest it, like after a nap or something. When I put weight on it, it does hurt, but it's more of a dull ache, like I said before, and it's not as bad as when I'm moving around or doing stuff that involves running.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you point to the exact spot on your left knee where you feel the pain?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, I think it's... um... *tries to locate the exact spot*...around the bend of my knee, where it meets my leg. It feels like there's something loose or maybe it's just a bump, but it hurts when I press on it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your daily activities, such as playing, running, or even just walking? Are you doing anything different or taking any new steps that might have caused the pain?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Honestly, I've just been doing the same things I usually do, like playing with my friends, riding my bike, and going to school. Nothing's really changed, I just feel like I have to be more careful with my knee when I'm doing stuff that makes it hurt. Like, if I'm playing soccer, I try to run with my right foot more instead of my left.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you show me the exact spot on your knee where you feel the pain, and I'd like to gently press around it to see if that causes any discomfort?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"O-okay... I think it's around the bend of my knee, like I said before. *points to the spot* I'm not sure if I should let you press on it, though... it might hurt.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, I see that the pain is mostly localized to the left knee. Can you describe the sensation of the pain when I press on that area - is it tender to the touch, or is it more of a dull ache?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It feels a bit tender when you press on it, but it's not sharp or anything, more like... a soft squishiness, I guess. It's hard to explain.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you show me how you walk and stand normally, so I can see if there's any unusual gait or movement that might be contributing to the pain?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll try to walk and stand like I usually do. *walks slowly and carefully* I try to keep my left leg straight when I'm walking, but sometimes it feels like it's going to buckle or something, so I have to take smaller steps to make sure I don't put too much weight on it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me if you've had any previous injuries or illnesses that might have affected the left knee in the past?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't think so, I've never really had any problems with my knee before. I mean, I've gotten a few scrapes or bruises, but nothing that's ever lasted too long. I was playing soccer with my friends last week and I think I might have twisted my knee a little bit, but it wasn't too bad and it didn't really hurt for long.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you point to the exact spot on your left knee where you feel the pain?\n\n\n\n\"Okay, I see that it's roughly in the middle of the knee, near the kneecap. Can you tell me if it's swollen at all?\n\n\n\n\"REQUEST TEST: Knee_X-Ray\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Vital_Signs: Temperature: 36.8\u00b0C (98.2\u00b0F), Blood_Pressure: 100/65 mmHg, Heart_Rate: 82 bpm, Respiratory_Rate: 18 breaths/min\n\nMusculoskeletal_Examination: Inspection: No visible deformity, swelling, or bruising of the knee or hip, Palpation: Tenderness on palpation of the left hip, not knee, Range_of_Motion: Full range of motion in the knee; pain elicited with passive motion of the hip, Special_Tests: Negative for anterior drawer test and McMurray's, suggesting no knee joint instability or meniscal tear, Knee Local_Tenderess: Tenderness at the bend of the left knee, soft squishiness upon palpation.\n\ntests: Knee_X-Ray: Findings: Flattening and fragmentation of the left femoral head consistent with Legg-Calv\u00e9-Perthes disease."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me if you've noticed any swelling or redness around the left knee, or if there's any warmth to the area?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, I don't think so, it just feels a bit sore and stiff when I move around, but it's not really red or warm. It just feels... weird, I guess.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you show me the exact spot on your knee where you feel the pain again, and I'd like to gently press around it to see if that causes any discomfort?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"O-okay... *points to the spot again* I think it's around the bend of my knee, like I said before. *looks at the doctor with a bit of concern* Are you going to hurt it or something?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you show me how you go up and down stairs, and if there's any unusual movement or pain when you do so?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't really climb stairs that much at home, but I do at school sometimes. It's pretty easy for me, but sometimes I feel like my left knee is going to buckle or give way when I'm climbing up, so I have to take smaller steps to make sure I don't put too much weight on it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me about your daily activities and what you usually do when you're feeling unwell, or if you're experiencing pain?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I usually just try to rest my knee and take it easy when I'm feeling sore. My mom helps me with my homework and we watch TV together. I also like to draw and play with my friends, but sometimes I have to stop if my knee is hurting too much.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your knee again. Can you please lift your pant leg so I can examine the area behind the knee, just to see if there's any swelling or redness that I might have missed?\n\n\n\nAlso, have you noticed any pain or stiffness in your knee when you get up from a seated position or when you bend down to pick something up?\n\n\n\nCan you tell me a little bit about your overall health and any other symptoms you might be experiencing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'm just a little worried that you might hurt my knee, but I trust you, doctor. I'll try to lift my pant leg for you. *lifts pant leg* I don't really notice any swelling or redness that I can see. But when I get up from a seated position, I do feel a bit of a twinge in my knee, and when I bend down to pick something up, it feels a bit stiff. It's not too bad, but it's definitely noticeable.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any pain or stiffness in your knee when you get up from a seated position or when you bend down to pick something up?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yeah, when I get up from a seated position, it feels a bit twingy, like I'm going to pull something. And when I bend down to pick something up, it gets a bit stiff, but it's not too bad. I just try to take my time and not put too much weight on it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health, such as any allergies, medications you're taking, or any chronic conditions you have that might be related to the pain in your knee?\n\n\n\nAlso, can you describe your family medical history, especially regarding any joint-related issues or musculoskeletal problems?\n\n\n\nNow, let me take a closer look at your knee again and I'd like to check for any signs of a meniscal tear or ligament sprain."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah, I take some acetaminophen for headaches sometimes, but that's it. I don't think it's related to my knee, though. And as for allergies, I don't really have any, but my mom says I'm allergic to peanuts, just in case.\"\n\n\"Okay, so your family medical history is pretty normal, right? No joint problems or musculoskeletal issues that you're aware of?\"\n\n\"I think so... my mom has some back problems, but I don't know if that's related to our family or not. And my dad has some arthritis, but he's really old, so I don't think that's a big deal.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken all the necessary information and examined the patient's knee. Now, I must analyze the data and come to a diagnosis.\n\nDiagnosis Ready: Osgood-Schlatter disease"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Legg-Calv\u00e9-Perthes disease (LCPD)",
+    "DIAGNOSIS_READY_Simulation": "Scene 103, The diagnosis was INCORRECT (2.88%)"
+  }
+]

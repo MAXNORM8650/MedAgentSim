@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What type of skin lesions are you experiencing? Are they itchy, painful, or changing in appearance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have skin-colored, nontender, pearly papules on my abdomen and some on my arms. They don't itch or hurt, and they haven't changed at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any new lesions appearing, or have any of the existing lesions increased in number?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any new lesions appearing, and the ones I have seem to be the same as before. They haven't increased in number either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your environment, such as new skincare products, soaps, or exposure to irritants?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any changes in my environment or used any new skincare products. Everything has been the same at home and daycare."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any other symptoms, such as fever, fatigue, or weight loss?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fever, fatigue, or weight loss. I feel fine otherwise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses or infections, or have you been in contact with anyone who has had a contagious disease?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent illnesses or infections. I did hear that another child at daycare had similar lesions recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of skin conditions or allergies in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any history of skin conditions or allergies before. I've always been healthy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any changes in your diet or any new foods introduced recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any changes in my diet or introduced any new foods recently. I've been eating the same things as usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent sun exposure or spent more time outdoors than usual?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent sun exposure or spent more time outdoors than usual. My routine has been pretty much the same."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the texture or color of the lesions over time, or have they remained consistent?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The lesions have remained consistent in texture and color. They still look the same as when I first noticed them."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you or your family members had any history of skin cancer or other skin conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any history of skin cancer or other skin conditions in my family. Everyone has been healthy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or medical procedures that could be relevant?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations or medical procedures. My immunizations are all up-to-date."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the lesions are more prominent after exposure to water or humidity, such as after swimming or bathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed the lesions being more prominent after exposure to water or humidity. They look the same before and after bathing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your overall health, such as changes in energy levels or mood, since the lesions appeared?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any changes in my energy levels or mood since the lesions appeared. I feel just like I always do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel or exposure to different environments, such as visiting a new city or country?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled anywhere recently or been to any new places. I've mostly just been at home and daycare."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the lesions have any specific patterns, such as being clustered together or spread out?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The lesions are mostly spread out on my abdomen and arms, but they don't seem to cluster together. They look pretty uniform in appearance."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the size of the lesions over time, or do they remain the same size?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The lesions have remained the same size since I first noticed them. They haven't changed at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any exposure to animals or pets that could potentially cause skin reactions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any exposure to animals or pets recently. I don't have any pets at home, and I haven't been around any animals at daycare either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the lesions have any specific characteristics, such as being smooth, rough, or having a waxy appearance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The lesions are smooth and have a pearly, waxy appearance. They look pretty uniform and don't have any rough edges."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the lesions are more prominent in certain areas of your body, or are they evenly distributed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The lesions are evenly distributed on my abdomen and arms. They don't seem to be more prominent in any specific area."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your description of the skin lesions being smooth, pearly, and evenly distributed, along with the absence of other symptoms, I suspect they may be benign. However, to confirm, I would like to request a test. REQUEST TEST: Skin_Biopsy"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Optional and not typically necessary. Could show lobules of molluscum bodies (Henderson-Paterson bodies) in the epidermis, if performed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Is there anything else you would like to know about my condition or symptoms?"
+  }
+]

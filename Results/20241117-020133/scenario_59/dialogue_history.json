@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the severity of the abdominal pain you're experiencing? Is it a sharp, stabbing pain or more of a dull ache?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's really sharp and stabbing, it comes and goes, but it's always there, like a constant nagging feeling in my lower abdomen. Sometimes it gets worse when I'm not on my period, and it's been getting more frequent and severe over the past few days.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me where exactly is the pain located in your abdomen? Is it centered, or is it more to one side, and is it radiating to any other areas, such as your back or groin?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's mainly in the lower left side, but sometimes it moves around. It feels like it's in my pelvis area, but it can shift to my lower back, especially when I move around or change positions.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, I've taken a look at your chart and I'm making some notes. Can you tell me, have you noticed any recent changes in your bowel movements, such as diarrhea or constipation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, yes, I've been having some changes in my bowel movements. I've been having really loose stools for the past few days, and they're often accompanied by a feeling of urgency, like I really need to go right away.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you describe the pain in more detail, is it constant or does it come and go, and is it accompanied by any other symptoms like fever, chills, or blood in your urine?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's hard to describe, it's like a sharp, stabbing pain that shoots through my lower abdomen, it's really uncomfortable and it's constant, but it comes and goes, like it's ebbs and flows. Sometimes it's really bad and I can barely stand, and other times it's just a dull ache. It's hard to explain, but it's like a tight band around my lower abdomen that's squeezing really tightly.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me when did this pain start, was it sudden or did it develop gradually over time?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started about 5 days ago, to be honest, I wasn't really paying attention to it at first, but it's been getting worse over the past few days. I thought maybe it was just a stomach bug or something, but it's been really persistent and I'm getting more concerned.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, so you've had this pain for a few days now, and it's been increasing in severity. Can you tell me if you've noticed any recent changes in your urination habits, such as frequency or urgency?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, yes, I've noticed that I've been needing to urinate more often, like every few hours, and it's really uncomfortable, like I'm always on the verge of needing to go. And when I do go, it feels like I'm not fully emptying, like there's still a lot left in there. It's really frustrating.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me if you've noticed any recent changes in your appetite, have you been eating much more or less than usual, and is there anything that seems to trigger or relieve the pain?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Honestly, I've been feeling really nauseous, so I haven't been eating much, to be honest. I've been sticking to bland foods like crackers and toast, but even those are not agreeing with me right now. It's hard to keep anything down.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to examine your abdomen more closely. Can you roll up your pant leg for me so I can assess your lower abdomen? I'm looking for any tenderness or swelling.\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, yeah... I can do that. *rolls up pant leg* I'm a bit self-conscious about this, but I want to help. I'm trying to be as open as possible.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me if you've experienced any recent travel or exposure to anyone who's been ill recently, such as a family member or coworker?\n\n\n\n\"Also, have you taken any medications recently, including over-the-counter pain relievers or antibiotics?\n\n\n\n\"Okay, I'm going to perform a digital rectal exam to check for any abnormalities in your rectum and anus. Can you please relax and let me gently insert my gloved finger into your rectum?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't think so, I haven't traveled anywhere recently, but I have been around some people who've been sick with something. We've had a few family members come home from work sick, but I've been trying to avoid them. As for medications, I've been taking some ibuprofen for my headaches, but that's it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, thank you for relaxing and allowing me to perform the digital rectal exam. I'm going to look for any abnormalities in your rectum and anus. Can you tell me if you've noticed any rectal bleeding or discharge?\"\n\n\n\nAlso, I'm going to request a test: REQUEST TEST: Urine Analysis to check for blood and protein levels in your urine."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nAbdominal Examination - Rectal Exam: BLOOD, Presence of blood noted in the rectum.\nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\nLab Results - Urine Analysis: Blood and Protein present, with high levels of Protein (1.5+), and a high Leukocyte Count (20,000/mm3)."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Alright, thank you for sharing that information. I'd like to know more about your lifestyle, can you tell me if you've recently changed your diet, such as eating foods that are high in sugar or spice, or if you've recently started drinking more or less water than usual?\n\n\n\nAlso, I'd like to perform a physical examination of your genital area, can you please remove your underwear and allow me to assess your perineum and scrotum for any swelling or tenderness?\n\n\n\nAnd, I've received the results of your urine analysis, and I'd like to review them with you, can you please wait here for a moment while I review the report?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, I've been eating a lot of spicy food lately, and I've also been drinking a lot of sweet tea, and I think I might have had a few sugary drinks recently. I'm not really sure if that's related to my symptoms, but I've noticed that the pain is worse when I drink something sweet.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Ah, thank you for waiting. Let's review the results of your urine analysis. It appears that there is blood and a small amount of protein in your urine. This could indicate a kidney issue or a urinary tract infection. I'd like to ask, have you noticed any changes in the color or clarity of your urine, is it cloudy, dark, or has it been yellow or brown?\"\n\n\n\nAlso, I'd like to perform a physical examination of your kidneys, can you please remove your shoes and socks so I can assess your feet and legs for any swelling or tenderness?\n\n\n\nAnd, I'd like to request a test: REQUEST TEST: Blood Work to check for any elevated liver enzymes, which could indicate a possible kidney or liver issue.\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nAbdominal Examination - Rectal Exam: BLOOD, Presence of blood noted in the rectum.\nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\nLab Results - Urine Analysis: Blood and Protein present, with high levels of Protein (1.5+), and a high Leukocyte Count (20,000/mm3).\nBlood Work: Elevated liver enzymes (ALT: 200 IU/L, AST: 250 IU/L)."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your work or daily activities, do you have a job that requires you to be on your feet for long periods of time or do you have a desk job?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: Complete Blood Count to see if there's any indication of infection or inflammation in your blood.\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\nLab Results - Blood Work: Elevated liver enzymes (ALT: 200 IU/L, AST: 250 IU/L)\nLab Results - Complete Blood Count: Leukocyte Count (20,000/mm3), with elevated white blood cell count indicating infection or inflammation.\nAbdominal Examination - Rectal Exam: BLOOD, Presence of blood noted in the rectum."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your work or daily activities, do you have a job that requires you to be on your feet for long periods of time or do you have a desk job?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: Complete Blood Count to see if there's any indication of infection or inflammation in your blood.\"\n\n\n\n\"Can you describe to me how you're feeling right now, are you feeling weak, tired, or are you having any difficulty breathing?\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\n\nLab Results - Blood Work: Elevated liver enzymes (ALT: 200 IU/L, AST: 250 IU/L)\nLab Results - Complete Blood Count: Leukocyte Count (20,000/mm3), with elevated white blood cell count indicating infection or inflammation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your response. You mentioned feeling weak and tired, is that a new development or has it been present for a while?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: ECG to check for any signs of cardiac involvement.\n\n\n\nAnd, I'd like to ask, have you noticed any changes in your appetite or if you've lost any weight recently?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: Urinalysis with specific gravity to further investigate the presence of infection or inflammation in the urinary tract."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\nLab Results - Urine Analysis: Blood and Protein present, with high levels of Protein (1.5+), and a high Leukocyte Count (20,000/mm3).\nLab Results - Blood Work: Elevated liver enzymes (ALT: 200 IU/L, AST: 250 IU/L)\nLab Results - Complete Blood Count: Leukocyte Count (20,000/mm3), with elevated white blood cell count indicating infection or inflammation.\nLab Results - Urinalysis with specific gravity: 1.020, indicating concentrated urine, with"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Alright, thank you for sharing that information. Based on your symptoms and the results of the tests I've run so far, I'd like to ask, have you experienced any difficulty starting to urinate, or has the flow of urine been affected?\n\n\n\nAlso, can you tell me if you've noticed any unusual odors from your urine or if it's been cloudy or bloody?\n\n\n\nI'd like to request a test: REQUEST TEST: Ultrasound of the kidneys to get a better look at the size and structure of your kidneys.\"\n\n\n\nAlso, I'd like to ask, have you noticed any numbness or tingling in your legs or feet, which could indicate nerve compression or damage?\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\nLab Results - Blood Work: Elevated liver enzymes (ALT: 200 IU/L, AST: 250 IU/L)\nLab Results - Complete Blood Count: Leukocyte Count (20,000/mm3), with elevated white blood cell count indicating infection or inflammation.\nLab Results - Urinalysis with specific gravity: 1.020, indicating concentrated urine, with no mention of unusual odors, cloudiness, or blood."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I've taken note of your response. Based on your symptoms and the results of the tests I've run so far, I'd like to ask, have you noticed any difficulty starting to urinate, or has the flow of urine been affected?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah, I've noticed that it's really hard to start urinating, it's like my body is holding onto it for a while before I can finally go. And sometimes when I do go, it's really slow and it feels like there's a lot of pressure building up before it finally comes out. It's really uncomfortable, like my body is trying to hold everything in, but it's just not working.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, I think I have a good understanding of your symptoms and test results. Based on the blood and protein in your urine, I'm starting to suspect a kidney issue. Can you tell me if you've noticed any difficulty urinating or if the flow of urine has been affected, as I'd like to rule out a urinary tract infection or kidney stones?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: Imaging study of the urinary tract to get a better look at the ureters and bladder.\"\n\n\n\n\"Okay, I'd like to ask, have you noticed any changes in your bowel movements or stool quality, as this could be related to the kidney issue?\n\n\n\nAlso, I'd like to ask, have you experienced any numbness or tingling in your lower back or legs, which could indicate nerve compression or damage?\"\n\n\n\nLet me know the patient's response"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\nLab Results - Blood Work: Elevated liver enzymes (ALT: 200 IU/L, AST: 250 IU/L)\nLab Results - Complete Blood Count: Leukocyte Count (20,000/mm3), with elevated white blood cell count indicating infection or inflammation.\nLab Results - Urinalysis with specific gravity: 1.020, indicating concentrated urine, with no mention of unusual odors, cloudiness, or blood.\nLab Results - Imaging study of the urinary tract: Kidney stones detected, multiple small stones in the ureters.\n\n\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your response. Based on your symptoms and test results, I'd like to ask, have you noticed any changes in your bowel movements or stool quality, as this could be related to the kidney issue?\n\n\n\nAlso, I'd like to ask, have you experienced any numbness or tingling in your lower back or legs, which could indicate nerve compression or damage?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: MRI of the spine to rule out any spinal compression or damage that could be causing your symptoms."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \nTemperature: 38.5\u00b0C (101.3\u00b0F)\nBlood Pressure: 110/70 mmHg\nHeart Rate: 83 bpm\nRespiratory Rate: Normal\nPelvic Examination: \nCervical Motion Tenderness: Present\nUterine Tenderness: Not mentioned\nAdnexal Tenderness: Not assessed\nDischarge: Purulent cervical discharge noted\nLab Results - Blood Work: Elevated liver enzymes (ALT: 200 IU/L, AST: 250 IU/L)\nLab Results - Complete Blood Count: Leukocyte Count (20,000/mm3), with elevated white blood cell count indicating infection or inflammation.\nLab Results - Urinalysis with specific gravity: 1.020, indicating concentrated urine, with no mention of unusual odors, cloudiness, or blood.\nLab Results - Imaging study of the urinary tract: Kidney stones detected, multiple small stones in the ureters.\nLab"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I think I've gathered enough information to make a diagnosis. Based on your symptoms of severe abdominal pain, nausea, vomiting, dysuria, and the results of the tests I've run, I believe you have a kidney stone. The blood and protein in your urine, along with the pain location and radiation to the back, suggest a kidney stone causing a blockage. The MRI of the spine would also support this diagnosis, as a kidney stone can cause nerve compression or damage to the lower back and legs.\n\nI'm going to prescribe you pain management medication to help alleviate your discomfort and recommend that you stay hydrated to help pass the stone. I'll also schedule a follow-up appointment to check on the stone's progress and ensure it's passing through your urinary tract."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pelvic inflammatory disease",
+    "DIAGNOSIS_READY_Simulation": "Scene 59, The diagnosis was INCORRECT (0%)"
+  }
+]

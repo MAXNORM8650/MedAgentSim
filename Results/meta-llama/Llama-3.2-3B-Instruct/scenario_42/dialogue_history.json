@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the duration of your symptoms - when did you first start feeling tired and when did the fever and abdominal pain appear?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My fatigue started about three weeks ago, and it's been getting progressively worse. The fever and abdominal pain showed up around the same time, about two weeks ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"When did the fever and abdominal pain appear in relation to the fatigue, roughly a week ago?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more like two weeks ago, to be honest. The fatigue was the first one to hit, and then the fever and abdominal pain just kind of... snuck in, I guess."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"When did you first start experiencing abdominal pain, specifically was it sudden or did it come on gradually?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started as a mild discomfort, but over the past week or so, it's become quite a bit worse. It's not sharp or stabbing, more of a dull ache, really.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"When did you first start experiencing abdominal pain, specifically was it sudden or did it come on gradually?\"\n\nPatient: \"It started about 3 days ago, and at first, it was just a slight cramp, but it's been getting worse and more frequent since then.\"\n\nDoctor: \"Can you tell me about your travel history and any recent food or water exposures that you think might be related to your symptoms?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, I did go to the state fair a month ago, and I remember trying some regional foods. I'm not sure if it was something I ate, but I did feel a bit off for a few days after that.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any other symptoms besides fatigue, fever, abdominal pain, and nausea, such as loss of appetite, vomiting, or diarrhea?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, yes, I have noticed that my urine has been darker than usual, and I've been thinking maybe I wasn't drinking enough water, which is why I've been feeling even more tired.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Have you experienced any significant weight loss or loss of appetite, particularly in the past week?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've actually noticed that my appetite hasn't been as strong as usual, but I wouldn't say it's been significantly less. I've just been eating smaller meals, I guess, because I'm not feeling like I can handle a big meal when I'm feeling this tired.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to perform a physical examination to better understand your condition. Can you please remove any clothing or items that might be in the way, such as jewelry or glasses?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll take off my glasses and any other accessories. I'll just leave my shoes and socks on, I guess.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me about your medical history, particularly any previous illnesses or surgeries that might be relevant to your current symptoms?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I have type 2 diabetes mellitus, which I've been managing with my current medications \u2013 glyburide and sitagliptin. I've also been taking a multivitamin as recommended by my doctor.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you describe the location and severity of the abdominal pain for me - is it primarily in the upper, lower, or middle part of your abdomen?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's more of a lower abdominal pain, and it feels like it's getting worse, not better. It's a dull ache, like I mentioned before, but it's definitely more noticeable now that you're asking.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your daily activities and routine over the past week? Have you had any strenuous activities or changed your diet recently?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, I've been trying to keep up with my work as a nursing assistant, but to be honest, I've been taking more breaks than usual. I've also been sleeping in a bit later than I used to, and I've just been trying to pace myself throughout the day. As for my diet, I haven't made any drastic changes, but I did have a bit of a rough stomach last week after eating some fried foods at a friend's birthday party.\"\n\n\"I've also noticed that I've been drinking less water than usual, which I think might be contributing to my fatigue and dark urine. I've been trying to stick to my usual routine, but it's just not feeling the same as it usually does.\"\n\n\"I've also had to cut back on my social activities, as I just don't have the energy to go out and do things like I used to. It's been a bit of a challenge, but I'm trying to take it easy and focus on getting better.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you show me exactly where you're feeling this abdominal pain? I'd like to get a better sense of the location and severity of the discomfort.\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, let me show you... it's more of a lower left side, I think. It feels like it's centered around my belly button, but it's a bit more on the left side. It's hard to explain, but it feels like my belly is just... tight, I guess, and a bit uncomfortable.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me if the abdominal pain radiates to any other areas, such as the back, and does it worsen with movement or after eating?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, the pain doesn't really radiate anywhere, it just feels like it's centered in that lower left side of my abdomen. And as for movement, it does seem to get a bit worse after eating, but I'm not sure why that is. It's just something I've noticed, though.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me if you've experienced any recent changes in your bowel movements, such as diarrhea or constipation, that might be related to your abdominal pain?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, yes, I have noticed that my bowel movements have been a bit irregular lately. I've had a few episodes of diarrhea, but it's been more of a loose stool, not like diarrhea. I'm not sure if it's related to my current symptoms, but it's just something I've noticed.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your work or living situation - do you have access to clean water and proper sanitation?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah, I work in a rehabilitation facility, so I have access to clean water and proper sanitation. I'm actually one of the ones who helps keep the facility clean and organized, so I like to think I'm pretty self-sufficient when it comes to that.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you describe the location and severity of the abdominal pain for me - is it primarily in the upper, lower, or middle part of your abdomen?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's more of a lower abdominal pain, and it feels like it's getting worse, not better. It's a dull ache, like I mentioned before, but it's definitely more noticeable now that you're asking.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the location of the abdominal pain - is it more on one side or is it more diffuse throughout the abdomen?\"\n\n\n\n\"Have you experienced any recent exposure to contaminated food or water that you think might be the cause of your symptoms?\"\n\n\n\n\"Can you tell me about your current medications - are you taking any prescription medications or supplements that might be relevant to your symptoms?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I did attend the state fair a month ago, and I tried some fried foods. I remember feeling a bit off after that, but I didn't think much of it at the time.\"\n\n\"I'm taking glyburide and sitagliptin for my type 2 diabetes, and I also take a multivitamin as recommended by my doctor.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily routine and activities over the past week - have you been working or exercising excessively, and have you been consuming any new or unusual foods recently?\n\n\n\nAlso, would you be willing to request a blood test to check for anemia or infection markers?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, I've been trying to keep up with my work as a nursing assistant, but to be honest, I've been taking more breaks than usual. I've also been sleeping in a bit later than I used to, and I've just been trying to pace myself throughout the day. As for my diet, I haven't made any drastic changes, but I did have a bit of a rough stomach last week after eating some fried foods at a friend's birthday party. And, yeah, I've been drinking less water than usual, which I think might be contributing to my fatigue and dark urine.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your living situation - do you have access to clean water, proper sanitation, and a well-maintained toilet, and have you had any recent guests or travelers who may have brought in any infections?\n\n\n\nAlso, would you be willing to request a blood test to check for anemia or infection markers?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah, I work in a rehabilitation facility, so I have access to clean water and proper sanitation. It's a pretty self-sufficient place, and we take care of our own facilities. I don't think I've had any recent guests or travelers who might have brought in any infections, though.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your symptoms, particularly the nausea - is it constant or does it come and go, and are there any specific triggers that make it worse?\n\n\n\nAlso, would you be willing to request a blood test to check for infection markers such as white blood cell count?\n\n\n\nREQUEST TEST: Complete Blood Count (CBC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \nTemperature: 38.1\u00b0C (100.6\u00b0F)\nBlood Pressure: 110/74 mm Hg\nHeart Rate: 99/min\nRespiratory Rate: Normal\n\nGeneral Examination: \nAppearance: Appears tired\nJaundice: Mild scleral icterus observed\n\nAbdominal Examination: \nInspection: No visible abnormalities\nAuscultation: Normal bowel sounds\nPercussion: No abnormalities detected\nPalpation: Liver palpated 2\u20133 cm below the right costal margin, tender on palpation\n\nBlood Tests: \nHemoglobin: 10.6 g/dL\nLeukocyte Count: 11,600/mm3\nPlatelet Count: 221,000/mm3\nUrea Nitrogen: 26 mg/dL\nGlucose: 122 mg/dL\nCreatinine: 1.3 mg/dL\nBilirubin_Total: 3."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the information you've provided, I'd like to discuss your test results before making a diagnosis. Let me review the Complete Blood Count (CBC) results for you.\n\nCan you tell me what the results show in terms of your white blood cell count, red blood cell count, and hemoglobin levels?\n\n\n\n\"Can you tell me if you have any family history of gastrointestinal diseases or autoimmune disorders that might be relevant to your symptoms?\"\n\n\n\n\"Can you describe the nausea in more detail - is it more of a queasiness or a full-blown vomiting episode, and do you find it difficult to keep anything down?\"\n\n\n\n\"Have you noticed any blood in your stool or vomit, or any changes in your bowel movements that might be related to your abdominal pain?\"\n\n\n\n\"Can you tell me if you've experienced any recent stress or anxiety that might be contributing to your symptoms?\"\n\n\n\n\"Can you tell me if you've had any recent vaccinations or illnesses that might be relevant to your symptoms?\"\n\n\n\n\"Can you"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Active chronic hepatitis B infection",
+    "DIAGNOSIS_READY_Simulation": "Scene 42, The diagnosis was INCORRECT (2.33%)"
+  }
+]

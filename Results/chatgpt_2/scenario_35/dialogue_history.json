@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What is your age, and how long have you been experiencing these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm four years old, and I've been having nosebleeds and bleeding from my gums for a little while now. My parents say it's been happening a lot lately."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any other symptoms, such as easy bruising, fatigue, or any signs of infection?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've been getting bruises for no reason, and sometimes I see little red spots on my arms and legs. I don't feel tired, though, and I haven't been sick."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses, injuries, or changes in your medications or diet?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't been sick or hurt recently, and I haven't changed what I eat or any medicines. Everything feels the same at home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you or your family noticed any changes in your skin, such as rashes or unusual dryness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any rashes or dry skin. My skin looks normal, just some bruises and those little red spots."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any family history of bleeding disorders or conditions that affect blood clotting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know about my family, but my parents haven't said anything about bleeding problems. They just say I'm a little clumsy sometimes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or medical procedures that could have affected your blood clotting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I had my vaccinations up to date, but I haven't had any medical procedures recently. My parents say I'm healthy, just a bit of a nosebleed problem."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your diet, particularly in foods that are high in vitamin K, or have you been taking any supplements?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed what I eat, and I don't take any supplements. I just eat what my parents give me, like fruits and veggies."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of prolonged bleeding after minor cuts or scrapes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, sometimes when I get a little cut, it takes a long time for the bleeding to stop. My parents have noticed that too."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any blood tests done recently, or can you tell me if you've had any unusual bleeding during dental visits?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests done, and I don't remember anything unusual happening at the dentist. My gums just bleed sometimes when I brush my teeth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your joints or any pain in your bones?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't felt any pain in my bones or swelling in my joints. Everything feels okay there."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your menstrual cycle, or are you too young for that?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm too young for that! I don't have a menstrual cycle."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to any medications, herbal supplements, or over-the-counter drugs that could affect your blood clotting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't taken any new medicines or herbal stuff. I just have my regular food and drinks at home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent dental work or issues with your teeth that might have caused the gum bleeding?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any dental work done recently, and my teeth seem fine. It's just that my gums bleed sometimes when I brush them."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual symptoms like frequent nosebleeds during physical activity or while sleeping?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, sometimes I get nosebleeds even when I'm just playing or when I'm sleeping. It can be really surprising!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the nosebleeds are more frequent during certain times of the year, like during dry weather or allergy season?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think they happen more when it's dry outside, but I don't really know about allergies. My nose just seems to bleed a lot sometimes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any episodes of severe bleeding, such as after a surgery or injury, that required medical attention?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any really bad bleeding that needed a doctor. Just the nosebleeds and gum bleeding, but nothing super serious."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my appetite or weight. I still eat the same amount of food as before and feel good!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests, particularly a complete blood count (CBC) or tests for platelet function?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests done recently. My parents haven't mentioned anything about needing to check my blood."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Complete_Blood_Count_CBC"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: WBC: 6,500 /\u03bcL, Hemoglobin: 12.1 g/dL, Platelets: 280,000 /\u03bcL (normal)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the symptoms you've described and the normal platelet count from the blood test, it seems like you might have a condition related to blood vessel fragility rather than a clotting disorder. DIAGNOSIS READY: Von Willebrand Disease"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Glanzmann\u2019s Thrombasthenia",
+    "DIAGNOSIS_READY_Simulation": "Scene 35, The diagnosis was INCORRECT, 25%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really know what that means, but my nosebleeds and gum bleeding are really annoying. I just want to stop getting hurt and have fun like my friends!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I just want to play without worrying about nosebleeds or bruises. It makes me feel sad sometimes. Can you help me?"
+  }
+]

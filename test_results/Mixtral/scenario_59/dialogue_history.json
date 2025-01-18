@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the onset of your symptoms? Did they start suddenly or did you notice a gradual increase in pain and discomfort?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think it started a few days ago, and it's been getting worse. It was just a dull ache at first, but then it escalated into this sharp, stabbing pain, especially when I urinate and when I had sex with my partner.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, so the symptoms started suddenly, and you mentioned severe abdominal pain, nausea, and vomiting. Can you tell me more about the location of the pain - is it constant or does it shift around?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's more in the lower abdomen, I'd say, but it's hard to pinpoint exactly. Sometimes it feels like it's in the front, and other times it's more towards the back. It's like it's moving around, and that makes it worse.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to examine your abdomen to get a better understanding of the pain's location. Can you please lift your shirt and allow me to assess your abdomen?\"\n\n\"Also, when did the dysuria start, and have you noticed any blood in your urine?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I can do that. It's just a bit awkward, but I'll try my best. The dysuria started a few days ago, around the same time as the pain. I've noticed it's been more frequent and uncomfortable lately, especially after using the bathroom.\"\n\n\"I'm going to take a closer look, so please just relax and let me assess your abdomen. I might need to press on some areas to see if it makes the pain worse or better.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about the severity of the abdominal pain - is it sharp, dull, or does it feel like a cramping sensation?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's really sharp, like a knife cutting through. It's hard to describe, but it feels like there's something pressing on my insides and it's causing all this pain. Sometimes it feels like it's going to burst, but then it subsides for a little while, only to come back worse.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Thank you for allowing me to examine your abdomen. I notice that the pain seems to be concentrated in the lower right quadrant, near the appendix. I'd also like to check for any tenderness or guarding, which could indicate peritoneal irritation. Can you tell me if you've experienced any recent travel or exposure to any unusual foods or substances?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, no, I don't think so. I mean, I've been pretty much staying at home for the past few days, just resting and trying to manage the pain. I haven't eaten anything out of the ordinary, but I did have a pizza party with my friends last weekend... maybe that's what triggered it?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Great, the tenderness in the lower right quadrant is concerning, especially near the appendix. Can you tell me about your menstrual history - have you experienced any irregular periods or heavy bleeding recently?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've had regular periods since I started menstruating at 13, but I did have a bit of a heavier flow last month during my period. It lasted for about a day longer than usual, and I had to change my pads a few times more often than I'm used to. Could that be related to what's going on now?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me about your past medical history - have you ever had any surgeries, infections, or chronic conditions that could be related to your current symptoms?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, I've never had any major surgeries or chronic conditions. I did get a routine check-up at the gynecologist last year, but everything seemed fine. I've been pretty healthy overall, just a bit more prone to stomach issues since I started taking antibiotics for a sinus infection a few months ago.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Can you tell me more about your bowel movements - have you noticed any changes in frequency, consistency, or urgency recently?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't really notice anything different about my bowel movements, to be honest. I mean, I've had a bit of diarrhea a few times when I'm really stressed or anxious, but that's about it. Nothing out of the ordinary, I guess.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Thank you for sharing that information with me. I'm going to request a urinalysis to check for any signs of infection or blood in the urine, and also a complete blood count to see if there are any signs of inflammation or infection elsewhere in the body. REQUEST TEST: Urinalysis, Complete Blood Count. Can you please empty your bladder for me so I can collect a sample?\""
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Urinalysis Results: Normal Readings\n\nComplete Blood Count Results: RESULTS: White Blood Cell Count: 7,000/mm3 (normal), Hemoglobin: 14.2 g/dL (normal), Platelet Count: 250,000/mm3 (normal), Erythrocyte Sedimentation Rate: 80 mm/h (mildly elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Thank you for emptying your bladder. I'd like to check your temperature to see if you have a fever, which can be a sign of infection. Can you tell me how high your temperature has been?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"My temperature was around 100.5 degrees Fahrenheit yesterday, but I didn't feel too bad. It was just a really low-grade fever, and I think it's probably just a side effect of being really sick with the pain.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Great, thank you for sharing that with me. I'm going to check your temperature now. *takes temperature* It appears you have a fever, which could indicate an infection. Can you tell me if you've experienced any recent symptoms of infection, such as a sore throat or swollen lymph nodes?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I did have a sore throat a few days ago, but it went away pretty quickly. And I had a bit of swelling in my lymph nodes, but it's not really noticeable now. I think it was just a minor cold, but I didn't think much of it at the time.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'm glad we have some more information to work with. Can you tell me about your overall energy levels - are you feeling weak or fatigued, or is your energy level relatively normal?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Honestly, I've been feeling really weak and tired lately. I just want to lie down and rest for hours, and even simple tasks like cooking or going out with friends feel exhausting. I guess it's just because I've been in so much pain, but it's hard to explain.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Based on your fever, the location of the pain, and the recent travel question, I'm starting to suspect that we might be looking at a case of appendicitis. Can you tell me if you've recently consumed any foods that might be high in fiber or difficult to digest, which could be exacerbating the symptoms?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't think so, I mean, I've been eating pretty standard foods like pasta, pizza, and salads. I did have a big bowl of spinach salad with some bacon last weekend, but that's about it. I'm not sure if that would make a difference, though.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'm glad we're narrowing down the possibilities. I'd like to examine your lymph nodes to see if they're swollen, which could be a sign of infection. Can you please lift your arm and show me your lymph nodes in your neck?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've already lifted my arm, and I think I saw some swelling in my neck a few days ago when I had a sore throat. It's not really noticeable now, but it did feel pretty tender when I touched it.\"\n\n\"I'm going to take a closer look. Can you please tilt your head back and open your mouth so I can examine your lymph nodes more closely?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Thank you for showing me your lymph nodes. I do notice that they appear slightly swollen, which could be consistent with an infection. Can you tell me if you've noticed any swelling or redness in your groin area, as this could be a sign of testicular involvement?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, no, I don't think so. I mean, I don't feel anything unusual in my groin area. It's all just really tender and sore down here. But it's not like I've noticed anything specific, like swelling or redness. It's just a general feeling of discomfort.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, I'm going to take a closer look at your lymph nodes again, and I'd also like to check for any swelling in the groin area. Can you please take off your pants and socks for me to assess your lower abdomen and groin more thoroughly?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll do that. I'm not really comfortable with that, but I want to make sure you're trying to help me. Please be gentle and just take a look.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, I've taken a closer look at your lymph nodes and the area in your groin. I do notice some swelling in the groin area, which could be consistent with testicular involvement, possibly a testicular torsion. I'd like to check your scrotum for any signs of swelling or redness. Can you please lift your pants and show me your scrotum?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll do that. I'm not really comfortable with that, but I want to make sure you're trying to help me. Please be gentle and just take a look.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Thank you for showing me your scrotum. I do notice some swelling and redness, which could be consistent with testicular involvement. I'd like to check your testes for any signs of tenderness or pain. Can you tell me if you've noticed any recent pain or discomfort in your testicles?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's hard to describe, but it feels like there's a sharp pain when I press on my testicles. It's not constant, but it comes and goes, and sometimes it feels like it's going to get worse if I don't do something about it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I see that we're getting a better picture of the situation. Based on the swelling in the groin area and the testicular involvement, I'm starting to suspect that we might be looking at a case of testicular torsion. Can you tell me if you've experienced any sudden pain or discomfort in your testicles, which could be a sign that the torsion is progressing?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah, I think so. It started a few days ago, and at first, I thought it was just a sharp pain, but then it got worse and worse. It feels like there's something twisting inside me, and it's really hard to move around without feeling that pain.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Based on the information you've provided, the symptoms of severe abdominal pain, nausea, vomiting, dysuria, fever, and testicular swelling, along with the physical examination findings of tenderness in the lower right quadrant, swollen lymph nodes, and swelling in the groin area, I am going to make a diagnosis.\n\nDIAGNOSIS READY: Testicular torsion, complicated by acute appendicitis\""
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pelvic inflammatory disease",
+    "DIAGNOSIS_READY_Simulation": "Scene 59, The diagnosis was INCORRECT (5.00%)"
+  }
+]

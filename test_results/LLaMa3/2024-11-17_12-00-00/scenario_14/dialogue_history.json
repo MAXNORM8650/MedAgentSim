@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when this swelling started, was it sudden or did it come on gradually?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started about 48 hours ago, and to be honest, I didn't really notice it at first. I was playing football and my finger got caught, and when I pulled it away, I felt a bit of a pop, but I thought it was just a minor injury."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the pain you're experiencing in your right ring finger, is it a dull ache or a sharp, stabbing sensation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is more of a dull ache, but it's getting sharper by the day. It's like when you hit a sore spot on your skin, but it's not just a normal bruise, it's more like... I don't know, it's hard to explain, it just feels like something's out of place."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "How long have you been experiencing the swelling and pain, and have you noticed any triggers that seem to make it worse or better?\n\n\n\nCan you tell me more about the pain, is it constant or does it come and go, and do you feel any numbness or tingling in the surrounding fingers?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is constant, but it's more noticeable when I try to flex my finger at the joint, especially when making a fist. As for numbness or tingling, I haven't noticed anything unusual in the surrounding fingers, but I do feel like there's a bit of stiffness in my finger, especially when I extend it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities, have you noticed any recent changes or increased stress that might be contributing to your condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been trying to keep up with my schoolwork and regular classes, but I have to admit, I've been feeling a bit off since the injury. I've also been noticing that I'm not as comfortable with my grip when holding things, like pens or even my phone. It's like my hand is just a bit... off."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a physical examination to assess the swelling and pain in your right ring finger. Can you please extend your right hand so I can examine it more closely?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll just stretch out my hand for you."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you show me the finger more closely and tell me if I can see any redness or warmth around the affected area?\n\n\n\nAlso, REQUEST TEST: ESR (to check for inflammation levels)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pain when you extend your right hand, does it seem to be more pronounced or does it feel the same as when your hand is at rest?\n\n\n\nAlso, can you point out to me the exact location of the swelling, is it more towards the tip of the finger or the base, and is it more swollen than the other fingers?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "When I extend my right hand, the pain feels similar, but it's a bit more noticeable. It's like the weight of my finger is off, and it's harder to bear, you know? It's not exactly sharp, but it's definitely more uncomfortable.\n\nThe swelling is more towards the tip of the finger, and it's definitely more swollen than the other fingers. I can see it when I look at my hand, and it's a bit more noticeable when I flex my finger at the joint.\n\nIt's also harder to move my finger in certain directions, like when I'm trying to flex it at the joint. I feel like there's a bit of a catch, like my finger is stuck, but I don't feel any pain when I'm not moving it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like the swelling is more towards the base of the finger, and it's not as swollen as the tip. Can you tell me if you've noticed any difficulty moving your finger, or if it feels stiff, especially in the morning?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I do feel stiff in the morning, especially when I try to flex my finger at the joint. It's like my finger is waking up from a nap or something, and it takes a bit of time to get moving again. And yeah, I've noticed it's harder to move my finger in certain directions, like when I'm trying to flex it at the joint, it feels like there's a bit of resistance."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when the swelling first started, did it begin after an injury or a specific incident?\n\n\n\nAlso, have you noticed any changes in the color of the skin around the affected area, such as discoloration or bruising?\n\n\n\nAlso, can you please move your finger slightly, can you see if it moves freely or does it feel stiff?\n\n\n\nCan you tell me about any previous injuries or conditions that may have affected your right ring finger, such as a previous infection or a fracture?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The swelling started about 48 hours ago, and I think it might have been triggered by that incident on the football field. I remember feeling a pop when I pulled my finger away, and then I noticed the swelling started to appear.\n\nAs for the color of the skin, it's a bit red and warm to the touch, but I don't think it's turned any weird colors or anything like that.\n\nLet me try to move my finger... (moves finger slightly) Yeah, it feels a bit stiff, but it seems to be moving okay. I can flex it and extend it, but it still feels a bit off.\n\nTo be honest, I don't think I've had any previous injuries or conditions that would affect my right ring finger. I've had some minor scrapes and bruises in the past, but nothing like this.\n\nIs it okay if I try to flex my finger at the joint again, like I was trying to do earlier?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the pain in more detail, is it a burning sensation or a feeling of pressure that's causing the swelling?\n\n\n\nAlso, REQUEST TEST: Imaging_X-Ray (to check for any fractures or abnormalities in the finger bone)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pain when you move your finger slightly, does it seem to be sharp, dull, or a mix of both?\n\n\n\nAlso, have you noticed any changes in your overall health, such as fever, fatigue, or weight loss, which could be related to the swelling and pain?\n\n\n\nCan you point out to me the exact spot where you feel the most pain when you move your finger, is it towards the tip, the base, or somewhere in between?\n\n\n\nAlso, REQUEST TEST: Rheumatoid_Factor (to check for any autoimmune disorders)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first noticed the pain and swelling, was it during a specific activity or at a certain time of day?\n\n\n\nAlso, have you experienced any numbness or tingling sensations in your other fingers, or is it limited to the right ring finger?\n\n\n\nAnd can you point to the exact location where you feel the most pain, is it more towards the tip, the base, or somewhere in between?\n\n\n\nAlso, REQUEST TEST: Complete_Blood_Count (to check for any underlying infections or anemia)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pain when you move your finger, does it seem to be more pronounced or does it feel the same as when your hand is at rest?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "When I move my finger, the pain feels a bit sharper, but it's not exactly the same as when my hand is at rest. It's more like the weight of my finger is off, and it feels like I'm trying to compensate for something that's not quite right, you know?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pain when you move your finger, does it seem to be more pronounced or does it feel the same as when your hand is at rest?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's like I said, the pain is more noticeable when I try to move my finger, especially when I'm flexing it at the joint. It's a dull ache that gets sharper when I'm trying to make a fist or move it in certain directions."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pain when you move your finger, does it seem to be more pronounced or does it feel the same as when your hand is at rest?\n\n\n\nAlso, have you noticed any changes in your overall health, such as fever, fatigue, or weight loss, which could be related to the swelling and pain?\n\n\n\nCan you point out to me the exact spot where you feel the most pain when you move your finger, is it towards the tip, the base, or somewhere in between?\n\n\n\nAlso, REQUEST TEST: Metabolic PANEL (to check for any underlying metabolic issues)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the finger more closely, can you please spread your fingers apart so I can see the affected area better?\n\n\n\nCan you point out to me the exact location of the swelling, is it more towards the tip of the finger or the base?\n\n\n\nAlso, can you tell me more about the sensation in your finger when you press the affected area gently, does it feel tender or sensitive?\n\n\n\nAlso, REQUEST TEST: Tendon_X-Ray (to check for any tendon abnormalities or inflammation)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation in your finger when you press the affected area gently, does it feel tender or sensitive, and is it a dull ache or sharp pain?\n\n\n\nAlso, can you point to the exact spot where the swelling is most pronounced, is it a small, localized area or does it seem to be spreading?\n\n\n\nIs the pain in your right ring finger constant or does it come and go, and have you noticed any pain when you sleep or perform specific activities?\n\n\n\nAlso, have you noticed any changes in your overall mobility or flexibility in your hand or finger, such as stiffness or limited range of motion?\n\n\n\nCan you point out to me the exact spot where you feel the most pain when you move your finger, is it towards the tip, the base, or somewhere in between?\n\n\n\nAlso, REQUEST TEST: Ultrasound (to check for any fluid accumulation or swelling in the finger)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the finger more closely, can you please point to the exact spot where you feel the most pain when you move your finger, is it towards the tip, the base, or somewhere in between?\n\n\n\nAlso, can you tell me more about the sensation in your finger when you press the affected area gently, does it feel tender or sensitive?\n\n\n\nAlso, I'd like to perform a gentle pressure test on the affected area, can you please hold still for a moment while I apply some pressure?\n\n\n\nAlso, REQUEST TEST: Biopsy (to check for any abnormal cell growth or inflammation in the affected area)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation when I applied pressure to the affected area, was it a sharp pain or a dull ache?\n\n\n\nAlso, can you point to the exact spot where the pain seems to be most pronounced, is it towards the tip, the base, or somewhere in between?\n\n\n\nI'd like to check the pressure test results, can you please wait for a moment while I review them?\n\n\n\nAlso, REQUEST TEST: MRI (to check for any abnormalities in the finger joint or surrounding tissues)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  - Temperature: 36.8\u00b0C (98.2\u00b0F)\n  - Blood_Pressure: 125/80 mmHg\n  - Heart_Rate: 72 bpm\n  - Respiratory_Rate: 14 breaths/min\nHand_Examination: \n  - Inspection: Redness and mild warmth observed around the distal interphalangeal joint of the right ring finger.\n  - Palpation: Tenderness localized at the distal interphalangeal joint of the right ring finger.\n  - Range_of_Motion: Patient unable to flex the right ring finger at the distal interphalangeal joint while attempting to make a fist. No joint laxity.\n  - Neurovascular_Assessment: Normal capillary refill, no sensory deficits.\ntests: \n  - X-ray_of_the_Right_Hand: No bone fractures or dislocations visible. Soft tissue swelling noted around the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Rheumatoid Arthritis of the Right Ring Finger"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Rupture of the flexor digitorum profundus tendon at its point of insertion",
+    "DIAGNOSIS_READY_Simulation": "Scene 14, The diagnosis was INCORRECT (0.00%)"
+  }
+]

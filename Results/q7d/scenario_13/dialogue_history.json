@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe when you first noticed the vomiting started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started right after birth, actually. The mother said it was within the first few hours, I'm not really sure. She said it's been a constant issue ever since.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did the vomiting start immediately after birth or did it begin a few hours later? REQUEST TEST: Abdominal ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Was the baby able to pass meconium within the first 24 hours after birth? REQUEST TEST: Abdominal ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Normal Readings"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The baby was not able to pass meconium within the first 24 hours, and the vomiting seems to have started about 12 hours post-birth. REQUEST TEST: Abdominal ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Abdominal Ultrasound: No free fluid in the abdomen, but the bowel appears to be dilated and tortuous, with a transition zone at the rectosigmoid region."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is the baby showing any signs of discomfort or pain during the vomiting? DIAGNOSIS READY: Hirschsprung's disease."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Hirschsprung\u2019s disease",
+    "DIAGNOSIS_READY_Simulation": "Scene 13, The diagnosis was INCORRECT (0%)"
+  }
+]

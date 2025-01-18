@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What symptoms are you observing in the newborn besides respiratory distress?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed some rapid breathing and retractions in the chest. There\u2019s also some flaring of the nostrils and a bit of a bluish tint to the skin."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any issues with feeding or any signs of lethargy in the newborn?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No feeding difficulties were noted before the symptoms started, and the baby seems alert otherwise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn experienced any fever or changes in body temperature?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, there hasn't been any fever or noticeable changes in body temperature. The baby feels warm to the touch, but nothing unusual has been observed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any prenatal complications or maternal infections during pregnancy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The mother had gestational diabetes, but there were no other significant complications or infections during the pregnancy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn been exposed to any environmental factors, such as smoke or allergens, after birth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, there haven't been any exposures to smoke or allergens since birth. The environment has been clean and controlled."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abnormal heart rate or murmurs during the newborn's examination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any abnormal heart rate or murmurs during the examination. The heartbeat seems regular and steady."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of nasal congestion or abnormal secretions from the nose?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, there haven't been any signs of nasal congestion or abnormal secretions from the nose. The nasal passages appear clear."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of cyanosis or changes in the baby's color during feeding or while at rest?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, there has been some cyanosis observed, especially when the baby is at rest. However, it seems to improve with oxygen administration."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abnormal lung sounds, such as wheezing or crackles, during the examination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any wheezing or crackles during the examination. The breathing sounds seem fairly clear, but the rapid breathing is concerning."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of gastrointestinal issues, such as vomiting or abdominal distension in the newborn?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, there haven't been any signs of vomiting or abdominal distension. The baby's abdomen appears soft and non-distended."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of increased work of breathing, such as grunting or use of accessory muscles?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've noticed some use of accessory muscles during breathing, and there may be occasional grunting sounds as well. The baby seems to be working harder to breathe."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any prenatal ultrasounds or tests that indicated potential congenital issues with the heart or lungs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No prenatal ultrasounds indicated any congenital issues with the heart or lungs. Everything appeared normal during the scans."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of meconium-stained amniotic fluid during delivery?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, there were no signs of meconium-stained amniotic fluid during delivery. The fluid appeared clear at that time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abnormal respiratory rates or patterns, such as apnea or periods of cessation of breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any periods of cessation of breathing or apnea. The breathing is rapid, but it seems continuous without any long pauses."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of clubbing of the fingers or toes, or any other physical abnormalities noted during the examination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No signs of clubbing have been observed, and there don't appear to be any other physical abnormalities during the examination. The baby looks generally normal aside from the respiratory symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any recent changes in the newborn's environment, such as a new caregiver or a recent move?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, there haven't been any recent changes in the environment. The baby has been in a stable setting with the same caregivers since birth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of increased respiratory effort, such as a prolonged expiratory phase or retractions beyond the chest?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, there have been noticeable retractions in the chest, and the baby seems to be using more effort to breathe. The breathing appears labored, especially during the rapid breaths."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of hypoglycemia, such as jitteriness or irritability in the newborn?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No signs of hypoglycemia have been observed. The baby seems calm and not jittery or irritable at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abnormal blood oxygen levels, such as low readings on a pulse oximeter?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't seen any specific readings, but the cyanosis improves with oxygen administration, suggesting there might be some issues with blood oxygen levels."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Pulse_Oximetry."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Doctor: Can you tell me if the baby has had any episodes of coughing or wheezing? Patient: No, there haven't been any episodes of coughing or wheezing. The breathing is rapid, but it seems clear otherwise."
+  }
+]

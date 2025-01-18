@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides hematuria and right flank pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any fever, nausea, or vomiting. I also don't have any issues with dysuria or diarrhea."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your urinary habits, such as increased frequency or urgency?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my urinary habits, no increased frequency or urgency. It\u2019s mostly just the blood in my urine and the pain in my flank."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent injuries or trauma to your abdomen or back?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent injuries or trauma to my abdomen or back. Everything seemed normal until the blood and pain started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any weight loss or changes in appetite recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any weight loss or changes in my appetite. My eating habits have been pretty consistent."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of kidney stones or urinary tract infections in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I have a history of recurrent urinary tract infections over the past few years, but I haven't had any kidney stones that I'm aware of."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent imaging studies or tests done related to your urinary tract or kidneys?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent imaging studies or tests done for my urinary tract or kidneys. The last time I had any tests was a while ago when I was treated for a urinary tract infection."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the color or odor of your urine besides the presence of blood?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in the color or odor of my urine besides the blood. It seems to look normal otherwise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain during urination or any discomfort in your lower abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any pain during urination, and I don't have any discomfort in my lower abdomen. The pain is mainly localized to my right flank."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel or exposure to any new environments that could have introduced infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled recently or been exposed to any new environments. My routine has been pretty stable, mostly just work and home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of kidney disease, urinary tract issues, or cancers?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known family history of kidney disease, urinary tract issues, or cancers. My family generally has been healthy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any swelling in your legs or feet, or any other signs of fluid retention?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my legs or feet, and I don't have any signs of fluid retention. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your skin, such as rashes or unusual bruising?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any changes in my skin, no rashes or unusual bruising. My skin has been normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, particularly looking at your kidney function or blood counts?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done to check my kidney function or blood counts. The last tests I had were related to my urinary tract infections a while back."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of severe pain that comes and goes, or is the pain in your right flank constant?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain in my right flank has been more constant rather than coming and going. It\u2019s uncomfortable, but it doesn\u2019t seem to spike into severe pain at any point."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your hydration status, such as increased thirst or decreased urine output?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my hydration status. My thirst feels normal, and my urine output seems consistent with what I usually experience."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent dental work or procedures that could have introduced bacteria into your bloodstream?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent dental work or procedures. My dental visits have been routine and nothing out of the ordinary."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any flank pain that radiates to other areas, such as your groin or lower abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any flank pain that radiates to other areas like my groin or lower abdomen. The discomfort is mostly localized to my right flank."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your blood pressure or heart rate recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my blood pressure or heart rate. Everything feels pretty normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of chills or night sweats recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any chills or night sweats recently. My temperature feels normal, and I haven't noticed any unusual sweating at night."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and history, I would like to REQUEST TEST: Urinalysis to check for any signs of infection or other abnormalities in your urine."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: {'Appearance': 'Reddish', 'WBC': '10-20 /HPF', 'RBC': 'Too numerous to count', 'Nitrites': 'Negative', 'Leukocyte_Esterase': 'Positive'}"
+  }
+]

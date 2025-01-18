@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me what brings you in today?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'm not really sure, I just feel really foggy and disoriented. I was doing my usual things, but everything seems...different somehow.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent stressors or significant life events that may have occurred in the past few weeks or months?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been feeling really overwhelmed with work and family stuff, but nothing too out of the ordinary. I did have a bit of a disagreement with my sister last week, but that's about it. Nothing that I'd expect to have such a profound effect, though.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe to me a typical day in your daily life, including your activities, routine, and any social interactions you've had recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, yeah... I wake up, get dressed, go to work, come home, watch TV or read a book, maybe go for a walk. I usually see my family on the weekends, but lately, I've been having trouble remembering what day it is or what day of the week. And I'll be in the middle of something, like cooking dinner, and I'll forget what I was doing or where I put things.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any changes in your sleep patterns, such as difficulty falling asleep, staying asleep, or experiencing excessive daytime sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, yeah... I've been having trouble sleeping at night. I'll go to bed fine, but I'll wake up multiple times during the night and can't seem to fall back asleep. And during the day, I feel really tired all the time, like I've been up for days. It's really frustrating because I just want to be able to function normally again.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to do a physical examination to get a better understanding of your overall health. Can you please stand up and walk slowly to the examination table for me?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'll try my best, doc. I'm just going to take my time, okay?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to perform a neurological examination, starting with a mental status exam. Can you please tell me the names of your medications, including any supplements or vitamins you're currently taking?\n\n\n\nAlso, can you describe your current emotional state? Are you feeling anxious, depressed, or is there anything else that's causing you distress?\n\n\n\nAnd while you're standing, I'll take note of your gait and coordination.\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, I'm on some blood pressure meds, Metformin for my diabetes, and a multivitamin. I'm not really sure about the other supplements I'm taking, though. I think I got a vitamin D one from my doctor, but I'm not really keeping track. I don't feel anxious, per se... just really confused and tired all the time. I'm just feeling really out of sorts, I guess. My heart's racing a bit, but that's not really new.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent changes in your appetite or weight, have you noticed any significant weight loss or gain?\n\n\n\nAlso, I've taken note of your gait and coordination, it appears to be within normal limits. Now, let's take a closer look at your neurological exam, can you follow my fingers with your eyes as I move them in different directions?\n\n\n\nAlso, I'd like to request a test: Blood Work - Complete Blood Count (CBC)"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've noticed I've lost a bit of weight, I'd say about 5 or 10 pounds in the past few weeks. I've just been eating less, I guess, because I'm not really hungry all the time. And I've also been having trouble keeping food down, if I'm being honest.\"\n\n\"Okay, I'll try my best to follow your fingers. *looks around the room, frowns slightly* Hmm, I think I lost sight of your fingers for a second... *looks back at the doctor* Are you moving them really fast?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"I'd like to continue with the neurological examination. Can you close your eyes and hold them shut for a few seconds while I observe your pupils and reflexes?\n\n\n\nAlso, I'd like to request a test: Electroencephalogram (EEG)\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, yeah... I'll try my best. *closes eyes and holds them shut for a few seconds, then opens them slightly, looking a bit disoriented* I think I lost track of where I was for a second there... what were we doing again?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any previous medical conditions or diseases that you've been diagnosed with in the past, and have you had any previous hospitalizations or surgeries?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, um, let me think... I've had hypertension for a while, and my doctor says I need to take my meds regularly. I've also had diabetes for a few years, and I'm trying to manage it with my Metformin. I've never had any major surgeries, but I did have a bit of a bout with acid reflux a few years ago. That was pretty bad, but it's been under control since then.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your emotional state? What's been on your mind lately?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Honestly, I just feel really lost, like I'm stuck in a fog. I know it sounds silly, but it's hard to explain. I'm trying to keep everything straight, but my mind just feels... cloudy. Like, I'll be thinking about something and then suddenly it's gone, and I have to start all over again.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe to me any recent changes in your mood, such as feeling irritable, restless, or having a general sense of unease?\n\n\n\nAlso, can you tell me about your social interactions recently? Have you noticed any changes in your relationships with family and friends?\n\n\n\nCan you confirm your medication list, and are there any dosages or frequency that you're taking?\n\n\n\nLet's take a closer look at your speech, can you repeat a simple sentence for me, such as \"the sky is blue\"?\n\n\n\nAlso, I'd like to request a test: Urine Toxicology Screen"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'm feeling really anxious, like I'm walking around in a dream and I don't know what's real. I feel like I'm stuck in a never-ending loop and I don't know how to get out. It's really frustrating because I just want to be able to think clearly and remember things like I used to.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your recent social interactions? Have you noticed any changes in your relationships with family and friends?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Honestly, doc, I've been having trouble connecting with my family, too. I'll be trying to talk to them, and I'll forget what I was saying or where we were. They're getting a bit worried, but I just feel so... disconnected, you know? I'll be in the middle of a conversation, and I'll just zone out and forget what's going on. It's like I'm stuck in my own little world, and they're just passing by me.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your family history, particularly if any of your relatives have been diagnosed with mental health conditions or neurological disorders?\n\n\n\nAlso, can you repeat the sentence \"the sky is blue\" again, and I'd like to observe your speech pattern and any potential signs of apraxia or aphasia?\n\n\n\nAnd can you tell me more about your recent daily activities, have you noticed any changes in your productivity or ability to concentrate?\n\n\n\nAlso, I'd like to request a test: Magnetic Resonance Imaging (MRI) of the brain."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, um, my family... I don't really have any relatives with mental health issues, that I know of. My mom had some anxiety when I was younger, but she's okay now. I do have a brother who's been in and out of rehab for substance abuse, but that's a whole different story... *trails off, looking confused*\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses so far. Let's move on to the next step. Can you tell me about your relationship with your family, particularly your spouse or partner, and how they've been supporting you lately?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'm not really sure... I mean, my husband is really trying to help me, but I just feel so... lost. I don't know how to explain it to him, you know? He's been telling me to take it easy and just rest, but I feel like I'm losing myself. I'm trying to be patient with him, but it's hard when I don't even know what's going on sometimes.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your relationship with your spouse or partner, and how they've been supporting you lately?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, yeah... my husband is really supportive, I guess. He's been trying to help me keep track of appointments and stuff, but I just feel so... forgetful. I know he's getting worried, but I just don't know how to explain it to him. I'm trying to be patient with him, but it's hard when I don't even know what day it is sometimes.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a test: Liver Function Tests (LFT)."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, okay... I think my husband is trying his best to help me, but it's just really hard for me to keep track of everything. He's been making lists and reminders for me, but I just can't seem to remember them even when he shows them to me.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take note of your speech pattern and any potential signs of apraxia or aphasia. Can you please repeat the sentence \"the sky is blue\" again, and I'd like to observe your speech pattern and any potential signs of apraxia or aphasia?\n\n\n\nAlso, I'd like to request a test: EEG to assess your brain wave activity, and please confirm if you're currently experiencing any seizures or convulsions?\n\n\n\nAnd can you tell me more about your daily activities, have you noticed any changes in your productivity or ability to concentrate, such as feeling mentally foggy or disoriented?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, okay... *repeats the sentence* The sky is blue... *pauses, looks around the room, and seems disoriented* Wait, what were we doing again?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent changes in your daily routine, such as changes in your sleep schedule, exercise habits, or social activities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Hmm, I don't think I've really had any changes in my sleep schedule, but I have been going to bed really late at night, sometimes around 2 or 3 am. And I'll wake up and lie there for a while, trying to fall back asleep, but I just can't seem to relax. As for exercise, I used to like going for walks, but lately, I haven't been feeling up to it. And social activities... well, like I said, I've been having trouble remembering what day it is or what day of the week, so I haven't really been doing much socializing lately. I feel like I'm just going through the motions, you know?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses. It seems like you've had a significant amount of stress and life changes recently. Can you tell me about any physical sensations you've experienced, such as headaches, muscle aches, or numbness in your extremities?\n\n\n\nAlso, can you describe your sense of smell and taste, have you noticed any changes or abnormalities?\n\n\n\nREQUEST TEST: Thyroid Function Tests (TSH)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n- Temperature: 36.8\u00b0C (98\u00b0F)\n- Blood Pressure: 140/85 mmHg\n- Heart Rate: 90 bpm\n- Respiratory Rate: 18 breaths/min\n\nNeurological Examination:\n- Mental Status: Alert but noticeably confused. Oriented to person but not to time or place.\n- Cranial Nerves: Grossly intact.\n- Motor Examination: No focal weakness.\n- Sensory Examination: Intact to light touch.\n- Coordination: No ataxia observed.\n- Reflexes: Symmetrical.\n\ntests:\n- Serum Laboratory Analysis:\n  - Na: 122 mEq/L\n  - K: 3.9 mEq/L\n  - HCO3: 24 mEq/L\n  - BUN: 21 mg/dL\n  - Cr: 0.9 mg/dL\n  - Ca: 8.5 mg/dL\n  -"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed all your responses and test results. It's time for me to make a diagnosis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Lung cancer",
+    "DIAGNOSIS_READY_Simulation": "Scene 28, The diagnosis was INCORRECT (0%)"
+  }
+]

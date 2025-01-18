@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the pain in your right groin? Is it sharp, dull, constant, or intermittent?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a sharp pain that feels constant, especially when I try to move my leg. It gets worse with any weight on it or when I try to straighten it out."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling, bruising, or deformity in your right leg or groin area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, there is some swelling around my right groin, and I can see some bruising starting to form. My right leg also looks a bit different compared to the left."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any numbness or tingling in your right leg or foot?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt any numbness or tingling in my right leg or foot. The pain is really the main issue I'm dealing with right now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been able to bear weight on your right leg since the accident, or has it been too painful?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been too painful to bear weight on my right leg since the accident. I can barely put any pressure on it without feeling sharp pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous injuries or surgeries to your right leg or hip before this accident?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any previous injuries or surgeries to my right leg or hip. This is the first time I've experienced anything like this."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your range of motion in your right leg, such as difficulty bending or straightening it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've definitely noticed a significant decrease in my range of motion. I can hardly bend or straighten my right leg without experiencing intense pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fever, chills, or other systemic symptoms since the accident?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any fever or chills. I feel generally okay aside from the pain in my right groin and knees."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging done since the accident, such as an X-ray or MRI of your hip or pelvis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any imaging done yet. I was hoping to get some answers from you first before proceeding with any tests."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your ability to walk or stand since the accident?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had a lot of difficulty walking and standing since the accident. It feels unstable, and I can't put much weight on my right leg without severe pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any clicking or popping sounds in your hip or groin area when trying to move your leg?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any clicking or popping sounds in my hip or groin area. The pain is really the main focus for me when I try to move my leg."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain radiating down your leg or into your knee?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't felt any pain radiating down my leg or into my knee. The pain is mostly concentrated in my right groin and both knees."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been able to perform any daily activities, such as sitting or standing, without significant discomfort?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been really difficult to perform daily activities. Sitting and standing both cause a lot of discomfort, and I often have to adjust my position to find some relief."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your ability to move your hip, such as difficulty lifting your leg or rotating it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've definitely noticed difficulty lifting my leg and rotating it. Any attempt to move my hip causes a lot of pain, and I feel very limited in what I can do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain in your lower back or any other areas besides your right groin and knees?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any pain in my lower back or any other areas. The pain is really just focused on my right groin and both knees."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin color or temperature around the right groin area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed that the skin around my right groin is a bit warmer compared to the left side, and it looks slightly red in the bruised areas. The swelling also makes it feel different to the touch."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any difficulty with bowel or bladder control since the accident?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any difficulty with bowel or bladder control since the accident. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent imaging done, such as an X-ray or MRI of your hip or pelvis? If not, would you be open to getting one to help us understand the extent of your injury?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any imaging done yet, but I would be open to getting an X-ray or MRI if it will help figure out what's going on. I just want to understand the extent of my injury and find some relief."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: X-Ray_Hip_and_Pelvis. Let's proceed with an X-ray of your hip and pelvis to assess for any fractures or dislocations that may have occurred during the collision. This will help us understand the extent of your injury better."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: No fractures identified in the pelvic ring or femoral neck, but alignment suggests posterior dislocation of the right hip."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the X-ray results indicating a posterior dislocation of your right hip, I need to confirm if you have experienced any weakness in your right leg or difficulty moving it since the accident. Have you noticed any changes in muscle strength?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed some weakness in my right leg since the accident. It feels like I can't push or lift it as well as I used to, and any attempt to move it is really painful."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Posterior dislocation of the right hip."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Posterior hip dislocation",
+    "DIAGNOSIS_READY_Simulation": "Scene 12, The diagnosis was CORRECT, 53%"
+  }
+]

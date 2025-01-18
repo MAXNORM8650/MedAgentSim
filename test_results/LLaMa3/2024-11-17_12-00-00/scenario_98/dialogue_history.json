@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first started experiencing these symptoms? Was there a specific event or incident that made them worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, it just started a week ago, and it's been getting progressively worse. I was doing my usual routine and then suddenly I felt this strange numbness in my leg, and I stumbled a bit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily routine and activities? Do you have any hobbies or tasks that you normally perform without assistance that have become more challenging for you since the symptoms started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I usually take care of my daily tasks, like cooking and cleaning, but now I find myself struggling with simple things like operating the stove or even getting the laundry from the washer to the dryer. I've also been having trouble finding my way around the house, which is really frustrating for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did you first notice a decline in your balance and ability to walk without assistance, and have you experienced any numbness or tingling sensations in your legs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started a week ago, as I mentioned, and it's been getting progressively worse. I've been noticing that I'm having trouble walking without stumbling, and I've had a few falls, which has made me a bit anxious about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe to me what happens when you try to walk, do you feel like you're going to fall or do you have trouble maintaining your balance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's like my legs just aren't cooperating anymore. I try to take a step, but my foot feels like it's stuck to the ground or something. I'm worried I'm going to lose my balance and fall, which is why I've been having these multiple falls. It's really scary, to be honest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about your memory loss - do you find yourself forgetting important dates, appointments, or tasks that you normally remember easily?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yeah, it's been really frustrating. I'll be doing something, like making breakfast or taking my medication, and I'll forget what I was doing or why I'm doing it. It's like my brain just freezes for a second, and then I'm back to normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mental state, have you experienced any anxiety or mood swings since the onset of these symptoms?\n\n\n\nAlso, I'd like to perform a neurological examination, starting with your reflexes, can you show me your ankle jerk reflex?\n\n\n\nREQUEST TEST: Neurological_Brain_MRI"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Mental_Status: Somnolent, slightly confused, oriented to person but not place or time.\n- Motor: Right lower extremity weakness with normal tone, no other focal deficits.\n- Sensory: Information not provided.\n- Reflexes: Absent or diminished ankle jerk reflex on the right side.\n- Coordination: Unsteady gait.\n- Neurological_Brain_MRI: \n  - Findings: Disseminated, nonenhancing white matter lesions with no mass effect."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mental state, have you noticed any difficulty understanding written or spoken language, such as reading or following conversations?\n\n\n\nPlease proceed with the neurological examination, now I'd like to assess your coordination by asking you to walk for me, can you please walk along this straight line on the floor and tell me when you feel like you need to stop or when you feel unstable?\n\n\n\nPlease go ahead with the neurological examination, I'll be taking note of your response to the ankle jerk reflex."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really remember how I got here, to be honest. I was just sitting down, and the next thing I knew, you were talking to me. I don't know what day it is or what time it is, to be frank. \n\nPlease, let me try to walk along the line. *starts walking along the line, stumbling slightly* Oh, I don't feel very stable, to be honest. My feet feel like they're not connecting with the ground right. *stops suddenly and looks down* I think I might need to take a break."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the patient's response to the ankle jerk reflex. It appears to be a bit delayed, but still present. I'd like to assess their lower limb strength further. Can you please stand up and walk on your toes for me? \n\nAlso, I'd like to request a test to assess their cerebrospinal fluid: REQUEST TEST: Lumbar_Puncture."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital_Signs: Temperature: 37.5 \u00b0C (99.5 \u00b0F), Blood_Pressure: 154/70 mm Hg, Heart_Rate: 100/min, Respiratory_Rate: 15/min.\n- Neurological_Examination: Mental_Status: Somnolent, slightly confused, oriented to person but not place or time, Anxiety: Moderate, Mood swings: Possible.\n- Motor: Right lower extremity weakness with normal tone, no other focal deficits, Lower limb strength: Fair.\n- Sensory: Information not provided.\n- Reflexes: Absent or diminished ankle jerk reflex on the right side, Delayed response to toe walk.\n- Coordination: Unsteady gait.\n- Lumbar_Puncture: \n  - Cerebrospinal Fluid Analysis: Protein: 80 mg/dL, Glucose: 60 mg/dL, Cell Count: 200 cells/mm3, Pus: Negative."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities, specifically any tasks that require manual dexterity, such as cooking or using utensils, that have become more challenging for you since the symptoms started?\n\n\n\nAlso, when I asked you to walk along the straight line, what happened? Did you feel like you needed to stop or did you have trouble maintaining your balance?\n\n\n\nPlease stand still for a moment while I review the results of the Neurological_Brain_MRI."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I find myself struggling to perform tasks that require a bit of finesse, like cooking or using the stove. I'll be making breakfast, and I'll have to stop and think about what I'm doing, you know? It's like my hands and brain aren't quite on the same page.\n\nI tried to walk along the straight line, but I felt like I was wobbling all over the place. I couldn't quite get my feet to cooperate, and I felt like I was going to lose my balance at any moment. It was really unsettling.\n\nI think I need to sit down for a bit, to be honest. This whole thing is a bit overwhelming."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities, specifically any tasks that require manual dexterity, such as cooking or using utensils, that have become more challenging for you since the symptoms started?\n\n\n\nAlso, when you walked along the straight line, did you feel like you needed to stop or did you have trouble maintaining your balance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's like I'm trying to make breakfast, and I know how to do it, but my hands are just not cooperating. I'll be making toast, and I'll have to stop and think about which butter to use, or how to flip the toast. It's like my brain is telling me what to do, but my hands aren't listening.\n\nAnd when I walked along the straight line, I felt like I was going to fall over, but I didn't really know why. It just felt like my feet weren't connecting with the ground right. I didn't feel like I needed to stop, but I just couldn't keep going. It was like my legs were just giving up on me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any changes you've noticed in your vision, such as double vision, blurred vision, or sensitivity to light?\n\n\n\nAlso, when you walked along the straight line, what was the outcome? Did you have trouble maintaining your balance or feeling like you needed to stop?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think I just lost my balance for a split second, and my feet felt like they were stuck to the ground. I managed to catch myself, but it was really scary. I didn't feel like I needed to stop, but I couldn't keep going.\n\nI've also noticed that I'm having trouble judging distances, like trying to measure out ingredients while cooking. I'll be following a recipe, and I'll think I've measured out the right amount, but then I'll realize I've gone too far. It's like my sense of spatial awareness is off."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe to me what happens when you try to perform tasks that require manual dexterity, such as cooking or using utensils, do you experience any difficulty or discomfort?\n\n\n\nAlso, regarding the Neurological_Brain_MRI results, can you tell me what you've noticed so far?\n\n\n\nPlease continue with the neurological examination, I'd like to assess your coordination by having you perform a heel-to-toe walking test, can you please walk along this straight line and point to each toe as you walk?\n\n\n\nAlso, I'd like to request a test to assess your balance: REQUEST TEST: Single_Leg_Stand."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital_Signs: Temperature: 37.5 \u00b0C (99.5 \u00b0F), Blood_Pressure: 154/70 mm Hg, Heart_Rate: 100/min, Respiratory_Rate: 15/min.\n- Neurological_Examination: Mental_Status: Somnolent, slightly confused, oriented to person but not place or time, Anxiety: Moderate, Mood swings: Possible.\n- Motor: Right lower extremity weakness with normal tone, no other focal deficits, Lower limb strength: Fair.\n- Sensory: Information not provided.\n- Reflexes: Absent or diminished ankle jerk reflex on the right side, Delayed response to toe walk.\n- Coordination: Unsteady gait.\n- Single_Leg_Stand: \n  - Time to stand on one leg: 30 seconds, Balance: Fair, Eyes closed: Unable to maintain balance.\n  - Single-Leg_Stand with eyes closed: Unable to maintain balance"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's take a closer look at your heel-to-toe walking test. Can you please point to each toe as you walk along this line, and tell me when you feel like you're about to lose your balance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try my best, but I'm feeling a bit unsteady. *takes a deep breath and starts walking along the line, pointing to each toe* Um, my big toe, my second toe... *stops suddenly* Oh no, I think I'm going to fall! *catches self* My third toe, my fourth toe... *keeps walking, but with a shaky gait* My little toe... I feel like I'm going to lose my balance again! *grabs onto the edge of the table for support*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like you're having a bit of trouble maintaining your balance while walking, and you had to stop several times. Can you tell me more about what's going through your mind when you're trying to walk and feel like you're going to fall? Is it a sense of fear, anxiety, or something else?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's like my mind is racing, and I'm trying to focus on putting one foot in front of the other, but my body feels like it's betraying me. I'm worried that I'm going to fall, and that's causing me a lot of anxiety, which is making it harder for me to think clearly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about what happens when you try to focus on a task and your mind starts to wander, do you feel a sense of disconnection or distraction?\n\n\n\nAlso, regarding your visual disturbances, have you noticed any changes in your visual field, such as blind spots or double vision?\n\n\n\nPlease continue with the Single_Leg_Stand test, I'd like to assess your ability to maintain balance on one leg for as long as possible."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I feel like I'm having trouble focusing on anything for too long, and my mind starts to wander. It's like I'm trying to concentrate on one thing, but my brain keeps drifting away to other things. I feel a bit disconnected from what I'm doing, like I'm just going through the motions.\n\nI haven't noticed any blind spots in my visual field, but I do feel like I'm having trouble judging distances and spatial awareness, like I mentioned earlier. It's hard for me to gauge how far things are from me, and that's causing a lot of frustration.\n\nI'll try my best to stand on one leg for as long as I can. *stands on one leg, eyes closed* I'm feeling a bit wobbly, but I'll try to focus... *sways slightly* Oh no, I think I might be losing my balance... *catches self* I'll try again. *stands on one leg, eyes closed* I'm feeling a"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like you're having trouble maintaining your balance while walking. Can you tell me what happens when you're trying to focus on a task and your mind starts to wander, do you feel a sense of disconnection or distraction?\n\n\n\nAlso, can you describe the sensation in your legs when you try to stand up and walk on your toes, was it numbness, tingling, or weakness?\n\n\n\nPlease continue with the Single_Leg_Stand test, I'd like to assess your ability to maintain balance on one leg for as long as possible."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's like my mind is racing and I'm trying to focus, but my body feels like it's not cooperating. I'm worried about falling, and that's causing a lot of anxiety, which is making it harder for me to think clearly. I feel like I'm just going through the motions, like I'm trying to concentrate on one thing, but my brain keeps drifting away to other things.\n\nRegarding the sensation in my legs, I feel like my legs are just not cooperating when I try to stand up and walk on my toes. It's like they're heavy and unresponsive, like they're not listening to my brain. I don't feel numbness or tingling, but more like a general weakness and heaviness. It's like my legs are just giving up on me.\n\nI'll try my best to stand on one leg for as long as I can. *stands on one leg, eyes closed* I'm feeling a bit wobbly, but I'll try to"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sensation in your legs when you try to stand up and walk on your toes, was it numbness, tingling, or weakness?\n\n\n\nAlso, I'd like to review the results of the Lumbar_Puncture test, can you tell me what you've noticed so far?\n\n\n\nPlease continue with the Single_Leg_Stand test, I'd like to assess your ability to maintain balance on one leg for as long as possible.\n\n\n\nAlso, can you tell me more about your mental state, have you experienced any feelings of hopelessness or despair since the onset of these symptoms?\n\n\n\nPlease stand still for a moment while I review the results of the Single_Leg_Stand test.\n\n\n\nCan you tell me more about your family medical history, have any of your relatives been diagnosed with neurological disorders?\n\n\n\nAlso, I'd like to request a test to assess your cognitive function: REQUEST TEST: Mini_Mental_State_Examination."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital_Signs: Temperature: 37.5 \u00b0C (99.5 \u00b0F), Blood_Pressure: 154/70 mm Hg, Heart_Rate: 100/min, Respiratory_Rate: 15/min.\n- Neurological_Examination: Mental_Status: Somnolent, slightly confused, oriented to person but not place or time, Anxiety: Moderate, Mood swings: Possible.\n- Motor: Right lower extremity weakness with normal tone, no other focal deficits, Lower limb strength: Fair.\n- Sensory: Information not provided.\n- Reflexes: Absent or diminished ankle jerk reflex on the right side, Delayed response to toe walk.\n- Coordination: Unsteady gait.\n- Single_Leg_Stand: \n  - Time to stand on one leg: 30 seconds, Balance: Fair, Eyes closed: Unable to maintain balance.\n  - Single-Leg_Stand with eyes closed: Unable to maintain balance"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like the patient is having trouble standing on one leg for an extended period. Can you please try to hold the single-leg stand for just 10 more seconds and tell me how you're feeling?\n\n\n\nAlso, I'd like to review the results of the Mini_Mental_State_Examination, can you tell me what you've noticed so far?\n\n\n\nPlease continue with the Single_Leg_Stand test and assess the patient's ability to maintain balance on one leg for a longer duration.\n\n\n\nCan you please describe the sensation in your legs when you try to stand up and walk on your toes, was it numbness, tingling, or weakness?\n\n\n\nAlso, I'd like to request a test to assess your balance and coordination: REQUEST TEST: Timed_Walk_Test.\n\n\n\nPlease stand still for a moment while I review the results of the Mini_Mental_State_Examination.\n\n\n\nCan you tell me more about your family medical history, have any of your relatives been diagnosed with neurological disorders?\n\n\n\nAlso, I'd"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital_Signs: Temperature: 37.5 \u00b0C (99.5 \u00b0F), Blood_Pressure: 154/70 mm Hg, Heart_Rate: 100/min, Respiratory_Rate: 15/min.\n- Neurological_Examination: Mental_Status: Somnolent, slightly confused, oriented to person but not place or time, Anxiety: Moderate, Mood swings: Possible.\n- Motor: Right lower extremity weakness with normal tone, no other focal deficits, Lower limb strength: Fair.\n- Sensory: Information not provided.\n- Reflexes: Absent or diminished ankle jerk reflex on the right side, Delayed response to toe walk.\n- Coordination: Unsteady gait.\n- Single_Leg_Stand: \n  - Time to stand on one leg: 40 seconds, Balance: Fair, Eyes closed: Unable to maintain balance.\n  - Single-Leg_Stand with eyes closed: Unable to maintain balance"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to ask about the results of the Mini_Mental_State_Examination, have you noticed any significant decline in your cognitive function or memory since the onset of these symptoms?\n\n\n\nAlso, regarding your family medical history, can you tell me more about your mother's side of the family, has she been diagnosed with any neurological disorders?\n\n\n\nPlease stand still for a moment while I review the results of the Mini_Mental_State_Examination and the Single_Leg_Stand test."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm not sure what's going on with my memory, to be honest. I'll be doing something, and then suddenly I'll forget what I was doing. It's like my brain just freezes for a second. I've noticed it's been getting worse lately, though. I'll be trying to remember something, and it just won't come to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your responses, it appears that you have been experiencing a decline in cognitive function, balance, and motor skills. The delayed ankle jerk reflex, difficulty with manual dexterity, and trouble maintaining balance while walking are all indicative of a neurological disorder.\n\nCan you tell me more about your family medical history, specifically any neurological disorders that may have been present in your maternal lineage?\n\n\n\nAlso, I'd like to review the results of the Lumbar_Puncture test and the Mini_Mental_State_Examination to see if we can identify any abnormalities in your cerebrospinal fluid or cognitive function.\n\n\n\nPlease stand still for a moment while I review the results of the Mini_Mental_State_Examination and the Single_Leg_Stand test.\n\n\n\nOne more thing, can you tell me about any recent changes in your sleep patterns or difficulty falling asleep?\n\n\n\nDIAGNOSIS READY: Frontotemporal Dementia with parkinsonism"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Progressive multifocal leukoencephalopathy",
+    "DIAGNOSIS_READY_Simulation": "Scene 98, The diagnosis was INCORRECT (5.05%)"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What areas of your body are affected by the rash, and how long have you been experiencing these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The rash is mainly on my upper body and face, and I've been dealing with it for about a year now. It's really itchy and bothersome."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any triggers that worsen the rash, such as certain foods, stress, or environmental factors?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really pinpointed any specific triggers. It seems to flare up regardless of what I eat or do, but stress might make it a bit worse at times."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any other symptoms alongside the rash, such as fever, fatigue, or joint pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fever or fatigue, and my joints feel fine. The only other symptoms I've noticed are some numbness and tingling in my palms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your environment, such as moving to a new location or exposure to new chemicals or allergens?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't moved recently, and I work on the same family farm I've always been on. I do handle some chemicals for farming, but nothing new has been introduced."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous skin conditions or allergies in the past that might be relevant to your current symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any significant past medical history or previous skin conditions. I've never had allergies that I know of either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin, such as scaling, blistering, or crusting in addition to the rash?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any scaling or blistering, but the rash can get quite red and inflamed at times. It mostly just itches and feels uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your overall health, such as weight loss or changes in appetite, since the rash began?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any weight loss or changes in my appetite. My eating habits have remained pretty consistent throughout this time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or skin biopsies done to investigate the rash further?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests or skin biopsies done yet. I was hoping to get some answers during this visit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any family history of skin conditions or autoimmune diseases that might be relevant to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know of any family history of skin conditions or autoimmune diseases. My family has generally been healthy, with no significant issues like that."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sensitivity to temperature or any unusual sensations in your extremities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed some numbness and tingling in both of my palms, but I haven't experienced any changes in temperature sensitivity. It feels more like a persistent tingling rather than anything else."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to any new medications, supplements, or herbal remedies that could be related to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't started any new medications, supplements, or herbal remedies recently. I've been sticking to what I've always used without any changes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sleep patterns or increased stress levels that might be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my sleep patterns, but I do feel a bit more stressed with the ongoing itchiness and discomfort from the rash. It can be hard to relax sometimes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections or illnesses that could be related to your current symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections or illnesses that I can recall. I've been feeling generally well aside from the rash and the numbness in my palms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your nails or hair, such as brittleness or unusual growth patterns?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed some thinning of my eyebrows and I've lost a few eyelashes as well. My nails seem fine, though; no brittleness or unusual growth patterns."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your mood or cognitive function, such as difficulty concentrating or increased anxiety?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my mood or cognitive function. I do feel a bit more anxious at times due to the discomfort from the rash, but nothing too severe."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any skin reactions or rashes after exposure to specific chemicals or products used on the farm?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any noticeable skin reactions after using specific chemicals or products on the farm. The rash seems to persist regardless of what I'm handling."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever experienced any neurological symptoms, such as weakness in your limbs or difficulty with coordination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any weakness in my limbs or difficulty with coordination. The numbness and tingling in my palms are the only neurological symptoms I've noticed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests to check for vitamin deficiencies, particularly vitamin B12 or folate levels?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests done recently, so I don't know about my vitamin levels. I was hoping to get some clarity on my symptoms during this visit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Vitamin_B12_and_Folate_Levels. Let's check your vitamin levels to rule out any deficiencies that could be contributing to your symptoms, especially the numbness and tingling in your palms."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms of a longstanding pruritic rash, numbness and tingling in your palms, and the normal vitamin levels, it seems you may be experiencing a condition related to contact dermatitis or possibly an autoimmune issue. However, I would like to consider the possibility of a condition like eczema or psoriasis as well. DIAGNOSIS READY: Contact Dermatitis or Eczema."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Leprosy",
+    "DIAGNOSIS_READY_Simulation": "Scene 85, The diagnosis was INCORRECT, 18%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Doctor: Have you noticed any improvement or worsening of the rash with any treatments or home remedies you've tried? Patient: I've tried some over-the-counter creams, but they haven't really helped much. The rash still itches and flares up just the same."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've also tried some natural remedies, but they haven't made a difference either. The itchiness and discomfort just seem to persist."
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides the headache and worsening vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any other symptoms, really. No weight changes, no fevers, and no night sweats. I also don't have any pain elsewhere in my body."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your daily activities or noticed any difficulty with balance or coordination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my daily activities, and my balance and coordination seem fine. It's mostly just the headache and my vision getting worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent head injuries or trauma that could be related to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent head injuries or trauma. Everything seemed normal until these headaches started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any nausea, vomiting, or sensitivity to light along with your headaches?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any nausea or vomiting, and I don't have any sensitivity to light. It's just the headache and the worsening vision that are concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your vision, such as blurriness, double vision, or loss of peripheral vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed that my vision has been getting progressively worse, and it feels a bit blurry at times. I haven't experienced double vision or loss of peripheral vision, though. It's mostly just the blurriness that's troubling me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent eye exams or changes in your prescription glasses or contact lenses?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent eye exams, and my prescription glasses are the same as they've been for a while. I don't think there have been any changes to my vision correction."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any headaches that are different in intensity or pattern compared to your usual headaches?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I wouldn't say they're different in intensity, but they have been more persistent and seem to be getting worse over the past few weeks. It's definitely not like my usual headaches."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your sleep patterns or any increased stress levels recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my sleep patterns, and my stress levels have been pretty stable. It's mostly just the headaches and vision issues that are bothering me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your medications or started any new medications that could be affecting your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't started any new medications recently, and my current medications for hypertension are still the same. I don't think they've changed or are affecting my symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any visual disturbances, such as seeing halos around lights or flashes of light?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't seen any halos or flashes of light. It's mainly just the blurriness and worsening vision that I've been dealing with."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or imaging studies done, such as a CT scan or MRI of the brain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests or imaging studies done. I haven't felt the need for them until now with these symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: MRI_Brain. Let's get an MRI of your brain to rule out any structural issues that could be causing your headaches and vision problems."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given that the MRI results are normal, let's explore further. Have you experienced any changes in your blood pressure or had any episodes of high blood pressure recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my blood pressure lately. My hypertension has been well-controlled with my medication, so I haven't had any episodes of high blood pressure recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your diet or hydration levels that might be contributing to your headaches?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't made any significant changes to my diet or hydration levels. I've been eating and drinking as I normally do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of migraines or other types of headaches in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have a history of migraines, but I have had occasional headaches in the past. They were usually mild and didn't last long, unlike what I'm experiencing now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your vision, such as difficulty reading or seeing at certain distances?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've definitely noticed difficulty reading, and things seem blurrier at a distance. It's becoming increasingly frustrating as my vision continues to worsen."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any eye pain or discomfort, such as dryness or irritation, along with the changes in your vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any eye pain or discomfort. My eyes feel fine; it's just the blurriness and worsening vision that's concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your color vision or difficulty distinguishing colors?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my color vision or difficulty distinguishing colors. It's mainly just the blurriness and worsening vision that's been troubling me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of dizziness or lightheadedness, especially when standing up quickly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any dizziness or lightheadedness when standing up quickly. I feel stable when I move around, but the headaches and vision issues are really my main concerns."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you've been dealing with quite a bit of discomfort. Based on your symptoms and the normal MRI results, I suspect you may be experiencing a condition related to your vision. DIAGNOSIS READY: Papilledema due to increased intracranial pressure."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Waldenstrom macroglobulinemia",
+    "DIAGNOSIS_READY_Simulation": "Scene 90, The diagnosis was INCORRECT, 17%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I appreciate your concern, Doctor. I'm just really worried about my vision and these headaches. What steps can we take next to address this?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm glad we're making progress. I really want to understand what's happening and how we can improve my situation. What are the next steps in terms of treatment or further evaluation?"
+  }
+]

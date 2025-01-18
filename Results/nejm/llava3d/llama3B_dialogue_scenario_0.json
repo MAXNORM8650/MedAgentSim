@@ -1,0 +1,158 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first started experiencing double vision and upper limb weakness? Was it a gradual onset or did it happen suddenly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I remember it started about a month ago, and at first, it was just a slight blur when I looked at things, but it quickly progressed to double vision, especially when I was doing everyday activities like brushing my hair or cooking. It felt like my vision was being pulled in two different directions, and it was really disorienting."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the activities that trigger or relieve the double vision? Does it happen more frequently when you're standing still or when you're moving around?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's actually the activities that make it worse, to be honest. Whenever I'm doing something that requires concentration, like graphic design or typing, the double vision seems to be more pronounced. But it's not just that \u2013 it also gets worse when I'm climbing stairs or trying to lift things, like groceries or heavy boxes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the nature of your upper limb weakness? Is it more pronounced in one arm compared to the other, or does it seem to be more of a generalized weakness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The weakness in my arms feels like my muscles just aren't working as hard as they should be. It's not that one arm is completely useless, but when I'm trying to brush my hair or carry groceries, it feels like my arms are just not getting the job done like they normally do. I can still feel the strength in my arms, but it's just not translating to the movements I'm trying to make."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the progression of the weakness in your arms? Has it changed at all over the past month, or has it been consistent since the onset of double vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been pretty consistent, to be honest. The weakness has been there since the onset of double vision, and it's been getting progressively worse. I've noticed that it's more noticeable in the morning, and it seems to improve slightly throughout the day, but it's not like it's completely gone."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities and routine? Are you physically active, or do you have a desk job that involves a lot of sitting or repetitive movements? And can you describe your vision when the double vision is most pronounced? Is it a complete split of the image, or are there parts of the image that are aligned correctly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work as a graphic designer, so I'm on my feet for most of the day, and I do a lot of typing and computer work. I'd say I'm moderately active, but I try to take breaks and move around when I can. When the double vision hits, it's like my brain is trying to split the image in two, but it's not a complete split \u2013 there's usually a bit of overlap. Sometimes, I'll see a blurry outline of the image, and other times it's more like a wavy, distorted picture."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health and any recent illnesses or surgeries you've had? Also, I'd like to perform a quick visual examination to assess your double vision. Please look straight ahead at me and focus on my eyes for a few seconds."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a pretty healthy person, to be honest. I don't really have any recent illnesses or surgeries, but I do get the occasional bug or cold. I'm a non-smoker, and I try to eat a balanced diet, but I do enjoy a glass of wine every now and then. As for my visual examination, I'll try my best to focus on your eyes. *looks straight ahead, focusing on the doctor's eyes for a few seconds*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a neurological examination to assess your muscle strength and reflexes. Can you please stand up and walk to the other side of the room for me, and then come back to the starting point? Also, I'd like to request a test: REQUEST TEST: EMG."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: - Findings: Decreased muscle response with repetitive stimulation - Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like we have a good idea of what's going on here. Can you tell me more about the activities that make the double vision worse? Are there any specific tasks or movements that trigger the double vision, or is it more of a constant presence? Also, I'd like to review the results of the neurological examination and EMG. It looks like we have some elevated acetylcholine receptor antibodies, which could be indicative of myasthenia gravis. I'd like to request a test: REQUEST TEST: Ophthalmology_Examination to take a closer look at your eyes and see if we can confirm this diagnosis. Can you tell me more about your symptoms at night? Do you experience any worsening of the double vision or upper limb weakness when you're lying down or sleeping?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities. Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the ptosis you mentioned during the ophthalmology examination? Is it constant, or does it vary in severity throughout the day? Also, I'd like to review the EMG results again. The presence of denervation in the upper extremities is concerning, and the elevated acetylcholine receptor antibodies are highly suggestive of myasthenia gravis. I'd like to request a test: REQUEST TEST: CT_Scan to rule out any other potential causes of the weakness and double vision."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities. Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the ptosis you mentioned during the ophthalmology examination? Is it constant, or does it vary in severity throughout the day? And I'd like to review the EMG results again, the presence of denervation in the upper extremities is concerning, and the elevated acetylcholine receptor antibodies are highly suggestive of myasthenia gravis. Have you noticed any triggers that make the ptosis worse, such as looking up at a high ceiling or focusing on a specific task for an extended period?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The ptosis is definitely a noticeable thing, especially when I'm trying to look up at things like the ceiling or at people's faces. It feels like my eyelid is just kind of... drooping, and it's not like I can control it or anything. It's not constant, though - it's more like it's there all the time, but it's not always noticeable unless I'm doing something that makes it worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the activities that trigger the ptosis? Are there any specific movements or actions that make it worse, such as bending forward or looking at something high up? Also, have you noticed any other symptoms, such as muscle cramps, fatigue, or difficulty swallowing, that might be related to the myasthenia gravis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The ptosis seems to be triggered by activities that require me to look up or focus intensely for an extended period. It's like my eyelid is just... heavy, and it's hard to lift it up. I've noticed it gets worse when I'm reading or looking at my computer screen for a long time, or when I'm trying to look at people's faces or high ceilings."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the activities that trigger the ptosis? Are there any specific movements or actions that make it worse, such as bending forward or looking at something high up? And have you noticed any other symptoms, such as muscle cramps, fatigue, or difficulty swallowing, that might be related to the myasthenia gravis? Also, I'd like to request a test: REQUEST TEST: Thyroid Function Tests to rule out any potential thyroid disorders that might be contributing to your symptoms. And one more thing, can you describe your symptoms when you're trying to perform tasks that require fine motor skills, such as buttoning a shirt or tying shoelaces?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities. Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze. Ptosis: The ptosis worsens with sustained upward gaze, and it is more noticeable when you are trying to look up at things like the ceiling or at people's faces. It is not constant, but rather seems to be triggered by activities that require you to look up or focus intensely for an extended period. Activities such as reading, looking at your computer screen for a long time, or trying to look at people's faces or high ceilings tend to exacerbate the ptosis. Fine Motor Skills: When performing tasks that require fine motor skills, such as buttoning a shirt or tying shoelaces, you"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your symptoms when you're trying to perform tasks that require fine motor skills, such as buttoning a shirt or tying shoelaces? You mentioned earlier that the double vision and upper limb weakness are more pronounced when you're doing activities that require concentration, but what about when you're doing activities that require fine motor skills? Also, I'd like to request a test: REQUEST TEST: Thyroid Function Tests to rule out any potential thyroid disorders that might be contributing to your symptoms. Can you describe your symptoms when you're trying to perform tasks that require hand-eye coordination, such as playing a musical instrument or cooking?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital_Signs: Temperature: 36.7\u00b0C (98.1\u00b0F) Blood_Pressure: 125/80 mmHg Heart_Rate: 72 bpm Respiratory_Rate: 16 breaths/min Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze. Ptosis: The ptosis worsens with sustained upward gaze, and it is more noticeable when you are trying to look up at things like the ceiling or at people's faces. It is not constant, but rather seems to be triggered by activities that require you to look up or focus intensely for"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your symptoms when you're trying to perform tasks that require hand-eye coordination, such as playing a musical instrument or cooking? Also, I'd like to request a test: REQUEST TEST: Thyroid Function Tests to rule out any potential thyroid disorders that might be contributing to your symptoms. And one more thing, can you describe your symptoms when you're trying to perform tasks that require fine motor skills, such as buttoning a shirt or tying shoelaces? Let me review the test results again to see if there's anything else that stands out. Please take a deep breath and relax, we're getting close to figuring out what's going on."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital_Signs: Temperature: 36.7\u00b0C (98.1\u00b0F) Blood_Pressure: 125/80 mmHg Heart_Rate: 72 bpm Respiratory_Rate: 16 breaths/min Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze. Ptosis: The ptosis worsens with sustained upward gaze, and it is more noticeable when you are trying to look up at things like the ceiling or at people's faces. It is not constant, but rather seems to be triggered by activities that require you to look up or focus intensely for an extended period."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like we're getting closer to understanding what's going on with your symptoms. Can you tell me more about your symptoms when you're trying to perform tasks that require fine motor skills, such as buttoning a shirt or tying shoelaces? Are there any specific difficulties you're experiencing, such as trouble with dexterity or hand-eye coordination? Also, I'd like to review the EMG results again, the presence of denervation in the upper extremities is concerning, and the elevated acetylcholine receptor antibodies are highly suggestive of myasthenia gravis. Have you noticed any triggers that make the ptosis worse, such as looking up at a high ceiling or focusing on a specific task for an extended period? I'd like to request a test: REQUEST TEST: Thyroid Function Tests to rule out any potential thyroid disorders that might be contributing to your symptoms."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital_Signs: Temperature: 36.7\u00b0C (98.1\u00b0F) Blood_Pressure: 125/80 mmHg Heart_Rate: 72 bpm Respiratory_Rate: 16 breaths/min Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze. Ptosis: The ptosis worsens with sustained upward gaze, and it is more noticeable when you are trying to look up at things like the ceiling or at people's faces. It is not constant, but rather seems to be triggered by activities that require you to look up or focus intensely for an extended period."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like we're getting close to understanding what's going on with your symptoms. I'd like to ask a few more questions to confirm the diagnosis. Can you tell me more about the ptosis you mentioned during the ophthalmology examination? Is it constant, or does it vary in severity throughout the day? Also, I'd like to request a test: REQUEST TEST: Thyroid Function Tests to rule out any potential thyroid disorders that might be contributing to your symptoms. Also, I'd like to ask, have you noticed any triggers that make the ptosis worse, such as looking up at a high ceiling or focusing on a specific task for an extended period?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital_Signs: Temperature: 36.7\u00b0C (98.1\u00b0F) Blood_Pressure: 125/80 mmHg Heart_Rate: 72 bpm Respiratory_Rate: 16 breaths/min Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze. Ptosis: The ptosis worsens with sustained upward gaze, and it is more noticeable when you are trying to look up at things like the ceiling or at people's faces. It is not constant, but rather seems to be triggered by activities that require you to look up or focus intensely for an extended period."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the EMG results again and see if there's anything else that stands out. The presence of denervation in the upper extremities is concerning, and the elevated acetylcholine receptor antibodies are highly suggestive of myasthenia gravis. I'd like to request a test: REQUEST TEST: Thyroid Function Tests to rule out any potential thyroid disorders that might be contributing to your symptoms. Now, let's talk about the ptosis. You mentioned that it worsens with sustained upward gaze, and it's more noticeable when you're trying to look up at things like the ceiling or at people's faces. Can you tell me more about the ptosis you experience when you're trying to perform tasks that require fine motor skills, such as buttoning a shirt or tying shoelaces? Are there any specific difficulties you're experiencing, such as trouble with dexterity or hand-eye coordination?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital_Signs: Temperature: 36.7\u00b0C (98.1\u00b0F) Blood_Pressure: 125/80 mmHg Heart_Rate: 72 bpm Respiratory_Rate: 16 breaths/min Neurological_Examination: Motor_Strength: Diminished motor strength observed in the upper extremities, with normal tone and no obvious atrophy. Reflexes: Normal reflexes throughout. Sensation: Normal sensation throughout. tests: Blood_Tests: Acetylcholine_Receptor_Antibodies: Present (elevated) Electromyography: Findings: Decreased muscle response with repetitive stimulation Results: Muscular weakness and fatigue, with evidence of denervation in the upper extremities Ophthalmology_Examination: Findings: Presence of ptosis (drooping of the right upper eyelid) that worsens with sustained upward gaze. Ptosis: The ptosis worsens with sustained upward gaze, and it is more noticeable when you are trying to look up at things like the ceiling or at people's faces. It is not constant, but rather seems to be triggered by activities that require you to look up or focus intensely for an extended period."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like we're getting close to confirming the diagnosis. I'd like to ask one more question about the ptosis. Can you tell me more about the eyelid's movement when you're trying to look down or focus on something that's at eye level? Does the eyelid tend to droop or sag when you're looking down, or is it more of a constant droop?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "When I'm looking down, the eyelid tends to sag a bit, but it's not as pronounced as when I'm trying to look up. It's like my eyelid is just... heavy, and it takes a bit of effort to lift it up when I'm looking down."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the effort it takes to lift your eyelid when you're looking down? Is it a significant strain, or can you still lift it easily?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's definitely a bit of an effort, but I can still lift it easily enough. It's just that when I'm looking up or focusing on something high, it feels like my eyelid is just... dragging along, you know? It's not like I'm straining or anything, but it just takes a bit more muscle to lift it up."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're getting a good sense of the patient's symptoms. Based on the elevated acetylcholine receptor antibodies, decreased muscle response with repetitive stimulation, and ptosis that worsens with sustained upward gaze, I'm going to make a diagnosis. DIAGNOSIS READY: Myasthenia Gravis"
+  }
+]

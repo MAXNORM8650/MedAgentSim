@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first noticed these symptoms starting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's been about 2 months now, and to be honest, I've been feeling really tired all the time, like I've been running on empty. It started with just a general feeling of fatigue, but it's gotten to the point where I'm barely able to get out of bed in the mornings.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did the symptoms start suddenly or did they develop gradually over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's been a slow build-up, I'd say. At first, it was just a bit of fatigue, but over time it's gotten worse and worse. It's like my energy levels have just been dwindling away, no matter how much rest I get.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any other symptoms like yellowing of the skin or eyes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, yes, my skin has taken on a bit of a yellowish hue, especially in areas where the sun doesn't reach, like the inside of my wrists and the soles of my feet. And my eyes... well, they've been a bit more sensitive to light, and I've had some scratchy sensations on my skin that I just can't explain.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent weight loss or fever? REQUEST TEST: Liver Function Tests, Complete Blood Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nLiver Function Tests: \nBilirubin_Total: 1.5 mg/dL\nBilirubin_Direct: 0.9 mg/dL\nAlkaline_Phosphatase: 460 U/L\nAST: 75 U/L\nALT: 78 U/L\n\nComplete Blood Count: \nHemoglobin: 11.5 g/dL\nLeukocyte_Count: 7500/mm3\nPlatelet_Count: 280,000"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you have any history of liver disease in your family? Have you been exposed to any toxins or medications recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't really know if there's a family history, my parents are both fine, but my grandfather used to have some issues with his skin, I think it was something with jaundice. As for toxins or medications, I take Lisinopril for my blood pressure, and I've been taking Rectal Mesalamine for my ulcerative colitis. I haven't taken anything else recently that I can think of, though.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you traveled anywhere recently, especially to areas known for hepatitis outbreaks? DIAGNOSIS READY: Viral Hepatitis or Drug Induced Liver Injury based on symptoms and test results."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Primary sclerosing cholangitis",
+    "DIAGNOSIS_READY_Simulation": "Scene 25, The diagnosis was INCORRECT (0%)"
+  }
+]

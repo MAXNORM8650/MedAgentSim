@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me approximately how long you've been experiencing these symptoms - severe abdominal pain, nausea, vomiting, and dysuria?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I started noticing the pain about 5 days ago, and it's been getting progressively worse. The nausea and vomiting came on a bit sooner, but they've been really bad for the past couple of days."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if these symptoms started suddenly or did they gradually develop over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain started suddenly, I think it was during my last period. But then it started worsening over the past few days."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "How old are you, and are you male or female?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm 17 years old, and I'm a female."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So the symptoms started about 3 days ago, with the pain and vomiting coming on first, and then the dysuria developed a day or so later. Can you tell me if you've noticed any blood in your urine or stool, and are there any other symptoms such as fever or chills?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have noticed some blood in my urine, and it's been really dark, like coffee grounds. As for other symptoms, I do feel a bit feverish, but it's really mild, just a slight increase in temperature."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've recently traveled or engaged in any activities that might expose you to certain bacteria, such as urinary tract infections or foodborne illnesses?\n\n\n\nAlso, I'd like to perform a quick physical examination to check for any abnormalities. May I please take a look at your abdomen, and do you have any concerns about me doing so?\n\n\n\nREQUEST TEST: Urinalysis"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 38.5\u00b0C (101.3\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 83 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 15,000/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 100 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any changes in your bowel movements, such as diarrhea or constipation, since the onset of these symptoms?\n\n\n\nAlso, may I examine your mouth for any signs of infection or irritation?\n\n\n\nREQUEST TEST: Blood Complete Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 38.6\u00b0C (101.6\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 85 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 16,000/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 105 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your abdomen, but I'll be gentle. Can you please turn to your left side so I can examine your abdominal wall and check for any tenderness or swelling?\n\n\n\nAlso, I'd like to review the test results: your urinalysis shows a high white blood cell count, and your complete blood count indicates a slight elevation in white blood cell count as well. These results suggest an infection."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll turn to my left side for you."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It appears we're on the right track. Can you tell me if you've recently taken any antibiotics or used any over-the-counter medications to treat these symptoms?\n\n\n\nAlso, I'd like to take a closer look at your bladder and urethra. Can you please empty your bladder for me?\n\n\n\nREQUEST TEST: Urine Culture"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 38.6\u00b0C (101.6\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 85 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 16,000/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 105 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sensation of the pain you're experiencing - is it sharp, dull, or burning, and does it radiate to any other areas of your body?\n\n\n\nAlso, have you experienced any relief from the pain or discomfort at all since the onset of these symptoms?\n\n\n\nI'd like to take a look at your genital area now, starting with your urethra. Can you please lift your leg and separate your knees slightly for me?\n\n\n\nAlso, REQUEST TEST: Pelvic Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 38.7\u00b0C (101.7\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 88 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 16,200/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 110 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your genital area, specifically the vulva. Can you please spread your legs further apart for me?\n\n\n\nAlso, I'd like to ask, have you noticed any discharge or odor from the affected area?\n\n\n\nCan you confirm that you've emptied your bladder for me earlier?\n\n\n\nNow that we have the results of the urine culture, can you tell me if you've noticed any specific odor or color to the discharge from the affected area?\n\n\n\nI'd also like to examine your cervix, if you don't mind. Can you please tilt your pelvis slightly so I can access it?\n\n\n\nREQUEST TEST: Pap Smear"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 38.7\u00b0C (101.7\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 88 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 16,200/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 110 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see the urinalysis and blood complete count results have been confirmed with high white blood cell counts, indicating an infection. I'd like to ask, have you noticed any relief from the pain or discomfort at all since the onset of these symptoms, and can you tell me if you've experienced any urination frequency changes, such as needing to urinate more or less often?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Actually, the pain has been getting worse, and I've been experiencing some relief when I'm resting, but that's about it. And to be honest, I have been needing to urinate more often than usual, and the pain while urinating has been quite uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've experienced any difficulty starting to urinate or stopping the flow of urine since the onset of these symptoms?\n\n\n\nAlso, I'd like to ask, have you had any recent exposure to animals or pets that could potentially harbor bacteria?\n\n\n\nAlso, I'd like to take a closer look at your rectal area. Can you please lean forward slightly and lift your leg so I can examine your rectum and anal area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain started suddenly, I think it was during my last period. But then it started worsening over the past few days. \n\nAs for urination, it's been really painful, and I feel like I need to go more often, but the pain is so bad that I can only hold it for a little bit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've experienced any relief from the pain or discomfort at all since the onset of these symptoms, and can you tell me if you've experienced any urination frequency changes, such as needing to urinate more or less often?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, the pain has been getting worse, and I've been experiencing some relief when I'm resting, but that's about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the pain radiates to your lower back or hips?\n\n\n\nAlso, I'd like to ask, have you noticed any changes in your menstrual cycle or any irregularities in your periods since the onset of these symptoms?\n\n\n\nCan you confirm that the urinalysis and blood complete count results are indeed showing a high white blood cell count, which suggests an infection?\n\n\n\nAlso, I'd like to take a look at your urinary catheter if you have one, or I can perform a manual catheterization if needed to check for any blockages or abnormalities.\n\n\n\nREQUEST TEST: CT Scan of the Pelvis"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 38.8\u00b0C (101.8\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 90 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 16,400/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 115 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you confirm that the urinalysis and blood complete count results are indeed showing a high white blood cell count, which suggests an infection?\n\n\n\nAlso, I'd like to ask, have you noticed any relief from the pain or discomfort at all since the onset of these symptoms, and can you tell me if you've experienced any urination frequency changes, such as needing to urinate more or less often?\n\n\n\nI'm going to perform a digital rectal examination to check for any abnormalities. Please lean forward slightly and lift your leg so I can examine your rectum and anal area.\n\n\n\nAlso, REQUEST TEST: Stool Test"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 38.8\u00b0C (101.8\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 90 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 16,400/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 115 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like we're getting closer to figuring out what's going on. Can you tell me more about the sensation of the pain - is it more intense when you're urinating or when you're defecating, or does it seem to be constant throughout the day?\n\n\n\nAlso, have you noticed any changes in your overall energy levels or feeling of being unwell since the onset of these symptoms?\n\n\n\nREQUEST TEST: Imaging of the Pelvic Floor"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Vital Signs: \n  - Temperature: 38.9\u00b0C (101.9\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 92 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 16,600/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 120 mm/h ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to ask, can you describe the sensation of the pain you're experiencing - is it sharp, dull, or burning, and does it radiate to any other areas of your body?\n\n\n\nAlso, have you experienced any relief from the pain or discomfort at all since the onset of these symptoms?\n\n\n\nI'd like to ask, have you had any recent changes in your diet or consumption of certain foods that might be contributing to your symptoms?\n\n\n\nAlso, I'd like to take a closer look at your genital area again, starting with your vulva. Can you please spread your legs further apart for me?\n\n\n\nAlso, REQUEST TEST: Endocervical Culture"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 39.0\u00b0C (102.2\u00b0F)\n  - Blood Pressure: 110/70 mmHg\n  - Heart Rate: 94 bpm\n  - Respiratory Rate: Normal\n- Abdominal Examination: \n  - Inspection: Normal\n  - Auscultation: Normal bowel sounds\n  - Percussion: Normal\n  - Palpation: Generalized tenderness, more pronounced in the lower quadrants\n- Pelvic Examination: \n  - Cervical Motion Tenderness: Present\n  - Uterine Tenderness: Not mentioned\n  - Adnexal Tenderness: Not assessed\n  - Discharge: Purulent cervical discharge noted\n- tests: \n  - Lab Results: \n    - Leukocyte Count: 17,000/mm3 (elevated)\n    - Erythrocyte Sedimentation Rate: 125 mm/h"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sensation of the pain when you urinate - is it a sharp pain, a burning sensation, or more of a dull ache?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a burning sensation, and it's really uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation of the pain when you urinate - is it a sharp pain, a burning sensation, or more of a dull ache? \n\nAlso, have you noticed any relief from the pain or discomfort at all since the onset of these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a burning sensation, and it's really uncomfortable. To be honest, the pain has been getting worse, and I've been experiencing some relief when I'm resting, but that's about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Now that we've completed our examination and obtained the necessary test results, I'd like to summarize our findings and make a diagnosis.\n\nBased on the patient's symptoms of severe abdominal pain, nausea, vomiting, dysuria, and the high white blood cell counts in the urinalysis and blood complete count, I believe the patient is likely suffering from a urinary tract infection (UTI) that has possibly spread to the kidneys, resulting in pyelonephritis.\n\nConsidering the patient's recent travel history and exposure to certain bacteria, I think it's possible that the infection was caused by E. coli, a common bacteria that can cause UTIs and pyelonephritis.\n\nI also found some evidence of inflammation and irritation in the genital area, which further supports the diagnosis of a UTI.\n\nGiven the severity of the patient's symptoms and the presence of pyelonephritis, I believe the patient requires prompt antibiotic treatment to prevent further complications and promote recovery.\n\nDIAGNOSIS READY"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pelvic inflammatory disease",
+    "DIAGNOSIS_READY_Simulation": "Scene 59, The diagnosis was INCORRECT (3.33%)"
+  }
+]

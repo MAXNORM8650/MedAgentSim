@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the events leading up to your current presentation? What happened before you started exhibiting aggressive behavior and altered mental status?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I guess it's just been a really tough week with exams coming up and I've been feeling overwhelmed. I've been trying to cram as much studying as possible, but it's been taking a toll on me. I think I just snapped when I saw my computer screen go dark after I smashed it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you take me through the last 24-48 hours of your life, starting from the point where you first noticed any changes in your behavior or mental status?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Last night was pretty normal, I think. I went to bed around 10 pm, woke up around 6 am, and then just started studying again. I remember feeling a bit anxious, but I've been feeling that way for the past few days. This morning, I was already pretty stressed out, and I think that's when things started to escalate. I got a bit frustrated with my computer, and then I just lost it, I guess.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any medications you've been taking in the past 24 hours, and have you noticed any changes in your medication regimen recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've just been trying to stay focused on my exams, so I haven't taken any new medications. I did take some caffeine and energy drinks, I guess, to try and stay awake and focused. But I don't think that's had anything to do with how I've been feeling. It's just been this overwhelming feeling of anxiety and stress, I don't know.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your recent activities and social interactions? Have you been to any parties, gatherings, or events where you might have been exposed to substances or had excessive social interaction?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't think I've been to any big gatherings recently, but I did go to the gym a few hours ago. I just needed to get out and clear my head, I guess. I've been trying to stay to myself a lot lately, just focusing on my studies and trying to get everything done before the exams.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you walk me through your sleep patterns over the last 24 hours? Did you have any trouble sleeping or experience any vivid dreams or nightmares?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Honestly, I didn't sleep that great last night. I went to bed around 10 pm, but I kept thinking about exams and what I needed to study. I think I woke up a few times, and I just ended up lying there for a while before going back to sleep. This morning, I was feeling pretty exhausted, and that just added to my anxiety, I guess.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a physical examination to look for any signs of neurological or systemic involvement. Can you please roll up your sleeve so I can check your vital signs, including your blood pressure and heart rate?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, sure thing. I'm ready when you are. I just hope you don't think I'm going to, you know, snap at you or anything.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your hands and feet to assess for any signs of tremors, rigidity, or discoloration. Can you please show me the soles of your feet and the tops of your feet, and also extend your arms and legs for me to examine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, sure... *extends arms and legs, making sure to keep a calm demeanor*... I don't really notice anything out of the ordinary, but I did just notice that my hands are a bit sweaty. *looks down at hands* Must be from all the caffeine and energy drinks I've been having, I guess.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any recent stressors or significant life events that may have contributed to your current presentation? \n\nAlso, I'd like to request a blood sample for a comprehensive metabolic panel to check for any abnormalities in your electrolyte and hormone levels.\n\nAnd, please, allow me to examine your pupils and eyes for any signs of abnormal dilation or constriction.\n\nPlease, continue your examination by checking my pupils and eyes, and let's take a closer look at your skin, particularly your face and neck, for any signs of lesions or rashes."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Stress from my exams, I guess. I've been studying non-stop and I'm just feeling really overwhelmed. It's like everything is piling up on me and I don't know how to keep up.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any recent substance use or exposure, such as recreational drugs, alcohol, or other substances that might have contributed to your current presentation?\n\n\n\nAlso, REQUEST TEST: Comprehensive_Metabolic_Panel to check for any abnormalities in your electrolyte and hormone levels."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nToxicology_Screen: Amphetamines: Positive\nCocaine: Negative\nOpiates: Negative\nBenzodiazepines: Negative\nCannabinoids: Negative"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the blood sample results from the comprehensive metabolic panel you provided. Can you tell me if you've noticed any changes in your urine output, thirst, or if you've had to urinate more frequently in the past 24 hours?\n\n\n\nAlso, can you point out any areas on your face or neck that may have lesions or rashes?\n\n\n\nAnd, REQUEST TEST: Thyroid_Function_Tests to check for any abnormalities in your thyroid hormone levels."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Toxicology_Screen: Amphetamines: Positive\n\nCocaine: Negative\nOpiates: Negative\nBenzodiazepines: Negative\nCannabinoids: Negative\n\nComprehensive_Metabolic_Panel: \nSodium: 140 mmol/L (Normal range: 135-145 mmol/L)\nPotassium: 4.1 mmol/L (Normal range: 3.5-5.0 mmol/L)\nCreatinine: 1.2 mg/dL (Normal range: 0.7-1.2 mg/dL)\nBlood_Glucose: 120 mg/dL (Normal range: 70-110 mg/dL)\n\nUrine output: Normal. You have been urinating regularly throughout the day, but the volume is slightly below average.\n\nThirst: Moderate. You have expressed some discomfort with thirst, but it is not severe.\n\nUrine frequency: You have urinated around 6-8 times in the"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the blood sample results from the comprehensive metabolic panel you provided. Can you tell me if you've experienced any dizziness or lightheadedness in the past 24 hours, and if your urine output has been normal?\n\n\n\nAlso, I'd like to examine your abdomen to check for any signs of tenderness or guarding, and also to assess your bowel sounds to see if you're experiencing any nausea or vomiting.\n\n\n\nAlso, REQUEST TEST: Electrolyte_Level_Check to check for any abnormalities in your potassium and sodium levels.\n\n\n\nAnd, can you point out any areas on your face or neck that may have lesions or rashes?\n\n\n\nAlso, I'd like to review your medication list again to see if you've missed any doses or if you've changed your medication regimen recently."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nToxicology_Screen: Amphetamines: Positive\nCocaine: Negative\nOpiates: Negative\nBenzodiazepines: Negative\nCannabinoids: Negative\n\nUrine output: Normal. You have been urinating regularly throughout the day, but the volume is slightly below average.\n\nThirst: Moderate. You have expressed some discomfort with thirst, but it is not severe.\n\nUrine frequency: You have urinated around 6-8 times in the past 24 hours.\n\nNo dizziness or lightheadedness reported.\n\nAbdomen examination: No tenderness or guarding reported.\n\nBowel sounds: Normal.\n\nElectrolyte_Level_Check: \nSodium: 140 mmol/L (Normal range: 135-145 mmol/L)\nPotassium: 4.1 mmol/L (Normal range: 3.5-5.0 mmol/L)\n\nNo lesions or rashes found on the face or neck"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your sleep patterns over the last 24 hours? Were you able to get a full night's sleep or did you wake up multiple times during the night?\n\nAlso, REQUEST TEST: Urine_Specific_Gravity to check for any changes in your hydration status."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: Temperature: 101\u00b0F (38.3\u00b0C), Blood_Pressure: 137/98 mmHg, Heart_Rate: 120/min, Respiratory_Rate: 23/min, Oxygen_Saturation: 99% on room air\nGeneral_Examination: Appearance: Irritable young man, Skin: Notable diaphoresis\nCardiopulmonary_Examination: Heart: Tachycardia, Lungs: Bilateral clear breath sounds\nNeurological_Examination: Pupils: Notably dilated, Mental_Status: Rapid speech, aggressive\n\n RESULTS: \nComprehensive_Metabolic_Panel: \nSodium: 140 mmol/L (Normal range: 135-145 mmol/L)\nPotassium: 4.1 mmol/L (Normal range: 3.5-5.0 mmol/L)\nCreatinine: 1.2 mg/dL (Normal range"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your sleep patterns over the last 24 hours? Were you able to get a full night's sleep or did you wake up multiple times during the night?\n\nAlso, can you point out any areas on your face or neck that may have lesions or rashes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Like I said, I didn't sleep that great last night. I went to bed around 10 pm, but I kept thinking about exams and what I needed to study. I think I woke up a few times, and I just ended up lying there for a while before going back to sleep. This morning, I was feeling pretty exhausted, and that just added to my anxiety, I guess.\"\n\n Patient: \"No, I don't have any lesions or rashes on my face or neck. Just a bit of sweat going on, I guess. *looks down at hands, still visibly sweating*\"\n\n Patient: \"I don't know, it just feels like my body is on high alert or something. I'm just really anxious about my exams and I don't know how to calm down.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your sleep patterns over the last 24 hours? Were you able to get a full night's sleep or did you wake up multiple times during the night?\n\nAnd, can you tell me about your bowel movements over the past 24 hours? Have you noticed any changes in your stool consistency or frequency?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Like I said, I didn't sleep that great last night. I went to bed around 10 pm, but I kept thinking about exams and what I needed to study. I think I woke up a few times, and I just ended up lying there for a while before going back to sleep. This morning, I was feeling pretty exhausted, and that just added to my anxiety, I guess.\"\n\n Patient: \"No, I don't have any lesions or rashes on my face or neck. Just a bit of sweat going on, I guess. *looks down at hands, still visibly sweating*\"\n\n Patient: \"I don't know, it just feels like my body is on high alert or something. I'm just really anxious about my exams and I don't know how to calm down.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your bowel movements over the past 24 hours? Have you noticed any changes in your stool consistency or frequency?\n\n\n\nAlso, can you tell me more about your recent activities and hobbies, and have you noticed any changes in your energy levels or cognitive function?\n\n\n\nI'd like to take a closer look at your abdominal wall to check for any signs of tenderness or bruising.\n\n\n\nCan you point out any areas on your body that may be experiencing pain or discomfort?\n\n\n\nREQUEST TEST: ECG to check for any abnormalities in your heart rhythm.\n\n\n\nI'd like to review the results of the urine specific gravity test to see if there are any changes in your hydration status.\n\n\n\nCan you tell me more about your family medical history, particularly any conditions that may be related to your current presentation?\n\n\n\nAlso, can you tell me more about your diet and nutrition over the past 24 hours, and have you noticed any changes in your appetite or cravings?\n\n\n\nREQUEST TEST: Complete_Blood_Count to"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: Temperature: 101\u00b0F (38.3\u00b0C), Blood_Pressure: 137/98 mmHg, Heart_Rate: 120/min, Respiratory_Rate: 23/min, Oxygen_Saturation: 99% on room air\n\nGeneral_Examination: Appearance: Irritable young man, Skin: Notable diaphoresis\n\nCardiopulmonary_Examination: Heart: Tachycardia, Lungs: Bilateral clear breath sounds\n\nNeurological_Examination: Pupils: Notably dilated, Mental_Status: Rapid speech, aggressive\n\nUrine output: Normal. You have been urinating regularly throughout the day, but the volume is slightly below average.\n\nThirst: Moderate. You have expressed some discomfort with thirst, but it is not severe.\n\nUrine frequency: You have urinated around 6-8 times in the past 24 hours.\n\nNo dizziness or ligh"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like you've finished your physical examination and taken some lab tests. I'd like to review the results of the comprehensive metabolic panel and the thyroid function tests. Can you tell me if you've noticed any changes in your energy levels or cognitive function over the past 24 hours?\n\n\n\nAlso, REQUEST TEST: Liver_Function_Tests to check for any abnormalities in your liver function.\n\n\n\nI'd like to review your medication list again to see if you've missed any doses or if you've changed your medication regimen recently. Have you noticed any changes in your mood or emotional state?\n\n\n\nAlso, REQUEST TEST: Electrolyte_Level_Check to check for any abnormalities in your potassium and sodium levels.\n\n\n\nCan you point out any areas on your body that may be experiencing pain or discomfort?\n\n\n\nREQUEST TEST: Brain_Scans to check for any abnormalities in your brain function.\n\n\n\nI'd like to review the results of the complete blood count test to see if there are any changes in your blood cell counts.\n\n\n\nAlso, REQUEST"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nThyroid_Function_Tests: TSH: 2.5 mU/L (Normal range: 0.4-4.5 mU/L), Free_Triiodothyronine (FT3): 3.5 pg/mL (Normal range: 2.5-6.5 pg/mL), Free_Thyroxine (FT4): 1.2 ng/dL (Normal range: 0.7-2.0 ng/dL)\n\nPatient: \"No, I don't have any lesions or rashes on my face or neck. Just a bit of sweat going on, I guess. *looks down at hands, still visibly sweating*\"\n\nPatient: \"I don't know, it just feels like my body is on high alert or something. I'm just really anxious about my exams and I don't know how to calm down.\"\n\nRESULTS: \nLiver_Function_Tests: Alanine_Transaminase (ALT): 15"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any recent changes in your daily routine or activities that may have contributed to your current presentation?\n\n\n\nAlso, can you point out any areas on your face or neck that may have lesions or rashes?\n\n\n\nHave you noticed any changes in your vision, such as blurred vision, double vision, or sensitivity to light?\n\n\n\nCan you tell me more about your overall sense of well-being, including any feelings of fatigue, weakness, or dizziness?\n\n\n\nAlso, REQUEST TEST: Complete_Blood_Count to check for any changes in your blood cell counts.\n\n\n\nHave you experienced any numbness or tingling sensations in your extremities, such as your hands or feet?\n\n\n\nCan you tell me more about your recent use of any supplements or herbal products that may have interacted with any medications you're taking?\n\n\n\nAlso, REQUEST TEST: Urine_Lipid_Profile to check for any abnormalities in your lipid metabolism.\n\n\n\nHave you noticed any changes in your hearing or balance, such as ringing in your ears or"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nLiver_Function_Tests: Alanine_Transaminase (ALT): 15, Aspartate_Transaminase (AST): 10, Total_Bilirubin: 0.8 mg/dL, Alkaline_Phosphatase: 30, Gamma_Glutamyl_Transferase (GGT): 10"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the results of the thyroid function tests you provided earlier. Can you tell me if you've noticed any changes in your voice, such as hoarseness, tremors, or changes in pitch?\n\n\n\nAlso, REQUEST TEST: Hemoglobin_Level_Check to check for any abnormalities in your red blood cell count."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: Temperature: 101\u00b0F (38.3\u00b0C), Blood_Pressure: 137/98 mmHg, Heart_Rate: 120/min, Respiratory_Rate: 23/min, Oxygen_Saturation: 99% on room air\nGeneral_Examination: Appearance: Irritable young man, Skin: Notable diaphoresis\nCardiopulmonary_Examination: Heart: Tachycardia, Lungs: Bilateral clear breath sounds\nNeurological_Examination: Pupils: Notably dilated, Mental_Status: Rapid speech, aggressive\n\n RESULTS: \nThyroid_Function_Tests: TSH: 2.5 mU/L (Normal range: 0.4-4.5 mU/L), Free_Triiodothyronine (FT3): 3.5 pg/mL (Normal range: 2.5-6.5 pg/mL), Free_"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the results of the thyroid function tests and the comprehensive metabolic panel again. Can you tell me if you've noticed any changes in your voice, such as hoarseness, tremors, or changes in pitch?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, I have noticed that my voice sounds a bit... strained lately. I've been trying to keep my voice steady, but sometimes it gets a bit shaky, especially when I'm talking about exams or stress. I'm not sure if it's related to what's going on with me, but I thought I'd mention it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed all the information and test results. I'm going to make a diagnosis based on the evidence.\n\n\"Based on the patient's symptoms, including aggressive behavior, altered mental status, autonomic dysregulation, and changes in vital signs, I'm going to diagnose a diagnosis of Neuroleptic Malignant Syndrome (NMS). The patient's recent use of recreational drugs and the presence of autonomic instability are consistent with this diagnosis. I also notice that the patient's thyroid function tests showed elevated levels of thyroid hormones, which could be contributing to the patient's symptoms. I will discuss the treatment options with the patient and the family.\""
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Lisdexamfetamine intoxication",
+    "DIAGNOSIS_READY_Simulation": "Scene 58, The diagnosis was INCORRECT (3.39%)"
+  }
+]

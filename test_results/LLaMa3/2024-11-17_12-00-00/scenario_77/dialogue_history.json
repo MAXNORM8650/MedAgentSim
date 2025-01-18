@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the chest pain you're experiencing? Is it a sharp pain, a dull ache, or more of a pressure sensation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a dull ache, but it's gotten worse over the past few days, and I have to admit, it's been quite uncomfortable, especially when I cough or take a deep breath."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me where exactly the chest pain is located? Is it centered in your chest, or does it radiate to your left side, back, or arm?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly centered on my left side, but sometimes it feels like it's spreading up towards my armpit and down towards my left ribs."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when the chest pain started? Was it sudden or did it come on gradually over time?\n\n\n\nAlso, have you experienced any fever, chills, or sweating recently, as these could be related to an infection?\n\n\n\nPlease let me take a look at your chest now."
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain started about a week ago, I guess it was around the same time I got sick with the flu. It's been getting worse over the past few days, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the chest pain worsens or improves with deep breathing, or if it's more constant throughout the day?\n\n\n\nAlso, can you please cough into this tissue so I can examine the sputum?\n\n\n\nAnd, how long have you been experiencing the productive cough with purulent sputum?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The chest pain worsens with deep breathing, and I have to admit, it's really bothering me when I take a deep breath in. It's like the pain is pulling me in, and I can feel it more when I'm exhaling too.\n\nPatient coughs into the tissue, and then coughs again, trying to clear out the sputum.\n\nI've been experiencing the productive cough with purulent sputum for about a week now, since I got sick with the flu. It's been really annoying and uncomfortable, especially when it's all stuck up in my chest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let me take a closer look at the tissue you've provided. Can you tell me more about the purulent sputum? Is it thick and sticky, or more watery?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a bit thick and sticky, but when I try to clear it out, it's usually pretty runny."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It appears you've coughed up some sputum. Can you tell me if you've noticed any blood or rust-colored mucus in the purulent sputum?\n\n\n\nAlso, have you taken any medications or supplements recently, as certain medications can affect symptoms?\n\n\n\nCan you tell me about your occupation or daily activities - are you exposed to dust, chemicals, or other potential irritants that could be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any blood or rust-colored mucus in the sputum, but it's possible I haven't been coughing up much of it.\n\nI've taken some over-the-counter pain relievers for my headache, but that's about it. I didn't adhere to the treatment plan for my recent illness, but I've been trying to get back on track.\n\nI work in an office setting, and I'm usually around a computer all day. I don't do any heavy lifting or bending, but I do have to type on my keyboard a lot, which can be pretty repetitive."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've experienced any recent exposure to smoke, pollution, or other environmental irritants that could be contributing to your respiratory symptoms?\n\n\n\nAlso, can you please describe your usual activity level - are you physically active, sedentary, or somewhere in between?\n\n\n\nAnd, can you confirm if you've experienced any previous episodes of chest pain or respiratory symptoms similar to this?\n\n\n\nPlease cough into the tissue again, and I'd like to take a closer look at the sputum to see if I can notice any changes in color or consistency.\n\n\n\nIs there anything else you've noticed lately, such as a persistent cough, wheezing, or difficulty breathing that you think might be related to your symptoms?\n\n\n\nPlease, hold still for a second so I can listen to your lungs with my stethoscope."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I do get a bit winded when I exert myself, and I've had to take breaks to catch my breath while working at my desk.\n\nAs for previous episodes, I don't recall having anything like this before, but I did get the flu a while back and it was pretty miserable.\n\nIt appears you've noticed some changes in the color and consistency of the sputum."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to REQUEST TEST: Complete Blood Count to check for any signs of infection or inflammation.\n\nCan you tell me more about your overall health and any underlying medical conditions you may have?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.7\u00b0C (101.7\u00b0F)\nBlood Pressure: 120/60 mm Hg\nHeart Rate: 70 bpm\nRespiratory Rate: 22 breaths/min\nSO2: 80%\n\nChest Examination: \nInspection: No cyanosis or use of accessory respiratory muscles.\nAuscultation: Decreased breath sounds at the left base, crackles.\nPercussion: Dullness to percussion over the left lower lung fields.\nPalpation: No significant findings.\n\ntests: \nComplete Blood Count: \nHemoglobin: 14 mg/dL\nHematocrit: 45%\nLeukocyte count: 12,000/mm3\nNeutrophils: 82%\nLymphocytes: 15%\nMonocytes: 3%\nPlatelet count: 270,000/mm3\n\nChest X-ray: \nFindings: Alveolar infiltrates in"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a chest X-ray to get a better view of your lungs and see if there's any evidence of pneumonia or other conditions.\n\nCan you tell me about your overall health and any underlying medical conditions you may have, such as diabetes, heart disease, or lung disease?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm generally healthy, but as I mentioned, I was recently diagnosed with the flu and didn't follow the treatment plan as prescribed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any weight loss or loss of appetite recently, as these can be signs of a more serious underlying condition?\n\n\n\nAlso, have you had any recent travel or exposure to people with similar symptoms?\n\n\n\nPlease hold still for a moment while I listen to your lungs more closely. I want to check for any unusual sounds that might indicate fluid buildup or other issues.\n\n\n\nREQUEST TEST: Basic Metabolic Panel to check for any electrolyte imbalances or other metabolic issues.\n\n\n\nCan you confirm if you've been taking any medications for allergies or asthma, as these can sometimes cause respiratory symptoms?\n\n\n\nAlso, have you noticed any numbness or tingling sensations in your face or extremities?\n\n\n\nPlease cough into the tissue again, and I'll take another look at the sputum to see if I can notice any changes in color or consistency.\n\n\n\nHave you experienced any recent trauma or injury to the chest area?\n\n\n\nCan you tell me if you've had any recent flu-like symptoms, such as fatigue"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.8\u00b0C (101.9\u00b0F)\nBlood Pressure: 120/60 mm Hg\nHeart Rate: 72 bpm\nRespiratory Rate: 23 breaths/min\nSO2: 80%\n\nChest Examination: \nInspection: No cyanosis or use of accessory respiratory muscles.\nAuscultation: Decreased breath sounds at the left base, crackles.\nPercussion: Dullness to percussion over the left lower lung fields.\nPalpation: No significant findings.\n\ntests: \nComplete Blood Count: \nHemoglobin: 14.1 mg/dL\nHematocrit: 46%\nLeukocyte count: 12,500/mm3\nNeutrophils: 83%\nLymphocytes: 16%\nMonocytes: 4%\nPlatelet count: 270,000/mm3\n\nChest X-ray: \nFindings: Alveolar infiltr"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your lungs more closely. Please place your head on the examination table and I'll listen to your lungs again with my stethoscope. Can you take a deep breath in for me and exhale slowly?\n\nAlso, I'd like to REQUEST TEST: Arterial Blood Gas to check for any abnormalities in your oxygen levels and carbon dioxide levels."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.8\u00b0C (101.9\u00b0F)\nBlood Pressure: 120/60 mm Hg\nHeart Rate: 72 bpm\nRespiratory Rate: 23 breaths/min\nSO2: 80%\n\nChest Examination: \nInspection: No cyanosis or use of accessory respiratory muscles.\nAuscultation: Decreased breath sounds at the left base, crackles.\nPercussion: Dullness to percussion over the left lower lung fields.\nPalpation: No significant findings.\n\ntests: \nComplete Blood Count: \nHemoglobin: 14.1 mg/dL\nHematocrit: 46%\nLeukocyte count: 12,500/mm3\nNeutrophils: 83%\nLymphocytes: 16%\nMonocytes: 4%\nPlatelet count: 270,000/mm3\n\nChest X-ray: \nFindings: Alveolar infiltr"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sound of your voice when you cough, is it harsh, raspy, or more of a normal sound?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It sounds a bit more harsh than usual, to be honest. It's like there's something catching in the back of my throat."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any changes in the color or consistency of the purulent sputum over time, or if it's remained the same?\n\n\n\nAlso, when you take a deep breath in, does the chest pain worsen or improve, or does it remain constant?\n\n\n\nCan you please cough again and I'll examine the sputum to see if I can notice any changes in color or consistency?\n\n\n\nI'd like to REQUEST TEST: ECG to check for any signs of cardiac arrhythmias or other cardiac issues that could be contributing to your symptoms.\n\n\n\nAlso, have you noticed any fatigue or weakness in your arms or legs, or if you feel short of breath even when you're not exerting yourself?\n\n\n\nPlease hold still for a moment while I examine your chest further, I want to check for any areas of tenderness or swelling.\n\n\n\nCan you confirm if you've been experiencing any difficulty swallowing or feeling like food is getting stuck in your throat?\n\n\n\nI'd like to REQUEST TEST"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.8\u00b0C (101.9\u00b0F)\nBlood Pressure: 120/60 mm Hg\nHeart Rate: 72 bpm\nRespiratory Rate: 23 breaths/min\nSO2: 80%\n\nChest Examination: \nInspection: No cyanosis or use of accessory respiratory muscles.\nAuscultation: Decreased breath sounds at the left base, crackles.\nPercussion: Dullness to percussion over the left lower lung fields.\nPalpation: No significant findings.\n\ntests: \nComplete Blood Count: \nHemoglobin: 14.1 mg/dL\nHematocrit: 46%\nLeukocyte count: 12,500/mm3\nNeutrophils: 83%\nLymphocytes: 16%\nMonocytes: 4%\nPlatelet count: 270,000/mm3\n\nChest X-ray: \nFindings: Alveolar infiltr"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health and any underlying medical conditions you may have, such as diabetes, heart disease, or lung disease?\n\n\n\nPlease continue holding still for a moment while I examine your chest further, I want to check for any areas of tenderness or swelling."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm generally healthy, but as I mentioned, I was recently diagnosed with the flu and didn't follow the treatment plan as prescribed. I've been trying to get back on track with my medication, but it's been a bit of a challenge."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any changes in the color or consistency of the purulent sputum over time, or if it's remained the same?\n\n\n\nAlso, when you take a deep breath in, does the chest pain worsen or improve, or does it remain constant?\n\n\n\nPlease cough again and I'll examine the sputum to see if I can notice any changes in color or consistency."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's still the same, really - the sputum has been a mix of thick and runny, but I've noticed it's been getting a bit thicker lately. When I take a deep breath in, the pain gets worse, and it feels like it's pulling me in even more."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've had any previous episodes of chest pain or respiratory symptoms similar to this?\n\n\n\nAlso, can you please describe the pain in more detail - is it a sharp stabbing pain, or more of a dull ache that feels like pressure?\n\n\n\nAnd, can you confirm if you've noticed any changes in your breathing pattern - do you feel like you're getting winded more easily than usual?\n\n\n\nPlease continue coughing into the tissue, I want to take a closer look at the sputum."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had some difficulty breathing lately, especially when I exert myself. I get winded easily and have to take breaks to catch my breath while working at my desk."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the pain in more detail - is it a sharp stabbing pain, or more of a dull ache that feels like pressure?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a dull ache, like someone is squeezing my chest from the inside. It feels like it's getting worse, like it's spreading to my ribs and armpit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you confirm if you've noticed any changes in your breathing pattern - do you feel like you're getting winded more easily than usual?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I have been getting winded more easily than usual. I have to take breaks to catch my breath while working at my desk, and even simple tasks like walking up a flight of stairs leave me feeling quite breathless."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to REQUEST TEST: Chest X-Ray to get a better view of your lungs and see if there's any evidence of pneumonia or other conditions.\n\nAlso, can you tell me more about your occupation or daily activities - are you exposed to dust, chemicals, or other potential irritants that could be contributing to your symptoms?\n\n\n\nPlease continue coughing into the tissue, I want to take a closer look at the sputum."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nTemperature: 38.9\u00b0C (102.2\u00b0F)\nBlood Pressure: 120/60 mm Hg\nHeart Rate: 74 bpm\nRespiratory Rate: 24 breaths/min\nSO2: 80%\n\nChest Examination: \nInspection: No cyanosis or use of accessory respiratory muscles.\nAuscultation: Decreased breath sounds at the left base, crackles.\nPercussion: Dullness to percussion over the left lower lung fields.\nPalpation: No significant findings.\n\ntests: \nComplete Blood Count: \nHemoglobin: 14.0 mg/dL\nHematocrit: 45%\nLeukocyte count: 12,700/mm3\nNeutrophils: 84%\nLymphocytes: 17%\nMonocytes: 5%\nPlatelet count: 270,000/mm3\n\nChest X-ray: \nFindings: Alveolar infiltr"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Thank you for providing the patient's response. Based on their symptoms, examination, and test results, I'm going to provide a diagnosis.\n\nDIAGNOSIS READY: Pneumonia with possible aspiration"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pneumonia",
+    "DIAGNOSIS_READY_Simulation": "Scene 77, The diagnosis was INCORRECT (6.41%)"
+  }
+]

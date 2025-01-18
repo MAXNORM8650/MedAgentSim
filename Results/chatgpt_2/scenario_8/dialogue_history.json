@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the breast mass? For example, is it painful, hard, or soft? How long have you noticed it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a firm mass that I can feel in my left breast. I first noticed it about four weeks ago, and it seems to have grown quite a bit since then. There\u2019s no pain associated with it at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the skin over the breast or any discharge from the nipple?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any changes in the skin or any discharge from the nipple. The skin looks normal, and there\u2019s no irritation or redness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any weight loss, fatigue, or changes in your appetite recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any weight loss, fatigue, or changes in my appetite. I feel generally well aside from the mass."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of breast cancer or other breast-related conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, there\u2019s no family history of breast cancer or any similar conditions in my family. My past medical history is quite unremarkable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous breast exams or mammograms, and if so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any previous breast exams or mammograms. This is the first time I've noticed something unusual in my breast."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent hormonal changes, such as starting or stopping birth control, or any menstrual irregularities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent hormonal changes or menstrual irregularities. My cycles have been regular, and I haven't started or stopped any birth control recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any other symptoms, such as fever, night sweats, or swollen lymph nodes in your armpit?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any fever or night sweats. I also haven't noticed any swollen lymph nodes in my armpit. Everything else feels normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent injuries or trauma to the breast area that you can recall?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any recent injuries or trauma to the breast area. I can't recall anything that might have caused it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the size or shape of your breast on the affected side compared to the other side?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in the overall shape of my breast, but the mass itself has definitely increased in size rapidly compared to the other side. It feels more prominent than it did four weeks ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done, such as an ultrasound or mammogram, since you discovered the mass?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any imaging studies done yet. I wanted to consult with you first before proceeding with any tests."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I understand your concerns. I recommend we perform an ultrasound to get a clearer picture of the mass. REQUEST TEST: Breast_Ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It\u2019s good to hear that the ultrasound results are normal. However, since the mass has grown significantly in a short period, I would like to know if you have any history of breast cysts or fibrocystic changes in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any history of breast cysts or fibrocystic changes. This is the first time I've encountered anything like this."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given that there is no history of cysts or fibrocystic changes, I would like to know if you have experienced any changes in your menstrual cycle or any other hormonal symptoms in the past, even if they are not recent?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any changes in my menstrual cycle or any hormonal symptoms in the past. My cycles have been regular, and I haven't had any issues related to hormones before this."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your breast tissue, such as tenderness or lumpiness, during your menstrual cycle in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my breast tissue during my menstrual cycle in the past. My breasts have always felt normal without any tenderness or lumpiness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the information you've provided, I would like to perform a biopsy of the mass to determine its nature. Would you be comfortable proceeding with that?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I understand the need for a biopsy, and I'm comfortable proceeding with that. I just want to get to the bottom of this as soon as possible."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I appreciate your willingness to proceed with the biopsy. Before we do that, can you tell me if you have any allergies to medications or anesthesia?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known allergies to medications or anesthesia. I've never had any adverse reactions to any treatments in the past."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Thank you for that information. I would like to know if you have experienced any changes in your overall health, such as new medications or lifestyle changes, that might have coincided with the discovery of the mass?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any significant changes in my overall health, medications, or lifestyle that coincided with the discovery of the mass. Everything has been pretty much the same for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the rapid growth of the mass and the normal ultrasound results, I would like to request a mammogram to further evaluate the breast tissue. REQUEST TEST: Mammogram."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Findings: Smooth polylobulated mass in the left breast."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The mammogram shows a smooth polylobulated mass in your left breast. Have you experienced any changes in your breast size or shape since the mass was first noticed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in the overall size or shape of my breast since the mass was first noticed. The mass itself has just become more prominent, but the rest of my breast looks the same."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the information you've provided, including the characteristics of the mass and the imaging results, I suspect that the mass may be a benign condition such as a fibroadenoma. However, to confirm this, I recommend proceeding with the biopsy. DIAGNOSIS READY: Fibroadenoma."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Phyllodes tumor",
+    "DIAGNOSIS_READY_Simulation": "Scene 8, The diagnosis was INCORRECT, 22%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I appreciate your explanation, and I'm relieved to hear it might be benign. What can I expect during the biopsy procedure?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "During the biopsy, I understand that a small sample of tissue will be taken from the mass. I expect to feel some pressure, but I hope it won't be too uncomfortable. How long will it take to get the results?"
+  }
+]

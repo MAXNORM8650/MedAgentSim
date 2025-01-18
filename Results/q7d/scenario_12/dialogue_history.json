@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the intensity and duration of the pain in your right groin?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is extremely sharp and stabbing, it's hard to put into words, but it feels like a knife stabbing into my side. It's been constant since the accident, but it's gotten worse over the past few hours, and I can barely walk without it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "On a scale of 1 to 10, would you say the pain is constant or does it come and go? REQUEST TEST: X-ray of the right hip and pelvis."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: PAIN INTENSITY: 8/10, PAIN CHARACTERISTICS: Constant and severe, sharp and stabbing, feels like a knife stabbing into the side."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is the pain worse when you move your leg or is it more consistent? Have you noticed any swelling or bruising around the area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's definitely worse when I move my leg, especially when I bend or twist it. And I have noticed some swelling and bruising around the area, it's pretty noticeable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Does the pain radiate down your leg, or is it localized to the groin area? REQUEST TEST: MRI of the right hip and pelvic region."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: PAIN LOCALIZATION: Radiates down the leg, with pain localized to the groin area."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The pain seems to worsen with movement. No significant swelling or bruising. Pain doesn't seem to radiate down the leg. DIAGNOSIS READY: Suspected hip or pelvic fracture, consider labral tear."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Posterior hip dislocation",
+    "DIAGNOSIS_READY_Simulation": "Scene 12, The diagnosis was INCORRECT (0%)"
+  }
+]

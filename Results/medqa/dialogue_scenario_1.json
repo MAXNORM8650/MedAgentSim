@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first started experiencing gait and limb ataxia? Was it sudden or did it gradually develop over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it started about 3 months ago, and at first, it was just a slight unsteadiness on my feet, but over the past month, it's gotten a lot worse - I feel like I'm losing my balance all the time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities? Are you still able to perform tasks like cooking, driving, or even simple movements like brushing your teeth without assistance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been trying to maintain my daily routine as much as possible, but I have to admit that it's been getting increasingly challenging. I've had to rely on others to help me with tasks like cooking and even simple movements like brushing my teeth, especially in the mornings when I'm still trying to shake off the dizziness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the times when you do lose your balance? Are there any specific situations or activities that trigger it, such as getting up from a seated position, walking down stairs, or turning corners?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's usually when I'm getting up from a seated position or turning a corner that I feel like I'm going to lose my balance. My legs just feel like they're wobbly and I have to grab onto something for support, even if it's just a chair or a wall."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any recent travel or changes in your environment that might have triggered this onset of ataxia?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I actually went on a short trip to visit family about a month ago, and I did feel a bit off during that trip, but I brushed it off as just being tired from the trip. I didn't think much of it at the time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a neurological exam to assess your coordination and balance. Can you please stand up and walk slowly to the edge of the examination room, and then turn around and walk back to me? Please also point to different body parts as you do so, so I can observe your movements."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try my best to follow the doctor's instructions. *gets up slowly, taking small steps* I'll point to my head... *points*...my shoulders... *points*...my hips... *points*... I'll try to walk slowly and turn around... *starts walking slowly to the edge of the room, takes a few steps, and turns around*... I'll point to my knees... *points*... my ankles... *points*."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any recent changes in your vision or eye movements that might be related to your ataxia? Also, I'd like to request an MRI of the brain to rule out any structural abnormalities. REQUEST TEST: MRI Brain"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal MRI Brain: Findings: Lesions consistent with Progressive Multifocal Encephalopathy (PML). Comments: T1/T2 images showing multifocal demyelinating lesions without gadolinium enhancement, indicative of PML."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the medications you're currently taking, and if you've noticed any changes in your symptoms since starting or stopping any of them? Also, I'd like to request the MRI images to review the lesions more closely. REQUEST IMAGES: MRI Brain T1/T2 Images"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm currently taking natalizumab, which I've been on for about a year now. To be honest, I've noticed that my symptoms have been worsening since I started taking it. I've had to rely on my family members more and more to help me with everyday tasks, which is really frustrating for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your medical history, specifically any previous neurological conditions or illnesses that you've had? And regarding your natalizumab, have you noticed any changes in your medication regimen or dosage recently? Also, I'd like to review the MRI images again to see if we can identify any specific characteristics of the lesions."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I was diagnosed with Crohn disease about 2 years ago, and I've been on a treatment regimen ever since. I've had a few hospitalizations due to complications from the disease, but I've been relatively stable on my current treatment, which includes natalizumab."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your treatment regimen for Crohn disease? Are you experiencing any side effects from the natalizumab, such as numbness or weakness in your extremities, which could be related to the ataxia you're experiencing? Also, I'd like to request an ultrasound of your cerebrospinal fluid to check for any signs of increased intracranial pressure, which could be contributing to your ataxia. REQUEST TEST: Ultrasound CSF"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like the MRI results showed lesions consistent with Progressive Multifocal Encephalopathy (PML), which can cause ataxia among other symptoms. Can you tell me more about your treatment regimen for Crohn disease, specifically how natalizumab is administered and if there have been any changes to your dosage recently? Also, have you noticed any numbness or weakness in your extremities, such as your arms or legs, which could be related to the ataxia you're experiencing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been taking natalizumab via infusion every 4 weeks for the past year, and I haven't had any changes to my dosage recently. To be honest, I've been feeling pretty frustrated with my condition lately, and I wish there was something else I could try."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the MRI images again to see if we can identify any specific characteristics of the lesions. Can you tell me more about the fatigue you've been experiencing lately? Is it constant or does it come and go with your ataxia episodes? Also, I'd like to request a blood test to check your vitamin B12 levels, as deficiencies in this vitamin have been linked to PML. REQUEST TEST: Blood Test, Vitamin B12"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal Regarding your treatment regimen for Crohn disease, there are no reported side effects from natalizumab. However, the patient's ataxia symptoms persist. RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the fatigue you've been experiencing lately? Is it constant or does it come and go with your ataxia episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's not really fatigue, per se... it's more like a feeling of being unsteady and off-balance, like my body is wobbling or something. It's hard to describe, but it's like my legs are stuck in place sometimes and I have to take a few extra steps to get going."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation you described, where it feels like your legs are stuck in place? Does it happen when you're standing still or when you're walking? Also, have you noticed any other symptoms, such as dizziness, double vision, or difficulty speaking, that might be related to the ataxia?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's hard to describe, but it's like my legs are temporarily frozen, and I have to take a few extra steps to get going. It happens more when I'm standing still, like when I'm waiting for someone or standing in line."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation you described, where it feels like your legs are stuck in place? Does it happen when you're standing still or when you're walking? Also, I'd like to request a blood test to check your vitamin B12 levels, as deficiencies in this vitamin have been linked to PML. REQUEST TEST: Blood Test, Vitamin B12"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal Sensation: No reported sensation of legs being stuck in place."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities and how you manage your ataxia? Do you use any assistive devices, such as canes or walkers, to help with balance and mobility? Also, I'd like to review the MRI images again to see if we can identify any specific characteristics of the lesions. Can you point out any areas on the brain that seem to be affected by the ataxia?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been trying to adapt to my condition as much as possible. I use a cane to help with balance, especially when I'm walking, and I've also been using a walker at home to help prevent falls. I've had to get creative with how I do things, like using a stool to help me get on and off the toilet, and I've even had to relearn how to do some everyday tasks, like tying my shoes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're doing your best to adapt to your condition. I'm glad to hear that you're using a cane and walker to help with balance and mobility. Can you tell me more about how these assistive devices have affected your daily activities and overall quality of life? Also, I'd like to review the MRI images again to see if we can identify any specific characteristics of the lesions. Can you point out any areas on the brain that seem to be affected by the ataxia? I'd also like to request an EMG (electromyogram) test to assess the electrical activity of your muscles and see if there are any abnormalities that could be contributing to your ataxia. REQUEST TEST: EMG"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the EMG results? Are there any abnormalities in the electrical activity of your muscles that could be contributing to your ataxia? Also, I'd like to request a blood test to check your vitamin B12 levels again, just to confirm that your levels are within a normal range. REQUEST TEST: Blood Test, Vitamin B12"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal EMG: Abnormalities in muscle electrical activity consistent with denervation patterns, likely related to ataxia. Comments: Bilateral limb muscle weakness and decreased motor unit recruitment noted."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like we've uncovered some interesting findings with the EMG test. The abnormalities in muscle electrical activity are consistent with denervation patterns, which could be related to the ataxia. This suggests that there may be some nerve damage or dysfunction involved. Can you tell me more about your symptoms before you started taking natalizumab? Did you experience any ataxia or neurological symptoms before you started treatment? Also, I'd like to review the MRI images again to see if we can identify any specific characteristics of the lesions. Additionally, I'd like to request a test to check your cerebrospinal fluid (CSF) pressure. REQUEST TEST: Lumbar Puncture."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal EMG: Abnormalities in muscle electrical activity consistent with denervation patterns, likely related to ataxia. Comments: Bilateral limb muscle weakness and decreased motor unit recruitment noted."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like we've made some significant progress in understanding your condition. The EMG test results do suggest that there may be some nerve damage or dysfunction involved, which could be contributing to your ataxia. Can you tell me more about your symptoms before you started taking natalizumab? Did you experience any ataxia or neurological symptoms before you started treatment? Also, I'd like to review the MRI images again to see if we can identify any specific characteristics of the lesions. Have you noticed any changes in your vision or eye movements since starting natalizumab? Are you experiencing any double vision, blurred vision, or difficulty focusing? And one more thing, I'd like to request a blood test to check your vitamin B12 levels again, just to confirm that your levels are within a normal range. REQUEST TEST: Blood Test, Vitamin B12 We're getting close to making a diagnosis, but I need to ask a few more questions to confirm my suspicions. Can you tell me more about your Crohn disease treatment regimen? Have you noticed any changes in your symptoms or side effects since starting natalizumab?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Normal Readings Neurological Examination: Gait Assessment: Ataxic gait noted. Limb Examination: Right Upper Limb Strength: 4/5 Coordination Tests: Evidence of ataxia. Visual Examination: Visual Acuity: 20/20 in both eyes Eye Movements: Normal Ophthalmological Examination: Pupils: Normal Extraocular Muscle Strength: Normal Retinoscopy: Normal EMG: Abnormalities in muscle electrical activity consistent with denervation patterns, likely related to ataxia. Comments: Bilateral limb muscle weakness and decreased motor unit recruitment noted."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I think we've gathered enough information to make a diagnosis. Based on the MRI results showing lesions consistent with Progressive Multifocal Encephalopathy (PML), the EMG test results indicating denervation patterns, and the patient's history of Crohn disease treatment with natalizumab, I believe I have a diagnosis. DIAGNOSIS READY: Progressive Multifocal Encephalopathy (PML) secondary to Natalizumab treatment for Crohn disease."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Progressive multifocal encephalopathy (PML)",
+    "DIAGNOSIS_READY_Simulation": "Scene 1, The diagnosis was CORRECT, 50%"
+  }
+]

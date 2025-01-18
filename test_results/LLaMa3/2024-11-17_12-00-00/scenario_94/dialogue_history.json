@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the chronic wound on your right lower leg? When did it first start, and has it changed or worsened over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been about 6 months now, and to be honest, it just seems to be getting bigger and more painful. I've tried to take care of it myself with dressings and antibiotics, but nothing seems to be working."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your lifestyle, specifically regarding your occupation, do you work outdoors or are you sedentary for most of the day?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work as an accountant, so I'm pretty much sedentary for most of the day, I'd say. I do have to sit for long periods, but I don't really get much exercise unless I'm walking to and from work or something."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the wound itself? Is it red, swollen, or does it have any discharge, and has it ever been deep or had to be debrided?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, the wound is quite a deep purple color, especially when I move my leg. It's been quite painful, especially when I've been sitting for long periods, and it feels like it's been throbbing. I've never really had any discharge from it, but it does have a sort of... thick, sticky texture around the edges."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did you first notice the wound was not healing on its own, and did you experience any significant trauma or injury to the area prior to its development?\n\n\n\nAlso, I'd like to take a look at the wound itself, please."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think it started about 6 months ago, to be honest. I remember it was just a small cut, but it didn't heal properly, and it just kept getting bigger and more painful. I tried to be more careful with it, but nothing seemed to work."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the wound. Can you please lift your pant leg for me, and I'll examine the area to see if I notice any signs of infection or other complications?\n\nAlso, have you noticed any numbness, tingling, or pain in your right lower leg, especially when you walk or bear weight on it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can lift my pant leg for you, doc. It's been a bit of a challenge getting it to heal, to be honest. I've been pretty careful about keeping it clean and dressing it regularly, but it just won't seem to close up.\n\nAs for numbness or tingling, I have to admit that I've noticed a bit of a heaviness in my leg, especially when I'm sitting for long periods. It's not exactly numb, but it feels like there's some kind of... pressure or weight holding it back.\n\nI do try to move around as much as I can, but like I said, I'm pretty sedentary for most of the day. I've always been a bit of a desk jockey, to be honest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your foot and ankle in general, are there any areas that are tender to the touch or sensitive when you apply pressure?\n\n\n\nAlso, I'd like to request a test to get a better understanding of your wound's condition. REQUEST TEST: Tissue_Biopsy"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \nBlood Pressure: 126/84 mmHg, \nHeart Rate: 62/min\nLeg Examination: \nInspection: Large ulcer on the right lower leg, presence of varicose veins, \nPalpation: Edema in both legs, more pronounced in the right leg, \nPulse: Dorsalis pedis and posterior tibial pulses are palpable but diminished in the right leg, \nSkin: Skin around the wound is discolored with evidence of chronic changes such as pigmentation\ntests: \nDoppler Ultrasound Lower Limb: Evidence of venous reflux and obstruction in superficial and deep venous systems of the right leg \nComplete Blood Count: WBC, Hemoglobin, Platelets within normal limits \nWound Culture: No growth of pathogenic bacteria \nTissue Biopsy: Not yet available for results."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent changes in your footwear or socks that you wear on your right lower leg, such as any new materials, tightness, or moisture issues?\n\n\n\nAlso, have you noticed any difficulty walking or standing on your right lower leg, or has the pain or discomfort changed over time?\n\n\n\nIs it possible that you've had any previous treatments or interventions for the wound, such as dressings, antibiotics, or physical therapy?\n\n\n\nCan you lift your pant leg a bit higher so I can take a closer look at the area around the wound, and see if I can notice any signs of inflammation or swelling?\n\n\n\nREQUEST TEST: Complete_Dermatology_Excel"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \nBlood Pressure: 126/84 mmHg, \nHeart Rate: 62/min\nLeg Examination: \nInspection: Large ulcer on the right lower leg, presence of varicose veins, \nPalpation: Edema in both legs, more pronounced in the right leg, \nPulse: Dorsalis pedis and posterior tibial pulses are palpable but diminished in the right leg, \nSkin: Skin around the wound is discolored with evidence of chronic changes such as pigmentation\ntests: \nDoppler Ultrasound Lower Limb: Evidence of venous reflux and obstruction in superficial and deep venous systems of the right leg \nComplete Blood Count: WBC, Hemoglobin, Platelets within normal limits \nWound Culture: No growth of pathogenic bacteria \nTissue Biopsy: Not yet available for results.\nTissue Dermatology Exam: Showing signs of chronic venous insufficiency, with areas"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the area around the wound. Can you please lift your pant leg even higher so I can examine the surrounding skin for any signs of irritation or inflammation?\n\n\n\nAlso, can you tell me more about your diabetes status, if you have any, and have you noticed any changes in your blood sugar levels or any symptoms of diabetic neuropathy?\n\n\n\nAnd, I'd like to examine the area further, can you please show me the wound from different angles so I can get a better understanding of its shape and size?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've never been diagnosed with diabetes, doc. I do have to monitor my blood sugar levels from time to time, just as part of my job requirements, but I've never had any issues or symptoms that would suggest I have diabetes.\n\nAs for the wound, I'd be happy to show you from different angles. Let me just lift my pant leg a bit higher for you. *lifts pant leg* Here, let me turn around so you can see it from the back as well."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your foot and ankle in general, are there any areas that are tender to the touch or sensitive when you apply pressure?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my foot is pretty normal, doc. I don't really feel anything out of the ordinary, but like I mentioned before, there's a bit of a heaviness in my leg, especially when I'm sitting for long periods. It's not really tender to the touch, but it does feel like there's some kind of pressure holding it back."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your current medication regimen, particularly with regards to diabetes management if you have diabetes? \n\nAnd, can you lift your pant leg again so I can take a closer look at the wound's edges, are they clean or are there any signs of granulation tissue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm not really taking any medications for diabetes, doc. I just have to take a few pills here and there for my blood sugar levels, but that's about it. I do take some pain medication for the wound, but that's about it.\n\nAnd, yeah, I can lift my pant leg again. *lifts pant leg* The edges of the wound are a bit... scabbed over, I guess. I've been trying to keep it clean, but it's hard to get it to stay closed. I've seen some sort of... pinkish stuff around the edges, but I'm not really sure what that is.\n\nOh, and one more thing, doc. I've been having some issues with my legs swelling up even when I'm not sitting for long periods. It's like my legs are always a bit... puffy, even when I'm standing or walking around."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your current footwear? Are you wearing shoes or socks that are typically tight or constrictive around the ankle area?\n\n\n\nAlso, have you noticed any recent changes in your skin care routine or any new products you've been using on the wound?\n\n\n\nIs the wound itchy, painful, or does it cause any discomfort when you move your leg or apply pressure?\n\n\n\nCan you show me the wound from the back, and are there any areas that appear to be more red, swollen, or inflamed than the front?\n\n\n\nREQUEST TEST: Complete_Dermatology_Excel"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \nBlood Pressure: 126/84 mmHg, \nHeart Rate: 62/min\nLeg Examination: \nInspection: Large ulcer on the right lower leg, presence of varicose veins, \nPalpation: Edema in both legs, more pronounced in the right leg, \nPulse: Dorsalis pedis and posterior tibial pulses are palpable but diminished in the right leg, \nSkin: Skin around the wound is discolored with evidence of chronic changes such as pigmentation\ntests: \nDoppler Ultrasound Lower Limb: Evidence of venous reflux and obstruction in superficial and deep venous systems of the right leg \nComplete Blood Count: WBC, Hemoglobin, Platelets within normal limits \nWound Culture: No growth of pathogenic bacteria \nTissue Biopsy: Not yet available for results.\nTissue Dermatology Exam: Showing signs of chronic venous insufficiency, with areas"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your current medical history, have you had any previous surgeries, hospitalizations, or conditions that may be relevant to your current wound?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had a deep vein thrombosis in my right leg about 5 years ago, and my mom and brother had similar problems with their legs. I've been managing it on my own, but it seems like it's come back or worsened over time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any numbness, tingling, or pain you've experienced in your right lower leg, especially when you walk or bear weight on it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed a bit of a heaviness in my leg, especially when I'm sitting for long periods. It's not exactly numb, but it feels like there's some kind of... pressure or weight holding it back."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the wound from different angles. Can you please turn your leg so I can see the back of the wound, and are there any areas that appear to be more red, swollen, or inflamed than the front?\n\n\n\nAlso, I'd like to request a review of your wound care history. Have you had any previous dressings or treatments applied to this wound, and what were they?\n\n\n\nAnd, I'd like to examine your ankle joint more closely. Can you please flex your ankle for me, and I'll check for any signs of stiffness or limited mobility?\n\n\n\nCan you tell me more about your overall activity level, do you engage in any sports or physical activities that may be putting additional stress on your right lower leg?\n\n\n\nI'd like to request a test to get a better understanding of your wound's vascular supply. REQUEST TEST: Angiogram"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \nBlood Pressure: 126/84 mmHg, \nHeart Rate: 62/min\nLeg Examination: \nInspection: Large ulcer on the right lower leg, presence of varicose veins, \nPalpation: Edema in both legs, more pronounced in the right leg, \nPulse: Dorsalis pedis and posterior tibial pulses are palpable but diminished in the right leg, \nSkin: Skin around the wound is discolored with evidence of chronic changes such as pigmentation\ntests: \nDoppler Ultrasound Lower Limb: Evidence of venous reflux and obstruction in superficial and deep venous systems of the right leg \nComplete Blood Count: WBC, Hemoglobin, Platelets within normal limits \nWound Culture: No growth of pathogenic bacteria \nTissue Biopsy: Not yet available for results.\nTissue Dermatology Exam: Showing signs of chronic venous insufficiency, with areas"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your current activity level, do you engage in any sports or physical activities that may be putting additional stress on your right lower leg?\n\n\n\nAlso, can you show me the wound from the side, and are there any areas that appear to be more red, swollen, or inflamed than the rest of the wound?\n\n\n\nIs the wound's discharge or odor unusual in any way, such as being thick, yellow, or foul-smelling?\n\n\n\nCan you tell me more about your current footwear, are you wearing shoes or socks that are typically breathable and moisture-wicking around the ankle area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my activity level is pretty low, doc. I'm an accountant, so I'm mostly sedentary for most of the day. I do try to move around when I'm not at my desk, but like I said, I'm not really active. \n\nHere, let me show you the wound from the side. *lifts pant leg* Like I said, it's been getting bigger and more painful over time, and it's just really hard to get it to heal. \n\nAs for the discharge, it's not really unusual, I guess. It's just a thick, sticky stuff around the edges, like I mentioned before. I'm not really sure what it is, but it's just sort of... there."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your current footwear, are you wearing shoes or socks that are typically breathable and moisture-wicking around the ankle area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been wearing the same shoes for a while now, doc. They're not really designed for comfort or support, but they're what I have on hand. I've been wearing a pair of dress shoes for work, and I'm pretty sure they're not doing my legs any favors."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall activity level, do you engage in any sports or physical activities that may be putting additional stress on your right lower leg?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my activity level is pretty low, doc. I'm an accountant, so I'm mostly sedentary for most of the day. I do try to move around when I'm not at my desk, but like I said, I'm not really active. I do try to walk to and from work, though, and I'd say that's about the extent of my exercise routine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the wound's edges, are they clean or are there any signs of granulation tissue? Can you also show me the wound from the side, and are there any areas that appear to be more red, swollen, or inflamed than the rest of the wound?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The edges of the wound are a bit scabbed over, I guess. I've been trying to keep it clean, but it's hard to get it to stay closed. I've seen some sort of... pinkish stuff around the edges, but I'm not really sure what that is. *lifts pant leg again*\n\nAs for showing the wound from the side, like I said, it's been getting bigger and more painful over time, and it's just really hard to get it to heal. *lifts pant leg again*\n\nFrom the side, it does seem to be a bit more red and swollen, especially around the edges. I've noticed that it's been throbbing more and more, especially when I'm sitting for long periods."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your current footwear, are you wearing shoes or socks that are typically breathable and moisture-wicking around the ankle area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been wearing the same shoes for a while now, doc. They're not really designed for comfort or support, but they're what I have on hand. I've been wearing a pair of dress shoes for work, and I'm pretty sure they're not doing my legs any favors. I've also been wearing compression socks to try and help with the swelling, but I'm not really sure if they're doing much good."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems we've reached the end of our examination. I'll now review all the information gathered to make a diagnosis.\n\nFrom your history, I notice that you've been experiencing a chronic wound on your right lower leg for an extended period. You've mentioned some lifestyle factors, such as working outdoors, which may contribute to the development of the wound. However, I'd like to confirm whether you've had any recent trauma or injury to the area.\n\nCan you tell me more about the wound's development? Did you experience any significant event or incident prior to its formation?"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Chronic Venous Insufficiency",
+    "DIAGNOSIS_READY_Simulation": "Scene 94, The diagnosis was INCORRECT (5.26%)"
+  }
+]

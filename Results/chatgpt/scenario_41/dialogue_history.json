@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the discomfort you experience during sexual activity? Is it localized to a specific area or more generalized?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly a sharp discomfort that feels localized in my pelvic area. It often makes it difficult to relax during intimacy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any other symptoms accompanying the discomfort, such as changes in your menstrual cycle, unusual discharge, or pain during urination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my menstrual cycle or unusual discharge. I also don't experience pain during urination."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain during bowel movements or any gastrointestinal symptoms, such as bloating or changes in appetite?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any pain during bowel movements, and my appetite has been normal. No gastrointestinal symptoms like bloating either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous surgeries or medical conditions related to your reproductive system?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any surgeries related to my reproductive system, and aside from my body dysmorphic disorder, I don't have any other medical conditions affecting it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any significant stress or emotional changes recently that might be impacting your ability to conceive?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling quite stressed lately, especially with the pressure of trying to conceive. My body image issues also contribute to my emotional state during intimacy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your libido or sexual desire since you started experiencing these difficulties?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed a decrease in my libido lately. The discomfort and stress surrounding trying to conceive have made it harder for me to feel interested in sexual activity."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever been diagnosed with any infections or conditions such as endometriosis or pelvic inflammatory disease?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been diagnosed with any infections or conditions like endometriosis or pelvic inflammatory disease. My doctor has never mentioned those possibilities during previous check-ups."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent pelvic exams or ultrasounds to evaluate your reproductive organs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent pelvic exams or ultrasounds. The last check-up was quite a while ago, and I haven't felt comfortable scheduling another one due to my discomfort."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I understand your hesitation, but a pelvic exam or ultrasound could provide valuable insights. Would you be open to scheduling one to help us better understand your situation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think I would be open to scheduling a pelvic exam or ultrasound. I understand it might help clarify what's going on, even though I'm a bit anxious about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "That's a great decision. It\u2019s important to gather more information. In the meantime, have you experienced any unusual sensations, such as itching or burning in the pelvic area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any itching or burning in the pelvic area. The discomfort is more of a sharp pain during intimacy rather than any irritation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your weight recently, either gaining or losing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my weight recently. It has remained fairly stable over the past few months."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual fatigue or changes in your energy levels lately?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any unusual fatigue or changes in my energy levels. I feel generally okay in that regard, aside from the stress related to trying to conceive."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any sexually transmitted infections (STIs) in the past, or have you been tested for STIs recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any sexually transmitted infections in the past, and I haven't been tested for STIs recently either. I haven't felt the need to, given my current situation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your partner's health or any concerns regarding their reproductive health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My husband has mentioned having occasional difficulties maintaining an erection, which adds to the stress of our situation. We haven't discussed it in detail, but it's something that's been on my mind."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like both you and your husband are experiencing stress related to intimacy and conception. Have you considered discussing these concerns with your husband to see if it might help alleviate some of the pressure you're both feeling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think having an open conversation with him could be beneficial. We've both been feeling the pressure, and it might help us support each other better. I'm just worried about how to approach the topic without adding more stress."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It's great to hear that you're considering an open conversation with your husband. Communication can be very helpful in reducing stress. Before we proceed, would you be open to getting tested for STIs to rule out any potential underlying issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think getting tested for STIs makes sense, especially since it could help us understand the situation better. I'm open to it, even though I haven't had any concerns in the past."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: STI_Testing. While we wait for the test results, have you experienced any changes in your emotional well-being, such as increased anxiety or depression, that might be affecting your relationship and intimacy?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It's good to hear that the STI test results came back normal. Given your symptoms and the stress surrounding conception, would you be open to scheduling a pelvic exam or ultrasound to further investigate any potential underlying issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I would be open to scheduling a pelvic exam or ultrasound. I understand that it could provide more clarity about what's going on with my body."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Doctor: Excellent choice. A pelvic exam or ultrasound can help us identify any structural issues or conditions like ovarian cysts or fibroids that might be contributing to your discomfort. Before we proceed, have you experienced any pain during your menstrual periods?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any pain during my menstrual periods. They have been relatively normal without any significant discomfort."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Vaginismus."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Genitopelvic pain disorder",
+    "DIAGNOSIS_READY_Simulation": "Scene 41, The diagnosis was CORRECT, 35%"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your unusual physical features? Are there any specific characteristics that stand out?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have partial labial fusion and clitoromegaly, which were noted at birth. My mother mentioned that she had abnormal hair growth during her pregnancy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any other symptoms, such as changes in your skin, hair, or any other physical development issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had severe acne for quite some time now, and I've also had some fractures from minor injuries. Other than that, I haven't noticed any significant changes in my hair or other physical developments."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your menstrual cycle or any other reproductive health issues aside from the delayed menarche?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced menarche at all, and I haven't noticed any other reproductive health issues. It's been concerning for me, especially since my friends have started their periods."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your weight or appetite recently? Additionally, do you have a family history of hormonal or genetic disorders?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any changes in my weight or appetite recently. As for family history, my mother had some hormonal issues, including abnormal hair growth during her pregnancy, but that's about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any mood changes, such as increased irritability or anxiety? Additionally, do you have any history of excessive exercise or eating disorders?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant mood changes, but I do feel a bit anxious about my health situation. I don't have a history of excessive exercise or eating disorders either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done, such as X-rays or bone density tests, to assess your bone health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any imaging studies done yet. I think it would be helpful to check my bone health, especially since I've had fractures from minor trauma."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Bone_Density_Test. Can you tell me about your family history in more detail? Are there any known genetic conditions or syndromes in your family?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Thank you for the test results. Given that your bone density is normal, let's focus on your hormonal health. Have you experienced any issues with body hair growth or changes in your voice?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my voice, but I do have some abnormal hair growth, particularly on my chin, which has been a concern for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any blood tests done to check your hormone levels, particularly testosterone and estrogen? Additionally, have you experienced any issues with your skin, such as darkening or thickening?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests done to check my hormone levels yet. As for my skin, I haven't noticed any darkening or thickening, but my acne has been quite severe."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any issues with your insulin levels, such as increased thirst, frequent urination, or unexplained weight changes? Additionally, do you have any history of polycystic ovary syndrome (PCOS) in your family?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced increased thirst or frequent urination, and my weight has been stable. I don't have a known family history of polycystic ovary syndrome, but my mother did have some hormonal issues."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any abdominal or pelvic pain, particularly around the time you would expect your period? Additionally, do you have any history of ovarian cysts or other reproductive health issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any abdominal or pelvic pain, and I don't have a history of ovarian cysts or other reproductive health issues. It's mostly just the concern about not having my period at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your energy levels or fatigue? Additionally, do you have any issues with your blood pressure or heart rate?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my energy levels or fatigue. My blood pressure and heart rate have been normal as far as I know."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any issues with your vision, such as blurriness or changes in your eyesight? Additionally, do you have any history of thyroid problems in your family?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any issues with my vision or noticed any blurriness. As for my family history, I don't know of any thyroid problems."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any tests done to check your hormone levels, particularly for androgens? Additionally, do you have any history of skin conditions like hirsutism or acanthosis nigricans?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any tests done to check my hormone levels, including androgens. I don't have a history of skin conditions like hirsutism or acanthosis nigricans, but I do have some abnormal hair growth that concerns me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your libido or sexual function? Additionally, do you have any history of adrenal issues or congenital adrenal hyperplasia in your family?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my libido or sexual function. As for family history, I don't have any known issues with adrenal problems or congenital adrenal hyperplasia."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any tests done to check for congenital adrenal hyperplasia or other adrenal disorders? Additionally, do you have any history of early or late onset of secondary sexual characteristics in your family?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any tests done specifically for congenital adrenal hyperplasia or other adrenal disorders. In my family, there hasn't been any notable history of early or late onset of secondary sexual characteristics that I'm aware of."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and family history, I recommend we conduct a blood test to check your hormone levels, particularly for androgens and adrenal hormones. Would you be comfortable with that?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I'm comfortable with that. I think it would be helpful to understand my hormone levels better. When can we do the blood test?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "We can schedule the blood test for tomorrow. In the meantime, do you have any other concerns or symptoms that you haven't mentioned yet?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any other concerns or symptoms that I can think of right now. I'm mostly just anxious to get the results of the blood test and see what it reveals about my hormone levels."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's proceed with the blood test to check your hormone levels. In the meantime, have you experienced any unusual hair loss or changes in your nails? Additionally, do you have any known allergies or sensitivities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any unusual hair loss or changes in my nails. I don't have any known allergies or sensitivities that I'm aware of."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Congenital Adrenal Hyperplasia (CAH) due to 21-hydroxylase deficiency."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Aromatase deficiency",
+    "DIAGNOSIS_READY_Simulation": "Scene 50, The diagnosis was INCORRECT, 23%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I appreciate you sharing the diagnosis with me. Can you explain what this means for my health moving forward?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm still trying to understand what this diagnosis means for me. What kind of treatment or management will I need moving forward?"
+  }
+]

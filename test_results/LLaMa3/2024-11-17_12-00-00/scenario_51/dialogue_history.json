@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first started noticing these symptoms, such as the rapid breathing and swelling in your legs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think it started a few days ago, and at first, I just felt a bit tired and wasn't hungry like I usually am. But then my legs started feeling funny, like they were getting tight, and I could feel them getting swollen.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities? Are you able to run around, play with friends, or do you have to take regular breaks due to shortness of breath?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I try to play with my friends, but sometimes I get really tired and need to sit down or take a break because my legs feel funny and I can't run around as much as I want to. And when I do get tired, I start breathing really fast, like I'm going to get winded easily.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your diet, have you noticed any changes in the foods you eat or if you've been consuming any new or unusual substances recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Hmm, I like eating fruits and vegetables, and my favorite is applesauce. My mom usually gives me a bowl of applesauce and some crackers for breakfast. I also like eating chicken and pasta, but sometimes I don't feel like eating as much as I want to. My legs feel funny when I eat too much, and I get a little bloated.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you show me your legs and tell me if you've noticed any swelling in your face or around your eyes as well?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, doctor... *lifts pant leg to show swelling*... yeah, my legs do get really swollen. And, um, I don't really notice any swelling around my face or eyes, but sometimes my face feels a bit puffy, like I have a lot of pressure inside me.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your liver. Can you please lift your shirt and let me examine your abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, doctor... *lifts shirt to reveal abdomen*... I don't feel anything out of the ordinary, but my tummy does feel a bit... tight, like it's holding in something. And, um, I can feel this weird pressure in my stomach, like someone is pressing down on it from the inside.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've noticed that you have a noticeable swelling in your legs, and your abdomen is quite tender to the touch. Can you tell me if you've experienced any episodes of dizziness or fainting recently?\n\n\n\nPlease lift your shirt again and let me take a closer look at your liver, I'd like to check for any enlargement.\n\n\n\nAlso, REQUEST TEST: Liver Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n- Temperature: 37.0\u00b0C (98.6\u00b0F)\n- Blood Pressure: 95/60 mmHg\n- Heart Rate: 130 bpm (elevated for age)\n- Respiratory Rate: 40 breaths/min (elevated for age)\n\nCardiovascular Examination: \n- Auscultation: Mild rales noted, fixed split S2 on inspiration. No murmurs.\n\nRespiratory Examination: \n- Auscultation: Increased respiratory effort, no wheezes or stridor.\n\nAbdominal Examination: \n- Inspection: Mild distension.\n- Palpation: Liver palpable 1.5 times the normal size for age, no splenomegaly.\n- Percussion: Shifting dullness absent.\n\nExtremities: \n- Inspection_and_Palpation: Mild pitting edema in both legs.\n\ntests: \n- Chest X-Ray: \n  - Findings:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your appetite, have you been feeling hungry or full often lately, and do you have any unexplained weight loss?\n\n\n\nAlso, REQUEST TEST: Complete Blood Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n- Temperature: 37.0\u00b0C (98.6\u00b0F)\n- Blood Pressure: 95/60 mmHg\n- Heart Rate: 130 bpm (elevated for age)\n- Respiratory Rate: 40 breaths/min (elevated for age)\n\nCardiovascular Examination: \n- Auscultation: Mild rales noted, fixed split S2 on inspiration. No murmurs.\n\nRespiratory Examination: \n- Auscultation: Increased respiratory effort, no wheezes or stridor.\n\nAbdominal Examination: \n- Inspection: Mild distension.\n- Palpation: Liver palpable 1.5 times the normal size for age, no splenomegaly.\n- Percussion: Shifting dullness absent.\n\nExtremities: \n- Inspection_and_Palpation: Mild pitting edema in both legs.\n\ntests: \n- Chest X-Ray: \n  - Findings:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your family history, have any of your relatives been diagnosed with liver problems or other conditions that might be related to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"My mom's cousin has a problem with his liver, and I think he got really sick from something he ate. And my grandma has a condition where she has to take special medicine all the time, but I don't really know what it is. She's always been a bit tired and not hungry like me.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your arms and legs more closely, can you please show me the swelling in your legs and how it's distributed? Is it more pronounced on one side than the other?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, doctor... *lifts pant leg to show swelling*... the swelling is pretty even on both sides, but it looks like it's a bit more noticeable on the top part of my leg. And, um, it feels like it's getting a bit tighter and more swollen as the day goes on.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities, have you noticed any changes in your energy levels or ability to perform physical tasks due to your shortness of breath?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, doctor... sometimes I get really tired and need to sit down or take a break because I'm not sure if I can catch my breath. It's hard to play with my friends or run around because I feel like I'm going to get winded easily. I have to take deep breaths just to calm down and feel better.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your arms and legs more closely, can you please show me how the swelling is distributed? Is it more pronounced on one side than the other, and do you notice any pain or tenderness when you move your legs?\n\n\n\nAlso, REQUEST TEST: Albumin Level"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n- Temperature: 37.0\u00b0C (98.6\u00b0F)\n- Blood Pressure: 95/60 mmHg\n- Heart Rate: 130 bpm (elevated for age)\n- Respiratory Rate: 40 breaths/min (elevated for age)\n\nCardiovascular Examination: \n- Auscultation: Mild rales noted, fixed split S2 on inspiration. No murmurs.\n\nRespiratory Examination: \n- Auscultation: Increased respiratory effort, no wheezes or stridor.\n\nAbdominal Examination: \n- Inspection: Mild distension.\n- Palpation: Liver palpable 1.5 times the normal size for age, no splenomegaly.\n- Percussion: Shifting dullness absent.\n\nExtremities: \n- Inspection_and_Palpation: Mild pitting edema in both legs.\n\ntests: \n- Chest X-Ray: \n  - Findings:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent illnesses or fevers you've had, and have you been in contact with anyone who's been sick recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, no, doctor... I don't think so. I don't really get sick often, and when I do, it's just a cold or something like that. My mom says I'm usually fine, and my friends are all healthy too. We all play together and have fun, and no one's ever been sick that I know of.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the swelling in your legs. Can you please bend your knees slightly and show me where the swelling is most pronounced? \n\nAlso, REQUEST TEST: Echocardiogram"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n- Temperature: 37.0\u00b0C (98.6\u00b0F)\n- Blood Pressure: 95/60 mmHg\n- Heart Rate: 130 bpm (elevated for age)\n- Respiratory Rate: 40 breaths/min (elevated for age)\n\nCardiovascular Examination: \n- Auscultation: Mild rales noted, fixed split S2 on inspiration. No murmurs.\n\nRespiratory Examination: \n- Auscultation: Increased respiratory effort, no wheezes or stridor.\n\nAbdominal Examination: \n- Inspection: Mild distension.\n- Palpation: Liver palpable 1.5 times the normal size for age, no splenomegaly.\n- Percussion: Shifting dullness absent.\n\nExtremities: \n- Inspection_and_Palpation: Mild pitting edema in both legs, swelling more pronounced on the top part of the left leg.\n\ntests:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me exactly how much the swelling in your legs is increasing in size over the past few days?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Hmm, doctor... I think it's getting a bit bigger, like, really noticeable now. My mom says it's getting worse too, and she's been measuring it with a ruler. I think it's like, half an inch bigger or something, but I'm not really sure... *looks down at legs*\"."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me exactly how much the swelling in your legs is increasing in size over the past few days?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'm not really sure, doctor... my mom is the one who's been measuring it. She says it's been getting bigger, but I don't know how much. We tried to measure it yesterday and it was like, a little bigger than it was before, and today it's even more noticeable. My legs feel funny and tight, and I can feel the swelling getting worse when I move around.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the swelling in your legs, can you please bend your knees slightly and show me where the swelling is most pronounced? \n\nCan you tell me if you've noticed any pain or tenderness when you move your legs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, doctor... *bends knees slightly*... the swelling is on the top part of my leg, like I said before. And, um, yeah... sometimes it feels a bit sore when I move my leg, but it's not really hurting. It just feels tight and funny.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me exactly how much the swelling in your legs is increasing in size over the past few days?\n\n\n\nAlso, can you point out to me the areas where the swelling is most pronounced and if you've noticed any pain or tenderness when you press on those areas?\n\n\n\nPlease continue bending your knees slightly so I can get a better look at the swelling."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, doctor... *continues bending knees slightly*... I think the swelling is getting a bit bigger, like, really noticeable now. My mom says it's getting worse too, and she's been measuring it with a ruler. I think it's like, half an inch bigger or something, but I'm not really sure... *looks down at legs*... I can feel it when I press on the top part of my leg, it feels tight and funny. And, um, yeah... sometimes it feels a bit sore when I press on that area, but it's not really hurting. It just feels tight and funny, like there's pressure building up inside me.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me exactly when you first started bending your knees to see if the swelling gets worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Uh, doctor... I think I just started bending my knees because you asked me to, but I've been noticing the swelling in my legs is getting worse when I stand up and move around. My legs feel funny and tight, and I can feel the swelling getting worse when I move my leg.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me exactly when you first started bending your knees to see if the swelling gets worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't know, doctor... I just did it because you asked me to. I've been standing up and moving around for a while now, and my legs feel funny and tight. I think the swelling gets worse when I move my leg, but I'm not really sure.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses and examined your liver, legs, and arms. Based on your symptoms and test results, I believe the cause of your condition is related to fluid buildup in your body. Specifically, I'm concerned about a possible heart condition that may be causing the swelling and shortness of breath.\n\nI'm going to request one more test, and that is a Chest X-Ray, to confirm my suspicions. \n\nDIAGNOSIS READY: Congestive Heart Failure"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Atrial Septal Defect",
+    "DIAGNOSIS_READY_Simulation": "Scene 51, The diagnosis was INCORRECT (3.85%)"
+  }
+]

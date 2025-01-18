@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What symptoms have you been experiencing that led to your visit today?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really feel anything different, but my mom said the doctor wanted to check my arm because it was a little high."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your activity level, such as feeling more tired than usual or having difficulty keeping up with friends?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I play with my friends just like always! I run and jump and have fun at school."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses, such as a cold or fever, or any changes in your diet or weight?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't been sick, and I eat the same things as always. My weight feels good, and I like my snacks!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any headaches, dizziness, or vision changes recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any headaches or felt dizzy. My eyes are good, and I can see everything just fine!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of high blood pressure or heart problems?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, my mom says nobody in our family has those problems. Everyone is healthy!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual sweating, palpitations, or chest pain during physical activities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Nope, I haven't felt anything weird like that when I play. I just have fun and run around!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your legs, feet, or abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't seen any swelling anywhere. My legs and feet feel normal, and my tummy is fine too!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your sleep patterns, such as difficulty falling asleep or staying asleep?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I sleep just fine! I go to bed when my mom says, and I wake up ready to play."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or check-ups that might show any abnormalities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests recently, but my mom says I had a check-up last time and everything was okay!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any abdominal pain or discomfort, particularly in the upper abdomen or back?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any tummy aches or pain in my back. My belly feels good!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your urine, such as increased frequency, color, or any pain while urinating?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed anything different with my pee. It looks the same, and it doesn't hurt when I go!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent injuries or accidents that might have affected your body, particularly your chest or abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any injuries or accidents. I play safely and haven't hurt myself at all!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual thirst or changes in your appetite recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't been really thirsty or anything. I eat the same amount as always and like my meals!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your skin, such as rashes or unusual markings?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, my skin looks normal! I haven't had any rashes or anything funny on my body."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to medications, supplements, or herbal remedies that could affect your blood pressure?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't taken any medicines or anything like that. I just eat my food and drink water!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual feelings in your chest, like tightness or pressure, even if it was brief?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't felt anything weird in my chest. It feels normal when I run and play!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had your blood pressure checked multiple times, or was this the first time it was noted to be high?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think this is the first time my blood pressure was checked, but my mom said it was a little high on one side."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any differences in your blood pressure readings between your arms, or has it only been checked on one side?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think they only checked my arm, but my mom said it was higher on that side. I don't know if they checked the other one."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done, like an ultrasound of your heart or blood vessels, to check for any abnormalities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any pictures taken of my heart or anything like that. My mom hasn't mentioned it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Echocardiogram."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal."
+  }
+]

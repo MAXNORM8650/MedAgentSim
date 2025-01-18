@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first started noticing these symptoms? Was it a gradual progression or did it happen suddenly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, it started with a slight imbalance when I was walking, like I was about to stumble, but I could still catch myself. It wasn't until a few months ago that I really started to feel the effects, like I needed to hold onto things for support."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you walk me through your daily activities and see if there's a specific time of day when these symptoms seem to worsen or improve?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I try to manage my daily tasks in a fairly routine manner, but lately, I've found that I need to take more breaks and ask for help from others, especially when it comes to things that require standing for long periods. I've noticed that my speech seems to get slurred more noticeably in the evening, and it takes me a bit longer to respond to questions."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did you first start experiencing difficulty walking, and how has it changed over time? Has the urinary incontinence and speech difficulties developed simultaneously or one at a time?\n\n\n\nAlso, I'd like to perform a neurological examination. Can you stand up for me and walk a short distance, please?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been about three months now that I've been feeling unsteady when walking. At first, I could still regain my balance, but the past month has been quite challenging. Now, I need to rely on a wheelchair to get around, and even that's become a struggle.\n\nI try to stay active throughout the day, but I do notice it gets a bit tougher in the evening. The longer I stand or walk, the more my legs feel weak. It's hard to pinpoint exactly when the speech slurring started, but it seems to get worse around this time of day.\n\nAnd yes, please, I'd be happy to help with the neurological examination."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to start by asking, have you experienced any recent trauma, infections, or other medical conditions that could be contributing to these symptoms?\n\n\n\nPlease, I'd like you to walk slowly for me and point out any areas of discomfort or pain while you walk."
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, nothing like that has happened recently. It's just been a gradual decline in my mobility and overall well-being. I've been keeping track of my progress, and I'm getting a bit worn out just thinking about how much I've changed in just a few months."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "That's helpful to know that you've experienced a gradual worsening of your symptoms. Can you tell me more about your urinary incontinence - is it constant, or do you only experience it at specific times of the day or after certain activities?\n\n\n\nREQUEST TEST: Urinalysis"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Urinalysis: Appearance: Clear, WBC: 0-5 /HPF, RBC: 0-2 /HPF, Nitrites: Negative, Leukocyte_Esterase: Negative"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe to me the nature of the speech difficulties you're experiencing? Are they more related to finding the right words, or are there any issues with understanding what's being said to you?\n\n\n\nAlso, I've received the results of your urinalysis - can you tell me if you notice any blood or unusual colors in your urine?\n\n\n\nAlso, while you're walking, I'd like you to take a seat and point out any areas where you experience numbness, tingling, or weakness in your legs."
+  },
+  {
+    "speaker": "Patient",
+    "text": "The speech difficulties are a bit harder to describe, but I'd say it's more about the clarity and articulation. It feels like I'm having trouble finding the right words to say, and sometimes I feel like I'm mumbling. It's not like I'm having trouble understanding what people are saying to me.\n\nAs for the urine, I don't really notice anything out of the ordinary. It's just a bit lighter than usual, but that could just be because I'm drinking a bit more water.\n\nAnd, yeah, I do experience numbness in my legs when I'm walking. It's more of a tingling sensation, but it feels like it's coming from the outer parts of my legs. It's not too severe, but it's definitely noticeable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your sleep patterns - are you experiencing any difficulties falling asleep, staying asleep, or do you wake up frequently during the night?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I've been having trouble falling asleep at night, especially if I've had a long day or if I'm feeling anxious about my condition. I often find myself lying awake for hours, trying to focus on my breathing or listening to calming music."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like we've made some progress, but we still have a lot to uncover. Can you tell me more about your sleep patterns - are you experiencing any difficulties falling asleep, staying asleep, or do you wake up frequently during the night?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I've been having trouble falling asleep at night, especially if I've had a long day or if I'm feeling anxious about my condition. I often find myself lying awake for hours, trying to focus on my breathing or listening to calming music."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to focus on your sleep patterns a bit more. Can you tell me if you've noticed any changes in your sleep environment or if there are any specific things that trigger your urinary incontinence, such as coughing or sneezing?\n\n\n\nAlso, while you're sitting, I'd like to perform a neurological examination by checking your reflexes. Can you lift your foot and toes for me, and I'll check the reflexes in your lower leg?\n\n\n\nCan you tell me more about your daily activities and how they've changed over time - have you had to make any adjustments to your routine due to these symptoms?\n\n\n\nAlso, have you noticed any changes in your bowel movements or appetite?\n\n\n\nREQUEST TEST: Blood Work"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Blood Work: WBC: 7,000 /\u03bcL, Hemoglobin: 14 g/dL, Platelets: 300,000 /\u03bcL"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses. It seems like you've had difficulty with your speech, particularly finding the right words. Can you describe the types of words that are difficult for you to find, and are there any specific situations where you feel like you're struggling to communicate effectively?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it's mostly words that require a lot of precision, like names of objects or specific actions. For instance, I might struggle to say someone's name or the name of a medication. It's not like I'm having trouble understanding what people are saying to me, but rather finding the right words to respond. It's been getting worse over time, especially in situations where I need to communicate quickly, like when I'm working with clients or dealing with paperwork."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "That's very helpful to know. Can you tell me more about your daily activities and how they've changed over time? Have you had to make any adjustments to your routine due to these symptoms?\n\n\n\nAlso, I'd like to check your sensation in your legs again. Can you point out any areas that feel numb or weak while you're sitting?\n\n\n\nAlso, I'd like to request a test: MRI of the Brain and Spinal Cord."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had to adjust my daily routine significantly. I used to work as a bank clerk, but now I only do tasks that don't require standing for long periods. I've also had to stop driving, which has been really tough for me.\n\nI'm not really sure about any numb or weak areas in my legs. I feel like there's a tingling sensation, like you mentioned earlier, but it's not too severe. It's more of a nagging feeling that's always there, even when I'm not standing.\n\nI've been trying to find ways to cope with my speech difficulties, but it's hard when you're used to being able to communicate clearly. I've been practicing with family and friends, but it's not the same as being able to communicate with people in my daily life."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the situations where you feel like you're struggling to communicate effectively, and are there any specific people or environments that make it more difficult for you to find the right words?\n\n\n\nAlso, I'd like to check your sensation in your legs again. Can you point out any areas that feel numb or weak while you're sitting?\n\n\n\nCan you tell me more about your bowel movements - are they normal, or have you noticed any changes in frequency, consistency, or difficulty with passing stools?\n\n\n\nAlso, have you experienced any changes in your bladder habits - such as needing to urinate more frequently, or do you wake up multiple times at night to use the restroom?\n\n\n\nPlease, I'd like you to stand up again and walk slowly for me, and this time, I'd like you to focus on lifting your legs and pointing out any areas of weakness or numbness while you're standing."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It seems like I'm doing okay, I just need to take it slow. I try to pace myself, but it's getting harder and harder to manage my daily tasks.\n\nI'd say the situations that make it more difficult for me to communicate effectively are when I'm in meetings or dealing with paperwork, and also when I'm around a lot of noise. I have trouble concentrating and focusing on the conversation, so it feels like I'm struggling to find the right words.\n\nAs for my bowel movements, I don't really notice any changes. They're pretty regular, but sometimes I feel a bit more... sluggish, I guess. It's not a big deal, but it's something I've been noticing lately.\n\nRegarding my bladder habits, I've noticed that I do need to urinate more frequently at night, and sometimes I wake up to use the restroom. It's not a huge issue, but it's something I've been dealing with lately."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your speech difficulties. Can you repeat a simple sentence for me, like \"The dog is running\" and try to find the right words without thinking too much?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try my best, but it might take me a little longer to get the words out... Okay, here goes: \"The... uh... thing is... running.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "That's great to see you repeating a simple sentence. Can you tell me if it felt natural to you, or did you struggle to find the right words?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It felt a bit forced, to be honest. I had to think for a bit about the right words, and it didn't come out as smoothly as I'd like."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a test: EMG Nerve Conduction Study.\n\nAlso, can you describe to me the situations where you feel like you're struggling to find the right words, and are there any specific emotions or feelings that accompany these difficulties?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It felt a bit forced, to be honest. I had to think for a bit about the right words, and it didn't come out as smoothly as I'd like. The difficulty in finding the right words seems to be more noticeable when I'm feeling anxious or stressed, like during meetings or when I'm under time pressure."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like the patient's speech difficulties may be related to finding the right words, and they may struggle with understanding what's being said to them. Can you tell me if you've noticed any specific times or situations where you feel like you're struggling to communicate effectively, and are there any specific emotions or feelings that accompany these difficulties?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think it's more about the situations where I'm feeling anxious or stressed. Like, in meetings or when I'm under time pressure, I find it really hard to get my thoughts out. My mind gets a bit jumbled, and I feel like I'm struggling to find the right words to say. It's not just the words themselves, but also the context and the tone."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses, particularly about your speech difficulties. It seems like you struggle to find the right words, especially in situations where you're under stress or pressure to communicate. Can you tell me more about your emotional state when you're struggling to find the right words - do you feel anxious, frustrated, or confused?\n\n\n\nAlso, I'd like to request a test: Neuropsychological Evaluation to further assess your cognitive function and speech difficulties."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it's mostly anxiety and frustration. It feels like my mind gets jumbled, and I feel like I'm struggling to keep up with the conversation. I try to take a deep breath and focus, but it's not always easy.\n\nAnd I'd be happy to undergo the neuropsychological evaluation. I'm curious to know more about my cognitive function and how it's affected by my speech difficulties.\n\nPlease, go ahead and ask me any questions or perform any tests you think would be helpful in understanding my condition."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the emotional state you experience when you're struggling to find the right words? Do you feel anxious, frustrated, or confused?\n\n\n\nAlso, I'd like to review your previous responses to see if there's a pattern or common theme among your symptoms. Have you noticed any other unusual sensations or feelings in your body?\n\n\n\nAlso, can you point out any areas of weakness or numbness in your legs while you're standing, and take a seat so I can examine them more closely?\n\n\n\nAlso, I'd like to request a test: Balance Study to assess your equilibrium and balance."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It feels like my mind gets jumbled, and I feel like I'm struggling to keep up with the conversation. I try to take a deep breath and focus, but it's not always easy. Sometimes I feel frustrated because I know I should be able to communicate clearly, but my words just don't come out right.\n\nAs for unusual sensations, I've noticed that my legs feel a bit weak and numb when I'm standing, especially in the outer parts. But it's not too severe, like I mentioned earlier.\n\nNow, let me point out where I feel the weakness or numbness. It's more noticeable when I'm standing, and it's around the outside of my legs, just above the ankle. It's a tingling sensation, but not too intense.\n\nI'd be happy to undergo the balance study. It's a bit unsettling to think about, but I want to understand what's going on with my body.\n\nAlso, can you tell me more about what the balance study"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses, particularly about your emotional state when you're struggling to find the right words. You mentioned feeling anxious, frustrated, or confused. Can you tell me more about how these emotions affect your daily activities and overall well-being? \n\nAlso, I'd like to request a test: Urine Culture to further assess the cause of your urinary incontinence."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it's a bit of a vicious cycle, to be honest. The anxiety and frustration can make it harder for me to communicate effectively, which in turn makes me feel more anxious and frustrated. It's like I'm stuck in this loop, and it's hard to break free.\n\nAs for the balance study, I'm a bit nervous about it, but I'm willing to do whatever it takes to understand what's going on with my body. I just want to feel like I can take care of myself again.\n\nI've been trying to cope with my speech difficulties by practicing with family and friends, but it's hard when I'm not used to it. I feel like I'm losing my independence, and it's really tough to deal with."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses, and I think we've gathered enough information to make a diagnosis. I'd like to summarize the key points from our conversation.\n\nYou've experienced a gradual worsening of your symptoms, including difficulty walking, urinary incontinence, and speech difficulties. You've noticed that these symptoms tend to worsen at specific times of the day, such as after waking up or after physical activity. You've also reported numbness, tingling, or weakness in your legs, particularly when standing or walking.\n\nYour speech difficulties seem to be related to finding the right words, and you often struggle with understanding what's being said to you. You've also reported feeling anxious, frustrated, or confused when struggling to communicate effectively.\n\nI've requested various tests, including urinalysis, blood work, MRI of the brain and spinal cord, EMG nerve conduction study, neuropsychological evaluation, balance study, and urine culture. The results of these tests will help us narrow down the"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Multiple system atrophy",
+    "DIAGNOSIS_READY_Simulation": "Scene 37, The diagnosis was INCORRECT (2.63%)"
+  }
+]

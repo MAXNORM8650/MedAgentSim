@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe how long you've had these vision issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started about 2 days ago, and it's gotten progressively worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your vision gradually or suddenly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started suddenly, to be honest, I was watching TV and then just saw a dark spot in my vision, and I thought it was just a bug in the screen, but then I looked at my hand and saw it was a dark spot in my vision too."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has your vision issue been getting worse over time, or did it happen suddenly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's gotten progressively worse over the past 2 days, and I'm getting a little worried about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any headaches or eye pain along with these vision changes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any eye pain, but I did have a headache earlier today, it was a dull ache, but it went away after a while."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the black spots move across your field of vision or stay in one place? REQUEST TEST: Eye exam including fundoscopy."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- The black spots in your vision appear to be stationary.\n- Fundoscopy results show granular yellow-white opacities around the retinal vessels and multiple areas of dot-blot hemorrhages.\n- There is no significant movement of the black spots across your field of vision.\n- Headache is reported as a dull ache, but it resolved on its own.\n- No eye pain is reported."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you have any history of HIV-related complications like PCP or cytomegalovirus retinitis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I did get diagnosed with Kaposi's sarcoma 2 years ago, and I was treated with a specific medication, but I'm not sure if it's related to my current issue."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any improvement or worsening of the black spots when you move your eyes or head? DIAGNOSIS READY: Cytomegalovirus retinitis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Cytomegalovirus retinitis",
+    "DIAGNOSIS_READY_Simulation": "Scene 20, The diagnosis was INCORRECT (0%)"
+  }
+]

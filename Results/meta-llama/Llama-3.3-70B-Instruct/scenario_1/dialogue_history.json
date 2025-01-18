@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the gait and limb ataxia you're experiencing, when did you first notice it and has it been getting progressively worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'd say it started a few months ago, I was having trouble walking straight and my friends and family would comment that I looked like I was drunk, even though I hadn't been drinking. It's been getting worse, I've been stumbling more often and I've also noticed that my right arm feels weaker than my left, it's harder to lift things or even hold a pen.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe any other symptoms you're experiencing, such as numbness, tingling, or difficulty with coordination and balance, and do you have a family history of neurological disorders?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Honestly, I have been experiencing some numbness in my right hand, it's like a tingling sensation, and my coordination and balance have been off, which is why I think I've been stumbling so much. I don't think there's any history of neurological disorders in my family, but I'm not really sure, I'd have to ask my parents to be certain.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "You mentioned gait and limb ataxia, have you experienced any difficulty with speech or swallowing, and are you having trouble with daily activities due to your symptoms? Can you also tell me more about your significant medical history that you mentioned earlier?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"My speech seems to be okay, but sometimes I feel like my words get a bit slurred, especially when I'm tired. Swallowing doesn't seem to be a problem, though. As for daily activities, it's getting harder to do things on my own, like cooking or even just walking around the house. And, um, my medical history... well, I've been dealing with a pretty chronic condition for a while now, something that affects my digestive system, and I've been on some pretty strong medications to try and manage it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "You've had a significant medical history, can you elaborate on what that entails, such as any previous illnesses, surgeries, or chronic conditions, and have you been experiencing any recent infections or exposures that may be relevant to your current symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've had a lot of issues with my stomach and intestines, and I've been on various treatments to try and get it under control. I've been on one medication in particular for about a year now, and it's been helping to some extent, but I'm not sure if it's related to what's going on with my walking and balance. I don't think I've had any recent infections or exposures that would be relevant, but I do get sick every now and then, just like anyone else.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "You've mentioned a significant medical history, can you tell me specifically what conditions you've been diagnosed with in the past, and are you currently taking any medications that may be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been diagnosed with a condition that affects my digestive system, and I've been taking a medication called natalizumab to help manage it. I'm not really sure how it works, but my doctor at the time said it would help reduce the inflammation and stuff. I've been on it for about a year now, and like I said, it's been helping to some extent, but I don't know if it's related to my current symptoms with walking and balance.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the medications you're currently taking, and have you recently started or stopped any medications that may be related to your neurological symptoms, and do you have a history of cancer, particularly brain or spinal tumors, that could be contributing to your ataxia?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I'm currently taking natalizumab, like I mentioned earlier, and I've been on it for about a year now. I haven't recently started or stopped any other medications, just the usual stuff my doctor prescribes to help manage my condition. As for cancer, I don't have any history of it in my family, and I've never been diagnosed with anything like that myself, but I do get regular check-ups to make sure everything is okay.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of loss of consciousness, seizures, or severe headaches, and can you tell me more about your family history of neurological disorders, such as any relatives with similar symptoms or conditions like multiple sclerosis or Parkinson's disease?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, I haven't experienced any episodes of loss of consciousness or seizures, and I don't get severe headaches often, just the occasional mild one. As for my family history, like I mentioned earlier, I don't think there's any history of neurological disorders, but I'd have to ask my parents to be certain. I do have a few relatives with autoimmune disorders, but I'm not sure if that's relevant to what's going on with me.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your vision, such as double vision or blurred vision, and do you have a history of high blood pressure, diabetes, or high cholesterol that could be contributing to your neurological symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, I have noticed some blurred vision lately, especially when I'm tired or stressed. It's not all the time, but it's been happening more often than usual. As for high blood pressure, diabetes, or high cholesterol, I don't think I have any of those conditions, but I do get my blood work done regularly to check for those kinds of things. My doctor usually tells me that my results are normal, but I can ask for my latest test results if you'd like to see them.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've experienced any recent trauma or injuries to your head or spine, and have you noticed any weakness or paralysis in your limbs, which could be contributing to your gait and limb ataxia? REQUEST TEST: MRI_of_the_brain."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: MRI_Brain findings indicate lesions consistent with Progressive Multifocal Encephalopathy (PML). T1/T2 images show multifocal demyelinating lesions without gadolinium enhancement, indicative of PML. Additionally, vital signs are within normal range, including temperature, blood pressure, heart rate, and respiratory rate. Neurological examination reveals an ataxic gait and evidence of ataxia, with 4/5 strength in the right upper limb."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any changes in your bladder or bowel function, such as incontinence or constipation, and have you experienced any sensations of electric shock or numbness in your extremities, particularly in your arms or legs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, I have noticed some changes in my bowel function, I've been experiencing some constipation lately, but I didn't think much of it since I've had digestive issues in the past. As for incontinence, I haven't noticed any issues with that. And yes, I have experienced some sensations of numbness in my extremities, especially in my right arm and leg, which I mentioned earlier. It's like a tingling or buzzing feeling, but I wouldn't describe it as an electric shock, exactly.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your dietary habits and if you've noticed any correlation between your diet and the severity of your symptoms, and have you experienced any weight loss or gain recently? REQUEST TEST: Vitamin_B12_level."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS. Vitamin B12 level test results are not available in the provided data. However, the patient's medical history and current symptoms, including ataxic gait, limb weakness, and numbness, are consistent with the previously diagnosed Progressive Multifocal Encephalopathy (PML) as indicated by the MRI brain findings."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've ever been diagnosed with an autoimmune disorder, such as rheumatoid arthritis or lupus, and have you experienced any symptoms such as fatigue, fever, or joint pain that could be related to an underlying autoimmune condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't think I've been diagnosed with an autoimmune disorder like rheumatoid arthritis or lupus, but I do have a condition that affects my digestive system, which I've mentioned earlier. As for symptoms like fatigue, fever, or joint pain, I do experience fatigue quite often, especially with my current walking and balance issues. I don't really get fevers, but I do get joint pain every now and then, mostly in my knees and ankles. I've just kind of attributed it to my overall health issues, but I'm not really sure if it's related to anything else.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any worsening of your symptoms after exertion or exercise, and have you experienced any muscle cramps, spasms, or stiffness in your limbs, which could be indicative of a underlying neuromuscular condition? REQUEST TEST: EMG_of_the_limb_muscles."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS. EMG (Electromyography) of the limb muscles test results are not available in the provided data. However, the patient's neurological examination reveals an ataxic gait, evidence of ataxia, and 4/5 strength in the right upper limb, which is consistent with the previously diagnosed Progressive Multifocal Encephalopathy (PML) as indicated by the MRI brain findings. Vital signs, including temperature, blood pressure, heart rate, and respiratory rate, are within normal range."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've ever been exposed to any toxins or heavy metals, such as lead or mercury, that could be contributing to your neurological symptoms, and have you noticed any cognitive impairment or memory loss associated with your condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't think I've been exposed to any toxins or heavy metals, at least not that I'm aware of. I've had a pretty normal life, no unusual occupations or exposures that I can think of. As for cognitive impairment or memory loss, I have noticed that I've been a bit more forgetful lately, but I've just attributed it to stress and being preoccupied with my health issues. I don't think it's anything too out of the ordinary, but it is something that's been bothering me a bit.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've experienced any tremors or involuntary movements, and have you noticed any changes in your reflexes, such as hyperreflexia or hyporeflexia, which could be indicative of a specific neurological condition? REQUEST TEST: Lumbar_puncture."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS. Lumbar puncture test results are not available in the provided data. However, the patient's neurological examination reveals an ataxic gait, evidence of ataxia, and 4/5 strength in the right upper limb, which is consistent with the previously diagnosed Progressive Multifocal Encephalopathy (PML) as indicated by the MRI brain findings. Vital signs, including temperature, blood pressure, heart rate, and respiratory rate, are within normal range."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the results of the MRI of the brain, Vitamin B12 level, EMG of the limb muscles, and lumbar puncture have been completed, and if so, can I review them to help further narrow down the cause of your gait and limb ataxia? REQUEST TEST: Blood_work_to_check_for_infections."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: The MRI of the brain has been completed and indicates lesions consistent with Progressive Multifocal Encephalopathy (PML). T1/T2 images show multifocal demyelinating lesions without gadolinium enhancement, indicative of PML. The Vitamin B12 level, EMG of the limb muscles, and lumbar puncture test results are not available. However, vital signs, including temperature, blood pressure, heart rate, and respiratory rate, are within normal range. Neurological examination reveals an ataxic gait and evidence of ataxia, with 4/5 strength in the right upper limb. The results of the Blood work to check for infections are not available in the provided data, so the result for this test is: NORMAL READINGS."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sensory perception, such as pain, temperature, or vibration sense, and can you review the results of the tests I've ordered so far, including the MRI, Vitamin B12 level, EMG, and lumbar puncture, to see if there are any abnormalities that could be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I have noticed some changes in my sensory perception, especially with temperature and vibration sense. Sometimes I feel like my right arm and leg are numb to temperature, and I have trouble feeling vibrations, like when someone taps on my skin. As for the test results, I'm not really sure what to make of them, but you mentioned something about lesions on my brain MRI? I don't really understand what that means, can you explain it to me? And what about the other tests, were there any abnormalities that could be causing my symptoms?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any improvement or worsening of your symptoms since our last conversation, and have the test results from the blood work to check for infections and the lumbar puncture been completed, so we can review them together?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I think my symptoms have been getting a bit worse, to be honest. My walking and balance have been more unstable, and I've been experiencing more numbness and tingling in my right arm and leg. As for the test results, I don't think I've received any updates on the blood work or lumbar puncture yet, but I'm eager to hear what they say. Can you tell me if there's any news on those tests, and what they might mean for my treatment and diagnosis?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you please confirm whether the results of the MRI, Vitamin B12 level, EMG, lumbar puncture, and blood work are all available for review, and are there any notable abnormalities or findings that stand out from these tests that could help explain the cause of your gait and limb ataxia? REQUEST TEST: Genetic_testing_for_ataxia."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: The MRI of the brain indicates lesions consistent with Progressive Multifocal Encephalopathy (PML). T1/T2 images show multifocal demyelinating lesions without gadolinium enhancement, indicative of PML. The Vitamin B12 level, EMG of the limb muscles, and lumbar puncture test results are not available. The blood work to check for infections results are not available. Genetic testing for ataxia results are not available in the provided data, so the result for this test is: NORMAL READINGS. However, vital signs, including temperature, blood pressure, heart rate, and respiratory rate, are within normal range. Neurological examination reveals an ataxic gait and evidence of ataxia, with 4/5 strength in the right upper limb."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the patient's symptoms and the results of the tests, including the MRI, Vitamin B12 level, EMG, lumbar puncture, and blood work, I believe I have enough information to make a diagnosis. DIAGNOSIS READY: Spinocerebellar Ataxia."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Progressive multifocal encephalopathy (PML)",
+    "DIAGNOSIS_READY_Simulation": "Scene 1, The diagnosis was INCORRECT (50.00%)"
+  }
+]

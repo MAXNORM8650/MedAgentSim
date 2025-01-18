@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the onset and progression of your gait and limb ataxia?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started about 6 months ago, I was doing fine, just going about my daily activities, but then I started feeling a bit unsteady, like I was going to fall over, and my friends and family noticed it too. It's like I'm drunk, but I'm not drinking. The more I walk, the worse it gets, and my legs feel like jelly, like I'm going to trip over my own feet.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any dizziness or loss of balance before this started? REQUEST TEST: Blood tests for vitamin levels and autoimmune markers."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you experience any numbness or tingling in your limbs? Have you had recent infections or travel to high-altitude areas?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I do feel a tingling sensation in my legs, especially when I'm standing still for a while. I haven't had any recent infections, but I did go to the mountains for a week last summer, and I remember feeling a bit more dizzy than usual when I was hiking, but I just thought it was from the altitude.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Are there any specific activities that make your gait or limb ataxia worse, like walking on uneven surfaces or reaching for objects? REQUEST TEST: MRI of the brain."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n- Temperature: Normothermic\n- Blood Pressure: Within normal range\n- Heart Rate: Within normal range\n- Respiratory Rate: Within normal range\nNeurological Examination: \n- Gait Assessment: Ataxic gait noted.\n- Limb Examination: \n  - Right Upper Limb Strength: 4/5\n  - Coordination Tests: Evidence of ataxia.\ntests: \n- MRI Brain: \n  - Find"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you feel unsteady when standing still, or does it worsen with movement? REQUEST TEST: Blood tests for vitamin levels and autoimmune markers."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n- Temperature: Normothermic\n- Blood Pressure: Within normal range\n- Heart Rate: Within normal range\n- Respiratory Rate: Within normal range\nNeurological Examination: \n- Gait Assessment: Ataxic gait noted.\n- Limb Examination: \n  - Right Upper Limb Strength: 4/5\n  - Coordination Tests: Evidence of ataxia.\ntests: \n- MRI Brain: \n  - Find"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you have any family history of neurological conditions? Have you been experiencing any headaches or vision changes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, my sister had a stroke when she was younger, and my mom has had multiple sclerosis, but I don't think that's what I'm experiencing. As for headaches, I do get occasional migraines, but they're not severe and don't seem to be related to my symptoms, and I haven't noticed any vision changes, but I do have blurry vision when I'm walking and it takes me a moment to focus on things.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has your ataxia improved at all after resting or lying down? DIAGNOSIS READY: Ataxia could be due to vitamin deficiency or an autoimmune condition; further testing needed."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Progressive multifocal encephalopathy (PML)",
+    "DIAGNOSIS_READY_Simulation": "Scene 1, The diagnosis was INCORRECT (0%)"
+  }
+]

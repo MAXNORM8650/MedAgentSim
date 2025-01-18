@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides double vision, difficulty climbing stairs, and upper limb weakness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I also feel more fatigued than usual, especially after doing any physical activity. Sometimes, my eyelids feel heavy too."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your speech or swallowing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my speech or swallowing, but I do feel a bit more tired when I eat. It sometimes feels like I have to concentrate harder to chew and swallow."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any muscle cramps or twitching in your limbs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any muscle cramps or twitching, but I do feel some general weakness in my arms and legs, especially after using them."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections or illnesses before these symptoms started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections or illnesses that I can recall. Everything seemed normal before these symptoms began."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if your symptoms worsen with activity or improve with rest?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, my symptoms definitely worsen with activity. I find that after doing anything physical, like climbing stairs or even just brushing my hair, I feel much weaker and more fatigued. However, after resting for a few hours, I notice a significant improvement."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your vision, such as blurred vision or difficulty focusing, aside from the double vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any blurred vision or difficulty focusing, but the double vision can be quite bothersome at times. It feels like my eyes aren't working together properly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever been diagnosed with any autoimmune diseases or neurological conditions in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been diagnosed with any autoimmune diseases or neurological conditions before. My health has been pretty stable until now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any difficulty with facial expressions or weakness in your facial muscles?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any difficulty with my facial expressions, and my facial muscles feel normal. It's mostly just the weakness in my arms and legs that concerns me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your reflexes or coordination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my reflexes or coordination. I feel like I can still move around, but I do get tired quickly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent weight loss or changes in appetite?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any recent weight loss or changes in my appetite. My eating habits have remained pretty much the same."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any numbness or tingling sensations in your limbs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any numbness or tingling sensations in my limbs. It's mostly just the weakness and fatigue that I'm dealing with."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific times of day when your symptoms seem to be worse, or is it consistent throughout the day?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed that my symptoms tend to worsen as the day goes on, especially in the late afternoon and evening. In the mornings, I usually feel a bit better after resting overnight."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever experienced any episodes of weakness that come and go, or is the weakness you feel constant throughout the day?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The weakness I feel is mostly constant throughout the day, but it does get worse after any physical activity. I haven't noticed any episodes of weakness that come and go."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of neuromuscular disorders or similar symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known family history of neuromuscular disorders or similar symptoms. My family has generally been healthy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your breathing or difficulty taking deep breaths, especially after physical activity?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my breathing or difficulty taking deep breaths. I feel like my breathing is normal, even after physical activity."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, particularly checking for antibodies or markers related to autoimmune conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done. I haven't really thought about autoimmune conditions until now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's perform some blood tests to check for antibodies related to autoimmune conditions, particularly looking for acetylcholine receptor antibodies. REQUEST TEST: Acetylcholine_Receptor_Antibodies."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Present (elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The test results show elevated acetylcholine receptor antibodies, which is indicative of a potential autoimmune condition. Have you experienced any other symptoms, such as difficulty breathing or any changes in your heart rate?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any difficulty breathing or changes in my heart rate. My breathing feels normal, and I haven't noticed anything unusual with my heart."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and the elevated acetylcholine receptor antibodies, it seems likely that you may have myasthenia gravis. Have you experienced any other unusual symptoms, such as increased sensitivity to heat or any skin rashes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any increased sensitivity to heat or any skin rashes. My skin feels normal, and I haven't had any unusual reactions to temperature changes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Myasthenia Gravis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Myasthenia gravis",
+    "DIAGNOSIS_READY_Simulation": "Scene 0, The diagnosis was CORRECT, 100%"
+  }
+]

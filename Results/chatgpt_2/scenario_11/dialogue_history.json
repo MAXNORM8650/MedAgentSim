@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe how long these episodes of unresponsiveness last, and do you experience any warning signs before they occur?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The episodes last about 3 to 4 minutes. Before they start, I sometimes get a muddy taste in my mouth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you recall if there are any specific triggers that seem to bring on these episodes, such as stress, lack of sleep, or certain activities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really know if there's anything that triggers them. They just seem to happen out of nowhere."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual movements or jerking of your limbs during these episodes, or do you remain completely still?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I mostly just stare and make some facial grimaces. I don't think I move my arms or legs much during them."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your mood, memory, or behavior outside of these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really noticed any big changes in my mood or behavior. Sometimes I feel a bit confused after the episodes, but that's about it. My memory seems fine otherwise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent head injuries or illnesses that could be related to these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any head injuries or illnesses recently. I feel fine otherwise, just these episodes keep happening."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sleep patterns, such as insomnia or excessive daytime sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any trouble sleeping at night, and I don't feel sleepy during the day. I usually sleep pretty well."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual sensations, such as tingling or numbness, before or after these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt any tingling or numbness before or after the episodes. It's mostly just the muddy taste and then feeling confused afterward."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any similar episodes in the past, or is this the first time you've experienced them?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "This is the first time I've had these episodes. I've never experienced anything like this before."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in medication or started any new medications that could be related to these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't taken any medications or started anything new. I don't use any medicines at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any visual disturbances, such as seeing flashing lights or having blurred vision, during or before these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't seen any flashing lights or had blurred vision before or during the episodes. It's just the muddy taste and then I stare."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of seizures or neurological disorders?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know if anyone in my family has had seizures or anything like that. My parents haven't mentioned it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sense of smell or taste outside of these episodes, or is it only during the episodes that you notice the muddy taste?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I only notice the muddy taste right before the episodes. I haven't had any changes in my sense of smell or taste at other times."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any gastrointestinal symptoms, such as nausea or abdominal pain, during or after these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any nausea or stomach pain during or after the episodes. I feel fine in that way."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your heart rate or breathing during these episodes, or do you feel any physical discomfort?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my heart rate or breathing during the episodes. I don't feel any physical discomfort either, just the confusion afterward."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual fatigue or weakness in your muscles after these episodes, or do you feel normal?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I feel a bit lethargic and confused after the episodes, but my muscles feel normal. I don't feel weak or anything like that."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or neurological evaluations done? If so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests or neurological evaluations done recently. This is the first time I'm seeing a doctor about these episodes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever experienced any episodes of loss of consciousness or fainting, even if they were brief?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't fainted or lost consciousness at all. I've just been staring and making faces during these episodes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or weight recently, or do you feel your eating habits have remained the same?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my appetite or weight. I eat the same as I always have."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any headaches or migraines before or after these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any headaches or migraines before or after the episodes. I feel fine in that way."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and the nature of the episodes, I would like to REQUEST TEST: EEG to evaluate for any abnormal brain activity that could indicate seizures."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Electroencephalogram findings show interictal spikes and sharp waves localized to the temporal lobes, more prominent on the right side."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really understand what those spikes and waves mean. Will I be okay?"
+  }
+]

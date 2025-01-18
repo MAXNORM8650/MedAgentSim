@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when these symptoms started appearing? Was there a specific incident or event that triggered them?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's hard to pinpoint exactly when they started, but I think it was after I lost my job about 6 months ago. I was under a lot of stress, and it's been a bit of a struggle to cope with the loss of structure and purpose."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pattern of your involuntary movements - are they more pronounced at certain times of the day, or do they seem to be constant?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, they seem to be getting worse lately. I've noticed that the movements are more frequent at night, when I'm lying in bed. It's like my body is restless even when I'm trying to sleep, and it's really disrupted my rest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the difficulty you experience while swallowing? Is it more of a sensation that something is stuck, or is it more of a complete inability to swallow?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's like... I have to force myself to swallow, you know? It's not just that I feel like something is stuck, but it's like my throat is tightening up and it's hard to get the food or liquid down. It's really uncomfortable, and sometimes I feel like I'm going to choke."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a physical examination to better understand the extent of your symptoms. Can you please stand up and show me your posture, and I'll observe your involuntary movements?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can try to stand up, but I'm a bit... unsteady. My legs feel a bit weak, and I'm worried I might fall. Can you just take a look from where you are, please? I don't want to put too much strain on myself."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a neurological examination to assess the coordination and control of your movements. Can you please walk for me, and I'll observe how your involuntary movements affect your gait?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try my best to walk for you, but to be honest, my legs feel like they're floating sometimes. I'll have to take small steps and focus on not stumbling."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the duration of your difficulty swallowing? Have you noticed any progression, such as whether it started with small amounts of food and gradually worsened, or if it began suddenly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started with just a few small meals, and over time it's just gotten worse and worse. Sometimes I feel like it's only getting worse at night, like my body is just getting more and more agitated, and it's harder to manage."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall mental state, have you experienced any significant mood swings, hallucinations, or feelings of confusion lately?\n\n\n\nAlso, I'd like to request a neurological examination to assess the coordination and control of your movements. Can you please stand up and walk for me again, this time holding your arms straight out to the sides, and I'll observe your involuntary movements?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Honestly, I've been feeling pretty anxious and irritable a lot lately, to be honest. I just feel like I'm struggling to cope with everything going on in my life, and it's been really tough. I've been having trouble sleeping at night, and when I do finally fall asleep, I wake up feeling really groggy and disoriented."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses so far. Can you tell me more about any changes in your mental clarity or cognitive function? Are you having trouble concentrating, remembering things, or making decisions?\n\nAlso, I'd like to request a blood test to check for any underlying infections or inflammatory markers. REQUEST TEST: Complete_Blood_Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Mental Clarity/Cognitive Function: Confusion and disorientation, as indicated by 'Confused, oriented to person and place only.' during the Neurologic Examination, and reported difficulty sleeping and feeling groggy upon waking.\n- Concentration/Remembering: The patient reports difficulty swallowing and forcing food down, indicating potential issues with coordination and motor function.\n- Decision Making: Normal findings are not noted in the Neurologic Examination, but the patient's recent struggles with coping and managing stress may impact decision-making abilities.\n\n Blood Test Results: \n- Complete Blood Count: \n  - White Blood Cell Count: 11.5 x 10^9/L (elevated)\n  - Red Blood Cell Count: 4.2 x 10^12/L (normal)\n  - Hemoglobin: 140 g/L (normal)\n  - Hematocrit: 42% (normal)\n  - Platelet Count: 250 x 10^9/L ("
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any changes in your sleep patterns - are you having trouble falling asleep or staying asleep, or do you experience vivid dreams or nightmares?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I've been having trouble falling asleep. It's like my mind is racing even when I'm trying to relax, and I wake up feeling really anxious and disoriented. I've also been having these... these voices, I guess you could call them, that seem to be talking to me when I'm lying in bed, and it's really unsettling."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a neurological examination to assess the coordination and control of your movements. Can you please walk for me again, this time performing a heel-to-toe gait, and I'll observe your involuntary movements, focusing on your balance and stability.\n\nAlso, I'd like to review your blood test results. Can you tell me if you've noticed any changes in your overall energy levels or physical strength lately?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really tired lately, like I'm running on empty most of the time. It's not just that I'm physically exhausted, but I feel like I'm emotionally drained too. I've been having trouble finding motivation to do anything, even simple tasks that I used to enjoy.\n\nAnd as for the voices, they've been getting louder and more persistent, I'm afraid. It's like they're trying to tell me something, but I'm not sure what. It's really scary, to be honest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your family medical history - have any of your relatives suffered from neurological disorders, such as Parkinson's disease or Huntington's disease?\n\n\n\nAlso, I'd like to review your blood test results, particularly the Complete_Blood_Count test you requested earlier - are there any abnormal cell counts or platelet issues that stand out to you?\n\n\n\nPlease walk for me again, this time stopping and starting suddenly to assess your balance and coordination, and let me observe your involuntary movements in a more dynamic setting."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can see why you're concerned about my family history, doctor. My father struggled with mental health issues his whole life, and his passing was a really tough time for our family. He was diagnosed with something that affected his mood and behavior, but I never really understood the details."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the progression of your involuntary movements - have they become more frequent, or have they started to change in any way, such as becoming more pronounced or taking on a specific pattern?\n\n\n\nAlso, can you describe any sensations or feelings you experience during your involuntary movements, such as pain, discomfort, or numbness?\n\n\n\nPlease, continue to walk for me, I'd like to observe your balance and coordination in different environments."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just that I feel like my body is getting more and more restless lately, like it's constantly on edge. The movements seem to be getting more frequent, especially at night, and they're starting to interfere with my daily activities.\n\nAs for the sensations during my involuntary movements, I don't really feel anything, but I do feel a bit uncomfortable, like my muscles are tightening up.\n\nI'd like to know more about the neurological examination, doctor. Can you tell me what you're looking for when you observe my balance and coordination?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your family medical history - have any of your relatives suffered from neurological disorders, such as Parkinson's disease or Huntington's disease?\n\n\n\nAlso, have you experienced any recent changes in your environment or lifestyle that could potentially be contributing to your symptoms, such as a new medication or a significant change in your work or daily routine?\n\n\n\nAlso, I'd like to review your neurological examination results from the heel-to-toe gait test - are there any notable observations about your balance and coordination?\n\n\n\nPlease, continue to walk for me, I'd like to observe your balance and coordination in different environments."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think my father's struggles with his mental health might be a contributing factor. I remember him talking about how his depression would affect him, and how he would get really anxious and irritable. He didn't have a lot of control over his movements, and I think that might be something that's passed down in our family."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any changes in your mental clarity or cognitive function? Are you having trouble concentrating, remembering things, or making decisions?\n\n\n\nAlso, I'd like to request an imaging test to assess for any structural abnormalities in the brain. Can you please request a Magnetic Resonance Imaging (MRI) of your brain, please?\n\n\n\nPlease continue walking for me, I'd like to observe your balance and coordination in a more challenging environment, such as on uneven terrain."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just that my mind is racing even when I'm trying to relax, and I wake up feeling really anxious and disoriented. I feel like I'm constantly on edge, and it's hard for me to focus on anything for more than a few seconds. I've been having trouble remembering things, like where I put my keys or what I was supposed to do the next day."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your responses. Can you tell me more about any recent changes in your medication or supplements - have you added or changed anything recently that could potentially be contributing to your symptoms?\n\n\n\nAlso, I'd like to request an MRI of your brain to assess for any structural abnormalities. REQUEST TEST: Magnetic_Resolution_Tomography"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: Temperature is normal, Blood Pressure is normal, Heart Rate is within normal limits, and Respiratory Rate is within normal limits.\n- Neurological Examination: Mental Status is still 'Confused, oriented to person and place only.' with continued difficulty sleeping and feeling groggy upon waking. Cranial Nerves and Motor System findings remain 'Normal findings' and 'Irregular, nonrepetitive, and arrhythmic movements of the neck and head observed.' respectively. Reflexes are still 'Delayed return to neutral ankle position after triggering the plantar reflex.'\n- Tests: Brain MRI findings are 'Atrophy of the caudate nuclei with ex vacuo dilatation of the frontal horns of the lateral ventricles.' Genetic Testing findings remain 'Positive for the huntingtin (HTT) gene mutation.'\n- Recent Changes in Medication or Supplements: No recent changes reported.\n- Magnetic Resolution Tomography (MRI) Results: \n  - Brain MRI:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mental clarity or cognitive function? Are you having trouble concentrating, remembering things, or making decisions?\n\n\n\nAlso, I'd like to review the MRI results from the Magnetic_Resolution_Tomography test - are there any notable findings that stand out to you?\n\n\n\nI'd also like to request an electromyography (EMG) test to assess the electrical activity of your muscles and help identify any potential patterns or abnormalities. REQUEST TEST: Electromyography"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Mental Clarity/Cognitive Function: Confusion and disorientation, as indicated by 'Confused, oriented to person and place only.' during the Neurologic Examination, and reported difficulty sleeping and feeling groggy upon waking.\n- Concentration/Remembering: The patient reports difficulty swallowing and forcing food down, indicating potential issues with coordination and motor function.\n- Decision Making: Normal findings are not noted in the Neurologic Examination, but the patient's recent struggles with coping and managing stress may impact decision-making abilities.\n- Recent Changes in Medication or Supplements: No recent changes reported.\n- Magnetic Resolution Tomography (MRI) Results:\n  - Brain MRI: Atrophy of the caudate nuclei with ex vacuo dilatation of the frontal horns of the lateral ventricles.\n- Electromyography (EMG) Results:\n  - Not yet available, as the test has not been completed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe any sensations or feelings you experience during your involuntary movements, such as pain, discomfort, or numbness?\n\n\n\nDoctor: I'd like to perform a reflex examination to assess the responsiveness of your nervous system. Can you please place your foot on the table and lift your toes for me?\n\n\n\nDoctor: Also, I'd like to review the MRI results from the Magnetic_Resolution_Tomography test - are there any notable findings that stand out to you?\n\n\n\nDoctor: REQUEST TEST: Electromyography"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: Temperature is 36.8\u00b0C (98.2\u00b0F), Blood Pressure is 130/85 mmHg, Heart Rate is 72 bpm, and Respiratory Rate is 14 breaths/min.\n- Neurologic Examination: Mental Status is 'Confused, oriented to person and place only.' with continued difficulty sleeping and feeling groggy upon waking, Cranial Nerves and Motor System findings remain 'Normal findings' and 'Irregular, nonrepetitive, and arrhythmic movements of the neck and head observed.' respectively, and Reflexes are still 'Delayed return to neutral ankle position after triggering the plantar reflex.'\n- Tests: Brain MRI findings are 'Atrophy of the caudate nuclei with ex vacuo dilatation of the frontal horns of the lateral ventricles.' Genetic Testing findings remain 'Positive for the huntingtin (HTT) gene mutation.'\n- Recent Changes in Medication or Supplements: No recent changes reported"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensations or feelings you experience during your involuntary movements, such as pain, discomfort, or numbness?\n\n\n\nAlso, I'd like to request an electromyography (EMG) test to assess the electrical activity of your muscles and help identify any potential patterns or abnormalities. Can you please stand still for a moment while I attach the electrodes to your skin?\n\n\n\nPlease, try to relax and let me know if you feel any discomfort or pain during the test.\n\n\n\nAlso, I'd like to request a review of your medication list and any supplements you're currently taking to see if there's a potential connection between them and your symptoms. Can you please tell me about your current medication regimen?\n\n\n\nI'd also like to review the MRI results from the Magnetic_Resolution_Tomography test - are there any notable findings that stand out to you?\n\n\n\nCan you please hold your arms straight out to the sides and let me observe your involuntary movements again, this time while I'm taking a closer"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really feel anything, but I do feel a bit uncomfortable, like my muscles are tightening up.\n\nI'm currently taking a combination of antidepressants and a sleep aid, but I'm not sure if they're contributing to my symptoms. I've also been taking some over-the-counter supplements to help with stress and anxiety, but I'm not sure if they're safe for me to take in large quantities.\n\nI've noticed that the MRI results show atrophy of the caudate nuclei with ex vacuo dilatation of the frontal horns of the lateral ventricles. I'm not sure what that means, but I've been feeling really overwhelmed and anxious lately, and I'm worried that it might be related to my symptoms.\n\nI'll try to hold my arms straight out to the sides and let you observe my movements again. *holds arms straight out to the sides*\n\nOh, I feel a bit lightheaded right now. I think I might need to sit down for"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any recent changes in your medication regimen? Have you added or changed any medications that could potentially be contributing to your symptoms?\n\n\n\nAlso, I'd like to review the MRI results from the Magnetic_Resolution_Tomography test - are there any notable findings that stand out to you?\n\n\n\nAnd, I'd like to review the Electromyography results - are there any notable patterns or abnormalities that stand out to you?\n\n\n\nAlso, I'd like to request a review of your medication list and any supplements you're currently taking to see if there's a potential connection between them and your symptoms. Can you please tell me about your current medication regimen?\n\n\n\nCan you please hold your arms straight out to the sides and let me observe your involuntary movements again, this time while I'm taking a closer look at your facial expressions and body language?\n\n\n\nAlso, I'd like to request a review of your medical imaging studies - are there any notable findings or patterns that stand out to you?\n\n\n\nCan you"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've recently stopped taking my sleep aid, thinking it might be contributing to my sleep issues. I've also been considering switching to a different antidepressant, but I haven't made any changes yet."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of all your responses. Based on your symptoms and the tests we've run, I'm going to make a diagnosis. After carefully analyzing the results, I believe you are suffering from Huntington's disease. The combination of your involuntary movements, difficulty swallowing, and cognitive decline are all consistent with this diagnosis. The progression of your symptoms and the presence of cognitive impairment are particularly telling. I would like to discuss this diagnosis further with you and answer any questions you may have."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Huntington disease",
+    "DIAGNOSIS_READY_Simulation": "Scene 81, The diagnosis was INCORRECT (2.44%)"
+  }
+]

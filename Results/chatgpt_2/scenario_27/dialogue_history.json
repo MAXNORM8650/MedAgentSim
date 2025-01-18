@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing along with the chronic left shoulder pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having pain at the extremes of motion, and it disrupts my sleep. I also struggle with activities like brushing my hair and getting dressed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any weakness or numbness in your arm or hand on the left side?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any weakness or numbness in my arm or hand. It's just the pain in my shoulder that's been bothering me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your physical activity or any new hobbies that might have contributed to the shoulder pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my physical activity or taken up any new hobbies recently. The pain just started gradually over the past couple of months without any specific trigger."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any swelling, redness, or warmth around the shoulder area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any swelling, redness, or warmth around my shoulder. It just feels painful, especially when I move it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous shoulder injuries or surgeries in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any previous shoulder injuries or surgeries. This pain is new to me and started about two months ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in other joints or areas of your body?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any pain or discomfort in other joints or areas of my body. It's really just the left shoulder that's causing me trouble."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your range of motion in the left shoulder, such as difficulty lifting your arm or reaching overhead?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've definitely noticed difficulty lifting my arm and reaching overhead. It feels restricted, especially when I try to move it in certain directions."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you tried any treatments for the shoulder pain, such as physical therapy, medications, or ice/heat application?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't tried any treatments yet. I've been hoping it would improve on its own, but it hasn't gotten any better."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent weight loss, fever, or night sweats that could indicate an underlying systemic issue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any weight loss, fever, or night sweats. My overall health has been stable aside from the shoulder pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done on your shoulder, such as an X-ray or MRI?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any imaging studies done yet. I was hoping to discuss my symptoms further before considering any tests."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific activities or movements that worsen the shoulder pain, such as reaching, lifting, or certain positions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, reaching overhead and lifting my arm definitely make the pain worse. Certain positions, like sleeping on that side, also aggravate it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any clicking or popping sounds in your shoulder when you move it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any clicking or popping sounds in my shoulder when I move it. The pain is more of a constant discomfort without those additional noises."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of conditions like arthritis or tendinitis in your family?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known family history of arthritis or tendinitis. My family generally has been healthy without those issues."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your posture or any habits that might contribute to shoulder strain, such as prolonged computer use or poor ergonomics?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my posture or habits. I do spend some time on the computer, but I haven't changed my setup or usage patterns recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any stiffness in your shoulder, especially in the morning or after periods of inactivity?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I have noticed some stiffness in my shoulder, especially in the morning and after sitting for a while. It takes a bit of movement to feel more comfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses or infections that could be related to your shoulder pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any recent illnesses or infections that I can think of. The shoulder pain seems unrelated to any other health issues I've experienced."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever experienced similar shoulder pain in the past, or is this the first time you've had such discomfort?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "This is the first time I've experienced such discomfort in my shoulder. I've never had any similar pain before."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your sleep patterns or increased stress levels that might be contributing to the shoulder pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my sleep patterns or increased stress levels. The pain itself is what's disrupting my sleep, rather than any external factors."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the lack of trauma, I would like to assess the condition of your shoulder further. REQUEST TEST: MRI_Shoulder."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and the normal MRI results, it seems you may be experiencing adhesive capsulitis, commonly known as frozen shoulder. This condition often presents with pain and restricted range of motion without any significant findings on imaging. DIAGNOSIS READY: Adhesive Capsulitis (Frozen Shoulder)"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Adhesive capsulitis",
+    "DIAGNOSIS_READY_Simulation": "Scene 27, The diagnosis was CORRECT, 28%"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me how long you have been experiencing these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having difficulty walking for about three months now, and I've needed a wheelchair for the last month. The urinary incontinence has been an issue for a year, and the slurred speech started recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any other symptoms, such as numbness, tingling, or weakness in your limbs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any numbness or tingling, but I do feel some rigidity in my limbs and a mild tremor in my hands. It's been a bit challenging to manage."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your cognitive function, such as memory problems or difficulty concentrating?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant memory problems or difficulty concentrating, but I do feel a bit more fatigued than usual. It's hard to focus sometimes, especially when I'm trying to communicate."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, illnesses, or significant stressors in your life that could have contributed to these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections or illnesses, and I wouldn't say I've experienced any significant stressors lately. Everything has been relatively stable in my life."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your vision, such as blurred vision or double vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any changes in my vision, like blurred or double vision. My eyesight seems to be fine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of neurological disorders or similar symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known family history of neurological disorders. My relatives have generally been healthy, with no similar symptoms reported."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your emotional state, such as increased anxiety or depression?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt particularly anxious or depressed, but I do feel a bit frustrated with my current situation. It's tough to deal with these changes in my mobility and communication."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of dizziness or balance issues aside from your difficulty walking?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have experienced some dizziness, especially when I stand up quickly. My balance has also been off, which makes walking even more challenging."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent falls or near-falls due to your balance issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any significant falls, but I've come close a few times. It's definitely concerning when I feel unsteady on my feet."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your bowel habits, such as constipation or incontinence?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any bowel incontinence, but I have noticed some occasional constipation. It's not something I've dealt with frequently, but it has happened a few times recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your skin, such as rashes or unusual sensations?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any rashes or unusual sensations on my skin. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sleep patterns, such as insomnia or excessive daytime sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any significant changes in my sleep patterns. I sleep fairly well at night, but I do feel more tired during the day than I used to."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sense of smell or taste?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my sense of smell or taste. Everything seems to be the same in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent imaging studies, such as an MRI of your brain or spine, to evaluate your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent imaging studies done, like an MRI. I haven't been referred for any tests yet, but I think it might be helpful to get one."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: MRI_Brain_and_Spine. While we wait for the MRI results, can you tell me if you've experienced any stiffness or rigidity in your neck or back?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Multiple areas of atrophy and signal changes in the brainstem, cerebellum, and basal ganglia, consistent with neurodegenerative processes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the MRI results showing atrophy and signal changes in the brainstem, cerebellum, and basal ganglia, have you experienced any changes in your coordination or fine motor skills, such as difficulty with tasks like buttoning a shirt or writing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've noticed some difficulty with fine motor tasks, like buttoning my shirt or writing. My hands feel a bit shaky, and it takes more effort to perform those activities."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the MRI results and your symptoms, have you experienced any changes in your speech, such as difficulty finding words or slurred speech that worsens with fatigue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've been experiencing slurred speech, and it does seem to get worse when I'm feeling fatigued. It's been challenging to communicate effectively with others."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and the MRI findings, I suspect you may have a neurodegenerative disorder. Have you noticed any changes in your ability to perform daily activities, such as dressing, eating, or bathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've definitely noticed changes in my ability to perform daily activities. Dressing and eating have become more challenging, and I sometimes need assistance with bathing due to my mobility issues. It's frustrating to rely on others for help."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the combination of your symptoms, MRI findings, and the impact on your daily activities, I believe we are looking at a specific neurodegenerative disorder. Have you experienced any episodes of freezing or difficulty initiating movement, especially when trying to walk?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've experienced some freezing episodes when trying to walk. Sometimes it feels like my legs just won't move, and it can be quite frustrating."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Parkinson's Disease."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Multiple system atrophy",
+    "DIAGNOSIS_READY_Simulation": "Scene 37, The diagnosis was INCORRECT, 34%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I appreciate your thorough examination and the information you've provided. I'm still trying to process everything, but I want to understand how to manage these symptoms moving forward. What are the next steps for treatment or support?"
+  }
+]

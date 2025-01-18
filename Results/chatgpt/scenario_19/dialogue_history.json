@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What were you doing when the lower back pain started? Did you lift something heavy or twist your body in an unusual way?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I was exercising at the gym, doing some weight training. I didn't lift anything particularly heavy, but I might have twisted a bit while doing a movement. That's when I felt the sharp pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any numbness, tingling, or weakness in your legs since the pain started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't felt any numbness or tingling in my legs. The pain is just sharp and radiates down to my foot. I don't feel weak, just uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous episodes of back pain or any history of back injuries?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any previous episodes of back pain or any history of back injuries. This is the first time I've experienced anything like this."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the pain worsens with certain movements or positions, such as bending, sitting, or standing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, the pain definitely worsens with movement, especially when I bend or try to twist my body. Sitting for long periods also makes it uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in bowel or bladder function since the pain started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any changes in bowel or bladder function at all. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you taken any medications or treatments for the pain, and if so, have they provided any relief?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't taken any medications yet. I was hoping the pain would subside on its own, but it hasn't improved much."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling, bruising, or tenderness in your lower back or legs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling or bruising, but my lower back does feel tender to the touch. It\u2019s quite sensitive when I press on it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, fevers, or unexplained weight loss?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any recent infections or fevers, and I haven't experienced any unexplained weight loss. Everything else feels normal aside from the pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done, such as an X-ray or MRI, since the pain started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any imaging studies done yet. I was hoping to see if the pain would improve before considering any scans."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your physical activity or lifestyle recently that could have contributed to this pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my physical activity or lifestyle recently. I've been consistent with my gym routine and haven't increased the intensity or frequency of my workouts."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in your hips or legs prior to this incident, even if it was mild or infrequent?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any pain or discomfort in my hips or legs before this incident. This sharp pain in my lower back is completely new to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the pain is worse at any specific time of day, such as in the morning or at night?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed that the pain tends to be worse in the morning when I first get out of bed. It feels a bit stiff and sharp until I move around for a while."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you tried any specific stretches or exercises to alleviate the pain, and if so, did they help at all?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't tried any specific stretches or exercises yet. I was unsure what would be safe to do without making it worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your weight or diet that might be relevant to your current condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent changes in my weight or diet. I've been eating the same way and my weight has remained stable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain that radiates down your leg, and if so, can you describe the location and intensity of that pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I have experienced pain that radiates down my leg. It starts in my lower back and travels down the side of my leg into my foot, and the intensity is sharp and quite uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed if the pain is more pronounced on one side of your body compared to the other?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, the pain is more pronounced on my right side. It radiates down my right leg more than the left."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your physical strength or coordination, particularly on the right side of your body?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my physical strength or coordination on the right side. It feels normal aside from the pain radiating down my leg."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or other diagnostic tests that could help rule out conditions like inflammation or infection?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any recent blood tests or diagnostic tests. I haven't felt the need for them since I thought the pain would improve on its own."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: MRI_Lumbar_Spine."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Evidence of L5-S1 disc herniation impinging on the adjacent nerve root."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the MRI results showing an L5-S1 disc herniation impinging on the adjacent nerve root, it confirms the source of your pain. DIAGNOSIS READY: Lumbar disc herniation."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Disc herniation",
+    "DIAGNOSIS_READY_Simulation": "Scene 19, The diagnosis was CORRECT, 45%"
+  }
+]

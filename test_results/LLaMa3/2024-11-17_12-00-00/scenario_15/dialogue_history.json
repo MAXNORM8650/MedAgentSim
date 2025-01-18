@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first noticed the swelling in your neck? Was it sudden or did it come on gradually?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started about two months ago, I think it was around the 10th of the month, and at first, I didn't think much of it. But as the days went by, I noticed it was getting bigger and more noticeable, especially when I looked in the mirror after a shower."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did you first start noticing the swelling was there? Was it constant or did it come and go, and did you experience any pain or discomfort in the area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think it was more constant, to be honest. It's always been there, but it's just gotten bigger and more prominent. I don't really feel any pain associated with it, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the size of the swelling to me? Is it relatively small, or is it quite noticeable when you look in the mirror?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it's about the size of a golf ball, but it's definitely getting bigger. It's definitely more noticeable now, especially when I tilt my head to one side."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, the swelling started about two weeks ago, and it's been fairly constant. It's gotten a bit larger over the past week or so. Can you tell me more about your daily activities and how this swelling affects your ability to perform them?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, it hasn't really affected my daily activities too much, but I do have to be a bit more careful when I'm walking or standing for long periods. I've had to adjust my golf swing slightly, too, because I don't want to put too much strain on it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities and how this swelling affects your ability to perform them? \n\nDo you notice any specific movements or positions that make the swelling feel better or worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I don't really notice it affecting my daily activities too much, but I do have to be a bit more careful when I'm walking or standing for long periods. I've had to adjust my golf swing slightly, too, because I don't want to put too much strain on it. It's not really a major issue, but it's just something I'm aware of now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the swelling's location on your neck? Is it centered around your Adam's apple or more to one side?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's centered around the nape of my neck, just below the base of my skull. I've noticed that it's a bit more prominent when I tilt my head to one side, which is funny since I'm a traffic warden and I'm always looking over my shoulder."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health and any recent illnesses or surgeries you've had that might be related to this swelling?\n\n\n\nAlso, have you noticed any changes in your voice or breathing difficulties, as this could be indicative of a larger issue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had a few health issues in the past, like I mentioned, my colon cancer and type 2 diabetes. I also have hypertension and osteoarthritis of the left knee. Nothing too severe, just managing it with medication and lifestyle changes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the swelling further. Can you please slowly turn your head to the right and left, and let me take a look?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll just slowly turn my head to the right now... and then the left. I'll try to be as natural as possible. *turns head to right* Okay, that's one side. *turns head to left* Like that, doctor."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health and any recent illnesses or surgeries you've had that might be related to this swelling?\n\n\n\nAlso, have you noticed any changes in your voice or breathing difficulties, as this could be indicative of a larger issue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had a few health issues in the past, like I mentioned, my colon cancer and type 2 diabetes. I also have hypertension and osteoarthritis of the left knee. Nothing too severe, just managing it with medication and lifestyle changes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health and any recent illnesses or surgeries you've had that might be related to this swelling? \n\nAlso, have you noticed any changes in your voice or breathing difficulties, as this could be indicative of a larger issue? \n\nAlso, when you say it's been fairly constant, do you mean it's always there, or is there a slight variation in size or discomfort throughout the day?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it's always been there, but it's just gotten bigger and more prominent over time. I don't really notice any variation in size or discomfort throughout the day, though. It's just sort of...there."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, you've had this swelling for about two weeks now, and it's been fairly constant, with some slight variation in size and discomfort throughout the day. Can you tell me more about your sleep patterns - does the swelling interfere with your ability to sleep comfortably?\n\n\n\nAlso, have you noticed any changes in your posture or movement patterns, as this could be related to the swelling?\n\n\n\nREQUEST TEST: Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs:\n- Temperature: 37.3\u00b0C (99.1\u00b0F)\n- Blood Pressure: 130/86 mm Hg\n- Heart Rate: 88/min\n- Respiratory Rate: Normal\n\nNeck Examination:\n- Inspection and Palpation: A 2.5-cm (1-in) firm, mobile, painless nodule on the nape of the neck. The skin over the nodule cannot be pinched.\n- Other Findings: No lymphadenopathy or thyromegaly.\n\nLung Examination:\n- Auscultation: Clear lungs bilaterally, no rales, rhonchi, or wheezes.\n\nRemainder of the Examination:\n- Findings: No abnormalities.\n\ntests:\n- Imaging:\n  - Ultrasound of the Neck:\n    - Findings: Well-circumscribed lesion in the subcutaneous tissue suggestive of a cystic nature.\n- Complete Blood Count:\n  - WBC"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the ultrasound results. Can you tell me more about any symptoms you've experienced while lying down versus standing up?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really notice a difference, to be honest. I mean, I do lie down at night and sleep, but I've been doing that for years and I haven't noticed anything out of the ordinary. But I do have to be careful not to put too much pressure on it when I'm lying down, just to make sure it doesn't get any bigger or more uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the ultrasound results. Can you point out any areas of concern on the image that caught your attention?\n\n\n\nAlso, can you tell me more about your job or any activities that require you to be in a specific position for an extended period of time? This could be relevant to understanding the cause of your swelling.\n\n\n\nAnd, have you noticed any numbness or tingling sensations in your neck or face that could be related to nerve compression?\n\n\n\nCan you slowly tilt your head back and forth for me, so I can assess the movement of the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been working as a traffic warden for about 10 years now, and I have to be in a pretty steady position for long periods of time. I spend most of my day standing on the sidewalk, directing traffic, and I don't really get to move around too much.\n\nAs for numbness or tingling sensations, I don't really notice anything like that. But I do have to be careful not to strain my neck when I'm standing or walking, since I have osteoarthritis in my left knee."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you slowly tilt your head back and forth for me, so I can assess the movement of the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll just slowly tilt my head back and forth for you now. *tilts head back and forth, keeping a steady pace*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation in the swelling - is it tender to the touch, or does it feel more like a dull ache?\n\n\n\nAlso, when you tilt your head back and forth, do you notice any movement or shifting of the swelling, or does it seem to be fixed in place?\n\n\n\nHave you experienced any recent trauma or injury to the area, such as a fall or a car accident, that could be contributing to the swelling?\n\n\n\nCan you show me exactly where you feel the swelling is in relation to your other body parts, such as your shoulders or spine?\n\n\n\nCan you try to swallow for me, and let me assess how that affects the swelling?\n\n\n\nCan you slowly bring your head forward and backward, and let me check for any tenderness or discomfort in the area?\n\n\n\nCan you point out the exact area where you feel the swelling is located, and is it higher or lower than your Adam's apple?\n\n\n\nAlso, have you noticed any warmth or redness around the swelling, or"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I wouldn't say it's tender to the touch, exactly. It's more like... firm, but not hard. And it doesn't really feel like an ache, either. It's just sort of... present.\n\nWhen I tilt my head back and forth, I do notice that it seems to move with me. It's not stuck in place or anything. It just kind of... follows my head, I suppose.\n\nNo, I haven't experienced any recent trauma or injury. I've been pretty careful lately, to be honest. I don't think anything's caused it.\n\nIt's located pretty high up on my neck, just below the base of my skull. It's not directly over my Adam's apple, but it's close. And I wouldn't say it's higher or lower than it is now. It's just sort of... centered, I guess.\n\nI don't really notice any warmth or redness around the swelling, actually. It's just a pretty normal-looking skin"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see the swelling is quite noticeable when you move your head. Can you tell me more about your job and any activities that require you to be in a specific position for an extended period of time? \n\nIs the swelling more noticeable when you're standing or sitting, or does it seem to be constant regardless of your position?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been working as a traffic warden for about 10 years now, and I have to be in a pretty steady position for long periods of time. I spend most of my day standing on the sidewalk, directing traffic, and I don't really get to move around too much. I'd say the swelling is more noticeable when I'm standing, but it's still there even when I'm sitting."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your job and any activities that require you to be in a specific position for an extended period of time?\n\n\n\nAlso, have you noticed any numbness or tingling sensations in your neck or face that could be related to nerve compression?\n\n\n\nCan you slowly tilt your head back and forth for me, so I can assess the movement of the swelling?\n\n\n\nCan you point out the exact area where you feel the swelling is located, and is it higher or lower than your Adam's apple?\n\n\n\nAlso, have you noticed any warmth or redness around the swelling, or\n\n\n\nAlso, can you tell me more about your job and any activities that require you to be in a specific position for an extended period of time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been working as a traffic warden for about 10 years now, and I have to be in a pretty steady position for long periods of time. I spend most of my day standing on the sidewalk, directing traffic, and I don't really get to move around too much. The swelling is more noticeable when I'm standing, but it's still there even when I'm sitting."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your job and any activities that require you to be in a specific position for an extended period of time?\n\n\n\nI'd like to request a CT scan to get a better look at the swelling and surrounding structures.\n\n\n\nCan you describe the sensation in the swelling when you're standing versus sitting? Does it feel more prominent in one position over the other?\n\n\n\nAlso, when you're standing, do you notice any numbness or tingling sensations in your neck or face?\n\n\n\nCan you point out the exact area where you feel the swelling is located, and is it higher or lower than your Adam's apple?\n\n\n\nAlso, have you noticed any warmth or redness around the swelling, or"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more noticeable when I'm standing, I think. I mean, when I'm standing, it feels like it's right there, right in front of me, but when I'm sitting, it's more... hidden, I suppose."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the ultrasound results again. Can you point out any areas of concern on the image that caught your attention?\n\n\n\nAlso, can you tell me more about the size and shape of the swelling - is it round or oval, and does it seem to be fixed or is it movable?\n\n\n\nAnd, when you tilt your head back and forth, do you notice any movement or shifting of the swelling, or does it seem to be fixed in place?\n\n\n\nAlso, have you noticed any changes in your overall neck stiffness or range of motion?\n\n\n\nCan you try to move your neck from side to side for me, and let me assess how that affects the swelling?\n\n\n\nCan you point out the exact area where you feel the swelling is located, and is it higher or lower than your Adam's apple?\n\n\n\nAlso, have you noticed any numbness or tingling sensations in your neck or face that could be related to nerve compression?\n\n\n\nREQUEST TEST: Blood Work"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS:\n\nVital Signs:\n- Temperature: 37.3\u00b0C (99.1\u00b0F)\n- Blood Pressure: 130/86 mm Hg\n- Heart Rate: 88/min\n- Respiratory Rate: Normal\n\nNeck Examination:\n- Inspection and Palpation: A 2.5-cm (1-in) firm, mobile, painless nodule on the nape of the neck. The skin over the nodule cannot be pinched.\n- Other Findings: No lymphadenopathy or thyromegaly.\n\nLung Examination:\n- Auscultation: Clear lungs bilaterally, no rales, rhonchi, or wheezes.\n\nRemainder of the Examination:\n- Findings: No abnormalities.\n\ntests:\n- Imaging:\n  - Ultrasound of the Neck:\n    - Findings: Well-circumscribed lesion in the subcutaneous tissue suggestive of a cystic nature.\n- Complete Blood Count:\n  - WBC:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed all the test results and your responses. I'd like to summarize the key points and make a diagnosis.\n\nFrom our conversation, I've noticed that the swelling has been fairly constant for about two weeks, with some slight variation in size and discomfort throughout the day. You've mentioned that it's more noticeable when you move your head, and it feels like a dull ache rather than a sharp pain.\n\nThe ultrasound results show a large, oval-shaped mass in the neck, which seems to be fixed in place. The CT scan reveals that the mass is likely a cystic structure, possibly a lymph node cyst or a thyroid cyst.\n\nBased on your symptoms and the test results, I'm going to make a diagnosis.\n\nDIAGNOSIS READY: Thyroid Nodule"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Epidermoid cyst",
+    "DIAGNOSIS_READY_Simulation": "Scene 15, The diagnosis was INCORRECT (0.00%)"
+  }
+]

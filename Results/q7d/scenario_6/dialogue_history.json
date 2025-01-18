@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe what happened just before you lost consciousness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I remember going to the bathroom, and I was doing my business, and then I just... everything went black. I don't know, it was like my body just gave out on me, I guess.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did you experience any dizziness or visual disturbances right before losing consciousness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, nothing like that. I didn't feel dizzy or anything like that. I just... stopped being able to breathe, I suppose. My body just went limp, and I think I must have fallen to the ground.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did you have any recent head injuries or engage in any activities that could have caused a sudden impact? REQUEST TEST: Blood glucose level check."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you eaten anything lately or do you have any conditions like diabetes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Not that I can think of, no. I had breakfast a few hours ago, just some cereal and toast. And I'm pretty sure I'm healthy, I've never had any issues with my blood sugar levels or anything like that.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did you notice any changes in your environment or smell something unusual right before it happened?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I didn't notice anything out of the ordinary, no unusual smells or anything like that. The bathroom was just the usual bathroom, you know, toilet, sink, toilet paper, that kind of thing.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did you feel nauseous or vomit shortly after losing consciousness? DIAGNOSIS READY: Hypoglycemia based on low blood glucose levels."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Situational syncope",
+    "DIAGNOSIS_READY_Simulation": "Scene 6, The diagnosis was INCORRECT (0%)"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first started experiencing shortness of breath? Was it sudden or did it come on gradually?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, it started a few weeks ago, and at first, I thought it was just a side effect of being out of shape from the summer. But as the days went by, it got worse and I found myself needing to catch my breath just walking up the stairs, which is really unusual for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your exercise routine since the shortness of breath started? Did you notice any other symptoms, such as fatigue, weight loss, or changes in your appetite?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been trying to maintain my usual routine, but to be honest, I've had to scale back a bit. I've been finding it really hard to keep up with my classes, and I've been relying on my colleagues to help me with grading and other tasks. I've also been feeling pretty tired all the time, which is unusual for me, so it's been a bit of a challenge."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your diet since the shortness of breath started? Have you noticed any changes in your appetite or weight?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been trying to eat the same foods I normally do, but I have to admit, I've been eating smaller portions than usual because I just don't have the energy to finish my meals like I used to. And, to be honest, I've noticed that I'm not losing weight like I thought I would, even though I'm not gaining any either. It's just a weird feeling, like my body is holding onto something."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see that you're experiencing a significant decrease in your energy levels and you're having trouble maintaining your usual diet. Can you tell me more about your menstrual cycle? Have you noticed any changes or irregularities since the large ovarian mass was discovered? Also, would you be willing to allow me to perform a physical examination, including a pelvic exam, to assess the ovarian mass further?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm actually a nulliparous woman, so I don't have a menstrual cycle."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see. Well, in that case, we'll have to rely on other indicators. Can you tell me more about your family medical history? Do you have any close relatives who have been diagnosed with ovarian cancer or other related conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I come from a pretty large family, and I've had a few relatives who've dealt with some health issues, but I don't think any of them were related to anything like this. My mom had some fibroids removed a few years ago, but that was it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your relationship with your mother? Was she diagnosed with fibroids at a young age, or was it a more recent development? Also, REQUEST TEST: CA-125 Blood Test"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "It seems there's a misunderstanding. The information provided doesn't directly relate to the patient's family history or fibroid diagnosis, but rather it seems to be a medical examination report. However, I'll provide the relevant test result as requested: RESULTS: CA-125 Level: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your relationship with your mother? Was she diagnosed with fibroids at a young age, or was it a more recent development? And have you noticed any changes in your menstrual cycle since the large ovarian mass was discovered? For example, is your period more or less frequent, or is it heavier or lighter than usual?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My mom was diagnosed with fibroids when I was younger, probably around my teenage years. It was a bit of a surprise, but she handled it pretty well. As for my menstrual cycle, I have to admit that since this started, I've been feeling a bit... irregular. My periods have been coming a bit later than usual, and they're just not as heavy as they used to be."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the size of the ovarian mass? Is it significantly larger than your normal ovary, and has it changed in size or shape over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I've been feeling like it's getting bigger, but I'm not really sure. It's hard to measure, and I don't have a reference point for what it's supposed to feel like. But I do know that it's definitely more noticeable now than it was a few weeks ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation of the ovarian mass? Is it tender to the touch, or does it feel more like a normal growth? Also, I'd like to request a test: REQUEST TEST: Ultrasound of the Pelvis."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient's pelvic examination revealed a palpable mass on the right side of the pelvis. However, the description of the mass as being non-tender and the presence of a fluid wave positive on palpation, along with the abdominal findings suggestive of ascites, may indicate that the mass is not a simple growth but possibly related to the ascites or another underlying condition. As for the sensation, it's not explicitly described as tender or normal, but rather the focus was on its palpability and the associated findings. The ultrasound results would provide more insight into the characteristics of the mass. Here are the results of the requested test: RESULTS: Ultrasound of the Pelvis - Findings: Large mass in the right ovary, significant ascites present."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your symptoms when you're lying down? Do you experience shortness of breath more when you're resting or even sleeping?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "When I'm lying down, I don't really notice a significant difference in my shortness of breath. It's more noticeable when I'm standing or moving around, like when I'm walking up the stairs or doing my classes. But when I do lie down, I do feel a bit more... sluggish, I guess, like my body is working harder to breathe even when I'm not doing anything."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation of this feeling of sluggishness when you're lying down? Is it a heavy, dull sensation or more of a general fatigue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's hard to describe, but it's like my body is working harder to support itself, even when I'm not doing anything. It's not exactly heavy or dull, but more like... my body feels like it's carrying an extra load, even when I'm just resting."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request another test: REQUEST TEST: CT Scan of the Abdomen. Can you tell me more about the sensation of this extra load when you're lying down? Is it more pronounced in your chest, abdomen, or somewhere else? Also, have you noticed any changes in your bowel movements or urination habits since the shortness of breath started? And, just to confirm, the large ovarian mass is still present and hasn't changed in size or shape, correct?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient's symptoms and examination findings suggest that the ascites and the ovarian mass may be contributing to the respiratory distress and discomfort. The sensation of the extra load when lying down could be more pronounced in the abdomen, given the presence of ascites. As for the changes in bowel movements or urination habits, there is no direct mention of these symptoms in the provided information. However, the presence of ascites could potentially affect the patient's urinary habits due to the pressure on the bladder. Regarding the ovarian mass, the ultrasound results confirm its presence and size. It's essential to note that the CA-125 level is normal, which might be helpful in differentiating between types of ovarian masses. The CT scan would provide more detailed information about the mass, the extent of the ascites, and any potential involvement of other abdominal structures. Here are the results of the requested test: RESULTS: CT Scan of the Abdomen - Findings: Large ovarian mass on the right side, significant ascites, and mild splenomegaly. No evidence of metastatic disease."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your diet since the shortness of breath started? Have you noticed any changes in your appetite or weight, aside from eating smaller portions due to fatigue? Also, I'd like to request another test: REQUEST TEST: Liver Function Tests. And, just to confirm, the CT scan results showed mild splenomegaly. Have you noticed any changes in your overall energy levels or fatigue since the splenomegaly was discovered?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient's dietary habits and changes in appetite or weight are not explicitly mentioned in the provided information. However, it's essential to assess these factors to understand the overall clinical picture. The liver function tests would provide valuable information about the patient's hepatic function, which could be affected by the ascites, the ovarian mass, or other underlying conditions. Regarding the splenomegaly, the presence of mild splenomegaly on the CT scan could be related to the ascites, liver disease, or other causes. Changes in energy levels or fatigue could be associated with the splenomegaly, but this is speculative without further information. Here are the results of the requested test: RESULTS: Liver Function Tests - All within normal limits. As for the splenomegaly, the patient's overall energy levels or fatigue are not directly related in the provided information, but the presence of mild splenomegaly may still contribute to the patient's overall clinical picture. It's essential to continue monitoring the patient's condition and adjust the management plan accordingly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your bowel movements since the shortness of breath started? Have you noticed any changes in frequency, consistency, or blood in your stool? And, I'd like to review the liver function tests results again, just to confirm that everything looks normal. Also, REQUEST TEST: Complete Blood Count (CBC)."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient's bowel movements since the shortness of breath started are not explicitly mentioned in the provided information, making it difficult to comment on changes in frequency, consistency, or the presence of blood in the stool. However, the abdominal examination revealed normal bowel sounds, which might suggest that the bowel function is not severely affected. The liver function tests were reported as normal, confirming that the patient's hepatic function is within normal limits. Here are the results of the requested test: RESULTS: Complete Blood Count (CBC) - WBC: 8,500 /\u03bcL, Hemoglobin: 12.8 g/dL, Platelets: 275,000 /\u03bcL."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall energy levels since the shortness of breath started? Are you feeling more tired or fatigued than usual, or is it more of a general feeling of being unwell? And, just to confirm, the CBC results are within normal limits, which is good to see. However, I'd like to request another test to further evaluate the patient's condition. REQUEST TEST: Echocardiogram."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient's overall energy levels and feelings of fatigue or being unwell are not directly mentioned in the provided information. However, the presence of shortness of breath, ascites, and a large ovarian mass could contribute to a general feeling of being unwell. The CBC results are within normal limits, which is a positive finding. An echocardiogram would help evaluate the patient's cardiac function, particularly in the context of the ascites and respiratory distress, to rule out any potential cardiac involvement or complications."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request another test: REQUEST TEST: Cardiac Ultrasound. Can you tell me more about your mental health since the shortness of breath started? Have you noticed any changes in your mood, anxiety, or depression? Also, I'd like to review the echocardiogram results when they become available."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient's mental health and changes in mood, anxiety, or depression since the shortness of breath started are not mentioned in the provided information. It's essential to assess the patient's mental health as part of the comprehensive evaluation. However, I'll focus on the cardiac evaluation as requested. Since the echocardiogram was requested but not yet reported, I'll note that it's essential to wait for the results to provide a complete assessment. The cardiac ultrasound was also requested, and it would provide detailed information about the cardiac structure and function. Here's a note on the requested test: Please note that the results of the echocardiogram are not available yet, and the cardiac ultrasound has been requested. Once the echocardiogram results are available, I will provide the results as per the usual format."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities since the shortness of breath started? Have you had to make any adjustments to your daily routine, such as taking breaks or resting more often? And, just to confirm, the echocardiogram results are still pending, but the cardiac ultrasound will provide more information about the cardiac structure and function, correct?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had to scale back my classes and teaching load, which is really affecting my workload and my energy levels. I've also been relying more on my colleagues to help with grading and other tasks, which is not ideal for me. I've been trying to adjust, but it's just been really tough."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're really struggling with the changes in your daily routine. Can you tell me more about your physical activity level since the shortness of breath started? Have you noticed any changes in your ability to perform physical tasks or activities that you normally enjoy? And, just to confirm, the echocardiogram results are still pending, but the cardiac ultrasound will provide more information about the cardiac structure and function, correct?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just been really hard to keep up with my classes and teaching load. I feel like I'm constantly out of breath and need to stop and catch my breath. Even simple tasks like grading papers or meeting with students are exhausting for me. I've had to take breaks more often and rely on my colleagues to help with tasks that normally wouldn't be too strenuous for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're really struggling to cope with the changes in your daily routine. I want to assure you that we're doing everything we can to help you manage your symptoms and get back to your normal life. Before I can make a diagnosis, I'd like to ask one more question. Can you tell me more about your overall sense of well-being? Are there any feelings of anxiety, fear, or worry that you're experiencing, even if they seem unrelated to your physical symptoms? And, just to confirm, I'll make sure to review all the test results we've discussed so far, including the CA-125, ultrasound, CT scan, liver function tests, CBC, and the echocardiogram and cardiac ultrasound results when they become available. Once I have this final piece of information, I'll be able to make a diagnosis and develop a treatment plan to help you manage your symptoms and improve your quality of life."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really anxious about my health, to be honest. I've been worrying about the size of the mass and whether it's going to affect my fertility or my ability to have children in the future. It's just been really scary and overwhelming, and it's affecting my mental well-being a lot."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Suspected Ovarian Cancer with Ascites and Possible Liver Involvement."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Meigs syndrome",
+    "DIAGNOSIS_READY_Simulation": "Scene 24, The diagnosis was INCORRECT, 8%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm really scared about the future. I keep thinking about all the what-ifs and the possibilities. I just want to know what's going on and what I can do to feel better. Can you tell me more about the treatment options and what I can expect?"
+  }
+]

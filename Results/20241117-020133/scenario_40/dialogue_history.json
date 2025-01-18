@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the nature of the pain you're experiencing? Is it a sharp stabbing pain or a dull ache?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is more of a dull ache, it's been present for a while now and it's more of a discomfort that comes and goes. It's not constant, but it's definitely been bothering me for a few days, and it's mainly in my right side, around my flank area."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the location and duration of the pain, is it constant or does it come and go, and do you notice any radiation of pain to other areas, such as your back or abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is more pronounced around my right flank area, and it's been persistent for a few days now. The discomfort comes and goes, but it's usually more noticeable when I'm sitting or standing still, and it tends to ease up when I'm lying down. I do feel a slight burning sensation, but it's not exactly sharp, more of a dull ache, like a lingering discomfort."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pain's severity? Is it mild, moderate, or severe, and do you find it uncomfortable enough to make it difficult for you to perform daily activities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's definitely uncomfortable, but I wouldn't say it's severe. It's more of a nuisance, to be honest. It makes it a bit difficult for me to concentrate at work, especially when I'm sitting for long periods of time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a physical examination to get a better understanding of your condition. Can you please stand up and walk for me so I can assess your gait and look for any signs of limping or abnormal movement?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can do that. I'm a bit stiff from sitting for so long, so I'll try to take my time. (stands up and walks slowly) I'll just take a few steps around the room for you."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you please bend forward at the waist and bring your hands to your knees, I'd like to inspect your lower abdomen and check for any tenderness or guarding?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll do that. (bends forward at the waist and brings hands to knees) I don't feel anything out of the ordinary. The pain seems to be more on my right side, just below my ribcage."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the timing of the pain, when did it start and how often it occurs? Is it related to any specific activity or situation?\n\n\n\nAlso, while you're bending forward, I'd like to gently palpate your lower abdomen, can you please stay still for a moment so I can examine it more closely?\n\n\n\nAnd while I'm checking your abdomen, I'd like to request a test: REQUEST TEST: Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Timing of pain: The pain started approximately 2 weeks ago, and it comes and goes. It is not constant but tends to be more noticeable when sitting or standing still, and it eases up when lying down. It is most pronounced around the right flank area.\n\n- Relation to activity: The pain seems to be more noticeable when sitting for long periods of time, but it's not directly related to any specific activity or situation.\n\n- Palpation of the lower abdomen: Mild tenderness noted on palpation of the right lower quadrant, no palpable mass.\n\n- Ultrasound: Scheduled for further evaluation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to confirm that the pain is indeed constant, rather than coming and going, and that you've noticed radiation of pain to your lower back. \n\nCan you tell me more about the severity of the pain, is it something that interferes with your sleep, and do you experience any pain during urination?\n\n\n\nAlso, while I'm still examining your abdomen, I'd like to check your reflexes, can you please flex your right leg for me, and I'll observe your knee jerk?\n\n\n\nREQUEST TEST: Complete Blood Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Pain Severity: The pain is described as a dull ache, which is uncomfortable but not severe. It interferes with your sleep slightly, but not significantly.\n\n- Radiation of Pain: Yes, you've noticed radiation of pain to your lower back.\n\n- Pain during Urination: No, there is no reported pain during urination.\n\n- Knee Jerk Reflex: Normal reflex response observed.\n\n- Complete Blood Count: \n\n- Hemoglobin: 14.5 g/dL\n- Hematocrit: 42%\n- White Blood Cell Count: 7,500 cells/\u03bcL\n- Red Blood Cell Count: 4.8 million cells/\u03bcL\n- Platelet Count: 250,000 cells/\u03bcL"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like we're getting closer to understanding what's going on. Can you tell me more about the nature of the pain you're experiencing? Is it a dull ache or a sharp, stabbing sensation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more of a dull ache, like I mentioned before. It's not sharp or stabbing, but rather a constant, persistent feeling of discomfort in my right flank area."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to confirm that you're experiencing a dull ache, and that the pain radiates to your lower back, is that correct?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, that's correct, the pain is a dull ache that radiates to my lower back, especially when I'm standing or sitting still."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to clarify the nature of the pain you're experiencing. You mentioned earlier that it's a dull ache. Can you tell me if you've noticed any differences in the pain when you're sitting versus standing, or if the pain changes at all when you're in different positions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed that when I'm standing, the pain seems to be a bit more pronounced, but when I'm lying down, it tends to ease up a bit. It's not a drastic difference, but I feel like the pain is more manageable when I'm resting."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the patient's medical history, do you have any previous surgeries or conditions that could be related to the pain you're experiencing?\n\n\n\nIs there anything else that you've noticed in your urine, such as cloudiness, blood clots, or an unusual color?\n\n\n\nCan you please lift your legs up so I can examine your lower back and hips for any signs of tenderness or abnormalities?\n\n\n\nI'd like to perform a rectal exam to check for any abnormalities, can you please come closer so I can examine your rectum?\n\n\n\nAlso, while I'm checking the rectum, I'd like to request a test: REQUEST TEST: Urinalysis"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Medical History: The patient has no known history of previous surgeries or conditions that could be related to the pain they're experiencing.\n\n- Urine: The patient reports no cloudiness, blood clots, or an unusual color in their urine.\n\n- Lower Back and Hips: Mild tenderness noted on palpation of the right lower quadrant of the back, no tenderness or abnormalities noted.\n\n- Rectal Exam: No abnormalities noted.\n\n- Urinalysis: \n\n- Appearance: Clear\n- WBC: 2-3 /HPF\n- RBC: 0\n- Nitrites: Negative\n- Leukocyte_Esterase: Negative"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about your medical history, specifically any previous kidney stones, kidney problems, or other conditions that could be related to the pain you're experiencing?\n\n\n\nAlso, while I'm examining your rectum, I'd like to check for any signs of rectal tenderness or abnormalities, and I'll also check the size and shape of your prostate gland."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had a few instances of urinary tract infections over the past few years, but I've never been on renal dialysis or had any major kidney problems. I've also had a few instances of kidney stones in the past, but they were relatively minor and didn't cause any significant issues."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you please describe the pain in more detail, is it a burning sensation, or does it feel more like a sharp, stabbing pain?\n\n\n\nAlso, when you say you're experiencing a dull ache, do you find that the pain is more pronounced when you're not urinating, or does it increase in intensity when you're trying to pass urine?\n\n\n\nCan you please hold still for a moment while I check your abdominal tenderness, I'm going to gently press on the right flank area and see if that elicits any pain or discomfort?\n\n\n\nCan you tell me more about your medical history, have you ever had any previous kidney issues or conditions that could be related to the pain you're experiencing?\n\n\n\nI'd like to check your urine output, can you please tell me how much urine you're producing per day, and have you noticed any changes in your urination patterns?\n\n\n\nI'd like to request a test: REQUEST TEST: Imaging Studies of the Kidneys"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Pain Description: The patient describes the pain as a dull ache, with a sensation of radiation to the lower back, especially when sitting or standing still. It is not sharp or stabbing, but rather a persistent feeling of discomfort in the right flank area.\n\n- Pain Intensity: The pain is more pronounced when not urinating, and it increases in intensity when trying to pass urine.\n\n- Abdominal Tenderness: Mild tenderness noted on palpation of the right flank area.\n\n- Medical History: The patient has a history of urinary tract infections, but no known history of previous surgeries or conditions that could be related to the pain.\n\n- Urine Output: The patient reports producing an average of 2-3 liters of urine per day, with no significant changes in urination patterns.\n\n- Imaging Studies of the Kidneys: Scheduled for further evaluation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review your medical history again and see if you can recall any recent activities or exposures that may have triggered the onset of your symptoms. \n\nCan you tell me if you've recently traveled to any new areas, or if you've been exposed to anyone who's been sick recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been working in an office setting, so I haven't traveled much recently. I did go on a short vacation to the beach a few weeks ago, but I don't think anything I did there would have triggered this."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "You've provided some interesting information, but I still need to gather more details. Can you tell me more about the nature of the pain you're experiencing, is it a dull ache or a sharp, stabbing sensation?\n\n\n\nAlso, I'd like to review your test results, can you please look at the ultrasound results I requested earlier and tell me if you see anything of note?\n\n\n\nAlso, I'd like to check your reflexes again, can you please flex your right leg for me and I'll observe your knee jerk?\n\n\n\nCan you tell me more about your symptoms over the past 24 hours, have they changed at all or have you noticed any patterns?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: CT Scan of the Abdomen"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS:\n\n- Pain Nature: The patient describes the pain as a dull ache, with a sensation of radiation to the lower back, especially when sitting or standing still. It is not sharp or stabbing, but rather a persistent feeling of discomfort in the right flank area.\n\n- Ultrasound Results: Multiple cysts present in the collecting ducts of the medulla, no obstruction noted.\n\n- Reflexes: Normal reflex response observed.\n\n- Symptoms Over 24 Hours: No changes in symptoms, but the patient reports that the pain has been consistent in terms of its location and characteristics.\n\n- CT Scan of the Abdomen: Scheduled for further evaluation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a rectal exam to check for any abnormalities, and I'd also like to request a test: REQUEST TEST: Urinalysis. Can you please stay still for a moment while I examine your rectum?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Rectal Exam: No abnormalities noted.\n- Urinalysis: \n  - Appearance: Clear\n  - WBC: 2-3 /HPF\n  - RBC: 0\n  - Nitrites: Negative\n  - Leukocyte_Esterase: Negative"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your abdominal tenderness again, can you please hold still for a moment while I press on the right flank area, and I'll see if that elicits any pain or discomfort?\n\n\n\nAlso, I'd like to review the ultrasound results you mentioned earlier, can you take a look at them and see if you notice anything unusual?\n\n\n\nCan you tell me more about your sleep patterns, have you noticed any changes in your ability to fall asleep or stay asleep since the onset of your symptoms?\n\n\n\nI'd like to request a test: REQUEST TEST: Prostate-Specific Antigen (PSA)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS:\n\n- Abdominal Tenderness: Mild tenderness noted on palpation of the right flank area, no pain elicited upon pressing.\n\n- Ultrasound Results: Multiple cysts present in the collecting ducts of the medulla, no obstruction noted.\n\n- Sleep Patterns: The patient reports that their sleep patterns have not changed significantly since the onset of symptoms, but they do experience some difficulty falling asleep due to the discomfort.\n\n- Prostate-Specific Antigen (PSA): Within normal limits."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a neurological exam to check for any numbness or weakness in your legs. Can you please lift your right foot off the table and bring it towards your left knee, and then bring it back down, and I'll observe for any signs of weakness or numbness?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: EMG/EMG Nerve Conduction Study"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Neurological Exam: No numbness or weakness noted in the right leg. Normal reflex response observed in the right knee jerk reflex.\n\n- EMG/EMG Nerve Conduction Study: Normal results."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to start by reviewing the patient's medical history again. You mentioned earlier that you've had some previous kidney problems. Can you tell me more about those, specifically what kind of issues you've had and when they occurred?\n\n\n\nAlso, I'd like to confirm that the pain is indeed constant, rather than coming and going, and that it radiates to your lower back. Is that correct?\n\n\n\nPlease continue to bend forward and stay still for a moment while I palpate your lower abdomen again, I want to check for any tenderness or guarding."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had a few instances of urinary tract infections over the past few years, but they were relatively minor and didn't cause any significant issues. I've also had a few instances of kidney stones in the past, but they were relatively minor and didn't cause any significant problems."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Finally, thank you for your detailed responses. I think I have a good understanding of your symptoms. Based on your history and physical examination, I'm going to request one final test to confirm my suspicions. \n\nREQUEST TEST: CT Scan of the Abdomen"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Medullary Sponge Kidney",
+    "DIAGNOSIS_READY_Simulation": "Scene 40, The diagnosis was INCORRECT (0%)"
+  }
+]

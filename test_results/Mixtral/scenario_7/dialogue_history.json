@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me a little bit about your mother's pregnancy with you? Did she experience any complications or issues during her pregnancy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't think so, Doctor. She just kind of went through it, you know? No one seemed to notice anything out of the ordinary until after I was born."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "How long did she carry you, and did she have any prenatal appointments that required her to be hospitalized or receive any special care?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I was born at term, and from what I've heard, she didn't really go to any prenatal appointments. I don't think she even knew she was supposed to be there."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your birth weight and length? Was it above or below average for a newborn of your gestational age?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a bit light, actually. My birth weight was 3000 grams, and I'm about 46 centimeters long. My mom says I'm one of the smallest, but I don't really know what that means."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a look at your physical examination. Can you please turn your head to the right for me, so I can check your neck and throat?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try my best. *turns head to the right* Is everything okay, Doctor?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you show me your tongue, please? And gently open your mouth so I can see the back of it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "*opens mouth* I don't know if I can do that, Doctor. It feels a little weird."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you have noticed any breathing difficulties, such as fast breathing, or if you have a fever at all?\n\n\n\nPlease turn your head to the left now, so I can examine your neck and throat from that side.\n\n\n\nAlso, I'd like to see the back of your tongue again, but this time, I'd like you to stick out your tongue as far as you can."
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, Doctor, I don't think I've ever had any trouble breathing. But I did have some trouble hearing when I was born, and the doctor said I need to get my hearing checked again soon.\n\n*stretches neck to the left, trying to relax* I don't know if I can stick out my tongue all the way, but I'll try. *stretches tongue out as far as I can*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you move your tongue to the left, so I can see the back of it better?\n\n\n\nAlso, I'd like to check your ears for any discharge or redness. Please tilt your head to the right, so I can see the back of your ear."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try, Doctor. *tries to move tongue to the left*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your birth weight and length? Did you have any immediate concerns or difficulties after birth, such as feeding or breathing issues?\n\n\n\nREQUEST TEST: Blood_Sugar"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.0\u00b0C (98.6\u00b0F)\n  Heart_Rate: 140 bpm\n  Respiratory_Rate: 40 breaths/min\n\nCardiac_Examination: \n  Murmur: Continuous'machinery' murmur present\n\nSkin_Examination: \n  Macules: Several bluish macules that do not blanch upon application of pressure\n\nOphthalmic_Examination: \n  Slit_Lamp: Cloudy lenses in both eyes\n\nAudiological_Examination: \n  Screening: Failed auditory screening tests\n\ntests: \n  TORCH_Screen: \n    Rubella_IgM: Positive\n    Others: Negative\n  Echocardiogram: \n    Findings: Patent ductus arteriosus\n  Ophthalmologic_Consult: \n    Findings: Congenital cataracts\n  Hearing_Test: \n    Findings: Bilateral sensorineural"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the birth process, specifically how quickly you were born and if there were any issues with your transition to the outside world after birth?\n\n\n\nAlso, can you move your tongue to the center of your mouth for me, so I can take a closer look at the uvula?\n\n\n\nIs there anything you've noticed about your feeding, such as difficulty latching, spitting up, or having trouble burping?\n\n\n\nCan you please lift your chin up for me, so I can examine your neck and throat area from a different angle?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really remember much about the birth process, Doctor. I think I came out pretty quickly, but my mom says she didn't feel like it was normal. I just kind of... felt the light, you know?\n\n*tries to move tongue to the center of mouth* It feels a bit funny, but I'll try.\n\nI don't really remember feeding, Doctor. I just kind of... sucked and it seemed to work. My mom says I didn't spit up much at all, but I did get a bit of gas sometimes.\n\n*tries to lift chin up*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you show me the back of your tongue again, and this time, gently curl it back towards the roof of your mouth for me?\n\n\n\nAlso, I'd like to take a closer look at the back of your throat, so please slowly swallow for me."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try to curl it back, Doctor. *tries to curl tongue back towards the roof of mouth* It feels a bit tight, though.\n\n*swallows slowly*\n\nI don't really remember what it was like when I was feeding, Doctor. It all just kinda happened. My mom says I seemed to latch on okay, but I don't really know what that means."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your feeding, such as difficulty latching, spitting up, or having trouble burping? \n\nAlso, I'd like to examine the back of your throat more closely, so please take a deep breath in and slowly let it out, and then I'd like you to gargle with water for me."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I didn't really notice anything unusual about feeding, Doctor. It just kinda worked, you know? My mom says I didn't spit up much at all, but I did get a bit of gas sometimes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your eyes now. Can you look up at me and then down at the floor, and then back up at me? I'm checking for any signs of strabismus or other eye abnormalities."
+  },
+  {
+    "speaker": "Patient",
+    "text": "Can I just look at you for a second, Doctor?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you look up at me and hold that position for a second, so I can observe your eyes more closely?\n\n\n\nAlso, I'd like to see your hands and feet, are they symmetrical and properly aligned?\n\n\n\nCan you move your arms slightly, so I can examine your shoulders and upper back?\n\n\n\nCan you tell me if you notice any sensations in your chest or abdomen, such as discomfort or tightness?\n\n\n\nREQUEST TEST: Eye_Examination"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.0\u00b0C (98.6\u00b0F)\n  Heart_Rate: 140 bpm\n  Respiratory_Rate: 40 breaths/min\n\nCardiac_Examination: \n  Murmur: Continuous'machinery' murmur present\n\nSkin_Examination: \n  Macules: Several bluish macules that do not blanch upon application of pressure\n\nOphthalmic_Examination: \n  Slit_Lamp: Cloudy lenses in both eyes\n\nAudiological_Examination: \n  Screening: Failed auditory screening tests\n\ntests: \n  TORCH_Screen: \n    Rubella_IgM: Positive\n    Others: Negative\n  Echocardiogram: \n    Findings: Patent ductus arteriosus\n  Ophthalmologic_Consult: \n    Findings: Congenital cataracts\n  Hearing_Test: \n    Findings: Bilateral sensorineural\n\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you look down at the floor and then up at me again, and this time, I'd like you to hold that position for a few seconds so I can observe your eyes more closely?\n\n\n\nAlso, can you please show me your hands and feet again, and this time, I'd like you to spread your fingers apart for me?\n\n\n\nCan you tell me if you've noticed any unusual sensations or feelings in your chest or abdomen, such as tightness or discomfort?\n\n\n\nIs there anything else you'd like to tell me about your pregnancy, birth, or your early days as a newborn that might be helpful in understanding your health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't remember much about the pregnancy, Doctor. I think my mom just kind of went through it like you said. She didn't seem to have any problems, but after I was born, I did have some trouble hearing.\n\nCan I just look down at the floor and then up at you again?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your birth process, specifically how quickly you were born and if there were any issues with your transition to the outside world after birth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I came out pretty quickly, I think, but my mom says she didn't feel like it was normal. I just kind of... felt the light, you know? And after I was born, I didn't really cry much."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe your mother's prenatal care and any medications she took during her pregnancy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't think she got any prenatal care, Doctor. She just kind of... went through it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mother's prenatal care and any medications she took during her pregnancy? \n\nDid she follow any specific diet or lifestyle recommendations during her pregnancy, such as avoiding certain foods or exercising regularly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, Doctor. My mom didn't really do anything special with her diet or exercise during pregnancy. She just kind of... ate what she wanted and went about her daily life, I think."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your chest and back a bit further. Can you please place your arms on your sides and lean forward slightly so I can check your heart and lungs?\n\n\n\nAlso, I'd like to ask, did your mother take any prenatal vitamins or supplements during her pregnancy?\n\n\n\nCan you show me your feet again, and I'd like to check the soles of your feet for any unusual markings or coloration?\n\n\n\nAlso, I'd like to request a test: REQUEST TEST: Skin_Examination"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.0\u00b0C (98.6\u00b0F)\n  Heart_Rate: 140 bpm\n  Respiratory_Rate: 40 breaths/min\n\nCardiac_Examination: \n  Murmur: Continuous'machinery' murmur present\n\nSkin_Examination: \n  Macules: Several bluish macules that do not blanch upon application of pressure\n\nOphthalmic_Examination: \n  Slit_Lamp: Cloudy lenses in both eyes\n\nAudiological_Examination: \n  Screening: Failed auditory screening tests\n\ntests: \n  TORCH_Screen: \n    Rubella_IgM: Positive\n    Others: Negative\n  Echocardiogram: \n    Findings: Patent ductus arteriosus\n  Ophthalmologic_Consult: \n    Findings: Congenital cataracts\n  Hearing_Test: \n    Findings: Bilateral sensorineural\n\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the color of the soles of your feet? Are they normal pink or are they lighter or darker than that?\n\n\n\nAlso, can you show me the tops of your feet, are your toes webbed or are they normally spaced apart?\n\n\n\nCan you move your feet slightly for me, so I can examine the soles and tops of your feet more closely?\n\n\n\nIs your tongue still curled back towards the roof of your mouth from when I asked you to do that earlier?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The soles of my feet are kinda... lighter, I think. They're not really pink like normal people's feet."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Now that we've completed the physical examination and asked all 20 questions, it's time to review the findings and come to a diagnosis.\n\nBased on your history and physical examination, I'm going to need to review all the test results we requested before making a final decision. \n\nCan you please tell me the results of the Blood_Sugar test we requested earlier?"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Congenital Rubella Infection",
+    "DIAGNOSIS_READY_Simulation": "Scene 7, The diagnosis was INCORRECT (0.00%)"
+  }
+]

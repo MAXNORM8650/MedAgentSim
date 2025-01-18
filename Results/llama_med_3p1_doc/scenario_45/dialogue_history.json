@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the rash you're experiencing? Is it itchy, red, or does it come and go?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just a normal-looking rash, doc. It's not itchy at all, and it doesn't seem to come and go. It's just a general spreading rash on my skin."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the rash itself? Is it flat, raised, or does it have any distinct borders?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's pretty flat, and it just kind of blends in with the rest of my skin. It doesn't have any distinct borders or edges, it just sort of... spreads."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the rash's duration? How long have you been experiencing this rash, and when did the high fever and seizure occur?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The rash just started a couple of days ago, and the fever and seizure happened about five days ago, but they're not really related to the rash, I think."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the seizure? Was it a grand mal seizure, or did you just lose consciousness for a short time? Also, have you noticed any other symptoms besides the rash, such as joint pain, headache, or fatigue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It was a pretty short seizure, only a minute or so, and I didn't really lose consciousness, I just... jerked a bit and everything went dark for a second. As for other symptoms, I've been feeling pretty okay, just a bit tired, I guess."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the rash more closely. Can you please remove your shirt and let me take a look?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can do that, doc. I'll just take my shirt off for you."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the rash now. Please stand still for a moment so I can examine it properly. Also, can you tell me more about the seizure you had - did you notice any unusual sensations or movements in your body before or during the seizure?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I didn't really notice anything before or during the seizure, doc. It just happened suddenly and then it was over."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your medical history? Have you ever had any seizures before, or have you had any previous illnesses or fevers that might be relevant to this case? Also, can you tell me more about your current medication regimen? Are you taking any prescription medications or supplements that might be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I was born healthy, doc. I've never had any seizures or serious fevers before, and I've been on my immunizations right on schedule. I do take acetaminophen for fever, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, you've been on your immunizations and have never had any seizures or serious fevers before. Can you tell me more about the fever you had, was it a high fever, above 103 degrees Fahrenheit? Also, I'd like to check your neurological function, can you please stand still for a moment while I perform a quick neurological exam?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, doc, the fever was around 40.5\u00b0C or 104.9\u00b0F, I think that's pretty high, isn't it? And yeah, I'd be happy to stand still for the exam."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Complete Blood Count (CBC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Within normal limits for age"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Thank you for the test results. Can you tell me more about your symptoms since the seizure? Have you noticed any changes in your energy levels, or have you been experiencing any muscle weakness or cramping? Also, I'd like to perform a neurological exam to assess your cognitive function and reflexes. Can you please follow my instructions and respond to my commands? And I'd like to request another test, please: REQUEST TEST: Lumbar_Puncture"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient reports a decrease in energy levels and occasional muscle cramping, particularly in the lower extremities. They also mention some difficulty concentrating and a slight headache. The neurological exam reveals slight bradypsychia, but no focal neurological deficits. Deep tendon reflexes are slightly decreased, but symmetrical. RESULTS: Lumbar Puncture - Cerebrospinal Fluid (CSF) Analysis: Protein 60 mg/dL, Glucose 45 mg/dL, Cell count 10 cells/\u00b5L with 80% lymphocytes. No bacteria or red blood cells seen. - Gram Stain: No growth - Culture: Pending"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the muscle cramping you've been experiencing? Is it constant, or does it come and go? Also, have you noticed any weakness in your muscles, especially in your legs? Also, regarding the lumbar puncture results, I'd like to discuss the protein levels in your cerebrospinal fluid. A level of 60 mg/dL is slightly elevated, which could indicate inflammation or infection in the central nervous system. Can you tell me more about your symptoms since the lumbar puncture was performed? Have you noticed any changes in your energy levels or cognitive function?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly constant, doc, but it's not really painful or anything. It's just a bit of a... twinge, I guess. I've noticed it mostly in my legs, but it's not really specific to one spot."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the muscle cramping in your legs? Is it more noticeable when you're standing or sitting, or does it seem to be more pronounced at night? Also, I'd like to request another test to check for any potential infections or autoimmune disorders. REQUEST TEST: Erythrocyte Sedimentation Rate (ESR)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The muscle cramping seems to be more pronounced at night, especially when I'm lying down. It's not as noticeable when I'm standing or sitting, but it does make it difficult to fall asleep. It's a sharp, stabbing pain that lasts for a few seconds, and it's been happening more frequently over the past week. RESULTS: Erythrocyte Sedimentation Rate (ESR) - 32 mm/hr (elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the stabbing pain you experience with the muscle cramping? Is it a sharp, shooting pain or more of a dull ache? Also, I'd like to review the ESR results, an elevated rate of 32 mm/hr suggests inflammation, can you tell me more about the swelling or joint pain you've been experiencing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more of a sharp, stabbing pain, doc. It's like a little... spark, and it's gone just as quickly as it started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about this \"spark\" you mentioned, is it a sensation that feels like a tiny electric shock or more of a sudden, intense pain? Also, regarding the ESR results, an elevated rate of 32 mm/hr suggests inflammation, but we also see a slightly elevated protein level in the cerebrospinal fluid. Can you tell me more about the swelling or joint pain you've been experiencing? Have you noticed any stiffness or pain in your joints, especially in the morning? Can you please stand still for a moment while I examine your joints and check for any signs of inflammation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It feels like a little spark, like a tiny electric shock, but it's not really painful, just a weird sensation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your joints more closely. Can you please bend your knees slightly and flex your elbows for me? I'm looking for any signs of inflammation or swelling. Also, regarding the sensation you described, can you tell me more about it? Is it a constant feeling or does it come and go? And have you noticed any other unusual sensations or movements in your body, such as tremors or twitching? Also, I'd like to request another test to check for any potential infections or autoimmune disorders. REQUEST TEST: Rheumatoid Factor (RF)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient exhibits slight knee flexion and elbow flexion, with no overt signs of inflammation or swelling in the joints. The patient reports that the sensation is intermittent, but seems to be more frequent at night, and it's a feeling of pins and needles or a \"prickly\" sensation in the extremities. The patient denies any tremors or twitching, but mentions occasional, brief muscle spasms in the lower extremities. RESULTS: Rheumatoid Factor (RF) - Negative"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about this sensation of pins and needles or prickly feeling in your extremities? Is it limited to your legs, or do you experience it in other parts of your body as well?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly in my legs, doc. I also get it in my arms sometimes, but it's not as bad as it is in my legs. It's like a tingling sensation, but it's not really numb, it's just... weird."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the tingling sensation you're experiencing in your legs? Is it a constant feeling or does it come and go?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a bit of both, doc. It comes and goes, but it's definitely more noticeable at night, especially when I'm lying down. It's like my legs just feel a little... off, you know?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation that feels like a little \"spark\" or electric shock in your legs? Is it a constant feeling, or does it come and go, and have you noticed any triggers that might cause it to happen more frequently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly constant, doc, but it's not really a feeling I can describe. It's just... there, I guess."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation that feels like a little \"spark\" or electric shock in your legs? Is it a constant feeling, or does it come and go?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just something I've been noticing, doc. It's hard to explain, but it's like a tiny spark or a little jolt, and it's not really painful, it's just a weird sensation. It's been going on for a bit, but I don't know if it's related to anything."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Lyme disease."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Roseola infantum",
+    "DIAGNOSIS_READY_Simulation": "Scene 45, The diagnosis was INCORRECT, 4%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "What does Lyme disease mean, doc?"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides agitation and the yellowish coloring of your skin and eyes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really restless and confused, like I can't focus on anything. Sometimes I even feel like I'm not really here. Also, I've had some nosebleeds lately."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really noticed much change in my appetite, but I feel a bit off. I don't think I've lost or gained any weight recently, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any abdominal pain or discomfort, particularly in the upper right quadrant?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any abdominal pain or discomfort that I can recall. Just feeling really anxious and out of sorts."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, illnesses, or been exposed to any toxins or medications that could have affected your liver?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections that I know of, but I did use some ecstasy a few days ago. I'm not sure if that could be related, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your urine color or stool color recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really paid much attention to my urine or stool color, but I feel like something's off. I guess I could check, but I haven't noticed anything specific."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any itching or rashes on your skin?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any itching or rashes, but my skin does feel a bit different. It's hard to explain, just feels off."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, particularly liver function tests or a complete blood count?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests done recently. I just came in because I was feeling really agitated and my family was worried about the yellowing of my skin and eyes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you consumed any alcohol or recreational drugs in the past few weeks, aside from the ecstasy you mentioned?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've only had some drinks on the weekends, just socially. I don't think I've done anything else besides the ecstasy and the occasional cocaine use."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sleep patterns, such as insomnia or excessive sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having trouble sleeping, like I can't settle down at all. I feel really restless at night and just can't seem to get comfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of liver disease or any other significant medical conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know of any family history of liver disease. My family is generally healthy, as far as I know."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your abdomen or legs, or any unusual bruising?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my abdomen or legs, but I did have a couple of bruises that appeared out of nowhere. It's strange, I don't remember bumping into anything."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fever, chills, or other signs of infection recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fever or chills that I can recall. I just feel really on edge and out of it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to someone with hepatitis or liver disease?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled anywhere recently, and I don't know anyone with liver disease. I mostly just hang out with friends on the weekends."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your mental state, such as increased anxiety, confusion, or mood swings?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yeah, I've definitely been feeling more anxious and confused lately. It's like my mind is racing, and I can't keep track of what's going on around me. My mood swings have been all over the place too."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of vomiting or nausea recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really felt nauseous, but I do feel a bit off in my stomach sometimes. No vomiting, though. Just a general sense of unease."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent dental work or procedures that could have led to bleeding or bruising?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any dental work done recently. The bruising just seemed to appear out of nowhere, which is really strange to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your menstrual cycle, if applicable, or any unusual bleeding?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have a menstrual cycle, but I have noticed some unusual nosebleeds lately. It's not something that usually happens to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your energy levels or fatigue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really drained and low on energy. It's like I can't muster the motivation to do anything, and I just want to sleep all the time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to any chemicals or substances that could be harmful to your liver, aside from the recreational drugs you've mentioned?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been exposed to any chemicals or substances that I know of. Just the occasional party scene with friends, but nothing out of the ordinary."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Liver_Function_Tests"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Bilirubin: 25 mg/dL (elevated), AST: 600 IU/L (elevated), ALT: 650 IU/L (elevated), TP Activity: < 40% (reduced), INR: 1.5 (elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I feel really overwhelmed by everything that's happening. It's hard to process it all, especially with how restless and confused I've been feeling. I just want to understand what's going on with me."
+  }
+]

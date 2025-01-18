@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me how long the episodes of apnea have been occurring and how frequently they happen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The episodes of apnea have been happening for a few weeks now, and they seem to be increasing in frequency. Sometimes it happens several times during the night."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific triggers or patterns associated with the apnea episodes, such as feeding or sleeping positions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any specific triggers, but it seems to happen more often when I'm sleeping on my back. Feeding doesn't seem to make a difference."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you observed any other symptoms accompanying the apnea, such as coughing, wheezing, or changes in skin color?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any coughing or wheezing, but I do have pale conjunctiva. Other than that, there haven't been any changes in my skin color."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any difficulty feeding or any signs of irritability during or after feeding?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any difficulty feeding, and I don't feel particularly irritable during or after. I usually feed well and seem content afterward."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any recent illnesses or infections, such as a cold or fever, prior to the onset of the apnea episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent illnesses or infections, and I haven't had a fever either. Everything seemed fine before the apnea episodes started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your weight or growth patterns since the episodes began?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my weight or growth patterns. My feeding seems normal, and I feel like I'm growing well."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of respiratory issues or sleep apnea?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any family history of respiratory issues or sleep apnea that I'm aware of. My sister is healthy, and my dad has a heart condition, but nothing related to breathing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any blood tests done recently, and if so, what were the results regarding your hemoglobin levels?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests done recently, so I don't know about my hemoglobin levels. My mom hasn't mentioned anything about that."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's perform a blood test to check your hemoglobin levels and assess for any signs of anemia. REQUEST TEST: Complete_Blood_Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Hemoglobin: 8.2 g/dL, Hematocrit: 28%, Leukocyte Count: 10,000/mm^3 with normal differential, MCV: 100 um^3, Platelet Count: 300,000/mm^3. Reticulocyte Count: 0.8% (normal range: 2-6%)."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the low hemoglobin and hematocrit levels, it seems you may be experiencing anemia. Have you had any dietary changes or restrictions that could affect your iron intake?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any dietary changes since I'm still being breastfed. My mom is making sure I'm getting enough nutrition."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any signs of jaundice, such as yellowing of the skin or eyes, since the episodes began?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any yellowing of my skin or eyes. My color seems normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual bruising or bleeding, such as from the gums or nose?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any unusual bruising or bleeding from my gums or nose. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or medical procedures that could have affected your health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations or medical procedures. My mom has been keeping track of everything, and I haven't needed any extra care."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of lethargy or unusual tiredness during the day?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any lethargy or unusual tiredness during the day. I seem to be alert and active when I'm awake."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any issues with your heart rate or breathing patterns outside of the apnea episodes, such as rapid heart rate or difficulty breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any issues with my heart rate or breathing patterns outside of the apnea episodes. My breathing seems normal when I'm awake, and I don't feel like I'm having any trouble."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any exposure to any environmental factors, such as secondhand smoke or allergens, that could potentially affect your breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been exposed to any secondhand smoke or known allergens. My environment seems clean and safe."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the information we have, I would like to assess your oxygen saturation levels during an episode of apnea. REQUEST TEST: Pulse_Oximetry."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: 97% on room air."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It appears that your oxygen saturation levels are normal at 97% on room air, which is reassuring. Given the combination of apnea episodes and anemia, I would like to know if there have been any signs of heart murmurs or abnormal heart sounds during your check-ups. Have any doctors mentioned anything like that?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any doctors mention anything about heart murmurs or abnormal heart sounds during my check-ups. Everything seemed normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the absence of heart murmurs and the normal oxygen saturation levels, I would like to know if there have been any changes in your activity level or if you seem more fatigued than usual during playtime or interactions. Have you noticed anything like that?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my activity level. I seem to be just as active and engaged during playtime as usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the information gathered, including the episodes of apnea, anemia with low hemoglobin levels, and normal oxygen saturation, I suspect you may have a condition related to central apnea due to anemia. However, I will need to confirm this with further evaluation. DIAGNOSIS READY: Central Apnea due to Anemia."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Impaired erythropoietin production",
+    "DIAGNOSIS_READY_Simulation": "Scene 66, The diagnosis was INCORRECT, 19%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "What does that mean for me? Will I need any specific treatments or tests?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm not sure what it means exactly, but I hope it can be treated. I trust the doctors will know what to do next."
+  }
+]

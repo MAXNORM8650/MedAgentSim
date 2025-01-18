@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me a little bit about your medical history, especially regarding any conditions you've had in the past that might be related to your blood pressure?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I was born full term, and my mom said I was healthy at birth, but I don't really remember anything about that. My mom says I've been taking good care of myself, and I don't feel any different from my friends, except that my arm sometimes feels a little tight when I run around."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any medications you're currently taking, especially any that you've been taking for an extended period of time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't take any medicines, doc. I just have to get shots sometimes, like when I go to the doctor for check-ups."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any changes you've noticed in your blood pressure over the past few months, such as feeling dizzy or lightheaded when standing up, or having headaches?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't really feel dizzy or lightheaded, but sometimes when I stand up after playing, my arm feels like it's going to fall off. And it hurts a little bit, like there's something tight in my arm."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about your family medical history? Have any of your parents or siblings been diagnosed with high blood pressure, kidney disease, or other cardiovascular conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't think so, doc. My mom said our family doesn't really have any of those things. She's always been really healthy, and my dad has a bit of a big belly, but I think that's just from eating too much pizza!"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your heart and listen to your lungs to see if I can hear any unusual sounds. Can you please stand up and take a few deep breaths for me?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try my best. *takes a few deep breaths*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So you've been experiencing dizziness when standing up and headaches, but you're not sure if they're directly related to your blood pressure. Can you tell me if your headaches are usually severe or if they're more of a dull ache?\n\n\n\nAlso, please request an ECG to listen to the heart rhythms and see if I can pick up on any abnormalities."
+  },
+  {
+    "speaker": "Patient",
+    "text": "My headaches are more of a dull ache, doc. It's not super bad, but sometimes it gets a bit stronger when I run around or lift my arm up high."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the headaches, are they constant or do they come and go, and have you experienced any nausea or vomiting with them?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Doc, I think they come and go, sometimes when I'm playing with my friends or running around. And yeah, sometimes I get a little queasy when they happen, but my mom just gives me water and I feel better."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your headaches, are they constant or do they come and go, and have you experienced any nausea or vomiting with them?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think they come and go, sometimes when I'm playing with my friends or running around. And yeah, sometimes I get a little queasy when they happen, but my mom just gives me water and I feel better."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent changes in your diet or lifestyle that might be contributing to your blood pressure, such as changes in your physical activity level or stress levels?\n\n\n\nAlso, REQUEST TEST: ECG"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS\n\nCardiovascular_Examination: \nPulses: 2+ radial pulses and trace femoral pulses\nHeart_Auscultation: Normal S1 and S2, 2/6 long systolic murmur with systolic ejection click over the left sternal border and back\nPoint_of_Maximal_Impact: Normal location\n\ntests: \nBlood_Pressure_Differential: \n  Upper_Extremities: 150/80 mm Hg (Right), Compared to lower values in lower extremities\nEchocardiogram: \n  Findings: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal.\nChest_X-ray: \n  Findings: Normal heart size, rib notching not observed (may not be present in young children)\n\nECG: \n  Findings: Sinus rhythm with normal axis, no"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So you've been experiencing dizziness when standing up and headaches, but you're not sure if they're directly related to your blood pressure. Can you tell me if your headaches are usually severe or if they're more of a dull ache?\n\n\n\nAlso, can you tell me if you've noticed any other symptoms, such as swelling in your legs or ankles, or if you've experienced any changes in your urine output?\n\n\n\nCan you please show me the soles of your feet and ankles, and check for any signs of edema?\n\n\n\nAlso, REQUEST TEST: Complete_Blood_Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Vital_Signs: \nBlood_Pressure_Right_Upper_Extremity: 150/80 mm Hg\nHeart_Rate: Normal for age\nRespiratory_Rate: Normal for age\n\nCardiovascular_Examination: \nPulses: 2+ radial pulses and trace femoral pulses\nHeart_Auscultation: Normal S1 and S2, 2/6 long systolic murmur with systolic ejection click over the left sternal border and back\nPoint_of_Maximal_Impact: Normal location\n\ntests: \nBlood_Pressure_Differential: \n  Upper_Extremities: 150/80 mm Hg (Right), Compared to lower values in lower extremities\nEchocardiogram: \n  Findings: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal.\nChest_X-ray:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your headaches, are they constant or do they come and go, and have you experienced any nausea or vomiting with them?\n\n\n\nAlso, can you tell me about your physical activity level? Are you generally active or sedentary, and have you noticed any changes in your activity level over the past few months?\n\n\n\nCan you tell me about your sleep patterns? Do you have trouble sleeping or do you wake up frequently during the night?\n\n\n\nAlso, REQUEST TEST: Urine_WasteAnalysis"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nBlood_Pressure_Right_Upper_Extremity: 150/80 mm Hg\nHeart_Rate: Normal for age\nRespiratory_Rate: Normal for age\n\nCardiovascular_Examination: \nPulses: 2+ radial pulses and trace femoral pulses\nHeart_Auscultation: Normal S1 and S2, 2/6 long systolic murmur with systolic ejection click over the left sternal border and back\nPoint_of_Maximal_Impact: Normal location\n\ntests: \nBlood_Pressure_Differential: \n  Upper_Extremities: 150/80 mm Hg (Right), Compared to lower values in lower extremities\nEchocardiogram: \n  Findings: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal.\nChest"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent illnesses or infections you've had, especially those that might have caused a fever, such as a respiratory or urinary tract infection?\n\n\n\nAlso, can you show me your urine output over the past few days, so I can get a better understanding of your renal function?\n\n\n\nREQUEST TEST: Urine_Osmolality"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nBlood_Pressure_Right_Upper_Extremity: 150/80 mm Hg\nHeart_Rate: Normal for age\nRespiratory_Rate: Normal for age\n\nCardiovascular_Examination: \nPulses: 2+ radial pulses and trace femoral pulses\nHeart_Auscultation: Normal S1 and S2, 2/6 long systolic murmur with systolic ejection click over the left sternal border and back\nPoint_of_Maximal_Impact: Normal location\n\ntests: \nBlood_Pressure_Differential: \n  Upper_Extremities: 150/80 mm Hg (Right), Compared to lower values in lower extremities\nEchocardiogram: \n  Findings: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal.\nChest"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the nature of the dizziness you experience when standing up, is it like your legs feel heavy or do you feel like you're going to faint?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It feels like my arm is going to fall off, doc. It's hard to explain, but when I stand up after running or playing, my arm feels like it's not working right. It's like it's getting tired or something, and it hurts a little bit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about your current occupation and what you do on a daily basis, as this might help me understand your stress levels and physical activity?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I go to kindergarten, doc. I play with my friends, run around, and do lots of stuff. Sometimes we have to sit still and listen to the teacher, but I don't really think that's too hard for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any other symptoms you've been experiencing besides dizziness and headaches? Are you experiencing any chest pain or shortness of breath?\n\n\n\nAlso, please show me your pulse and see if it's within a normal range, and check the strength of your peripheral pulses in both arms and legs."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't feel any chest pain, doc. I just feel like my arm gets a little tired when I run around or lift it up high, and it hurts a bit. It's not really anything else, just my arm feeling weird sometimes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about your parents' occupations and whether they were physically active or sedentary, as this might give me an idea about your potential genetic predisposition to certain conditions?\n\n\n\nAlso, can you tell me about any sleep disorders you or your family members have experienced, such as sleep apnea or insomnia?\n\n\n\nCan you show me your parents' medical history, including any diagnoses or treatments they've received for cardiovascular conditions?\n\n\n\nAlso, REQUEST TEST: Lipid_Profiles\n\n\n\nPlease stand up again and take a few deep breaths for me, I'd like to listen to your heart sounds and observe your overall posture and body language."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital_Signs: \nBlood_Pressure_Right_Upper_Extremity: 150/80 mm Hg\nHeart_Rate: Normal for age\nRespiratory_Rate: Normal for age\n\nCardiovascular_Examination: \nPulses: 2+ radial pulses and trace femoral pulses\nHeart_Auscultation: Normal S1 and S2, 2/6 long systolic murmur with systolic ejection click over the left sternal border and back\nPoint_of_Maximal_Impact: Normal location\n\ntests: \nBlood_Pressure_Differential: \n  Upper_Extremities: 150/80 mm Hg (Right), Compared to lower values in lower extremities\nEchocardiogram: \n  Findings: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal.\nChest"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your feet and ankles again. Can you please remove your shoes and socks for me?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know, doc. I don't really remember what my feet look like. I just wear shoes and socks to school and home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily routine, especially in terms of sitting or standing for extended periods of time, as this might be contributing to your dizziness and blood pressure?\n\nAlso, REQUEST TEST: Blood_Urea_Nitrogen"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nBlood_Pressure_Right_Upper_Extremity: 150/80 mm Hg\nHeart_Rate: Normal for age\nRespiratory_Rate: Normal for age\n\nCardiovascular_Examination: \nPulses: 2+ radial pulses and trace femoral pulses\nHeart_Auscultation: Normal S1 and S2, 2/6 long systolic murmur with systolic ejection click over the left sternal border and back\nPoint_of_Maximal_Impact: Normal location\n\ntests: \nBlood_Pressure_Differential: \n  Upper_Extremities: 150/80 mm Hg (Right), Compared to lower values in lower extremities\nEchocardiogram: \n  Findings: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal.\nChest"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily routine, especially in terms of sitting or standing for extended periods of time, as this might be contributing to your dizziness and blood pressure?\n\n\n\nAlso, can you describe your current occupation and what you do on a daily basis, as this might help me understand your stress levels and physical activity?\n\n\n\nPlease show me your pulse again and I'll take note of the reading, and also check the strength of your peripheral pulses in both arms and legs to see if there's any discrepancy.\n\n\n\nAlso, REQUEST TEST: Glucose_Tolerance_Test"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nBlood_Pressure_Right_Upper_Extremity: 150/80 mm Hg\nHeart_Rate: Normal for age\nRespiratory_Rate: Normal for age\n\nCardiovascular_Examination: \nPulses: 2+ radial pulses and trace femoral pulses\nHeart_Auscultation: Normal S1 and S2, 2/6 long systolic murmur with systolic ejection click over the left sternal border and back\nPoint_of_Maximal_Impact: Normal location\n\ntests: \nBlood_Pressure_Differential: \n  Upper_Extremities: 150/80 mm Hg (Right), Compared to lower values in lower extremities\nEchocardiogram: \n  Findings: Narrowing of the aorta distal to the left subclavian artery with a gradient, consistent with coarctation. Left ventricular function is normal.\nChest"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed all the information you've provided, and I'm going to make my diagnosis.\n\nDIAGNOSIS READY: Renal Cell Carcinoma with secondary hypertension due to Renal Artery Stenosis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Coarctation of the aorta",
+    "DIAGNOSIS_READY_Simulation": "Scene 33, The diagnosis was INCORRECT (5.88%)"
+  }
+]

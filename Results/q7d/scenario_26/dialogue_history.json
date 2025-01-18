@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me how long you've been experiencing these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been about 5 months now, and to be honest, it's been really disrupting my daily routine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any pain or burning sensation while urinating?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, it's a bit uncomfortable, especially when I'm not able to get to the bathroom quickly enough. It feels like there's a bit of pressure, but it's not severe, thankfully.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any changes in urine color or smell? REQUEST TEST: Urinalysis"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Urinalysis: Color: Clear, pH: 6.7, Specific Gravity: 1.010, Protein: 1+, Glucose: Negative, Ketones: Negative, Blood: Negative, Nitrite: Negative, Leukocyte Esterase: Negative, WBC: 0/hpf, Squamous Epithelial Cells: 2/hpf, Bacteria: None"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you experience any urgency to urinate, waking you up at night?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I do. I've been waking up 2-3 times a night to use the bathroom, it's really been affecting my sleep. I'm not sure if it's related to my symptoms, but I've been trying to limit my fluids before bedtime to see if that would help, but it doesn't seem to make a difference.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you pass more than 8 voids per day? Have you noticed any blood in your urine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I've been having around 10 to 15 voids a day, and I've noticed that the discomfort seems to get worse after I've been holding it in for a while. And to answer your question, I haven't noticed any blood in my urine, but the urinalysis results did show a small amount of protein.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you feel any pressure in your lower abdomen? Has this been getting worse over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I do feel a bit of pressure, especially when I'm standing for long periods or if I've had a big meal. It's not a sharp pain, but more of a dull ache. I'd say it's gotten a bit more noticeable lately, but I'm not sure if it's related to my symptoms.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is there any specific time of day when your symptoms are worse, or do they bother you throughout the day?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's pretty much the same throughout the day, but I'd say it's a bit worse in the evening, after a big meal. I think that might be because I'm holding my urine for longer periods of time, but like I said, I've been trying to limit my fluids before bedtime, so it's not a huge difference.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has your bladder discomfort improved or worsened since you started experiencing these symptoms? DIAGNOSIS READY: Chronic\u8180\u80f1\u708e\u5f85\u786e\u8ba4\uff0c\u9700\u8981\u8fdb\u4e00\u6b65\u68c0\u67e5\u3002 REQUEST TEST: \u8d85\u58f0\u6ce2\u68c0\u67e5\u3002"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Interstitial cystitis",
+    "DIAGNOSIS_READY_Simulation": "Scene 26, The diagnosis was INCORRECT (0%)"
+  }
+]

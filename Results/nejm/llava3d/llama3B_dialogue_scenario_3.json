@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when these symptoms started? Was it a gradual onset or did they come on suddenly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Well, I'd say they've been building up over the past few weeks. The fatigue and abdominal pain started about 4 weeks ago, and the weight loss has been steady, about a kilo a week."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the nature of the abdominal pain? Is it constant, or does it come and go, and are there any specific activities that seem to exacerbate or relieve it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been a mix, to be honest. The pain is more of a dull ache, but it's been getting worse over time. It's worse when I'm standing for long periods or bending, and it seems to be more noticeable at night, which is why I've been waking up in a cold sweat a lot lately."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "That's concerning, especially the night sweats. Can you tell me more about the swelling of the supraclavicular lymph node? Is it tender to the touch, and has its size changed recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The swelling just started a few days ago, I think it's related to the neck pain, it's been feeling tight and sore, and I noticed this lump forming. It's not really tender, but it's firm to the touch, and it's definitely bigger than it was before."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a physical examination, specifically an abdominal examination, to get a better understanding of the nature of your abdominal pain. Can you please lie down on the examination table and I'll start by palpating your abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll lie down, please go ahead and examine me. Just be gentle, I'm not sure how my back will react to lying down."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'll start by palpating your abdomen, and then I'll check for any tenderness or masses. Can you please hold still and let me examine your abdomen from top to bottom? Also, I'd like to request a test: REQUEST TEST: Complete Blood Count (CBC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Abdominal Examination: - Inspection: Slight abdominal distension. - Auscultation: Normal bowel sounds. - Percussion: Dullness noted over the left lower quadrant. - Palpation: Splenomegaly detected, without rebound tenderness. Vital Signs: - Temperature: 36.8\u00b0C (98\u00b0F) - Blood Pressure: 135/80 mmHg - Heart Rate: 82 bpm - Respiratory Rate: 14 breaths/min Blood Work: - Complete Blood Count (CBC): - WBC: Elevated - Hemoglobin: Slightly Decreased - Platelets: Normal Neck Examination: - Inspection and Palpation: Nontender, enlarged, and fixed supraclavicular lymph node observed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your occupation and any recent travel or exposure to others that might have led to potential infections? Also, I'd like to request a test: REQUEST TEST: Chest X-Ray."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: - Temperature: 36.8\u00b0C (98\u00b0F) - Blood Pressure: 135/80 mmHg - Heart Rate: 82 bpm - Respiratory Rate: 14 breaths/min Blood Work: - Complete Blood Count (CBC): - WBC: Elevated - Hemoglobin: Slightly Decreased - Platelets: Normal Neck Examination: - Inspection and Palpation: Nontender, enlarged, and fixed supraclavicular lymph node observed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your occupation and any recent travel or exposure to others that might have led to potential infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work in construction, so I'm around heavy machinery and chemicals all day. We've had some new equipment installed recently, but I don't think that's related to my symptoms. I haven't traveled anywhere recently, just the usual weekend trips to visit family."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the nature of the fatigue you're experiencing? Is it more of a general feeling of exhaustion, or does it seem to be more related to specific activities, like heavy lifting or physical labor? And have you noticed any other symptoms, such as fever, chills, or joint pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just a feeling of being really tired all the time, like I've got a weight on my shoulders. I've noticed it's worse after physical labor, like when I'm working on a construction site, but it's not just that. Even just doing everyday tasks, like cleaning the house or taking care of my garden, leaves me feeling drained."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a test: REQUEST TEST: Erythrocyte Sedimentation Rate (ESR). Can you tell me more about your symptoms over the past few weeks? Have you noticed any changes in your appetite or urination habits? Also, I'd like to ask, have you experienced any recent stress or anxiety that might be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Erythrocyte Sedimentation Rate (ESR): 90 mm/hr (elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like your ESR is quite elevated, which can be indicative of an inflammatory process. Can you tell me more about your recent stress levels? Have you experienced any significant changes or events that might be contributing to your symptoms? And, I'd like to request a test: REQUEST TEST: Liver Function Tests (LFT)."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Erythrocyte Sedimentation Rate (ESR): 90 mm/hr (elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any recent changes in your diet or eating habits? Have you noticed any foods that seem to trigger or relieve your abdominal pain or fatigue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I've been eating the same foods I've always eaten, nothing out of the ordinary. I do have a bit of a sweet tooth, but I've been trying to cut back on sweets since I started feeling this way. I haven't noticed anything that seems to trigger or relieve my symptoms, but I have been eating a bit more spicy food lately, maybe that's something to consider?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your sleep patterns? Are you having trouble sleeping or waking up frequently during the night, and do you feel rested or refreshed upon waking? And, I'd like to request a test: REQUEST TEST: Ultrasound of the abdomen."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Sleep Patterns: - Duration of sleep: 7 hours (normal). - Quality of sleep: Poor (awakened multiple times during the night). - Restfulness upon waking: Lacking (reported feeling unrefreshed)."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're having some trouble sleeping and not feeling rested upon waking. Can you tell me more about your sleep environment and any potential factors that might be contributing to your poor sleep quality? And, regarding the ultrasound results, can you describe the appearance of the enlarged lymph node? Is it firm, soft, or does it have any distinct characteristics?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having trouble sleeping because I'm lying awake at night, thinking about my symptoms and worrying about what's going on. I've tried to establish a relaxing bedtime routine, but nothing seems to be working. I've also been having trouble relaxing during the day, I find myself getting anxious and feeling on edge a lot. The lymph node is firm to the touch, and it feels like it's been growing steadily over the past few days. It's not really sore or tender, but it's definitely larger than it was before. I've been trying to avoid touching it, to be honest, it's a bit unsettling."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're having a lot of trouble sleeping and worrying about your symptoms, which can definitely contribute to a cycle of anxiety and fatigue. Can you tell me more about what you think might be causing your anxiety and worry? Is it the unknown nature of your symptoms, or is there something specific that's on your mind? Also, I'd like to request a test: REQUEST TEST: Computed Tomography (CT) scan of the abdomen and chest."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Sleep Patterns: - Duration of sleep: 7 hours (normal). - Quality of sleep: Poor (awakened multiple times during the night). - Restfulness upon waking: Lacking (reported feeling unrefreshed)."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mental health and any recent stressors in your life? Have you experienced any significant changes or events that might be contributing to your anxiety and worry? Also, I'd like to review the ultrasound results again. The enlarged lymph node is firm to the touch, and it feels like it's been growing steadily over the past few days. This, combined with the elevated ESR and CBC results, suggests an inflammatory process. I'd like to request a test: REQUEST TEST: Bone Marrow Biopsy. Please also, can you tell me more about your medication history? Are you currently taking any medications that might be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Mental Health and Stressors - Patient reports feeling anxious and worried about their symptoms, but is unsure of specific causes. - Patient mentions recent stressors, but none significant enough to point directly to anxiety as a contributing factor. - Patient expresses concern about unknown nature of symptoms, but does not report any specific events or changes that might be contributing to anxiety. RESULTS: Ultrasound Results: - The enlarged lymph node is firm to the touch, and feels like it's been growing steadily over the past few days."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mental health and any recent stressors in your life? Have you experienced any significant changes or events that might be contributing to your anxiety and worry?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling really anxious about my symptoms, not knowing what's going on or if it's something serious. I've been worried about work, too, because I don't want to be out on the construction site if it's something contagious. I've also been thinking about my family, wondering if they're going to be okay if something happens to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your work on the construction site? Are you working with any other people who might be at risk of contracting something, and have you noticed any unusual behaviors or symptoms in your coworkers? Also, I'd like to review the bone marrow biopsy results, if they come back, to see if we can find any evidence of an underlying condition."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work on the construction site with a few guys, we're all pretty close, but I don't think any of us have been showing any symptoms like this. We do have a buddy system, so if someone's feeling unwell, we'll take it easy for the day or send them home if it's serious. I haven't noticed anything out of the ordinary with my coworkers, but I do think we've been working hard lately, maybe that's contributing to my fatigue."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you've been working hard on the construction site, and that's definitely taking a toll on your body. I'd like to ask a few more questions to help narrow down the possible causes of your symptoms. Can you tell me more about your job duties and whether you're exposed to any hazardous materials or substances on a regular basis? And, I'd like to request a test: REQUEST TEST: Occupational Health Questionnaire."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Occupational Health Questionnaire: - Physical exertion: High (long hours of physical labor on a construction site) - Exposure to hazardous materials: Possible (chemicals and heavy machinery) - Personal protective equipment: Used (likely) - Work environment: Crowded and noisy (construction site)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the type of chemicals you're exposed to on the construction site? Are they hazardous materials that require special handling or protective equipment? And, I'd like to request a test: REQUEST TEST: Thyroid Function Tests (TFT). Please let me know if you have any other medications that you're currently taking, including any over-the-counter supplements or vitamins."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Thyroid Function Tests (TFT): - TSH: 2.5 mU/L (normal range: 0.4-4.5 mU/L) - Free T4: 1.2 ng/dL (normal range: 0.9-1.7 ng/dL) - Free T3: 3.5 pg/mL (normal range: 2.5-4.5 pg/mL)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It looks like we've reached the end of our 20 questions. Based on the patient's symptoms, examination findings, and test results, I'm going to make a diagnosis. Can you please confirm that you've had the bone marrow biopsy results back?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm not aware of the bone marrow biopsy results, doctor. You mentioned reviewing them, but I don't think they've been back yet."
+  }
+]

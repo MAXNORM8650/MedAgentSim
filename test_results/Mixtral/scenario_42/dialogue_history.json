@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the duration of your symptoms - when did you first start experiencing fatigue, and have they been constant or have they come and gone?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been about three weeks now. To be honest, it started after I attended the state fair a little over a month ago. I had some pretty spicy foods and drinks, and since then, I've been feeling pretty off."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the severity of the abdominal pain - is it sharp, dull, or crampy, and does it radiate to any other areas of your body?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is more of a dull ache, and it seems to be centered around my stomach, but sometimes it radiates to my lower back. It's not unbearable, but it's definitely uncomfortable and makes me feel sluggish."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "How long would you say the fatigue has been a part of your daily life, has it been more pronounced at certain times of the day or after engaging in specific activities?\n\n\n\nDoctor: \nAlso, can you describe the abdominal pain more specifically, does it tend to be constant or does it come and go, and is there any pattern to when it occurs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been more of a constant presence in my life, to be honest. I just feel tired all the time, even after I've gotten plenty of rest. Sometimes it's worse in the mornings, and I've noticed it's a bit worse when I've eaten certain foods, but overall, it's just been a persistent feeling of exhaustion."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about any recent changes in your appetite, have you noticed any weight loss or gain, and do you experience any digestive issues like diarrhea or constipation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, my appetite hasn't really changed, but I have noticed that I've been drinking a bit more water than usual, thinking it might help with the dark color of my urine.\n\nDoctor: I see. And have you noticed any changes in your urine output or frequency?\n\nI do seem to have been going to the bathroom a bit more often, but I'm not sure if that's just because I'm drinking more water or if there's something else going on."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent infections or illnesses, and have you recently traveled or been exposed to anyone with a contagious disease?\n\n\n\nAlso, would you be willing to take off your clothes and lie down on the examination table so I can perform a physical examination?\n\n\n\nCan you tell me more about your daily activities and routine - do you have any strenuous jobs or hobbies that may be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work as a nursing assistant in a rehabilitation facility, which can be pretty physically demanding, but I don't think it's the main cause of my fatigue. I do have a pretty regular routine, though - I wake up around 6 am, have breakfast, and then start my shift."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's get started with the physical examination then. I'll begin by taking your pulse and blood pressure. \n\nCan you please place your left arm on the table and roll up your sleeve so I can take your blood pressure?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll just roll up my sleeve for you."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's get started with the physical examination. Now that we have your blood pressure, I'd like to check your heart rate and listen to your lungs for any unusual sounds. Can you please take a deep breath in and out slowly for me, and I'll listen to your lungs with the stethoscope?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll try to take deep breaths for you. *takes deep breaths slowly* My heart rate is normal, I think, and I don't hear anything unusual when I breathe."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's review what we've established so far. You've been experiencing fatigue for about two weeks, and it's been constant. The abdominal pain is a dull ache that comes and goes, and it's usually located in the lower abdomen. \n\nYou mentioned that the fatigue is more pronounced after engaging in physical activities, and it's also worse at night. You've noticed some changes in your appetite, but you're not sure if it's related to your symptoms. \n\nYou've also been experiencing some nausea, but it's not severe. You don't have any recent infections or illnesses, and you haven't traveled recently. You're willing to undergo a physical examination.\n\nPlease place your right arm on the table and roll up your sleeve so I can take your pulse. \n\nAlso, REQUEST TEST: Complete Blood Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.9\u00b0C (100.0\u00b0F)\n  - Blood Pressure: 120/80 mm Hg\n  - Heart Rate: 85/min\n  - Respiratory Rate: Normal\nGeneral Examination: \n  - Appearance: Appears tired\n  - Jaundice: Mild scleral icterus observed\nAbdominal Examination: \n  - Inspection: No visible abnormalities\n  - Auscultation: Normal bowel sounds\n  - Percussion: No abnormalities detected\n  - Palpation: Liver palpated 2\u20133 cm below the right costal margin, tender on palpation\ntests: \n  - Blood Tests: \n    - Hemoglobin: 10.6 g/dL\n    - Leukocyte_Count: 11,600/mm3\n    - Platelet_Count: 221,000/mm3\n    - Urea_Nitrogen: 26 mg/dL\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Complete Blood Count, thank you for that. Now, can you tell me more about your daily routine, including any regular activities or jobs that you have?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.9\u00b0C (100.0\u00b0F)\n  - Blood Pressure: 120/80 mm Hg\n  - Heart Rate: 85/min\n  - Respiratory Rate: Normal\nGeneral Examination: \n  - Appearance: Appears tired\n  - Jaundice: Mild scleral icterus observed\nAbdominal Examination: \n  - Inspection: No visible abnormalities\n  - Auscultation: Normal bowel sounds\n  - Percussion: No abnormalities detected\n  - Palpation: Liver palpated 2\u20133 cm below the right costal margin, tender on palpation\ntests: \n  - Blood Tests: \n    - Hemoglobin: 10.6 g/dL\n    - Leukocyte_Count: 11,600/mm3\n    - Platelet_Count: 221,000/mm3\n    - Urea_Nitrogen: 26 mg/dL"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken your pulse, which is a bit higher than normal, and your blood pressure is slightly elevated. Your heart rate is normal, and I've listened to your lungs and heard nothing out of the ordinary.\n\nCan you tell me more about your daily activities and routine, especially the ones that involve physical exertion or stress?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work as a nursing assistant in a rehabilitation facility, which can be pretty physically demanding, but I don't think it's the main cause of my fatigue. I do have a pretty regular routine, though - I wake up around 6 am, have breakfast, and then start my shift."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of your pulse being a bit higher than normal and your blood pressure slightly elevated. I'd like to check your liver and spleen area for any tenderness. Can you please press your fingers against your abdomen just below your ribcage, and I'll check for any areas of tenderness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling pretty sluggish, to be honest. It's like I'm running on empty, and no matter how much rest I get, I just can't seem to shake it off."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed the test results, and the Complete Blood Count shows a slightly elevated white blood cell count, which could indicate an infection or inflammation. I'd like to ask a few more questions to narrow down the possible causes. Can you tell me more about your job or activities that involve physical exertion or stress? \n\nAlso, I'd like to check your liver and spleen area again, but this time I'll press on it gently. \n\nCan you please place your left hand on the examination table and I'll gently press on your liver and spleen area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my job as a nursing assistant does involve some physical exertion, but it's not excessively demanding. I'm on my feet for most of the day, but I try to take breaks to rest when I can. I do have a pretty regular schedule, though, so I wouldn't say it's drastically different from one day to the next."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your job or activities that involve physical exertion or stress? \n\nAnd can you please confirm that the slightly elevated white blood cell count is the only abnormality in the test results so far?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think it's just because I'm not used to being on my feet for long periods of time. I do have to lift patients and equipment, but I try to pace myself. I've been doing this job for a while now, so I'm not sure if it's changed much."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's review your responses so far. You mentioned that your daily activities haven't changed much, but you do have a desk job. Is that correct?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, actually, I work as a nursing assistant in a rehabilitation facility, which can be pretty physically demanding. I'm on my feet for most of the day, so I'd say it's not a desk job."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your job, specifically what type of work you do at your desk and if you have any repetitive tasks that may be contributing to your fatigue?\n\n\n\nAlso, I'd like to review the test results again - in addition to the slightly elevated white blood cell count, what else did the Complete Blood Count show?\n\n\n\nPlease place your right hand on the examination table and I'll gently press on your liver and spleen area again, and also I'd like to check your abdomen for any areas of tenderness or guarding."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work with patients who are recovering from various conditions, and my main tasks include taking vital signs, administering medications, and assisting with physical therapy exercises. I do have to stand for long periods of time and be on my feet a lot, which might be contributing to my fatigue."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the test results again, and according to the Complete Blood Count, the slightly elevated white blood cell count is the only abnormality so far. \n\nREQUEST TEST: Urine Analysis\n\n\nAlso, I'd like to check for any areas of tenderness or guarding in your abdomen, as you've been experiencing some abdominal pain. Can you please press your fingers against your abdomen just below your ribcage again, and I'll check for any areas of tenderness?\n\n\n\nLet me know if you experience any discomfort when I press on your liver and spleen area."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.8\u00b0C (100.0\u00b0F)\n  - Blood Pressure: 120/80 mm Hg\n  - Heart Rate: 86/min\n  - Respiratory Rate: Normal\nGeneral Examination: \n  - Appearance: Appears tired\n  - Jaundice: Mild scleral icterus observed\nAbdominal Examination: \n  - Inspection: No visible abnormalities\n  - Auscultation: Normal bowel sounds\n  - Percussion: No abnormalities detected\n  - Palpation: Liver palpated 2\u20133 cm below the right costal margin, tender on palpation\ntests: \n  - Blood Tests: \n    - Hemoglobin: 10.6 g/dL\n    - Leukocyte_Count: 11,600/mm3\n    - Platelet_Count: 221,000/mm3\n    - Urea_Nitrogen: 26 mg/dL\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your job, specifically what type of work you do at your desk and if you have any repetitive tasks that may be contributing to your fatigue?\n\n\n\nAlso, when you press on your liver and spleen area, do you experience any discomfort or tenderness?\n\n\n\nAnd, I'd like to review the test results again, can you confirm that you're aware of what the slightly elevated white blood cell count means and what it could be indicating?\n\n\n\nNow that we've reviewed the test results, I'd like to check your liver and spleen area again, this time I'll also perform a gentle palpation to check for any abnormalities.\n\n\n\nREQUEST TEST: Liver Function Tests"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: 37.8\u00b0C (100.0\u00b0F)\n  - Blood Pressure: 120/80 mm Hg\n  - Heart Rate: 86/min\n  - Respiratory Rate: Normal\n\nGeneral Examination: \n  - Appearance: Appears tired\n  - Jaundice: Mild scleral icterus observed\n\nAbdominal Examination: \n  - Inspection: No visible abnormalities\n  - Auscultation: Normal bowel sounds\n  - Percussion: No abnormalities detected\n  - Palpation: Liver palpated 2\u20133 cm below the right costal margin, tender on palpation\n\ntests: \n  - Blood Tests: \n    - Hemoglobin: 10.6 g/dL\n    - Leukocyte_Count: 11,600/mm3\n    - Platelet_Count: 221,000/mm3\n    - Urea_Nitrogen: 26 mg/dL\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to check your liver function tests to see if there's any indication of liver damage or disease. Can you please confirm that you're aware of what a slightly elevated white blood cell count means and what it could be indicating?\n\n\n\nAlso, I'd like to ask, have you noticed any other symptoms such as headache, dizziness, or muscle aches?\n\n\n\nLet's review the test results again, and according to the Complete Blood Count, the slightly elevated white blood cell count is the only abnormality so far."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've reviewed the test results and I'm aware that the slightly elevated white blood cell count could indicate an infection or inflammation. As for other symptoms, I have noticed some muscle aches, especially after standing for long periods of time, but they're not too severe.\n\nCan you tell me more about what you'd like to check next?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to review the test results again, and according to the Complete Blood Count, the slightly elevated white blood cell count is the only abnormality so far. Can you tell me more about your job, specifically what type of work you do at your desk and if you have any repetitive tasks that may be contributing to your fatigue?\n\n\n\nAlso, regarding the liver function tests, I'd like to check for any areas of tenderness or guarding in your abdomen again. Can you please press your fingers against your abdomen just below your ribcage, and I'll check for any areas of tenderness?\n\n\n\nAnd, I'd like to ask, have you noticed any other symptoms such as headache, dizziness, or muscle aches?\n\n\n\nCan you tell me more about your job, specifically what type of work you do at your desk and if you have any repetitive tasks that may be contributing to your fatigue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I work as a nursing assistant in a rehabilitation facility, which can be pretty physically demanding. I'm on my feet for most of the day, so I'd say it's not a desk job. I do have to stand for long periods of time and be on my feet a lot, which might be contributing to my fatigue.\n\nAs for repetitive tasks, I do have to take vital signs multiple times a day, and I'm also responsible for assisting patients with physical therapy exercises. It can be tiring, especially when I have to stand for long periods.\n\nI've noticed that the muscle aches I mentioned earlier tend to worsen after I've been standing for a while, but they're not too severe. I've also noticed that the fatigue feels like it's in my entire body, not just my legs."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to perform a final examination to ensure I've covered all aspects of your condition. Can you please stand up and take a few steps for me, and I'll observe your gait and balance?\n\n\n\nCan you please confirm that the slightly elevated white blood cell count is the only abnormality in the test results so far?\n\n\n\nI'd also like to review your medical history to see if there's any previous condition or treatment that could be related to your current symptoms.\n\n\n\nLet me just review everything one more time before making a diagnosis.\n\n\n\nAfter careful consideration of all the information you've provided, I've made a diagnosis.\n\n\n\nDIAGNOSIS READY: Chronic Fatigue Syndrome with possible Hepatitis C infection"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Active chronic hepatitis B infection",
+    "DIAGNOSIS_READY_Simulation": "Scene 42, The diagnosis was INCORRECT (4.65%)"
+  }
+]

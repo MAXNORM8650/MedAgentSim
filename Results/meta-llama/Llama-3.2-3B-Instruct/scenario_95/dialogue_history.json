@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first started experiencing these new movements? Were they sudden or did they gradually develop?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It kinda started a few weeks after I started classes, I think it was during a particularly stressful exam. I just couldn't sit still, and I found myself pacing back and forth in the library."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the movements to me - are they involuntary, such as twitching or jerking, or do they feel more like purposeful actions, like you're trying to do something?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "They're more like... my legs just wouldn't stop moving. I'd cross and uncross them a hundred times, or pace back and forth in my seat. It felt like my body had a mind of its own."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first started experiencing these new movements? Were they accompanied by any other symptoms, such as changes in your mood, sleep patterns, or cognitive function?\n\n\n\nPlease respond with the patient's answers."
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, it was pretty hard to pinpoint exactly when it started, but I think it was around that exam period. It was stressful, and I was already feeling pretty anxious."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did these movements start, exactly - was it after a specific incident or event, or did they seem to just start without warning?\n\n\n\nPlease respond with the patient's answer."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it was more like a gradual build-up, to be honest. It wasn't like I just woke up one morning and started pacing. It was more like my body started getting this... restless feeling, and my legs just started moving on their own."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, it seems like the movements started about six weeks ago, and at first, they were quite subtle, almost like minor twitches. They seemed to be triggered by stress or anxiety, but then they gradually increased in frequency and intensity over time."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just that it felt like a lot was going on inside me, and my body was reacting to it. I couldn't explain why my legs were moving like that, but it just felt like I was losing control."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your stress or anxiety triggers? Are they specific situations or events that set them off, or do you find that you're more anxious in general?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly just the pressure to perform well in exams and assignments. I get really worried that I'll fall behind or not meet my parents' expectations. I also get anxious about social situations, like parties or gatherings with friends.\n\nDoctor: I see. And do these stressors tend to trigger the movements, or do they seem to be more of a constant companion?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your movements further. Please, lift your arm for me and show me the affected area."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'll just lift my arm for you. *lifts arm* See? Like this. *moves arm in a small, fidgety motion*\n\nDoctor: Okay, thank you. Now, can you show me what you mean by \"crossing and uncrossing your legs\"? *points to patient's legs*\n\n*patient crosses and uncrosses legs rapidly, demonstrating the movement*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's take a closer look at your arm. Can you tell me more about the movements you're experiencing? Are they limited to your arm, or have you noticed them in other parts of your body as well?\n\n\n\nAlso, I'd like to ask, do you find that the movements are more pronounced at rest, or do they seem to get worse when you're engaging in physical activity or under stress?\n\n\n\n REQUEST TEST: EMG"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: The EMG test reveals abnormal motor unit activity in the muscles of the patient's legs, indicating a possible diagnosis of restless legs syndrome (RLS)."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the movements you're experiencing now, and have you noticed any patterns or consistencies in their timing or severity?\n\n\n\nAlso, I'd like to take a closer look at your hand. Can you flex and extend your fingers for me, and I'll observe how they move?\n\n\n\n REQUEST TEST: MRI"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Temperature: 37.1\u00b0C (98.9\u00b0F), Blood Pressure: 125/85 mmHg, Heart Rate: 80 bpm, Respiratory Rate: 16 breaths/min; Neurological Examination: Mental Status: Alert and oriented; Cranial Nerves: Intact; Motor: Normal tone and strength in all extremities; Sensory: Intact; Coordination: Normal; Gait: Normal, with slight increased fidgeting; EMG Results: Abnormal motor unit activity in the muscles of the patient's legs, indicating a possible diagnosis of restless legs syndrome (RLS); MRI Results: Normal findings."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The EMG results show some abnormal electrical activity in your muscles, which could be indicative of a neuromuscular disorder. I'd like to discuss this further with you. Can you tell me more about the types of movements you experience? Are they primarily in your arm, or have you noticed them in other parts of your body, such as your legs or face?\n\n\n\nPlease respond with the patient's answers."
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, it's mostly my legs and arms that get restless. Sometimes I'll fidget with my hands, too, but it's mostly my legs that seem to be affected. I'll cross and uncross them, or tap my feet back and forth. It's hard to explain, but it feels like my body is trying to release tension or something.\n\nAnd it's not just the legs, I've noticed it in my face too. I'll find myself tapping my fingers on my thighs or fidgeting with my hair. It's like my body is constantly on edge, even when I'm not feeling anxious or stressed.\n\nI've also noticed that sometimes my movements can be a bit more... exaggerated, I guess. Like, I'll be sitting still for a bit and then suddenly my legs will start moving a million miles an hour. It's like my body has a mind of its own."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the types of movements you experience? Are they primarily in your arm, or have you noticed them in other parts of your body, such as your legs or face?\n\n\n\nPlease describe the sensations you experience during these movements - do you feel any numbness, tingling, or pain, or is it more of a general feeling of stiffness or discomfort?\n\n\n\nAlso, have you experienced any changes in your mood or emotional state since the onset of these movements, such as feelings of anxiety, depression, or irritability?\n\n\n\n REQUEST TEST: Blood Work"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Vital Signs: Temperature: 37.2\u00b0C (98.9\u00b0F), Blood Pressure: 122/82 mmHg, Heart Rate: 78 bpm, Respiratory Rate: 16 breaths/min; Neurological Examination: Mental Status: Alert and oriented; Cranial Nerves: Intact; Motor: Normal tone and strength in all extremities; Sensory: Intact; Coordination: Normal; Gait: Normal, with slight increased fidgeting; EMG Results: Abnormal motor unit activity in the muscles of the patient's legs, indicating a possible diagnosis of restless legs syndrome (RLS); MRI Results: Normal findings; Blood Work: Complete Blood Count: WBC: 4,500 /\u03bcL, Hemoglobin: 13.5 g/dL, Platelets: 220,000 /\u03bcL; Liver Function Tests: AST: 24 U/L, ALT: 20 U/L, Bilirubin: 1."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensations you experience during these movements - do you feel any numbness, tingling, or pain, or is it more of a general feeling of stiffness or discomfort?\n\n\n\nPlease respond with the patient's answers."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly a feeling of stiffness, to be honest. Like my muscles are just tight and ready to move. Occasionally, I might feel a bit of discomfort or tension, but it's not really painful. It's more like... my body is just constantly on edge, waiting to spring into action."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to ask, have you experienced any significant changes in your sleep patterns or appetite since the onset of these movements?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have been having trouble sleeping a bit, especially at night. I find myself getting up to pace around my room or fidget with my legs, which makes it hard to fall asleep or stay asleep. And I've also noticed that I've been eating more than usual, especially late at night. I just can't seem to stop thinking about my schoolwork or worrying about the future.\n\nDoctor: I see. And do these changes in your sleep patterns and appetite seem to be related to the movements themselves, or do you think they might be caused by something else?\n\nI'm not really sure, to be honest. It feels like the movements are connected to my anxiety and stress, but I also feel like I'm losing control over my body, which is affecting my sleep and appetite."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like the EMG results showed some abnormal electrical activity, which could be indicative of a neuromuscular disorder. Can you tell me more about the types of movements you experience? Are they primarily in your arm, or have you noticed them in other parts of your body, such as your legs or face?\n\n\n\nPlease respond with the patient's answers."
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I've noticed it in all parts of my body, but like I said, it's mostly my legs and arms that seem to be affected. My hands get restless too, especially when I'm trying to focus on something or trying to relax. It's like my body is constantly on edge, and I'm trying to calm it down.\n\nI've also noticed that sometimes my movements can be a bit more... exaggerated, I guess. Like, I'll be sitting still for a bit and then suddenly my legs will start moving a million miles an hour. It's like my body has a mind of its own.\n\nDoctor: Okay, thank you. I'd like to ask, have you experienced any significant changes in your energy levels or motivation since the onset of these movements?\n\nPatient: Yeah, I'd say my energy levels have decreased a bit. I used to be really active and outgoing, but now I find myself getting really tired easily, even after just a short walk."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, you mentioned the EMG results showed some abnormal electrical activity in your muscles. Can you tell me more about your mental state over the past six weeks? Have you experienced any changes in your mood or emotional state, such as feelings of anxiety, depression, or irritability?\n\n\n\nPlease respond with the patient's answer."
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's been a bit of a rollercoaster, to be honest. I've been feeling really anxious and stressed a lot, especially when I'm trying to focus or make decisions. I feel like I'm constantly on edge, waiting for something to happen. It's hard to explain, but it feels like my emotions are in a constant state of flux.\n\nI've also noticed that I've been having trouble relaxing, even when I'm trying to unwind. I'll be watching TV or listening to music, and my mind will start racing with worries or thoughts. It's like my brain is constantly spinning, and I just can't seem to calm down.\n\nI'd say my mood has been pretty uneven, to be honest. Some days I'm fine, and others I'm feeling really overwhelmed and anxious. It's like my emotions are all over the place, and I don't know how to control them."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mental state over the past six weeks? Have you experienced any changes in your mood or emotional state, such as feelings of anxiety, depression, or irritability?\n\n\n\nPatient: Honestly, I've been feeling a bit anxious and on edge since the movements started. I've also been experiencing some changes in my sleep patterns, and I've been having trouble concentrating at work.\n\n\n\nPlease proceed with the examination. Can you show me your face and ask me to flex and extend my fingers for you, and I'll observe how they move?\n\n\n\n REQUEST TEST: Blood Work"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital Signs: Temperature: 37.2\u00b0C (98.9\u00b0F), Blood Pressure: 122/82 mmHg, Heart Rate: 78 bpm, Respiratory Rate: 16 breaths/min; Neurological Examination: Mental Status: Alert and oriented; Cranial Nerves: Intact; Motor: Normal tone and strength in all extremities; Sensory: Intact; Coordination: Normal; Gait: Normal, with slight increased fidgeting; EMG Results: Abnormal motor unit activity in the muscles of the patient's legs, indicating a possible diagnosis of restless legs syndrome (RLS); MRI Results: Normal findings; Blood Work: Complete Blood Count: WBC: 4,500 /\u03bcL, Hemoglobin: 13.5 g/dL, Platelets: 220,000 /\u03bcL; Liver Function Tests: AST: 24 U/L, ALT: 20 U/L, Bilirubin: 1"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your anxiety and how it's affecting your daily life? Are there any specific situations or triggers that make you feel more anxious?\n\n\n\nAlso, let's take a closer look at your face. Can you smile for me and show me the movement of your facial muscles?\n\n\n\nCan you tell me more about your concentration and work? Are you finding it difficult to focus or complete tasks, or are there other areas where you're struggling?\n\n\n\nPlease respond with the patient's answers."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my anxiety is pretty all-consuming, to be honest. It's hard to explain, but it feels like I'm constantly on edge, waiting for something to happen. I find myself getting really worked up over small things, and it's hard to calm down.\n\nI'd say the movements make it even harder for me to focus. Sometimes I'll be trying to concentrate on a task, and my legs will start moving around, making it hard for me to stay still. It's like my brain is constantly fighting with my body.\n\nDoctor: Okay, thank you. Now, let's take a closer look at your face. Can you smile for me and show me the movement of your facial muscles?\n\n\n\n*patient smiles and moves facial muscles to demonstrate the movement*\n\nDoctor: Okay, thank you. Now, let's talk about your concentration and work. Are you finding it difficult to focus or complete tasks, or are there other areas where you're struggling?\n\n\n\n*patient nods and tries to"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So you've been experiencing anxiety and difficulty concentrating at work. Can you tell me more about your anxiety triggers - are there specific situations or events that set you off, or do you find that you're more anxious in general?\n\n\n\nAlso, let's take a closer look at your facial muscles. Can you frown for me and show me the movement of your facial muscles?\n\n\n\nCan you tell me more about your sleep patterns - are you having trouble falling asleep, staying asleep, or experiencing excessive daytime sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say I'm more anxious in general, to be honest. It's hard to explain, but it feels like I'm constantly on edge, waiting for something to happen. It's not just specific situations or events that trigger it, but more of a general feeling of unease.\n\n*patient frowns and moves facial muscles to demonstrate the movement*\n\nAs for my sleep patterns, I've been having trouble falling asleep and staying asleep. I find myself getting up to pace around my room or fidget with my legs, which makes it hard to relax. I also wake up a lot during the night, and I feel really anxious when I'm lying in bed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request more information about your sleep patterns. Can you tell me more about your typical sleep schedule - are you usually able to fall asleep quickly, or do you have trouble falling asleep, and do you tend to wake up during the night or in the morning?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say I usually try to go to bed around 10 or 11 pm, but I often find myself lying awake for a few hours before I can finally drift off to sleep. And when I do fall asleep, I usually wake up around 2 or 3 am, feeling really anxious and restless. It's hard to explain, but it feels like my body is just wired to be on high alert, even when I'm trying to sleep."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like you've been experiencing some significant changes in your mental state and physical movements. I'd like to summarize what I've gathered so far.\n\nCan you tell me more about the emotional state you're experiencing right now? Are you feeling anxious, calm, or a mix of both?\n\nPlease respond with your answers."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Akathisia",
+    "DIAGNOSIS_READY_Simulation": "Scene 95, The diagnosis was INCORRECT (2.08%)"
+  }
+]

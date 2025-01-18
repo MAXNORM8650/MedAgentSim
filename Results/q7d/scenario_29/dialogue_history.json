@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first noticed the wrist pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started about 3 days ago, and at first, I thought it was just a minor sprain from the camping trip, but it's been getting worse and now it's really painful, especially when I move my wrist or apply pressure.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Did the wrist pain start suddenly or did it develop gradually?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started to worsen over the past 2 days, and it's gotten to the point where I can barely move my wrist without feeling a sharp pain. It's not just the movement, even just being still is uncomfortable.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Was the wrist pain accompanied by any swelling or redness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yeah, I've noticed some swelling and redness on the wrist, and it's pretty noticeable. It's like there's some inflammation going on there, and it's making the pain even worse.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the fever been constant or does it come and go?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's been on and off, to be honest, I had a bit of a fever this morning when it first started, but it's not constant, it's more of a fluctuating temperature, and it's not as high as it was this morning.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any rash or skin changes around the wrist? REQUEST TEST: Complete blood count (CBC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Lesions_Observation on the Skin_Examination is present, with painless violaceous vesiculopustular lesions noted on the dorsum of both wrists and hands; two lesions on the left palm."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is the rash itchy or painful? And has the fever been accompanied by chills?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's actually quite painful, to be honest. And yeah, the fever has been accompanied by chills, especially when I wake up in the morning. It feels like my body's trying to fight something, but I'm not sure what.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The wrist pain started suddenly and yes, there's noticeable swelling and redness. The fever has been constant, and I've noticed a rash around the wrist that's not itchy but feels warm to touch. REQUEST TEST: Complete blood count (CBC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Vital Signs: \n  - Temperature: 37.8\u00b0C (100.0\u00b0F)\n  - Blood Pressure: 122/82 mmHg\n  - Heart Rate: 90 bpm\n  - Respiratory Rate: 16 breaths/min\n- Skin Examination: Lesions Observation: Painless violaceous vesiculopustular lesions noted on the dorsum of both wrists and hands; two lesions on the left palm.\n- Musculoskeletal Examination:"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Thank you for the additional details. Has the rash spread to other parts of your body? DIAGNOSIS READY: Infectious arthritis with possible rheumatoid reaction."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Disseminated Gonococcal Infection",
+    "DIAGNOSIS_READY_Simulation": "Scene 29, The diagnosis was INCORRECT (0%)"
+  }
+]

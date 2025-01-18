@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me how far along you are in your pregnancy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm 38 weeks along in my pregnancy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any contractions or changes in fetal movement?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I felt some contractions before the bleeding started, but they stopped once the bleeding began. I\u2019m not sure about the baby's movement since the symptoms started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed the color or amount of the vaginal bleeding? Is it bright red, dark, or more like spotting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The bleeding is bright red and seems to be more than just spotting. It's been consistent for the past hour."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any dizziness, lightheadedness, or fainting spells since the bleeding started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt dizzy or lightheaded, but I do feel a bit anxious because of the pain and bleeding."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous complications during this pregnancy, such as high blood pressure, gestational diabetes, or any history of miscarriage?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any complications during this pregnancy. My blood pressure has been normal, and I haven't experienced gestational diabetes or any miscarriages."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any abdominal pain? If so, can you describe the location and intensity of the pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I have severe abdominal pain. It's mostly located in the lower abdomen, and the intensity feels like a strong cramping sensation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your urinary habits, such as pain during urination or increased frequency?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any pain during urination or noticed any changes in frequency. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent trauma or falls that could have contributed to the bleeding or pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent trauma or falls. I\u2019ve been careful and haven\u2019t experienced anything unusual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any signs of labor, such as increased pressure in your pelvis or lower back pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any increased pressure in my pelvis, but I do have some discomfort in my lower abdomen. The abdominal pain feels more intense than any back pain I've experienced."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fever, chills, or unusual discharge from the vagina?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any fever or chills, and there hasn't been any unusual discharge from the vagina. The bleeding is the main concern right now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any prenatal visits recently, and if so, were there any concerns noted by your healthcare provider?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I had my last prenatal visit about a week ago, and everything seemed normal at that time. No concerns were noted by my healthcare provider."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any previous episodes of bleeding during this pregnancy, or is this the first time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "This is the first time I've experienced bleeding during this pregnancy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the baby's movements prior to the bleeding, or has the baby been active throughout your pregnancy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I felt the baby move before the bleeding started, but since then, I'm not sure if there\u2019s been any movement. It's been hard to focus on that with the pain and bleeding."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any ultrasound examinations during this pregnancy, and if so, were there any abnormalities noted?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I had a couple of ultrasounds during my pregnancy, and everything appeared normal. No abnormalities were noted at those times."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any significant stress or emotional distress recently that could be affecting your physical health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any significant stress or emotional distress recently. I've been feeling pretty stable overall, just focused on preparing for the baby."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my appetite or weight recently. I've been eating normally and trying to stay healthy for the baby."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, and if so, were there any abnormalities in your hemoglobin or platelet levels?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done, so I'm not sure about my hemoglobin or platelet levels. My last tests were a while ago, and everything was normal then."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any abdominal swelling or tenderness upon palpation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling, but the area is definitely tender when I touch it. The pain feels quite intense."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your vision, such as blurriness or seeing spots?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any changes in my vision, like blurriness or seeing spots. My focus has mostly been on the pain and bleeding."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms of bright red vaginal bleeding, severe abdominal pain, and the fact that you're 38 weeks pregnant, I need to consider the possibility of placental abruption or placenta previa. I would like to perform an ultrasound to assess the placenta's position and check for any signs of abruption. REQUEST TEST: Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Ultrasound findings suggestive of a disruption in the uterine wall continuity adjacent to the scar from the previous cesarean section, with associated hemoperitoneum."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm really worried about what's happening. The pain and bleeding are so intense, and I just want to make sure my baby is okay. What should I expect next?"
+  }
+]

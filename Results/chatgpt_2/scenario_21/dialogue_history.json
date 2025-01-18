@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other joints have you experienced pain or swelling in, and how long have these symptoms been present?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had pain and swelling in my left ankle about a week ago, but that has gone away. Right now, my knee is really painful and swollen, and it's been like this for the past 12 days."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any redness or warmth around the swollen knee, and do you have any fever or chills?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, there is some redness and warmth around my knee, but I haven't had any fever or chills. It just feels really uncomfortable and painful."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent injuries or trauma to your knee or ankle, and do you have any history of gout or kidney issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent injuries or trauma to my knee or ankle. I don't have a history of gout or kidney issues either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, particularly in the urinary tract, or any changes in your urination habits?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having pain during urination for the past 3 weeks, but I haven't noticed any changes in how often I go. It just hurts when I do."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint stiffness, particularly in the morning, and do you have any family history of autoimmune diseases or arthritis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really noticed any joint stiffness, especially in the morning. My mom has rheumatoid arthritis, though, so there is some family history of autoimmune diseases."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel or exposure to any illnesses, and are you currently taking any medications or supplements?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled recently or been exposed to any illnesses that I know of. I'm not currently taking any medications or supplements either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any skin rashes, lesions, or changes in your skin color, particularly around the joints?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any skin rashes or lesions around my joints, and the color of my skin seems normal. It's mostly just the pain and swelling that are concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests, and if so, what were the results, particularly regarding uric acid levels or inflammatory markers?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done, so I don't know about my uric acid levels or inflammatory markers. I haven't been to the doctor for that yet."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any other symptoms such as fatigue, weight loss, or changes in appetite?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any fatigue or weight loss, and my appetite has been pretty normal. It's mostly just the pain and swelling that's bothering me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your diet or fluid intake recently, and do you consume a lot of alcohol or high-purine foods?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my diet or fluid intake recently. I don't drink alcohol, and I try to eat a balanced diet, but I might have had some high-purine foods occasionally."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever experienced similar episodes of joint pain and swelling in the past, and if so, how were they treated?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had similar episodes of joint pain and swelling before. This is the first time I've experienced anything like this, so I haven't had any treatments for it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling or pain in any other areas of your body, such as your hands or feet, and do you have any history of allergies or autoimmune conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling or pain in my hands or feet. I don't have any history of allergies or autoimmune conditions besides my mom's rheumatoid arthritis."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent dental work or procedures, and have you experienced any symptoms like mouth sores or unusual fatigue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent dental work or procedures, and I don't have any mouth sores or unusual fatigue. It's mostly just the pain in my knee and the discomfort when I urinate that I'm worried about."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your urine, such as color or odor, and do you have any history of sexually transmitted infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in the color or odor of my urine. I don't have any known history of sexually transmitted infections, but I have been sexually active with multiple partners and used condoms inconsistently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint pain or swelling in your hands or feet recently, and do you have any history of sexually transmitted infections or recent exposure to someone with an infection?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any joint pain or swelling in my hands or feet recently. As for sexually transmitted infections, I don't have any known history, but I have been sexually active with multiple partners and used condoms inconsistently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any unusual discharge from your urethra or any sores in the genital area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any unusual discharge from my urethra, and I don't have any sores in the genital area. It's mostly just the pain during urination that's concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your sexual health, such as new partners or symptoms in your partner?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've been sexually active with two female partners recently, but I haven't noticed any symptoms in them. I just know that I've been having pain during urination for the past few weeks."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and recent sexual activity, I would like to rule out any potential sexually transmitted infections. Would you be willing to undergo some tests for that? REQUEST TEST: Urinalysis and STI panel."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Urinalysis: - Protein: Negative - Blood: Negative - WBC: 12\u201316/hpf - RBC: 1\u20132/hpf STI Panel: NORMAL READINGS."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It appears that your urinalysis shows a slight elevation in white blood cells, which may indicate some inflammation or infection, but your STI panel came back normal. Have you experienced any recent joint injuries or changes in physical activity that could have contributed to your knee pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent joint injuries or changes in my physical activity. I've been pretty much doing my usual routine, so I don't think that's the cause of my knee pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms of joint pain, swelling, and the urinary discomfort, along with the slight elevation in white blood cells, it seems you may be experiencing reactive arthritis, possibly triggered by a recent infection. DIAGNOSIS READY: Reactive Arthritis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Reactive Arthritis",
+    "DIAGNOSIS_READY_Simulation": "Scene 21, The diagnosis was CORRECT, 27%"
+  }
+]

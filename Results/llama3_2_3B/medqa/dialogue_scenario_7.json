@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me a little bit about your pregnancy and the delivery of your baby, including any complications you experienced?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I was born after a normal delivery, everything seemed fine during the pregnancy, but my mom didn't get to see a doctor until after I was born."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about what your mom said about the delivery, did she mention anything unusual or out of the ordinary, like any bleeding, breathing difficulties, or other concerns?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Well, my mom said she didn't notice anything out of the ordinary during delivery, but she did mention that I was a bit bigger than expected, and the doctor seemed a bit surprised when I was born, but she didn't think much of it at the time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about what your mom said about your birth weight, was it significantly above or below the average for a newborn?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My mom said I weighed about 3000 grams, and she didn't think it was that big of a deal at the time, but the doctor seemed a bit taken aback by it, and I think they mentioned something about me being at the higher end of the scale."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your birth weight, did the doctor mention anything specific about it, such as whether it was a multiple birth or if there were any concerns about your growth or development?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The doctor mentioned something about me being a bit \"underweight\" for my gestational age, but they didn't seem too concerned about it at the time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So it seems like your mom mentioned that the doctor mentioned you were underweight for your gestational age, but they didn't seem too concerned about it at the time. Can you tell me more about what you've noticed about your growth or development since birth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm just a little fussy when I cry, I don't cry as much as other babies seem to. And sometimes I don't seem to be as interested in the sounds and voices around me as other babies are."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about what you mean by \"fussy\" when you cry? Does it seem like you're more irritable or uncomfortable when you're crying, or is it more like you're just not interested in responding to the stimuli around you? Also, REQUEST TEST: Blood_Sugar"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Vital_Signs: Temperature: 37.0\u00b0C (98.6\u00b0F) Heart_Rate: 140 bpm Respiratory_Rate: 40 breaths/min Cardiac_Examination: Murmur: Continuous'machinery' murmur present Skin_Examination: Macules: Several bluish macules that do not blanch upon application of pressure Ophthalmic_Examination: Slit_Lamp: Cloudy lenses in both eyes Audiological_Examination: Screening: Failed auditory screening tests tests: TORCH_Screen: Rubella_IgM: Positive Others: Negative Echocardiogram: Findings: Patent ductus arteriosus Ophthalmologic_Consult: Findings: Congenital cataracts Hearing_Test: Findings: Bilateral sensorineural hearing loss Blood_Sugar: 110 mg/dL"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about these bluish macules you mentioned, are they scattered all over your skin or are they more concentrated on certain areas?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "They're scattered all over my skin, but they seem to be more concentrated on my arms and legs, and they're really soft to the touch, almost like a bruise, but they don't feel tender to the touch."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about these bluish macules, are they changing in size or color over time, and have you noticed any other skin changes or lesions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "They seem to be the same size, but they're getting a bit darker, and they're still really soft to the touch. I don't really notice any other skin changes, but my mom says I've had them since I was born, and they've just been sort of... there."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about these bluish macules, are they itchy or painful to the touch, and do you notice any other symptoms like redness or swelling around them?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "They're not itchy or painful to the touch, and I don't notice any redness or swelling around them. They just feel really soft and weird, like something's off, but I don't know what."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your feeding, have you been having any trouble latching or are you having trouble gaining weight since birth? Also, REQUEST TEST: Urine_Specific_Gravity"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Blood_Sugar: 110 mg/dL"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your feeding, have you been having any trouble latching or are you having trouble gaining weight since birth? Also, REQUEST TEST: Urine_Specific_Gravity"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Feeding: Latching difficulties present, with frequent nipple confusion and refusal to feed from the breast or bottle. Weight gain has been slow, with current weight below the 10th percentile for age. Urine_Specific_Gravity: 1.015"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the latching difficulties you're experiencing, did your mom mention anything about how you're trying to feed, or are you able to self-feed at all?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My mom says I'm having trouble latching onto the breast or bottle, and sometimes I just spit it out. She's trying to nurse me, but I don't seem to be interested in feeding, and when she tries to bottle-feed me, I get really upset and spit it out too."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the latching difficulties you're experiencing, are you able to self-feed at all, or do you seem to be relying on your mom for feeding? Also, REQUEST TEST: Thyroid_Function"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Feeding: Latching difficulties present, with frequent nipple confusion and refusal to feed from the breast or bottle. Weight gain has been slow, with current weight below the 10th percentile for age. Urine_Specific_Gravity: 1.015 Thyroid_Function: TSH: 2.5 mIU/L (Elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about these feeding difficulties, is it possible that you're not getting enough milk or is it more about the sensation of feeding? Also, REQUEST TEST: Complete_Blood_Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Feeding: Latching difficulties present, with frequent nipple confusion and refusal to feed from the breast or bottle. Weight gain has been slow, with current weight below the 10th percentile for age. Urine_Specific_Gravity: 1.015 Thyroid_Function: TSH: 2.5 mIU/L (Elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the feeding difficulties you're experiencing, is it possible that you're not getting enough milk or is it more about the sensation of feeding?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I guess it's a bit of both, I just don't seem to enjoy feeding very much, and sometimes it feels uncomfortable, like the milk is not coming out right or something. My mom is trying her best to nurse me, but I just don't seem to be interested in feeding, and when she tries to bottle-feed me, I get really upset and spit it out."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're having a bit of trouble with feeding, and it's affecting your weight gain. Can you tell me more about what you mean by \"the milk is not coming out right\"? Is it like your milk is not coming in at all, or is it just that it's not feeling right in your mouth? Also, REQUEST TEST: Thyroid_Function"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Thyroid_Function: TSH: 2.5 mIU/L (Elevated)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about these feeding difficulties, is it possible that you're not getting enough milk or is it more about the sensation of feeding? Also, REQUEST TEST: Complete_Blood_Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Thyroid_Function: TSH: 2.5 mIU/L (Elevated), Complete_Blood_Count: 7.2 x 10^9/L (Normal), Hemoglobin: 14.5 g/dL (Normal), Hematocrit: 41.2% (Normal), White_Blood_Cell_Count: 10.5 x 10^9/L (Normal), Red_Blood_Cell_Count: 4.8 x 10^12/L (Normal), Platelet_Count: 450 x 10^9/L (Normal)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're having a bit of trouble with feeding, and it's affecting your weight gain. Can you tell me more about what you mean by \"the milk is not coming out right\"? Is it like your milk is not coming in at all, or is it just that it's not feeling right in your mouth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just that the milk doesn't seem to be flowing properly, like it's hard to get it to come out or it's just sort of... stuck. And sometimes I feel like it's too thick or too thin, but it's just not comfortable for me, you know?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're having some trouble with the sensation of feeding, and it's making it uncomfortable for you. Can you tell me more about what you mean by \"stuck\"? Is it like the milk is just not coming out at all, or is it more like it's not flowing smoothly?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's like the milk just gets stuck in my mouth, and I have to try really hard to get it out. Sometimes it feels like it's just sitting there, not moving or anything, and I get really frustrated."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about these feeding difficulties, are you able to self-feed at all, or do you seem to be relying on your mom for feeding? Please continue with the response."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm just trying to figure it out, I don't really know how to eat or drink on my own, my mom is always helping me. Sometimes I try to try to grab the bottle or the breast, but it just doesn't feel right, and I get frustrated and spit it out."
+  }
+]

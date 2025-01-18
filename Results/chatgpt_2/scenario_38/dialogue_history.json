@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What is the age of the newborn, and when did the feeding intolerance and bilious vomiting begin?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I am a newborn, just six hours old. The feeding intolerance and bilious vomiting started within the first day after birth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn had any bowel movements since birth, and if so, what was the appearance of the stool?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any bowel movements since birth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn been able to tolerate any fluids or feedings at all, or has there been complete intolerance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been able to tolerate any fluids or feedings at all. It just makes me vomit."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn shown any signs of abdominal distension or tenderness upon examination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any signs of abdominal distension or tenderness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of meconium passage, or has there been any indication of a possible obstruction, such as a lack of bowel sounds?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't passed any meconium, and I don't know about bowel sounds. I just feel really uncomfortable when I try to feed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any maternal complications during pregnancy, such as gestational diabetes or infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know about any maternal complications. My mom missed several prenatal checkups, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn experienced any episodes of lethargy or unusual irritability?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt lethargic, but I do get a bit fussy when I try to feed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abdominal swelling or any visible loops of bowel upon examination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any signs of abdominal swelling or visible loops of bowel. It just feels uncomfortable when I try to eat."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of jaundice or changes in skin color since birth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any signs of jaundice or changes in my skin color since birth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of respiratory distress or difficulty breathing since birth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any signs of respiratory distress or difficulty breathing. My breathing feels normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any family history of gastrointestinal issues or congenital anomalies?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, my older brother had surgery for pyloric stenosis when he was an infant."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the family history of pyloric stenosis, I need to assess the newborn's hydration status. Has there been any indication of dry mouth, decreased urine output, or any signs of dehydration?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed a dry mouth, but I haven't had any urine output since birth either. I feel a bit uncomfortable, but I can't really tell if that's dehydration."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I appreciate your responses. Given the lack of urine output and feeding intolerance, I need to assess your abdominal condition further. REQUEST TEST: Abdominal_Ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the normal abdominal ultrasound results, I need to consider other possibilities. Has there been any history of congenital anomalies or issues with the gastrointestinal tract in the family, aside from your brother's pyloric stenosis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know of any other congenital anomalies in my family, just my brother's pyloric stenosis."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the symptoms and family history, I need to evaluate for any possible intestinal malrotation or atresia. REQUEST TEST: Upper_GI_Series."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems that both the abdominal ultrasound and upper GI series returned normal results. Given the persistent feeding intolerance and bilious vomiting, I need to consider other potential causes. Have there been any signs of abdominal pain or discomfort when pressure is applied to the abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt any specific pain when pressure is applied to my abdomen, but it does feel uncomfortable when I try to feed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the ongoing symptoms and the normal test results, I need to assess for any metabolic or infectious causes. Have there been any signs of fever or unusual temperature changes since birth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fever or unusual temperature changes since birth. My temperature feels normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the absence of fever and the normal test results, I need to evaluate for any metabolic disorders. Have there been any signs of hypoglycemia, such as jitteriness or unusual movements?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any jitteriness or unusual movements. I just feel uncomfortable when I try to feed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the lack of jitteriness and the ongoing discomfort, I need to consider the possibility of a metabolic disorder. Have there been any signs of poor feeding or lethargy that might suggest a metabolic issue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't shown any signs of lethargy, but I definitely have poor feeding. It just makes me uncomfortable and leads to vomiting."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Duodenal Atresia"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Duodenal atresia",
+    "DIAGNOSIS_READY_Simulation": "Scene 38, The diagnosis was CORRECT, 28%"
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides wrist pain, fever, and skin lesions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm feeling chills and a general sense of malaise. The pain in my left wrist is quite severe, and it's really tender to touch or move."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling or redness around the wrist joint or any other joints?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, my left wrist is swollen and red. It feels really tender, especially when I try to move it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, injuries, or insect bites prior to the onset of these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any injuries or insect bites that I can recall. I did just come back from a camping trip in Minnesota, but I didn't notice anything unusual at the time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint pain or swelling in other areas of your body, or is it isolated to your left wrist?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've had some knee pain last week, but it went away on its own. Right now, the pain and swelling are only in my left wrist."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any rashes or changes in your skin besides the lesions you mentioned?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have those painless violaceous vesiculopustular lesions on both wrists and hands, but no other rashes or skin changes that I've noticed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses or been in contact with anyone who was sick?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been in contact with anyone who was sick recently. I feel fine aside from these symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my appetite or weight. I've been eating normally, but I do feel a bit more fatigued than usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or travel outside of the country?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations, but I did travel to Minnesota for camping. I didn't go outside the country, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific triggers that worsen your wrist pain or skin lesions, such as certain activities or movements?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any specific triggers that worsen the pain or lesions. It just seems to get worse on its own, especially with any movement of my wrist."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any eye symptoms, such as redness, pain, or changes in vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any eye symptoms like redness or pain, and my vision seems normal. No changes there at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any gastrointestinal symptoms, such as nausea, vomiting, or diarrhea?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any gastrointestinal symptoms like nausea, vomiting, or diarrhea. My stomach feels fine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your urination, such as increased frequency, pain, or blood in your urine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my urination. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of autoimmune diseases or any family history of such conditions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any history of autoimmune diseases, and as far as I know, there's no family history of such conditions either. I'm generally healthy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any neurological symptoms, such as headaches, dizziness, or numbness in your extremities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any neurological symptoms like headaches, dizziness, or numbness. Everything feels normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin lesions, such as increased size, color changes, or any drainage from them?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in the size or color of the lesions, and they haven't been draining. They just remain the same as when they first appeared."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to ticks or other insects during your camping trip?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can't recall any specific tick bites, but I was in the woods a lot during the camping trip. I checked for ticks afterward, and I didn't find any on me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint stiffness, especially in the morning or after periods of inactivity?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any joint stiffness, but my wrist does feel really painful and tender all the time, especially when I try to move it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any blood tests done recently, or would you be open to having some tests done to check for specific infections or autoimmune markers?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm open to having some tests done. I think it would be helpful to find out what's going on with my wrist and the other symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Complete_Blood_Count (CBC) REQUEST TEST: Erythrocyte_Sedimentation_Rate (ESR) REQUEST TEST: Rheumatoid_Factor (RF) REQUEST TEST: Antinuclear_Antibody (ANA) REQUEST TEST: Lyme_Disease_Serology "
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Complete_Blood_Count: - WBC: 15,000 /\u03bcL (elevated) - Hemoglobin: 14 g/dL - Platelets: 300,000 /\u03bcL Erythrocyte_Sedimentation_Rate (ESR): NORMAL READINGS Rheumatoid_Factor (RF): NORMAL READINGS Antinuclear_Antibody (ANA): NORMAL READINGS Lyme_Disease_Serology: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and test results, it seems you may be experiencing a condition related to an inflammatory response, possibly due to a viral infection or another underlying cause. Given the elevated white blood cell count and the specific skin lesions, I suspect you might have a condition like viral exanthema or possibly a form of reactive arthritis. DIAGNOSIS READY: Viral Exanthema with Reactive Arthritis"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Disseminated Gonococcal Infection",
+    "DIAGNOSIS_READY_Simulation": "Scene 29, The diagnosis was INCORRECT, 26%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I appreciate the information, Doctor. What steps should we take next to manage my symptoms?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm hoping to manage the pain and inflammation in my wrist. What treatments do you recommend?"
+  }
+]

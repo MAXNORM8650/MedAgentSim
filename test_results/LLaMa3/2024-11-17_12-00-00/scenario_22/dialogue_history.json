@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the skin lesion on your chest to me?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's a firm, slightly raised area, about the size of a nickel, with a slight induration around the edges. It's been getting bigger over the past two months, but like I said, it's not causing me any discomfort.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the lesion itself? Is it a single spot or a larger area, and is it red, scaly, or scabbed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's a single spot, really, just one area. It's not scaly or scabbed, but there is a slight induration around the edges, like I mentioned before. The color is pretty much the same as the skin around it, just a bit firmer to the touch.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the area around the lesion? Is it swollen, tender, or does it feel normal to the touch?\n\n\n\nAlso, have you noticed any bleeding or discharge from the lesion itself?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, the area around it feels normal to the touch. It's just a bit firmer than the skin around it, like I mentioned before. There's no redness or swelling, just a slight increase in firmness.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So the lesion appears to be a small, slightly raised area on the skin, roughly the size of a nickel. Can you tell me if the color of the lesion has changed over time, and if it's been itchy or painful to the touch?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's been the same color as the surrounding skin, just a bit firmer to the touch. As for itching or pain, I've said it before - there's no itching or pain, but it has been getting bigger over the past two months.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first noticed this lesion and if you've had any similar skin issues in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I first noticed it about two months ago, and I have to say, I've never had anything like it before. I've had a few moles in the past, but this one's just different, and I've been keeping an eye on it ever since it started growing.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the lesion more closely. Can you please remove any clothing around the area and lie down on the examination table so I can take a closer look?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll just take off my shirt real quick. I'm a bit self-conscious about this, but I want to make sure you can take a good look. I'll just lie down on the table now, if that's okay.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you please show me the lesion more closely so I can examine it? I'd like to take a look at the edges and the surrounding skin to see if there's any inflammation or redness."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Here it is, right where you want it. Go ahead and take a closer look.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the lesion has a distinct border or edge, and if it appears to be growing or changing in size over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's a fairly distinct border, actually. It's not ragged or irregular, but it does seem to be getting a bit more defined over time. As for its size, like I said, it's been getting bigger over the past two months, but I wouldn't say it's dramatically increasing in size or anything.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any changes in the surrounding skin, such as redness, swelling, or warmth, in addition to the lesion itself?\n\n\n\nAlso, have you been exposed to any new substances or materials that could potentially cause skin irritation or allergic reactions?\n\n\n\nAnd, can you please lift your shirt up a bit more so I can take a better look at the entire area, including any potential lymph nodes or other surrounding tissues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Not that I can think of, no. I mean, I've been keeping an eye on it, but I don't see any redness or swelling around the area beyond the lesion itself. As for new substances, I don't think so, I just stick to my usual routine of smoking and drinking on the weekends, but I don't recall anything unusual recently.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the lesion is completely covered by hair, or is there a clear edge around it where the skin is exposed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's mostly covered by hair, but there's a small patch of skin around the edges where the hair is thin or sparse, making the border a bit more defined.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a test: REQUEST TEST: Dermatopathology to get a more detailed look at the lesion's microscopic characteristics. \n\nAlso, can you tell me if you've recently traveled to any new areas or taken any new medications that could potentially expose you to new pathogens?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Dermatopathology: 'In situ and invasive components of malignant melanoma with high-grade cytological atypia, indicating a high risk of metastasis. The presence of mitotic figures and pleomorphism supports this diagnosis.'\n- Recent Travel: NORMAL READINGS\n- Recent Medications: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the lesion is completely covered by hair, or is there a clear edge around it where the skin is exposed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's mostly covered by hair, but there's a small patch of skin around the edges where the hair is thin or sparse, making the border a bit more defined.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sensation when you touch the lesion, is it warm, cool, or does it feel normal to the touch?\n\n\n\nAlso, have you noticed any changes in your overall health or any other symptoms that may be related to the lesion?\n\n\n\nCan you tell me if you've had any recent vaccinations or exposure to any potentially infectious materials that could be relevant to your symptoms?\n\n\n\nAnd, can you confirm that you've been wearing the same clothing on your chest for the past 24 hours, and if so, have you washed it recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It feels firm to the touch, like I mentioned before. It's not warm or cool, just a bit firmer than the surrounding skin. As for my overall health, I've been experiencing some issues with my eyes lately, my glaucoma's been acting up, but that's about it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me exactly how long you've been wearing the same clothing on your chest, and have you washed it recently?\n\n\n\nAlso, do you have any pets or live in an area with a high rodent population, which could potentially increase your risk of exposure to certain pathogens?\n\n\n\nHave you recently engaged in any activities that could have exposed you to skin irritants or allergens, such as gardening, swimming, or working with chemicals?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been wearing the same shirt for, um, I'd say about a week now, I think. I don't really remember exactly, to be honest. As for washing it, I did it a few days ago, I believe. I'm not sure if it's completely clean, but I did use some detergent and washed it on hot water.\"\n\n\"I don't have any pets, but I do live in an apartment building, and I'm not sure if there's a rodent problem there. I don't really notice any signs of rodents or anything like that. As for skin irritants, I don't really engage in activities that could expose me to those kinds of things. I do smoke cigarettes, but I'm not sure if that's relevant to this.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the lesion has ever been itchy, painful, or tender to the touch, and if so, how would you describe the sensation?\n\n\n\nAlso, have you noticed any changes in your overall health or any other symptoms that may be related to the lesion, such as fever, fatigue, or weight loss?\n\n\n\nAnd, can you confirm that you've been wearing the same clothing on your chest for the past 24 hours, and if so, have you washed it recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's been the same, actually. As I mentioned before, there's no itching or pain, but it has been getting bigger over the past two months. It's just a bit firmer to the touch, like I said before.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the lesion more closely. Can you please lift your arm up so I can see the entire area, including any potential lymph nodes or other surrounding tissues?\n\n\n\nCan you tell me if you've noticed any changes in your overall health or any other symptoms that may be related to the lesion, such as fever, fatigue, or weight loss?\n\n\n\nAlso, have you recently engaged in any activities that could have exposed you to skin irritants or allergens, such as gardening, swimming, or working with chemicals?\n\n\n\nI'd like to request a test: REQUEST TEST: Complete Blood Count (CBC) to rule out any underlying infections or inflammatory conditions."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Temperature: 36.9\u00b0C (98.2\u00b0F)\n- Blood Pressure: 130/85 mmHg\n- Heart Rate: 76 bpm\n- Respiratory Rate: 14 breaths/min\n- Dermatopathology: 'In situ and invasive components of malignant melanoma with high-grade cytological atypia, indicating a high risk of metastasis. The presence of mitotic figures and pleomorphism supports this diagnosis.'\n- CBC: 'Normal Readings'"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request a test: REQUEST TEST: Biopsy of the skin lesion to get a tissue sample for further examination. \n\nCan you tell me if you've noticed any changes in your overall health or any other symptoms that may be related to the lesion, such as fever, fatigue, or weight loss?\n\n\n\nAlso, have you recently engaged in any activities that could have exposed you to skin irritants or allergens, such as gardening, swimming, or working with chemicals?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Temperature: 36.9\u00b0C (98.2\u00b0F)\n- Blood Pressure: 130/85 mmHg\n- Heart Rate: 76 bpm\n- Respiratory Rate: 14 breaths/min\n- Dermatopathology: 'In situ and invasive components of malignant melanoma with high-grade cytological atypia, indicating a high risk of metastasis. The presence of mitotic figures and pleomorphism supports this diagnosis.'\n- CBC: 'Normal Readings'\n- Biopsy: 'In situ and invasive components of malignant melanoma with high-grade cytological atypia, indicating a high risk of metastasis. The presence of mitotic figures and pleomorphism supports this diagnosis.'"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sensation when you touch the lesion, is it warm, cool, or does it feel normal to the touch?\n\n\n\nAlso, have you noticed any changes in your overall health or any other symptoms that may be related to the lesion?\n\n\n\nAnd, have you recently taken any medications or supplements that could potentially interact with the lesion or affect its appearance?\n\n\n\n(Still waiting for the patient's response)"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It feels firm to the touch, like I mentioned before. It's not warm or cool, just a bit firmer than the surrounding skin. As for my overall health, I've been experiencing some issues with my eyes lately, my glaucoma's been acting up, but that's about it.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any changes in the color of the lesion recently, such as fading, darkening, or becoming more prominent?\n\n\n\nAlso, have you experienced any itching, burning, or stinging sensations around the lesion?\n\n\n\nHave you recently had any skin infections, such as acne, eczema, or psoriasis, that could be related to the current lesion?\n\n\n\nCan you tell me if you've recently applied any creams, ointments, or other topical treatments to the area, and if so, what they were?\n\n\n\nI'd like to examine the surrounding skin again, can you please hold still while I take a closer look at the area around the lesion?\n\n\n\nCan you confirm that you've not scratched or touched the lesion excessively, as this could potentially disrupt any existing cells or cause further irritation?\n\n\n\nAlso, have you noticed any changes in your breathing or heart rate that could be related to the lesion?\n\n\n\nREQUEST TEST: Skin Scanning to get a more detailed view of the lesion"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Temperature: 36.9\u00b0C (98.2\u00b0F)\n- Blood Pressure: 130/85 mmHg\n- Heart Rate: 76 bpm\n- Respiratory Rate: 14 breaths/min\n- Dermatopathology: 'In situ and invasive components of malignant melanoma with high-grade cytological atypia, indicating a high risk of metastasis. The presence of mitotic figures and pleomorphism supports this diagnosis.'\n- CBC: 'Normal Readings'\n- Biopsy: 'In situ and invasive components of malignant melanoma with high-grade cytological atypia, indicating a high risk of metastasis. The presence of mitotic figures and pleomorphism supports this diagnosis.'\n- Color Change: 'No changes in the color of the lesion have been noted recently.'\n- Itching or Burning: 'No itching, burning, or stinging sensations have been reported around the lesion.'\n- Skin Infections: 'No history of recent skin"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the patient's responses and the results of the tests, I would say..."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Malignant melanoma",
+    "DIAGNOSIS_READY_Simulation": "Scene 22, The diagnosis was INCORRECT (4.35%)"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides chest pain, cough, and shortness of breath?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling feverish and really fatigued lately. I also have a general sense of malaise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really had much of an appetite, and I think I've lost a little weight over the past week. It's hard to eat when I feel this way."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses or infections, such as a cold or the flu, before these symptoms started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I was diagnosed with influenza recently, but I didn't follow the treatment plan as I should have. It started about a week ago, and then these other symptoms developed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any chills or night sweats along with your fever?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've had some chills, especially at night, and I've noticed I'm sweating more than usual while I sleep."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you traveled anywhere recently or been in contact with anyone who was sick?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't traveled anywhere recently, and I haven't been in contact with anyone who was sick. I\u2019ve mostly been at home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any history of lung diseases, such as asthma or chronic obstructive pulmonary disease (COPD)?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any history of lung diseases like asthma or COPD. I've generally been healthy aside from the recent influenza diagnosis."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any wheezing or difficulty breathing when you're at rest or during physical activity?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've definitely noticed some difficulty breathing, especially when I'm trying to do anything physical. It feels like I can't catch my breath sometimes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any chest tightness or pressure along with the pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I have felt some tightness in my chest, especially when I take deep breaths. It can be quite uncomfortable at times."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been coughing up any blood or noticed any unusual colors in your sputum besides purulent?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't coughed up any blood, but the sputum is definitely purulent and has a yellowish-green color. It's been quite thick as well."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to animals or been in a setting where you might have inhaled irritants or allergens?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't been around any animals recently, and I haven't been exposed to any irritants or allergens that I can think of. I've mostly just been at home resting."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain when taking deep breaths or coughing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I do feel pain when I take deep breaths or when I cough. It makes both actions quite uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your legs or ankles, or any signs of fluid retention?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my legs or ankles, and I don't think I've had any fluid retention. My legs feel normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent chest imaging, like an X-ray or CT scan, to evaluate your lungs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any chest imaging done recently. I haven't seen a doctor since these symptoms got worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I recommend we perform a chest X-ray to evaluate your lungs for any potential infections or abnormalities. Would you be okay with that?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, that sounds fine. I just want to get to the bottom of what's going on."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Chest_X-Ray. While we wait for the results, can you tell me if you've been experiencing any nausea or gastrointestinal symptoms, such as diarrhea or abdominal pain?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Alveolar infiltrates in the left base with air bronchograms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the chest X-ray results showing alveolar infiltrates in the left base with air bronchograms, have you experienced any recent exposure to pneumonia or had any vaccinations for pneumonia?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent exposure to pneumonia that I'm aware of, and I don't think I've had a pneumonia vaccination either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the chest X-ray findings, it seems likely that you may have pneumonia. Have you experienced any worsening of your symptoms, such as increased fever or more difficulty breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, my fever has been fluctuating, and I feel like my breathing has gotten a bit worse, especially when I try to move around. It's becoming more challenging to catch my breath."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the worsening of your symptoms and the chest X-ray findings, I suspect you may have a bacterial pneumonia. Are you currently taking any medications, including over-the-counter drugs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I\u2019m not taking any medications right now, not even over-the-counter ones. I\u2019ve mostly just been trying to rest and manage the symptoms on my own."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like your symptoms are quite concerning, especially with the recent influenza and the current findings. I recommend starting you on antibiotics to treat the pneumonia. Are you allergic to any medications?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I'm not allergic to any medications that I know of. I'm ready to start the antibiotics if that's what you think is best."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Bacterial pneumonia."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pneumonia",
+    "DIAGNOSIS_READY_Simulation": "Scene 77, The diagnosis was CORRECT, 20%"
+  }
+]

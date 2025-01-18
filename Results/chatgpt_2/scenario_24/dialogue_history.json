@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides shortness of breath and increased abdominal girth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling quite fatigued lately, but I haven't noticed any significant weight loss or gain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or any gastrointestinal symptoms, such as nausea or changes in bowel habits?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my appetite, and my bowel habits have remained the same. No nausea either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, fevers, or chills?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fevers, chills, or signs of infection recently. I feel generally well aside from the shortness of breath and fatigue."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous history of ovarian issues or surgeries?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any significant medical history, and I haven't had any previous surgeries or issues related to my ovaries."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your legs or feet, or any other areas of your body?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my legs or feet, and there are no other areas of my body that seem swollen."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your menstrual cycle, such as irregular periods or heavy bleeding?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any changes in my menstrual cycle to report. Everything has been regular for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in your abdomen or pelvic area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any pain or discomfort in my abdomen or pelvic area. It feels normal aside from the increased size."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent imaging studies done, such as an ultrasound or CT scan, to evaluate the ovarian mass?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any imaging studies done recently. I haven't felt the need for them until now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's proceed with some imaging to better understand the ovarian mass. REQUEST TEST: Pelvic_Ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The pelvic ultrasound shows normal readings, which is reassuring. Have you experienced any recent changes in your physical activity or any stressors in your life that might be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any significant changes in my physical activity, and while teaching can be stressful, I haven't felt overwhelmed lately."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the normal ultrasound results, let's explore your respiratory symptoms further. Have you had any recent exposure to allergens, smoke, or pollutants that could be affecting your breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent exposure to allergens, smoke, or pollutants. My environment at home and work is generally clean and well-ventilated."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any heart palpitations, chest pain, or any other cardiovascular symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any heart palpitations or chest pain. My heart feels normal aside from the shortness of breath."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to anyone who has been ill?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled recently, and I haven't been in close contact with anyone who has been ill. I feel fine aside from my current symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin, such as yellowing or unusual rashes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my skin, no yellowing or unusual rashes. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the normal ultrasound results, I would like to assess your heart function. REQUEST TEST: Echocardiogram."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It\u2019s good to hear that your echocardiogram results are normal. Have you experienced any recent changes in your sleep patterns or any episodes of waking up at night feeling short of breath?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any changes in my sleep patterns, and I haven't woken up at night feeling short of breath. I generally sleep well."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the normal results from both the pelvic ultrasound and echocardiogram, I would like to evaluate your liver function. REQUEST TEST: Liver_Function_Tests."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It\u2019s reassuring that your liver function tests are normal. Have you experienced any recent changes in your hydration status, such as increased thirst or urination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my hydration status. My thirst and urination patterns have remained normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your consistent hydration status, I would like to explore the possibility of any underlying endocrine issues. Have you experienced any unusual symptoms such as increased sweating, heat intolerance, or changes in your skin texture?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any unusual sweating, heat intolerance, or changes in my skin texture. Everything feels normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the information you've provided and the normal test results, I suspect that your symptoms may be related to a condition known as ascites, possibly due to an underlying issue such as ovarian cancer or another cause of fluid accumulation. However, further evaluation is necessary to confirm this. DIAGNOSIS READY: Ascites due to possible ovarian cancer or other underlying causes."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Meigs syndrome",
+    "DIAGNOSIS_READY_Simulation": "Scene 24, The diagnosis was INCORRECT, 24%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a bit concerned about what you mentioned regarding ascites and the possibility of ovarian cancer. What are the next steps for evaluation?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm feeling a bit anxious about the next steps. What kind of tests or evaluations will we be doing to get more clarity on my condition?"
+  }
+]

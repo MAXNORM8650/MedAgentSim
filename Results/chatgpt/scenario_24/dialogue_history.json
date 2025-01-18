@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms have you been experiencing besides shortness of breath and increased abdominal girth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling quite fatigued lately, but I haven't noticed any significant weight loss or gain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or any gastrointestinal symptoms, such as nausea or changes in bowel habits?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my appetite, and my bowel habits have been normal. No nausea or other gastrointestinal issues either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, fevers, or chills?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fevers, chills, or recent infections. I've been feeling generally well aside from the symptoms I've mentioned."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your legs or feet, or any other areas of your body?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any swelling in my legs or feet, or in any other areas of my body. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your menstrual cycle or any unusual bleeding?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any changes in my menstrual cycle, and I haven't experienced any unusual bleeding. Everything seems to be regular in that aspect."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in your abdomen or pelvic area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any pain or discomfort in my abdomen or pelvic area. It feels normal aside from the increased size."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent imaging studies done, such as an ultrasound or CT scan, to evaluate the ovarian mass?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent imaging studies done. I haven't felt the need for them until now, given my symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's proceed with some imaging to better understand the ovarian mass. REQUEST TEST: Pelvic_Ultrasound. In the meantime, have you experienced any changes in your urination, such as increased frequency or urgency?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of ovarian cysts or any family history of ovarian cancer?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any history of ovarian cysts, and there's no family history of ovarian cancer that I'm aware of. My family generally has been healthy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your energy levels or any unusual skin changes, such as jaundice or rashes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have noticed some fatigue lately, but no unusual skin changes like jaundice or rashes. My skin looks normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent surgeries or medical procedures, particularly involving your abdomen or pelvis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent surgeries or medical procedures involving my abdomen or pelvis. My medical history is quite uneventful in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any difficulty breathing while lying down, or noticed any wheezing or coughing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any difficulty breathing while lying down, and I haven't noticed any wheezing or coughing either. My shortness of breath seems to be more consistent throughout the day."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to any environmental toxins or chemicals?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled recently, and I haven't been exposed to any environmental toxins or chemicals that I know of. My daily routine has been quite normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sleep patterns, such as insomnia or excessive daytime sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my sleep patterns. I generally sleep well at night and feel rested during the day."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent stressors or emotional changes that might be affecting your overall well-being?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any significant stressors or emotional changes lately. My life has been relatively stable, and I feel okay mentally."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the information provided, I would like to assess your heart function. REQUEST TEST: Echocardiogram. Have you experienced any heart palpitations or irregular heartbeats?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin, such as increased pigmentation or unusual growths?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my skin, such as increased pigmentation or unusual growths. Everything looks normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the normal test results so far, I would like to evaluate your liver function. REQUEST TEST: Liver_Function_Tests. Have you experienced any changes in your energy levels or any unusual bruising?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your blood pressure or heart rate that you are aware of?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my blood pressure or heart rate. I feel like my heart is beating normally, and I haven't had any episodes of dizziness or lightheadedness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the symptoms you've described, including shortness of breath, increased abdominal girth, and the presence of a large ovarian mass, I suspect you may have ovarian cancer with possible ascites. However, I will need to confirm this with further imaging and possibly a biopsy. DIAGNOSIS READY: Ovarian Cancer with Ascites."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Meigs syndrome",
+    "DIAGNOSIS_READY_Simulation": "Scene 24, The diagnosis was INCORRECT, 40%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I understand, Doctor. What are the next steps we need to take for further evaluation?"
+  }
+]

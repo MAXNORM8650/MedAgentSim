@@ -1,0 +1,82 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the appearance of the lesion? Is it red, purple, or another color?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's more purple than red, actually. The edges are quite irregular, and there's a central part that looks... it's almost like a crater, I suppose. It's quite painful to the touch.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is the lesion raised above the skin surface or flat? Does it have any discharge or crusts?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's definitely not flat, the edges are quite raised and swollen. There's a bit of a crusty texture to the center, but it's not very dry, it's more like a soft, moist crust.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is the pain constant or does it come and go? How long has the lesion been present?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's constant, to be honest, it's been bothering me every day since it started. I'd say it's been about a month now, but I only really noticed it about a week ago, and that's when I went to see my primary care doctor, and they referred me to you.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the lesion spread to other parts of your body? REQUEST TEST: Complete Blood Count (CBC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any fever or weight loss recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"No, I haven't noticed any fever. I have been feeling a bit tired lately, but that's about it. I've just been trying to manage my blood sugar levels with my insulin and diet, you know, the usual.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Does the pain get worse when you stand for long periods or touch the area? Any history of similar lesions or family members with skin issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Actually, it gets a bit worse when I stand for long periods. The swelling in my leg seems to get more pronounced, and the pain becomes more uncomfortable. As for family history, my sister had some issues with skin problems when she was younger, but I don't think it was anything serious.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is the pain worse at night compared to during the day? Have you noticed any changes in the size of the lesion?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, the pain is definitely worse at night. I find myself waking up with it, and it's harder to sleep because of the discomfort. And yes, it has been getting bigger over the past week or so, it's been slowly increasing in size.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It's red and slightly raised, with some crusts. The pain is constant and the lesion has been there for about two weeks. No, it hasn't spread elsewhere. No fever or significant weight loss. It hurts more when I stand for long periods. No history of similar issues, but my grandfather had diabetes. Pain is slightly worse at night."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Thank you for explaining what you've found. It's reassuring to know that it hasn't spread. Can you tell me more about the crusts on the lesion? Are they crumbly or more like a thick scab?\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling or redness around the lesion? REQUEST TEST: Skin biopsy"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Swelling and redness are noted around the lesion, with purplish irregular borders and a central necrotic base. The skin around the lesion is tender to palpation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is there any bleeding from the lesion when you press on it? DIAGNOSIS READY: Suspected cellulitis, consider dermatological conditions like erysipelas or abscess; confirm with biopsy results."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pyoderma gangrenosum",
+    "DIAGNOSIS_READY_Simulation": "Scene 17, The diagnosis was INCORRECT (0%)"
+  }
+]

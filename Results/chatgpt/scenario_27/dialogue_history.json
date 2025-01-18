@@ -1,0 +1,154 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing along with the chronic left shoulder pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having pain at the extremes of motion, and it's difficult for me to sleep on my left side. I also struggle with brushing my hair and getting dressed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling, redness, or warmth around the shoulder area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any swelling, redness, or warmth around my shoulder. It just feels painful when I move it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any weakness in your left arm or difficulty lifting objects?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any weakness in my left arm, and I can still lift objects, but it does cause me pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your physical activity or exercise routine that might have contributed to this pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my physical activity or exercise routine recently. The pain started gradually without any specific trigger."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous shoulder injuries or surgeries in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any previous shoulder injuries or surgeries. This pain is new to me and started about two months ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any clicking or popping sounds when you move your shoulder?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any clicking or popping sounds when I move my shoulder. It just hurts, especially at the extremes of motion."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in other joints or areas of your body?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any pain or discomfort in other joints or areas of my body. The pain is isolated to my left shoulder."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, fevers, or illnesses that could be related to this pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any recent infections, fevers, or illnesses. I feel generally well aside from the shoulder pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you tried any treatments or medications for the shoulder pain, and if so, what were they?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't tried any specific treatments or medications for the shoulder pain yet. I've just been managing it with rest and avoiding activities that make it worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your range of motion, such as being unable to raise your arm fully or reach behind your back?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've noticed that I can't raise my arm fully or reach behind my back without significant pain. It feels very limited, especially when I try to reach for something."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any night sweats or unexplained weight loss recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any night sweats or unexplained weight loss. My weight has been stable, and I generally feel fine aside from the shoulder pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done on your shoulder, such as an X-ray or MRI?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any imaging studies done on my shoulder yet. I was hoping to discuss my symptoms with you first before proceeding with any tests."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's proceed with some imaging to get a clearer picture of what's going on. REQUEST TEST: Shoulder_X-Ray."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Radiographs - AP: Normal, Scapular Y: Normal, Axillary: Normal"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It appears that the X-rays of your shoulder are normal, which is a good sign. Have you experienced any pain or discomfort in your neck or upper back that might suggest a referral of pain to your shoulder?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any pain or discomfort in my neck or upper back. The pain is strictly localized to my left shoulder."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any issues with your posture or any repetitive activities that might strain your shoulder, such as working at a computer or lifting heavy objects?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any issues with my posture, and I don't do any repetitive activities that would strain my shoulder. My daily activities are pretty normal, and I haven't been lifting heavy objects recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any numbness or tingling sensations in your arm or hand on the left side?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any numbness or tingling sensations in my arm or hand on the left side. The pain is just localized to my shoulder."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the information you've provided, it sounds like you may be experiencing a condition related to the shoulder joint itself. Have you had any recent changes in your work environment or stress levels that could contribute to muscle tension or discomfort?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent changes in my work environment or stress levels. My routine has been pretty stable, and I don't feel particularly stressed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like your shoulder pain is quite persistent and not linked to any obvious external factors. I would like to assess your shoulder further. REQUEST TEST: Shoulder_MRI."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the normal MRI results and your symptoms, it seems you may be experiencing adhesive capsulitis, commonly known as frozen shoulder. This condition often presents with limited range of motion and pain without any significant findings on imaging. Would you like to discuss treatment options? DIAGNOSIS READY: Adhesive Capsulitis (Frozen Shoulder)"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Adhesive capsulitis",
+    "DIAGNOSIS_READY_Simulation": "Scene 27, The diagnosis was CORRECT, 42%"
+  }
+]

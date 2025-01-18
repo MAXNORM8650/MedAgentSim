@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What specific location is the abdominal pain occurring, and can you describe the nature of the pain (sharp, dull, cramping, etc.)?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is around my belly button, and it's quite severe and cramping. It comes in waves and feels like a sharp pressure."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any nausea, vomiting, or changes in your bowel habits since the pain started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any nausea or vomiting, but I've noticed some bloody loose bowel movements. It's been quite concerning."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your diet or any new foods that you've consumed before the onset of the pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my diet recently, and I haven't eaten anything unusual before the pain started. Everything has been pretty much the same as usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fever, chills, or weight loss recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any fever or chills, and I don't think I've lost any weight recently. I feel pretty much the same in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous abdominal surgeries or any history of gastrointestinal disorders, such as Crohn's disease or ulcerative colitis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any previous abdominal surgeries, and I don't have a history of gastrointestinal disorders. My health has been relatively stable until now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been experiencing any recent stress or significant life changes that might be affecting your health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any major life changes recently, but I did go through a tough time with my heart issues last week. It's been a bit stressful, but nothing out of the ordinary otherwise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any chest pain, shortness of breath, or palpitations related to your heart issues recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any chest pain or shortness of breath lately, but I do feel a bit more fatigued than usual. No palpitations either, just the abdominal pain that's been bothering me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your urine, such as color or frequency, since the abdominal pain began?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my urine color or frequency. It seems to be normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to anyone with gastrointestinal infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled anywhere recently, and I haven't been around anyone who has been sick with gastrointestinal issues. Everything has been pretty normal on that front."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent episodes of diarrhea or constipation, and how long have the bloody loose bowel movements been occurring?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having bloody loose bowel movements for the last 16 hours, and they seem to be quite frequent. I haven't had any constipation recently, just this diarrhea."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the frequency and nature of your bowel movements, have you noticed any abdominal swelling or tenderness when I press on your abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling, but it is quite tender when you press on my abdomen. The pain intensifies with pressure."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent use of antibiotics or medications that could affect your gastrointestinal system?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't taken any antibiotics recently, and I'm not on any new medications that would affect my stomach. I've been sticking to my usual medications for diabetes and hypertension."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent episodes of severe headaches, vision changes, or any neurological symptoms that might indicate a more systemic issue?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any severe headaches or vision changes, and I don't feel any neurological symptoms. My focus has been mainly on the abdominal pain and the bowel issues."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific triggers that worsen the abdominal pain, such as certain activities or positions?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any specific triggers that worsen the pain. It seems to be constant, regardless of what I'm doing or the position I'm in."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent skin changes, such as rashes or jaundice, that could indicate liver issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any skin changes, rashes, or jaundice. My skin looks normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent contact with anyone who has had gastrointestinal infections or foodborne illnesses?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any contact with anyone who has been sick or had foodborne illnesses recently. Everything has been pretty normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the bloody loose bowel movements and the severe abdominal pain, I would like to rule out any potential infections or inflammatory conditions. REQUEST TEST: Stool_Culture."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It\u2019s good to hear that the stool culture came back normal. Given the severe abdominal pain and bloody loose bowel movements, I would like to investigate further. REQUEST TEST: Abdominal_Ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It\u2019s reassuring that the abdominal ultrasound results are normal, but we still need to determine the cause of your symptoms. Have you experienced any recent changes in your menstrual cycle or any gynecological issues, if applicable?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a male, so I don't have a menstrual cycle or any gynecological issues to report. My focus has been solely on the abdominal pain and the bloody loose bowel movements."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the information you've provided, including the severe abdominal pain, bloody loose bowel movements, and the normal test results, I suspect you may be experiencing a condition related to your gastrointestinal system. Given your history of heart issues and the stress you've mentioned, it could be indicative of ischemic colitis. DIAGNOSIS READY: Ischemic Colitis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Acute Mesenteric Ischemia",
+    "DIAGNOSIS_READY_Simulation": "Scene 43, The diagnosis was INCORRECT, 25%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I appreciate your assessment, but I'm really just focused on managing this pain and the bowel issues right now. What steps can we take next to address these symptoms?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm really hoping to find some relief from this pain and the bowel issues. What treatments or interventions do you recommend to help manage my symptoms?"
+  }
+]

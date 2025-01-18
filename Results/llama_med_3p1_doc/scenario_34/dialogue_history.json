@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the rash, is it itchy all over or just in certain areas?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a bit itchy, especially on my arms and legs, but it's not super uncomfortable. Sometimes it feels a little scratchy, but not too bad."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when the rash started, was it sudden or did it develop over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started a week ago, I think. I had a fever and a stuffy nose, and then I got this rash, and it was like it just kind of appeared."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the rash itself - is it raised, flat, or somewhere in between? And are there any other symptoms besides the itching and fever that you've noticed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more flat than raised, but it's a bit red and inflamed. As for other symptoms, I've had a runny nose and a headache, and sometimes I feel a bit tired."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the runny nose - is it a constant drip or does it come and go with the fever and rash? And have you noticed any other symptoms besides the itchiness, fever, and headache, such as swelling or joint pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The runny nose is more of a constant thing, I guess. It's not super bad, but it's always there, especially when I have a headache."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the headache - is it a dull ache or a sharp pain, and does it tend to come and go with the fever and rash?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more of a dull ache, but it can be a bit sharp when I scratch my skin. It seems to come and go with the fever, but sometimes it's worse when I have a headache."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities and habits - have you been traveling, exposed to new people or pets, or changed your diet recently? And while I'm asking, can you show me the affected areas of your skin, please?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't think I've done anything out of the ordinary, we just go to school and hang out at home. We did have a family gathering last weekend, but I don't think anyone got sick from it. (I lift my arms and legs to show the doctor the affected areas)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the family gathering - was there anyone there who's been sick recently, and did anyone report feeling unwell? And while you're showing me the affected areas, I'd like to take a closer look at the rash. Are the lesions grouped together or scattered all over your skin? Also, have you noticed any other bodily secretions besides the runny nose, such as red or itchy eyes, or any discharge from your mouth or ears?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The family gathering was just a normal family thing, we all got along fine. My mom said everyone was feeling pretty good when they left, but she did mention that my little brother did get a bit of a cold that night. As for the rash, it's mostly scattered all over my skin, but there are a few spots on my arms and legs that seem to be getting a bit worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your little brother's cold - was it a typical cold or did he have any unusual symptoms? Also, have you noticed any changes in your skin's texture or appearance, such as dryness or scaling, in addition to the itching and redness? And while I'm examining the affected areas, can you tell me if you've noticed any lesions or blisters that might be filled with fluid?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My little brother's cold was pretty typical, I think. He had a runny nose, coughed a lot, and was pretty miserable, but he seemed to be feeling better by the next day. As for my skin, it feels a bit dry and tight, especially when I scratch it. And I have noticed that some of the areas where the rash is more severe are a bit flaky, but not too much. I haven't noticed any big blisters or anything, just a few small bumps that seem to be filled with a bit of fluid when I scratch them."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the skin texture around the rash - is it tender to the touch, or does it feel normal? And have you noticed any changes in your appetite or energy levels, or is your overall energy level the same as usual? Also, I'd like to perform a quick examination of your lymph nodes to see if there's any swelling or tenderness."
+  },
+  {
+    "speaker": "Patient",
+    "text": "The skin around the rash feels a bit tender when I scratch it, but it's not too sore. I don't really notice any changes in my appetite or energy levels, I'm still eating my usual foods and I don't feel too tired or weak."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your little brother's cold - did he experience any fever or was it more of a viral infection? And while I'm performing this examination of your lymph nodes, I want to take a closer look at the rash itself, can you show me the areas where the skin feels most tender to the touch? Also, have you noticed any changes in your breathing patterns, such as wheezing or coughing up mucus?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "My little brother's cold was pretty mild, he didn't have a fever, and it was just a runny nose and a cough. As for the skin, it feels a bit tender when I scratch it, especially around the areas that are getting a bit worse. And I don't think I've ever coughed up any mucus before, I just have a stuffy nose."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the family gatherings you've had recently? Have you or anyone else in your household been exposed to anyone who's been sick with a contagious illness? Also, I'd like to examine your lymph nodes a bit further to see if there's any swelling or tenderness. REQUEST TEST: Complete Blood Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "The patient has reported recent family gatherings and potential exposure to contagious illnesses, which may warrant further investigation. Examination of the lymph nodes and a Complete Blood Count (CBC) have been requested. RESULTS: Vital Signs: - Temperature: 37.4\u00b0C (99.3\u00b0F) - Blood Pressure: 100/70 mmHg - Heart Rate: 80 bpm - Respiratory Rate: 18 breaths/min Skin Examination: - Lacy, reticular rash noted on the trunk and extremities. Facial rash present but sparing the perioral area. - Rash is slightly raised but not accompanied by significant warmth or tenderness. CBC: - WBC: Normal - Hemoglobin: Normal - Platelets: Slightly elevated"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the family gatherings you've had recently - were there any close contacts with anyone who's been sick with a contagious illness, such as a cold or flu? Also, I'd like to take a closer look at the rash itself - are the lesions grouped together or scattered all over your skin, and are they more prominent on one side of your body than the other? And have you noticed any changes in your sleep patterns or energy levels, or is your overall energy level the same as usual? REQUEST TEST: Skin Biopsy"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "Given the information provided and the patient's presentation, a Skin Biopsy may not be immediately necessary without further clinical correlation. However, considering the rash's characteristics and potential exposure history, it's crucial to gather more information before proceeding to an invasive procedure like a biopsy. A thorough clinical evaluation, including a detailed history, physical examination, and further non-invasive testing, would be recommended to guide the next steps in management. Therefore, I would not proceed with a Skin Biopsy at this time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the family gatherings you've had recently - were there any close contacts with anyone who's been sick with a contagious illness, such as a cold or flu?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "We've had a few family gatherings recently, but like I said, everyone was feeling pretty good when they left. My mom did mention that my little brother got a bit of a cold the night before the last gathering, but that was about it. I don't think anyone else got sick, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the cold your little brother got? Was it a typical cold, or did it have any unusual symptoms, such as a runny nose, coughing, or fever?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It was pretty typical, I think. He had a runny nose, coughed a lot, and was pretty miserable, but he seemed to be feeling better by the next day."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the cold your little brother got - did he experience any fever or was it more of a viral infection?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think it was just a runny nose and a cough, he didn't have a fever."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the cold your little brother got - did he experience any viral symptoms besides the runny nose and cough, such as sore throat or body aches?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't think so, he just had a runny nose and a cough, and he was pretty miserable, but he didn't seem to have any other symptoms like that. He did get a bit of a headache, but that was probably from being sick, I think."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the cold your little brother got - did he experience any symptoms that might be contagious, such as coughing or sneezing? And while I'm asking, can you show me the areas of your skin where the rash is most prominent, and are there any areas that seem to be getting worse or better?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think he just coughed a lot and had a runny nose, so I don't think he got sick from it. The rash is mostly on my arms and legs, but it's scattered all over my skin now. Some of the spots on my arms are getting a bit worse, but it's hard to tell if they're getting better or worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your little brother's symptoms - did he have any other symptoms besides the runny nose and cough, such as fatigue or body aches? And while you're showing me the areas of your skin where the rash is most prominent, can you point out to me any areas that seem to be more inflamed or red than others?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "He just felt really miserable, I think. He was tired and had a headache, but that was probably from being sick. As for the rash, I think some of the spots on my arms are getting a bit worse, and they're more red and inflamed than the ones on my legs."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Contact Dermatitis"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Erythema Infectiosum",
+    "DIAGNOSIS_READY_Simulation": "Scene 34, The diagnosis was INCORRECT, 5%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a bit surprised, I didn't think it was that common. Can you tell me more about what might have caused it? Was it something I touched or ate that made my skin react like this?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Contact Dermatitis"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Erythema Infectiosum",
+    "DIAGNOSIS_READY_Simulation": "Scene 34, The diagnosis was INCORRECT, 5%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm not sure what caused it, but I think it might have been something I touched or came into contact with recently. We were at a school field trip last week and I think I might have touched something that made my skin react."
+  }
+]

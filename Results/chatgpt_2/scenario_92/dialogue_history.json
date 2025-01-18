@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides the chronic cough, weight loss, and generalized weakness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having night sweats and a poor appetite as well. It's been quite difficult to manage."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you traveled recently or been exposed to anyone with a known infectious disease?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled recently, and I don't know of anyone around me with an infectious disease. I've mostly been at home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your sputum, such as color or consistency?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really noticed any significant changes in my sputum. It seems to be mostly clear, but I do cough a lot."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fever or chills along with your other symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've been having a fever for the past six months, and sometimes I feel chills as well. It's been quite uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent weight changes aside from the weight loss you've mentioned?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any recent weight changes other than the weight loss. It's been a steady decline over the past six months."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of smoking or exposure to secondhand smoke?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I smoked a bit when I was younger, but I quit many years ago. I haven't been around secondhand smoke recently either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any chest pain or tightness along with your cough?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any chest pain or tightness. Just the cough and fever have been my main concerns."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, and if so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done. I haven't seen a doctor for a while, so I'm not sure what my blood work would show."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any skin changes, such as rashes or lesions, or any swelling in your lymph nodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any rashes or lesions on my skin. As for my lymph nodes, I haven't felt any swelling, but I can't say for sure."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any shortness of breath or difficulty breathing, especially during physical activity?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any shortness of breath or difficulty breathing at all. My breathing feels normal, but the cough is persistent."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any exposure to animals or worked in environments where you might have been exposed to certain allergens or infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any exposure to animals recently, and I haven't worked in any environments that would put me at risk for allergens or infections. I've mostly been at home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any gastrointestinal symptoms, such as nausea, vomiting, or diarrhea?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any gastrointestinal symptoms like nausea, vomiting, or diarrhea. My digestive system seems to be functioning normally, aside from my poor appetite."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of tuberculosis or any other chronic respiratory conditions in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any history of tuberculosis or chronic respiratory conditions before. This is all new to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to anyone with a known history of tuberculosis or other respiratory infections?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent exposure to anyone with a known history of tuberculosis or respiratory infections. I've mostly been keeping to myself."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint pain or muscle aches along with your other symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any joint pain or muscle aches. My main issues have been the cough, fever, and weakness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent imaging studies, such as a chest X-ray or CT scan, to evaluate your lungs?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent imaging studies done. I haven't seen a doctor for a while, so I'm not sure if I need one."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Chest_X-Ray. Let's get a chest X-ray to evaluate your lungs and see if there are any abnormalities that could explain your symptoms."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Image shows diffuse infiltrates."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the chest X-ray results showing diffuse infiltrates, have you experienced any exposure to tuberculosis or other infectious diseases in the past, even if it was a long time ago?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any exposure to tuberculosis or other infectious diseases in the past. This is all quite sudden for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the persistent cough, weight loss, night sweats, and the chest X-ray showing diffuse infiltrates, I would like to request a sputum test to check for any infectious agents, including tuberculosis. REQUEST TEST: Sputum_Culture."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms of chronic cough, weight loss, night sweats, and the chest X-ray showing diffuse infiltrates, along with normal sputum culture results, I suspect you may have a condition such as sarcoidosis or another interstitial lung disease. DIAGNOSIS READY: Sarcoidosis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Tuberculosis",
+    "DIAGNOSIS_READY_Simulation": "Scene 92, The diagnosis was INCORRECT, 17%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I appreciate your insights, but I'm still trying to understand what this means for me. What are the next steps in managing my symptoms?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm eager to learn more about what I can do to manage my symptoms. Will there be any tests or treatments recommended?"
+  }
+]

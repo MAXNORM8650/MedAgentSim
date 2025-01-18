@@ -1,0 +1,42 @@
+Doctor [5%]: How long have you been experiencing feeding difficulties and abdominal distension, and has the severity been increasing or decreasing over time?
+Patient [5%]: "Mommy says I've been fussy and not wanting to eat as much for a few days now. The belly part hurts when they touch it, and it feels hard and big."
+Doctor [10%]: "Can you tell me more about what happens when you try to eat? Do you throw up or spit up after feeding, and have you had any diarrhea or constipation?"
+Patient [10%]: "No, no throwing up or spitting up. Mommy says I just get really upset and fussy when it's time for a bottle. And, um, poop? Yeah, poop is fine, comes out just like usual."
+Doctor [15%]: Has your appetite decreased overall, or is it just during certain times of the day, like during feedings or when you're hungry?
+Patient [15%]: "Mommy says I don't wanna eat as much as I used to, and I get really upset when she tries to feed me. But sometimes when she's not trying to feed me, I'll be playing and then I'll get hungry and want a bottle, but when she tries to give it to me, I just get fussy again."
+Doctor [20%]: "Does it hurt when you eat, or is it more that you just don't want to eat? And have you had any fevers or been acting sick otherwise?"
+Patient [20%]: "No, it doesn't hurt when I eat, I just don't wanna do it! And no, Mommy says I've been acting happy and playing, just not eating much. Unless... unless someone touches my tummy, then I get really upset!"
+Doctor [25%]: "Has your mother noticed any changes in the frequency or volume of your urine output, and have you been sleeping more or less than usual?"
+Patient [25%]: "Mommy says the pee pee is fine, same as always. And sleep? Um, yeah... I've been sleeping a lot, but Mommy says that's normal for me. I'm just a baby, right?"
+Doctor [30%]: "Has your mother noticed any changes in your stools, such as abnormal color, consistency, or odor?"
+Patient [30%]: "No, Mommy says the poop is normal, same as always. Smells the same, looks the same. She's not said anything about it being different."
+Doctor [35%]: "Has your mother introduced any new foods or formula to your diet recently, or have you had any exposure to anything unusual that might be causing your symptoms?"
+Patient [35%]: "No, Mommy says I'm still on the same formula and food she's been giving me since the beginning. And, um, no... no new or unusual things, just the same stuff I've always had."
+Doctor [40%]: "Can you show me your tummy, sweetie? I want to take a look and feel it gently to see if I can find what's causing the hardness and discomfort."
+Patient [40%]: "NOOO! No touch! No touch tummy! Ow! Mommy, no! *starts crying*"
+Doctor [45%]: "Okay, okay, sweetie, I'm not going to touch your tummy right now. I just want to make you feel better. Can you tell me, has your mom noticed any swelling in your legs or feet?"
+Patient [45%]: "No, Mommy hasn't said anything about my legs or feet. They're fine, I think. I like playing with my toes."
+Doctor [50%]: "Has your mother noticed any changes in your behavior, such as being more irritable or lethargic, especially when you're not eating or when your tummy is being touched?"
+Patient [50%]: "Yeah, Mommy says I'm really fussy and cranky, especially when she tries to feed me or touches my tummy. But when I'm playing, I'm usually happy and smiley."
+Doctor [55%]: "Has your mother noticed any change in the shape or size of your abdomen over the past few days, like if it's getting bigger or more swollen?"
+Patient [55%]: "Yeah, Mommy says my tummy is getting bigger and feels hard, like a ball. She's worried about it, that's why we came here."
+Doctor [60%]: "Can you tell me more about when your tummy started feeling hard and getting bigger? Was it sudden or did it happen gradually over a few days?"
+Patient [60%]: "Mommy says it started a few days ago, and it's been getting bigger and harder. She says it feels like a big ball now."
+Doctor [65%]: "Has your mother noticed any unusual sounds or noises coming from your abdomen, like gurgling or rumbling?"
+Patient [65%]: "Yeah, Mommy says she's heard some weird noises coming from my tummy, like bubbles or rumbling sounds. She says it's weird and that's why she's worried."
+Doctor [70%]: "Can you tell me, have you had any problems with gas or burping after feedings or at other times of the day?"
+Patient [70%]: "Yeah, Mommy says I've been really gassy lately, and she's tried to burp me a lot. Sometimes it helps, but sometimes it doesn't and I just get more fussy."
+Doctor [75%]: "Has your mother tried any remedies or treatments at home to help with the gas and discomfort, such as gripe water or gas drops?"
+Patient [75%]: "Mommy gave me some of that gripe water stuff, and she's also tried that gas drops thingy. But it didn't really help, I was still fussy and unhappy."
+Doctor [80%]: "Has your mother noticed any changes in your muscle tone, such as weakness or floppiness, especially in your arms or legs?"
+Patient [80%]: "No, Mommy hasn't said anything about my arms or legs being weak or floppy. I can still grab my toys and move my arms and legs around when I want to."
+Doctor [85%]: "Okay, sweetie. I just want to check one more thing. Can you lift your legs up for me? I want to take a look at your belly from a different angle."
+Patient [85%]: "No, no, no! No touch tummy! Ow! Mommy, no! *starts crying* Don't touch my tummy! It hurts when you touch it!"
+Doctor [90%]: REQUEST TEST: Abdominal Ultrasound
+Measurement [90%]: RESULTS: NORMAL READINGS
+Doctor [95%]: "What's your birth weight and have you been gaining weight normally since birth?"
+Patient [95%]: "Mommy says I was 7 pounds 11 ounces when I was born, and yeah, she thinks I've been gaining weight just fine. She's been happy with how I've been growing."
+Doctor [100%]: DIAGNOSIS READY: Intussusception, likely ileocolic, considering the patient's symptoms of abdominal distension, feeding difficulties, and palpable abdominal mass, along with the normal abdominal ultrasound results, which can sometimes be the case in intussusception.
+
+Correct answer: Hirschsprung disease
+Scene 2, The diagnosis was INCORRECT (33%)

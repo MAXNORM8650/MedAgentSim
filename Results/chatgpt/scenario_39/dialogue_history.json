@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides fatigue and difficulty concentrating?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling short of breath when I exert myself, and I've also been experiencing some dizziness. Additionally, my fingers sometimes hurt, but the pain gets better when I apply something cold."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin color, such as paleness or a yellowish tint?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my skin color, but I do feel more fatigued than usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any significant changes in my appetite, and I haven't noticed any weight loss either. I just feel more tired overall."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses, infections, or injuries that could be related to your current symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent illnesses or infections, and I can't recall any injuries that might be related to how I'm feeling. It's mostly just this ongoing fatigue and the other symptoms I've mentioned."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, and if so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done. I think the last time I had blood work was quite a while ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's perform some blood tests to get a clearer picture of your condition. REQUEST TEST: Complete_Blood_Count, REQUEST TEST: Iron_Studies, REQUEST TEST: Vitamin_B12_Level."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: - Complete Blood Count: Platelets: 700,000 cells/m3 (thrombocytosis), Blood smear shows increased abnormal platelets. - Iron Studies: Serum Iron: Decreased, Iron Saturation: Decreased, Serum Ferritin: Decreased, Total Iron Binding Capacity: Increased. - Vitamin B12 Level: NORMAL READINGS."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the results, it seems you have thrombocytosis and iron deficiency. Have you experienced any unusual bleeding or bruising lately?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any unusual bleeding or bruising. My skin seems fine, but I do feel more fatigued and dizzy than usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent surgeries or medical procedures that could explain the thrombocytosis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent surgeries or medical procedures. My health has been pretty stable aside from the symptoms I've mentioned."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been under any significant stress or experienced any major life changes recently that could be affecting your health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any major life changes recently, but I have been feeling more stressed than usual with work. It might be contributing to how I've been feeling overall."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of blood disorders or conditions related to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know of any family history of blood disorders. My family has generally been healthy, but I can't say for sure about any specific conditions."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been experiencing any gastrointestinal symptoms, such as changes in bowel habits, abdominal pain, or blood in your stool?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any gastrointestinal symptoms like abdominal pain or changes in bowel habits. I also haven't seen any blood in my stool. My main concerns are still the fatigue and dizziness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your menstrual cycle or any unusual symptoms related to menstruation if applicable?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a male, so I don't have a menstrual cycle or any related symptoms. My main issues are still the fatigue, dizziness, and shortness of breath."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to toxins or chemicals, such as heavy metals or pesticides, that could be affecting your health?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent exposure to toxins or chemicals that I'm aware of. My work environment is pretty standard, and I haven't been around any hazardous materials."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the blood test results indicating thrombocytosis and iron deficiency, I would like to know if you've experienced any recent infections or inflammatory conditions that could be contributing to these findings?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections or inflammatory conditions that I know of. I've been feeling pretty much the same, just fatigued and dizzy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any joint pain or swelling, particularly in your fingers or hands, that could suggest an underlying inflammatory condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any joint pain or swelling in my fingers or hands. The pain I feel in my fingers is more of a discomfort that improves with cold, rather than swelling or inflammation."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sleep patterns, such as difficulty falling asleep or staying asleep?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my sleep patterns. I generally fall asleep without much trouble, but I do wake up feeling tired."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your ongoing fatigue, dizziness, and the abnormal blood findings, I would like to perform a test to check for any underlying inflammatory markers. REQUEST TEST: C-Reactive_Protein."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems that your C-Reactive Protein levels are normal, which suggests there isn't significant inflammation present. Given your symptoms and the blood findings, have you experienced any recent changes in your physical activity or exercise routine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't made any significant changes to my physical activity or exercise routine. I still try to stay active, but I've been feeling too fatigued to do much lately."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and the blood test results, I suspect there may be an underlying cause for your iron deficiency and thrombocytosis. Have you had any history of gastrointestinal issues that might lead to malabsorption of iron, even if you haven't noticed any symptoms recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any history of gastrointestinal issues or malabsorption problems that I'm aware of. My digestion seems normal, and I haven't experienced any related symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the information you've provided, along with your blood test results showing thrombocytosis and iron deficiency without significant inflammation or gastrointestinal issues, I suspect you may have a condition related to chronic blood loss or a myeloproliferative disorder. DIAGNOSIS READY: Iron Deficiency Anemia with Thrombocytosis, possibly secondary to chronic blood loss or a myeloproliferative neoplasm."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Essential thrombocythemia",
+    "DIAGNOSIS_READY_Simulation": "Scene 39, The diagnosis was INCORRECT, 35%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "What does that mean for my health moving forward?"
+  }
+]

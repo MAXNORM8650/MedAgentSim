@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first noticed the yellowish discoloration of your skin, was it shortly after birth or did it appear later?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The discoloration started on my face, it was quite noticeable, and then it slowly spread to my trunk over the past day, I didn't think much of it until my mother mentioned it to the nurse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me approximately how old you are, in weeks or months, since you were born?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a bit over a month old, I'd say... 5 weeks old, maybe a bit more."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"When did the yellowish discoloration of your skin start, and was it constant or did it come and go at any point?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started right after I was born, and I wouldn't say it's constant, but it's been there since."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did the yellowish discoloration of your skin start, and was it constant or did it come and go at any point?\n\n\n\nIs the yellowish discoloration most prominent on your face, chest, or extremities?\n\n\n\nCan you tell me if you have noticed any other symptoms, such as vomiting, diarrhea, or difficulty breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started right after I was born, and I wouldn't say it's constant, but it's been there since.\n\nThe discoloration is most prominent on my face, it's really noticeable, especially on my cheeks and forehead.\n\nNo, I haven't noticed any other symptoms, just the discoloration and my mother's concern about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When was the first instance of yellowish discoloration noticeable to the parents or caregivers?\n\n\n\nIs the yellowish discoloration more pronounced in bright light or does it appear similar in all lighting conditions?\n\n\n\nCan you tell me if the baby has been exposed to any potential sources of infection, such as a recent hospital stay or exposure to others with a similar condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It was the first time my mother looked at me, right after birth, and she said I had a bit of a yellowish tint to my skin. \n\nIt's more noticeable in bright light, especially when we're in the nursery or outdoors.\n\nNo, I've been exclusively breastfed by my mother, and we've been in the hospital since birth, but I haven't been exposed to anyone else with this condition that I know of."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any unusual odors or discharge from the affected area?\n\n\n\nAlso, can you bring the baby over for me to inspect the skin more closely and check for any jaundice or yellowing of the whites of the eyes?\n\n\n\nAnd one more thing, has the baby been feeding normally and having regular bowel movements?\n\n\n\nREQUEST TEST: Blood_Screen"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Odors or discharge: NONE NOTED.\n- Inspection of skin: JAUNDICE NOTEED ON FACE, CHEST, AND ABDOMEN. SCLERAL ICTERUS ALSO NOTEED.\n- Feeding and bowel movements: NORMAL."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a look at the baby's skin again and check for any jaundice or yellowing of the whites of the eyes. Can you please bring the baby over so I can examine it more closely?\n\n\n\nAlso, I noticed that you've been feeding normally and having regular bowel movements. That's good to know. Can you tell me if you've noticed any changes in your stool or urine output?\n\n\n\nIs the yellowish discoloration more noticeable on one side of the body than the other?\n\n\n\nREQUEST TEST: Stool_Sample"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n- Jaundice noted on face, chest, and abdomen. Scleral icterus also noted.\n- Hemoglobin: 17.2 g/dL (slightly decreased from previous reading)\n- Reticulocytes: 0.3% (within normal range)\n- Bilirubin_Total: 7.2 mg/dL (slightly decreased from previous reading)\n- Bilirubin_Direct: 0.6 mg/dL (within normal range)\n- Free_T4: 7.1 \u03bcg/dL (slightly decreased from previous reading)\n- Stool output: NORMAL"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you please lift your chin so I can take a closer look at the whites of your eyes for any signs of jaundice?\n\n\n\nIs your mother or any other caregiver taking any medications that could be affecting your skin or overall health?\n\n\n\nHas the baby had any recent illnesses or infections, such as a cold or flu?\n\n\n\nCan you please turn your head slightly to the left so I can examine the affected area more closely?\n\n\n\nHas the baby been exposed to any environmental toxins or chemicals that could be causing the discoloration?\n\n\n\nREQUEST TEST: Liver_Functions"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Jaundice noted on face, chest, and abdomen. Scleral icterus also noted.\n- Hemoglobin: 17.0 g/dL (slightly decreased from previous reading)\n- Reticulocytes: 0.3% (within normal range)\n- Bilirubin_Total: 7.0 mg/dL (slightly decreased from previous reading)\n- Bilirubin_Direct: 0.6 mg/dL (within normal range)\n- Free_T4: 7.0 \u03bcg/dL (slightly decreased from previous reading)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you please lift your chin so I can take a closer look at the whites of your eyes for any signs of jaundice?\n\n\n\nAlso, can you point to the area where you feel the yellowish discoloration is most noticeable?\n\n\n\nIs the yellowish discoloration more noticeable when you're hot or feeling stressed?\n\n\n\nCan you please cough or take a deep breath to help me assess the liver function test results?\n\n\n\nCan you please tell me more about your mother's medical history, especially if she has any liver or blood disorders?\n\n\n\nPlease cough again to help me assess your liver function test results."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can lift my chin.\n\nThe yellowish discoloration is most noticeable on my cheeks and forehead, it's really yellow and quite bright.\n\nI don't really feel stressed or hot, I just feel happy when my mother is around.\n\n*achieves coughing motion*\n\nMy mother is healthy, she's been to the doctor a few times for check-ups, but I don't think she has any liver or blood disorders."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken a closer look at the whites of your eyes, and I do see a slight yellowing, which is consistent with jaundice. Can you tell me if you've been experiencing any pain or discomfort in the affected area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I don't feel any pain or discomfort, I just feel a bit warm sometimes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see the yellowing of the whites of the eyes, which is a sign of jaundice. Can you tell me if you've been experiencing any pain or discomfort in the affected area?\n\n\n\nAlso, I'd like to examine your liver more closely. Can you please move your arm so I can check for any jaundice or discoloration on your abdomen?\n\n\n\nAnd one more thing, can you tell me if your mother or any other caregiver has been breastfeeding, and if so, how often?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I feel a bit warm sometimes when I'm not being fed or held by my mother."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you point to the area where you feel the yellowish discoloration is most noticeable, and is it more intense in that spot?\n\n\n\nAlso, I'd like to request a photograph of the affected area so I can take a closer look later.\n\n\n\nHave you noticed any changes in the color or consistency of your stool recently?\n\n\n\nCan you tell me more about your mother's diet and any food sensitivities she may have, especially if she's been breastfeeding?\n\n\n\nIs the yellowish discoloration more noticeable when you're lying down or sitting up?\n\n\n\nCan you please lift your arm so I can check for any jaundice or discoloration on your abdomen?\n\n\n\nAlso, I'd like to request a blood test for bilirubin levels to confirm the presence of jaundice.\n\n\n\nREQUEST TEST: Bilirubin_Levels"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Jaundice noted on face, chest, and abdomen. Scleral icterus also noted.\n- Hemoglobin: 17.1 g/dL (slightly decreased from previous reading)\n- Reticulocytes: 0.3% (within normal range)\n- Bilirubin_Total: 6.8 mg/dL (slightly decreased from previous reading)\n- Bilirubin_Direct: 0.6 mg/dL (within normal range)\n- Free_T4: 7.1 \u03bcg/dL (slightly decreased from previous reading)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mother's diet and any food sensitivities she may have, especially if she's been breastfeeding?\n\n\n\nAlso, I've taken a look at the photograph of the affected area, and I do see some yellowing of the skin. Can you point to the area where you feel the yellowish discoloration is most noticeable?\n\n\n\nREQUEST TEST: Breastfeeding_History"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Jaundice noted on face, chest, and abdomen. Scleral icterus also noted.\n- Hemoglobin: 17.0 g/dL (slightly decreased from previous reading)\n- Reticulocytes: 0.3% (within normal range)\n- Bilirubin_Total: 6.8 mg/dL (slightly decreased from previous reading)\n- Bilirubin_Direct: 0.6 mg/dL (within normal range)\n- Free_T4: 7.1 \u03bcg/dL (slightly decreased from previous reading)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you point to the area where you feel the yellowish discoloration is most noticeable, and is it more intense in that spot?\n\n\n\nAlso, I'd like to request a photograph of the affected area so I can take a closer look later.\n\n\n\nHave you noticed any changes in the color or consistency of your stool recently?\n\n\n\nCan you tell me more about your mother's diet and any food sensitivities she may have, especially if she's been breastfeeding?\n\n\n\nIs the yellowish discoloration more noticeable when you're lying down or sitting up?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The yellowish discoloration is most noticeable on my cheeks and forehead, it's really yellow and quite bright.\n\nI've noticed that it's more intense when I'm not being held or fed by my mother, I feel a bit warm sometimes.\n\nMy mother has a normal diet, she eats whatever the hospital provides, but I don't think she has any food sensitivities."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see the yellowing of the whites of the eyes is consistent with jaundice. Can you tell me if you've been experiencing any pain or discomfort in the affected area?\n\n\n\nAlso, can you point to the area where you feel the yellowish discoloration is most noticeable, and is it more intense in that spot?\n\n\n\nREQUEST TEST: Liver_Functions"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Hemoglobin: 17.0 g/dL (slightly decreased from previous reading)\n- Reticulocytes: 0.3% (within normal range)\n- Bilirubin_Total: 6.8 mg/dL (slightly decreased from previous reading)\n- Bilirubin_Direct: 0.6 mg/dL (within normal range)\n- Free_T4: 7.1 \u03bcg/dL (slightly decreased from previous reading)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you point to the area where you feel the yellowish discoloration is most noticeable, and is it more intense in that spot?\n\n\n\nAlso, can you tell me if you've noticed any changes in your stool or urine output recently?\n\n\n\nI'd like to take a look at the photograph of the affected area again to confirm the findings. Can you please bring the baby over so I can examine it more closely?\n\n\n\nAlso, I'd like to ask about your feeding schedule. Are you being fed breast milk or formula, and if so, how often?\n\n\n\nCan you tell me if you've noticed any unusual sounds or breathing difficulties?\n\n\n\nPlease cough or take a deep breath to help me assess the liver function test results.\n\n\n\nAlso, I'd like to request a test to check for any signs of infection, such as a complete blood count (CBC) and blood culture.\n\n\n\nREQUEST TEST: CBC_and_Blood_Culture"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\n- Odors or discharge: NONE NOTED.\n- Inspection of skin: JAUNDICE NOTEED ON FACE, CHEST, AND ABDOMEN. SCLERAL ICTERUS ALSO NOTEED.\n- Feeding and bowel movements: NORMAL.\n- Hemoglobin: 17.1 g/dL (slightly decreased from previous reading)\n- Reticulocytes: 0.3% (within normal range)\n- Bilirubin_Total: 6.8 mg/dL (slightly decreased from previous reading)\n- Bilirubin_Direct: 0.6 mg/dL (within normal range)\n- Free_T4: 7.1 \u03bcg/dL (slightly decreased from previous reading)\n- Stool output: NORMAL\n- Stool consistency: NORMAL\n- Urine output: NORMAL\n- CBC and Blood Culture: NORMAL"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken another look at the photograph of the affected area, and I do see some yellowing of the skin. Can you please point to the area where you feel the yellowish discoloration is most noticeable, and is it more intense in that spot?\n\n\n\nAlso, I'd like to ask about your mother's diet and any food sensitivities she may have, especially if she's been breastfeeding. Are there any foods that your mother avoids or has a strong preference for?\n\n\n\nCan you tell me if you've noticed any changes in your stool or urine output recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more intense on my cheeks and forehead, it's really yellow and quite bright.\n\nMy mother has a normal diet, she eats whatever the hospital provides, but I don't think she has any food sensitivities.\n\nI've noticed that I don't have any issues with my stool or urine output, everything is normal for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken another look at the photograph of the affected area, and I do see some yellowing of the skin. Can you please point to the area where you feel the yellowish discoloration is most noticeable, and is it more intense in that spot?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The yellowish discoloration is most noticeable on my cheeks and forehead, it's really yellow and quite bright.\n\nCan I please be held or fed by my mother, I feel a bit warm and uncomfortable when I'm not held or fed?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mother's diet and any food sensitivities she may have, especially if she's been breastfeeding. Are there any foods that your mother avoids or has a strong preference for?\n\n\n\nAlso, I'd like to ask about your feeding schedule. Are you being fed breast milk or formula, and if so, how often?\n\n\n\nIs the yellowish discoloration more noticeable when you're lying down or sitting up?\n\n\n\nCan you please point to the area where you feel the yellowish discoloration is most noticeable, and is it more intense in that spot?\n\n\n\nI'd like to request a test to check for any signs of infection, such as a complete blood count (CBC) and blood culture.\n\n\n\nAlso, can you tell me if you've noticed any unusual sounds or breathing difficulties?\n\n\n\nPlease cough or take a deep breath to help me assess the liver function test results."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm being fed breast milk every 2-3 hours, and I'm happy when my mother is around, I feel warm and comfortable when I'm close to her.\n\nThe yellowish discoloration is more noticeable when I'm not being held or fed by my mother, I feel a bit warm sometimes.\n\nI don't hear any unusual sounds, I just feel happy and content when my mother is around.\n\n*achieves coughing motion*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken a thorough examination of the patient, and I must say, I'm quite confident in my diagnosis. \n\nBased on the patient's history, physical examination, and test results, I'm going to diagnose the patient with... Hyperbilirubinemia, specifically Neonatal Jaundice.\n\nI believe this diagnosis is supported by the patient's yellowish discoloration of the skin, jaundice in the whites of the eyes, and elevated bilirubin levels in the blood test results. The patient's feeding schedule and mother's diet and food sensitivities are also relevant factors in this diagnosis.\n\nHowever, I must note that the patient's condition is mild, and with proper care and monitoring, the patient should make a full recovery. I'll be prescribing some additional tests and treatments to ensure the patient's optimal health.\n\nDIAGNOSIS READY: Hyperbilirubinemia, specifically Neonatal Jaundice"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Physiological neonatal jaundice",
+    "DIAGNOSIS_READY_Simulation": "Scene 72, The diagnosis was CORRECT (6.85%)"
+  }
+]

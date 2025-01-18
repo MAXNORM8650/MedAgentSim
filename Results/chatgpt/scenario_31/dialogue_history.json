@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides fatigue, malaise, and weight loss?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any fever or night sweats. My bowel habits seem to be normal as well."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or any gastrointestinal symptoms like nausea or vomiting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any nausea or vomiting, and my appetite seems to be about the same. I just feel more tired than usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections or illnesses that you can recall?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can't think of any recent infections or illnesses. I've just been feeling unusually fatigued for a while now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any significant stressors in your life recently, either physical or emotional?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any major stressors lately, just the usual ups and downs of life. It's mostly the fatigue and weight loss that have me concerned."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your sleep patterns, such as difficulty falling asleep or staying asleep?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any trouble falling or staying asleep, but I do feel more tired during the day. It's like no matter how much I rest, I still feel drained."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your physical activity or exercise routine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my physical activity or exercise routine at all. I still do what I usually do, but I just feel more exhausted."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in your body, such as joint pain or muscle aches?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any joint pain or muscle aches, just this overwhelming fatigue. It feels like my body is heavy, but there's no specific pain I can point to."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin, such as rashes, discoloration, or unusual bruising?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any rashes or unusual bruising on my skin. It looks normal to me, but I do feel a bit more pale than usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, and if so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done. The last ones were a while ago, and I don't remember the results clearly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your menstrual cycle or any other hormonal changes if applicable?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have a menstrual cycle, but I haven't noticed any other hormonal changes either. It's mostly just the fatigue and weight loss that are concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any exposure to toxins or chemicals in your environment, such as heavy metals or pesticides?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been exposed to any known toxins or chemicals. My environment is pretty standard, and I haven't done anything unusual that would involve hazardous materials."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any swelling in your legs or abdomen, or noticed any changes in your urine output?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my legs or abdomen, and my urine output seems to be normal. It's just the fatigue and weight loss that are really bothering me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of chronic illnesses, such as autoimmune diseases, cancers, or metabolic disorders?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know of any significant family history of chronic illnesses. My parents were generally healthy, but I can't recall any specific conditions."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your mental health, such as increased anxiety or depression?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my mental health. I feel a bit down due to the fatigue and weight loss, but nothing more than that."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to anyone who has been ill?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled recently, and I haven't been around anyone who was ill. It's just been the same routine for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or medical procedures that could be relevant to your current symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations or medical procedures. My last check-up was quite some time ago, and nothing significant has happened since then."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your concentration or memory, such as difficulty focusing or forgetfulness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my concentration or memory. I can still focus on things, but the fatigue makes it harder to stay engaged for long periods."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent weight changes aside from the unintentional weight loss you've mentioned?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent weight changes aside from the unintentional weight loss. It's been quite concerning to see the scale drop without any effort on my part."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your blood pressure or heart rate, such as feeling lightheaded or having palpitations?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt lightheaded or experienced any palpitations. My blood pressure has been stable, but I do feel more fatigued than usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Possible chronic fatigue syndrome or an underlying malignancy. Further testing is recommended to confirm the diagnosis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Chronic lymphocytic leukemia",
+    "DIAGNOSIS_READY_Simulation": "Scene 31, The diagnosis was INCORRECT, 40%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "What kind of tests do you think I should undergo to get to the bottom of this?"
+  }
+]

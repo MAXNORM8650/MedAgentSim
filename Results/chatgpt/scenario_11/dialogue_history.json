@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe how long these episodes of unresponsiveness last and how frequently they occur?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "They last about 3 to 4 minutes each time, and they've been happening a lot over the past month."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific triggers or warning signs before these episodes occur?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I get a muddy taste in my mouth right before they start. That's the only thing I notice."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual movements or jerking of your limbs during these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any jerking movements. Just the facial grimacing and staring."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your mood, behavior, or memory around the time of these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I feel really tired and confused after the episodes, but I don't remember them happening at all. My mood seems okay otherwise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent head injuries or changes in your medication or substance use?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any head injuries, and I don't take any medications or use any substances. Everything has been normal at home."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any headaches, nausea, or visual disturbances before or after these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't had any headaches, nausea, or problems with my vision. Everything seems normal except for these episodes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your sleep patterns or experienced excessive daytime sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my sleep patterns, and I don't feel extra sleepy during the day. I sleep pretty well at night."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, fever, or illnesses that could be related to these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any infections or fever recently. I feel fine otherwise, just these episodes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever experienced similar episodes in the past, or is this the first time you've had these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "This is the first time I've had these symptoms. I've never experienced anything like this before."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your diet or any new foods that you've tried?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my diet or tried any new foods recently. I've been eating the same things as always."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual sensations, such as tingling or numbness, in your body before or after these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't felt any tingling or numbness before or after the episodes. It's just the muddy taste and then the episodes happen."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of seizures, epilepsy, or neurological disorders?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't know if anyone in my family has had seizures or anything like that. My parents haven't mentioned it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your sense of smell or taste outside of these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any changes in my smell or taste when I'm not having the episodes. Everything seems normal then."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual stress or significant life changes recently that might be affecting you?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any stress or big changes in my life lately. Everything at home and school feels pretty normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or neurological evaluations done? If so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any blood tests or neurological evaluations done yet. This is the first time I'm talking to a doctor about these episodes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sense of smell or taste outside of these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't noticed any changes in my smell or taste when I'm not having the episodes. Everything seems normal then."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual fatigue or weakness in your muscles during or after these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't felt weak or fatigued in my muscles during the episodes. I just feel tired and confused afterward."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever had any episodes of loss of consciousness or fainting, even if they were brief?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't fainted or lost consciousness at all. I've just been staring and not responding during those episodes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your ability to concentrate or focus on tasks after these episodes?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really noticed any changes in my ability to concentrate or focus after the episodes. I just feel tired and confused for a little while, but then I'm okay."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and the details you've provided, I suspect you may be experiencing absence seizures. However, to confirm this, I would like to request an EEG to observe your brain activity during these episodes. REQUEST TEST: EEG"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Interictal spikes and sharp waves localized to the temporal lobes, more prominent on the right side."
+  }
+]

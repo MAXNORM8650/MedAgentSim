@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the seizure you experienced? Was it a brief, generalized seizure or did it last for a long time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It was a pretty short seizure, I think it lasted about a minute or so, and I don't really remember much after that. I just woke up afterwards and felt a bit confused.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the seizure to me in as much detail as possible, including any sensations or feelings you experienced before, during, and after it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started with a feeling of... of being a bit dizzy, like I was floating or something. Then I felt a strong shaking sensation all over my body, like my muscles were contracting and releasing really fast. It was a bit scary, to be honest. When it was over, I felt really confused and disoriented, like I didn't know where I was or what was going on. I didn't really see anything, but I could hear some weird noises around me.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you experienced any unusual sensations or auras before the seizure, such as numbness, tingling, or changes in vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Hmm, I don't think so. I didn't feel anything out of the ordinary before the seizure started, just the feeling of dizziness and the shaking sensation. But after it was over, I did notice that my tongue felt a bit... swollen, I guess you'd say. It was hard to describe, but it felt like it was sticking out a bit more than usual.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me where on your body did you feel the seizure start? Was it localized to one area or did it spread throughout your entire body?\n\n\n\nAlso, did the seizure cause you to lose consciousness or were you able to remain conscious throughout the episode?\n\n\n\nREQUEST TEST: Electroencephalogram (EEG)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: The seizure appeared to start primarily in the trunk of the body, with the sensation of dizziness and shaking spreading to the extremities. There is no indication that the seizure caused loss of consciousness."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the seizure you experienced? Was it more of a convulsive type where your muscles stiffened or did you experience a loss of muscle control?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It was more of a convulsive type, I think. My muscles did stiffen up and my body was shaking really hard, but I was still able to move my arms and legs, even though it felt like they were being controlled by someone else. It was really intense, to be honest.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the seizure in as much detail as possible, including any sensations or feelings you experienced immediately before it started, such as anxiety, dizziness, or changes in your heart rate?\n\n\n\nIs there anything that might have triggered the seizure, such as a specific event or activity that occurred before the seizure?\n\n\n\nCan you tell me about your medical history, including any previous episodes of seizures, allergies, or chronic conditions that may be relevant to your current symptoms?\n\n\n\nREQUEST TEST: Complete Blood Count (CBC)"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 37.2\u00b0C (99.0\u00b0F)\nPulse: 120/min\nRespiratory_Rate: Appropriate for age\nBlood_Pressure: Not applicable for age in this scenario\n\nGeneral_Examination: \nRash_Characteristics: Maculopapular rash that blanches on pressure, started on the trunk then spread to extremities\nLymphadenopathy: Posterior auricular lymphadenopathy present\n\ntests: \nLaboratory_Tests: \nComplete_Blood_Count: Within normal limits for age\nElectrolytes: Within normal limits\nLiver_Function_Tests: Not indicated in the scenario provided\n\nImaging_And_Other_Tests: \nBrain_Imaging: Not indicated in the scenario provided\nElectroencephalogram: Not yet available\n\nSeizure Details: \nThe seizure appeared to start primarily in the trunk of the body, with the sensation of dizziness and shaking"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've experienced any other symptoms besides the rash and the seizure, such as headaches, muscle weakness, or fatigue?\n\n\n\nAlso, can you show me the rash in question, and can you point out if it's itchy or if it's a blistering rash?\n\n\n\nHave you noticed any patterns or triggers for your seizures, such as stress, certain foods, or changes in your environment?\n\n\n\nCan you tell me about your past medical history, including any previous illnesses, vaccinations, or medications that may be relevant to your current symptoms?\n\n\n\nIs there anything that you've taken recently that you think might be related to your symptoms, such as medication or supplements?\n\n\n\nCan you describe your lifestyle and habits, including your diet, exercise routine, and any recent travel or exposure to new environments?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been feeling really tired lately, and my muscles feel a bit weak, especially after I play. I'm not sure if that's related to the rash or the seizure, though. I've been eating the same foods I always do, but I did try some new fruits and veggies recently.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, you mentioned that the seizure was a convulsive type, where your muscles stiffened, and you experienced a loss of muscle control. Can you elaborate on what you felt immediately before the seizure started? Were you feeling anxious, dizzy, or had any other unusual sensations?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I don't think I was feeling anxious, exactly. I just felt a bit... off, I guess. Like something was building up inside me, but I couldn't quite put my finger on what it was. The dizziness was pretty intense, though. I felt like I was going to fall over or something.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the rash more closely. Can you please lift your arm so I can take a look?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I can lift my arm, I just need to try to hold it steady for a sec. *lifts arm and holds it still*"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you point out the exact location of the rash on your arm, is it widespread or localized to one area?\n\n\n\nCan you tell me the exact color of the rash, is it red, pink, or more of a white or yellowish hue?\n\n\n\nHave you noticed any blisters or fluid on the surface of the rash?\n\n\n\nIs the rash itchy, numb, or does it have any other unusual sensations?\n\n\n\nCan you move your arm for me, I'd like to assess for any stiffness or weakness?\n\n\n\nCan you tell me more about your recent activities, have you done anything strenuous or unusual in the past 24-48 hours?\n\n\n\nCan you describe your medication regimen, are you currently taking any medications that could potentially trigger seizures or affect your symptoms?\n\n\n\nCan you tell me about your family medical history, are there any relatives with a history of seizures or other neurological conditions?\n\n\n\nCan you tell me if you've noticed any other symptoms besides the rash and the seizure, such as fever, headache, or"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Like, I don't know if it's the same color as the rest of my skin, it's kind of... pale, I guess. It's not really red or anything, but it's definitely lighter than my normal skin tone. And, um, I don't really feel any itching or numbness from it, but it does feel a bit... tender, I suppose. Like, if I press on it, it feels a bit softer than the rest of my skin.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the rash on your arm, is it circular, oval, or more irregular in shape?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's kind of... irregular, I think. It's not a perfect circle or oval, it's more like a patchy area with some smaller patches. It's not all connected, though, it's more like little islands of rash scattered all over my arm.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you show me the rash on your arm again and point out if it's circular, oval, or irregular in shape, and if there are any blisters or fluid on the surface?\n\n\n\nAlso, can you take a closer look at your hands and feet, are there any other rashes or lesions on these areas?\n\n\n\nHave you experienced any fever or chills recently, and if so, how long have they persisted?\n\n\n\nCan you tell me about your diet, have you eaten anything unusual or exotic recently that could potentially trigger an allergic reaction?\n\n\n\nCan you move your hands and feet for me, I'd like to assess for any stiffness or weakness?\n\n\n\nCan you describe your sleep patterns, have you been experiencing any insomnia or fatigue recently?\n\n\n\nCan you tell me more about your work or school activities, have you been exposed to any new environments or substances that could potentially trigger a reaction?\n\n\n\nCan you tell me if you've noticed any unusual odors or smells that you can't explain?\n\n\n\nCan you point out any"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's still pretty irregular, I think. Like, there are some patches that are connected and some that are separate. And, um, I don't see any blisters or fluid on the surface of the rash. It's just kind of... patchy.\"\n\nDoctor: \"Can you take a closer look at your hands and feet, are there any other rashes or lesions on these areas?\"\n\n\"Let me take a look. *looks at hands and feet* Yeah, I do see some small, flat patches on my hands. They're not as big as the ones on my arm, but they're definitely rashy. And, um, my feet have some too. They're kind of... scaly, I guess. Not really sure what that's like.\"\n\nDoctor: \"Have you experienced any fever or chills recently, and if so, how long have they persisted?\"\n\n\"Yeah, I had a pretty high fever like, five days ago. It was 40.5\u00b0C"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the rash more closely. Can you please lift your arm so I can take a look?\n\n(Patient lifts arm, and I inspect the rash)\n\nIt appears to be a maculopapular rash, and it's not itchy. Can you describe the rash in more detail, is it raised or flat?\n\nAlso, can you tell me if the rash has spread to other parts of your body, or is it still localized to this one area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's pretty flat, I think. It doesn't feel raised or bumpy. And, yeah, it's spread to my legs and arms too, but not as much as my trunk. It's still pretty patchy, though.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if the rash has spread to other parts of your body, or is it still localized to this one area?\n\n\n\nAlso, can you describe the rash in more detail, are there any other symptoms such as redness, swelling, or warmth around the affected area?\n\n\n\nREQUEST TEST: Skin Scraping"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: The rash has spread to the legs and arms, but is still patchy and irregular in distribution. The rash on the arms and legs is smaller and more scaly than on the trunk, but shares similar characteristics such as being lighter in color and not feeling itchy or numb. The rash on the hands and feet appears as small, flat patches. There is no redness, swelling, or warmth around the affected areas."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your symptoms since the rash appeared, have you noticed any changes in its size, shape, or color?\n\n\n\nAlso, can you describe the sensation of the rash when you touch it, is it warm, cool, or neutral?\n\n\n\nCan you point out any other areas on your body that are affected by the rash, are there any other lesions or rashes?\n\n\n\nCan you tell me about your personal hygiene practices, do you bathe regularly and wear clean clothes?\n\n\n\nCan you tell me if you've noticed any other symptoms besides the rash and the seizure, such as joint pain, muscle cramps, or vision changes?\n\n\n\nCan you describe your diet in more detail, are you eating any new foods or supplements that could potentially trigger an allergic reaction?\n\n\n\nCan you tell me about your stress levels, have you experienced any significant stress or anxiety in the past few days?\n\n\n\nCan you tell me if you've noticed any unusual odors or smells that you can't explain?\n\n\n\nCan you describe your"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been feeling pretty meh since the rash appeared. I don't really notice any changes in its size, but it does seem to be spreading a bit. I've also noticed that it's getting a bit lighter in color, like it's fading to a more pale color. When I touch it, it feels kinda... neutral, I guess. It's not warm or cool, just kind of the same temperature as the rest of my skin.\n\nAs for other areas, I don't see any other lesions or rashes, but I do have some small, scaly patches on my hands and feet like I mentioned before. I bathe regularly, I try to wash myself every day or two, and I wear clean clothes. I haven't noticed any joint pain or muscle cramps, but I do feel a bit weak, like my muscles are tired. I've been eating the same foods I always do, but I did try some new fruits and veggies recently. I'm not really"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, the rash is a maculopapular rash, not itchy, and it's not raised. Can you tell me if the rash has spread to other parts of your body, or is it still localized to this one area?\n\n\n\nAlso, have you noticed any other symptoms such as redness, swelling, or warmth around the affected area?\n\n\n\nCan you describe your symptoms since the rash appeared, have you noticed any changes in its size, shape, or color?\n\n\n\nCan you tell me more about your personal hygiene practices, do you bathe regularly and wear clean clothes?\n\n\n\nCan you tell me if you've noticed any other symptoms besides the rash and the seizure, such as joint pain, muscle cramps, or vision changes?\n\n\n\nCan you describe your diet in more detail, are you eating any new foods or supplements that could potentially trigger an allergic reaction?\n\n\n\nCan you tell me about your stress levels, have you experienced any significant stress or anxiety in the past few days?\n\n\n\nCan you describe your sleep"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been feeling pretty meh since the rash appeared. I don't really notice any changes in its size, but it does seem to be spreading a bit. I've also noticed that it's getting a bit lighter in color, like it's fading to a more pale color. When I touch it, it feels kinda... neutral, I guess. It's not warm or cool, just kind of the same temperature as the rest of my skin.\n\nAs for other areas, I don't see any other lesions or rashes, but I do have some small, scaly patches on my hands and feet like I mentioned before. I bathe regularly, I try to wash myself every day or two, and I wear clean clothes. I haven't noticed any joint pain or muscle cramps, but I do feel a bit weak, like my muscles are tired. I've been eating the same foods I always do, but I did try some new fruits and veggies recently. I'm not really"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see that the rash is a maculopapular rash, not itchy, and it's not raised. Can you tell me if the rash has spread to other parts of your body, or is it still localized to this one area?\n\n\n\nCan you describe the rash in more detail, are there any other symptoms such as redness, swelling, or warmth around the affected area?\n\n\n\nHave you noticed any other symptoms besides the rash and the seizure, such as joint pain, muscle cramps, or vision changes?\n\n\n\nCan you describe your diet in more detail, are you eating any new foods or supplements that could potentially trigger an allergic reaction?\n\n\n\nCan you tell me about your stress levels, have you experienced any significant stress or anxiety in the past few days?\n\n\n\nCan you describe your sleep patterns, have you been experiencing any insomnia or fatigue recently?\n\n\n\nI'd also like to request a Blood Chemistry Panel to get a better understanding of your electrolyte levels and liver function."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been feeling pretty meh since the rash appeared. I don't really notice any changes in its size, but it does seem to be spreading a bit. I've also noticed that it's getting a bit lighter in color, like it's fading to a more pale color. When I touch it, it feels kinda... neutral, I guess. It's not warm or cool, just kind of the same temperature as the rest of my skin.\n\nAs for other areas, I don't see any other lesions or rashes, but I do have some small, scaly patches on my hands and feet like I mentioned before. I bathe regularly, I try to wash myself every day or two, and I wear clean clothes. I haven't noticed any joint pain or muscle cramps, but I do feel a bit weak, like my muscles are tired. I've been eating the same foods I always do, but I did try some new fruits and veggies recently. I'm not really"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any changes in your stool or urine output since the rash appeared?\n\n\n\nAlso, have you experienced any unusual symptoms such as nausea, vomiting, or abdominal pain?\n\n\n\nCan you describe your medication regimen, are you currently taking any medications that could potentially trigger seizures or affect your symptoms?\n\n\n\nCan you tell me about your work or school activities, have you been exposed to any new environments or substances that could potentially trigger a reaction?\n\n\n\nCan you point out any areas of the rash that are more red or inflamed than others?\n\n\n\nCan you tell me about your family medical history, are there any relatives with a history of seizures, allergies, or other neurological conditions?\n\n\n\nCan you describe your symptoms since the rash appeared, have you noticed any changes in its size, shape, or color?\n\n\n\nCan you tell me about your stress levels, have you experienced any significant stress or anxiety in the past few days?\n\n\n\nCan you describe your sleep patterns, have you been experiencing any insomnia or fatigue recently?\n\n\n\n"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've noticed that my stool has been a bit loose since the rash appeared, but I'm not sure if that's related or not. I've also noticed that I've been drinking a lot of fluids to try and stay hydrated, since I was feeling really dehydrated after the fever. As for my medication regimen, I'm currently taking acetaminophen for the fever and any discomfort I've been feeling. I'm not sure if it's related to the rash, but I've been trying to avoid any new foods or substances that might trigger a reaction.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Thank you for providing more information about the rash. Can you describe the rash in more detail, are there any other symptoms such as redness, swelling, or warmth around the affected area? And have you noticed any blisters or fluid on the surface of the rash?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's still pretty flat, I think. It doesn't feel raised or bumpy. And, yeah, I've noticed some redness around the edges of the patches, but not in the middle. I've also seen some small bumps on the edges, but they're not really raised or anything. As for blisters or fluid, I don't see any on the surface of the rash. I've tried to scratch it a bit, but it doesn't feel itchy or tender when I do.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, thank you for answering all my questions. I've taken note of all the information you've provided. Based on the combination of your seizure, rash, and other symptoms, I'm going to request one more test to help narrow down the possibilities. REQUEST TEST: Lumbar Puncture. I'd like to perform a lumbar puncture to check for any signs of meningitis or encephalitis, which could be contributing to your symptoms. I'll also continue to monitor your condition closely and review the test results as soon as they're available. I'll be in touch with you soon to discuss the results and come up with a plan for further treatment.\""
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Roseola infantum",
+    "DIAGNOSIS_READY_Simulation": "Scene 45, The diagnosis was INCORRECT (0%)"
+  }
+]

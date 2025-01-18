@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides chronic diarrhea and lower abdominal discomfort?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been having cramping that gets better after I have a bowel movement. Sometimes, I feel an urgent need to go, and there's mucus in my stool. After I go, I often feel like I haven't completely emptied my bowels."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your diet or any recent stressors in your life that might be contributing to these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't changed my diet significantly, but I did go camping a few months ago. I haven't felt particularly stressed lately either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any weight loss, fatigue, or fever during this time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any weight loss, and I don't feel fatigued. I also haven't had a fever, so those symptoms aren't present for me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any blood in your stool or any changes in the color of your stool?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't seen any blood in my stool, and the color seems normal to me. It's mostly just the mucus that I've noticed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history, particularly to areas where gastrointestinal infections are common?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled recently, but I did go camping a few months ago, and one of my friends got sick afterward."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any gastrointestinal symptoms, such as nausea or vomiting, during or after your camping trip?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any nausea or vomiting at all during or after the camping trip. It's mostly just the diarrhea and the other symptoms I've mentioned."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any changes in your bowel habits, such as the frequency of your bowel movements or the consistency of your stool?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I've been having bowel movements almost every day, and they tend to be more watery than usual. The urgency to go is quite intense, and I often feel like I need to go again shortly after."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any joint pain, skin rashes, or eye problems during this time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any joint pain, skin rashes, or eye problems. My symptoms have been mostly focused on my gastrointestinal issues."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you ever been diagnosed with any gastrointestinal conditions, such as irritable bowel syndrome (IBS) or inflammatory bowel disease (IBD)?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been diagnosed with any gastrointestinal conditions before. This is the first time I'm experiencing these symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific foods that seem to trigger your symptoms or make them worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't really noticed any specific foods that trigger my symptoms. It seems to happen regardless of what I eat. I just try to manage it as best as I can."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your bowel movements, such as alternating between diarrhea and constipation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any constipation; it's been mostly diarrhea every day. I don't notice any alternating patterns in my bowel movements."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent antibiotic use or any medications that could affect your gastrointestinal system?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't taken any antibiotics recently, and I'm not on any medications that would affect my gastrointestinal system."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any family history of gastrointestinal diseases, such as Crohn's disease or ulcerative colitis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known family history of gastrointestinal diseases like Crohn's or ulcerative colitis. My family generally has good health."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent stool tests or evaluations done to check for infections or parasites?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any stool tests or evaluations done yet. I was hoping to discuss my symptoms first before any tests are ordered."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Stool_Culture. Have you noticed any specific times of day when your symptoms are worse, or do they seem to be constant throughout the day?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the normal stool culture results, have you experienced any food intolerances or allergies that you might not have mentioned earlier?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any food intolerances or allergies. I eat a variety of foods, and nothing seems to upset my stomach specifically. It's just the ongoing diarrhea and related symptoms that are concerning me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your stress levels or emotional well-being that might be contributing to your symptoms, even if you don't feel particularly stressed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my stress levels or emotional well-being. I feel pretty stable overall, but the ongoing symptoms are definitely affecting my mood."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your sleep patterns or any sleep disturbances that could be related to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any noticeable changes in my sleep patterns or disturbances. I generally sleep well, but the discomfort from my symptoms sometimes makes it hard to relax."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your symptoms and the normal stool culture results, I would like to perform a colonoscopy to further investigate any potential underlying issues in your gastrointestinal tract. Would you be open to that?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I'm open to having a colonoscopy. I just want to find out what's causing these symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Irritable Bowel Syndrome (IBS)"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Irritable Bowel Syndrome",
+    "DIAGNOSIS_READY_Simulation": "Scene 23, The diagnosis was CORRECT, 41%"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing along with the neck swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any other symptoms. No fever, no pain, and no discharge from the swelling. It's just the swelling on my neck that's been increasing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your weight, appetite, or energy levels recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my weight or appetite. My energy levels feel about the same as usual."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections, illnesses, or injuries in the area of the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections or illnesses, and I can't recall any injuries to that area either. The swelling just appeared gradually over the past couple of months."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of thyroid issues or any family history of thyroid disease?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any personal history of thyroid issues, and there's no known family history of thyroid disease either."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any difficulty swallowing or breathing due to the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any difficulty swallowing or breathing. The swelling hasn't affected my ability to do either of those things."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your voice, such as hoarseness or a change in pitch?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my voice. It sounds the same as it always has."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent exposure to any chemicals, toxins, or radiation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent exposure to chemicals, toxins, or radiation that I'm aware of. My work as a traffic warden doesn't involve any hazardous materials."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any skin changes, such as rashes or discoloration, around the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any skin changes, rashes, or discoloration around the swelling. The skin looks normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent dental work or issues with your teeth that could be related to the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent dental work or issues with my teeth. Everything in that area seems fine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you traveled anywhere recently or been in contact with anyone who has had a contagious illness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled anywhere recently, and I haven't been in contact with anyone who has had a contagious illness. My interactions have been pretty routine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any lumps or swellings in other areas of your body, such as your armpits or groin?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any lumps or swellings in other areas of my body, like my armpits or groin. The swelling is isolated to the nape of my neck."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your stress levels or emotional well-being that could be contributing to the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any significant changes in my stress levels or emotional well-being lately. Everything has been pretty stable for me in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent vaccinations or immunizations that could be relevant to your condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent vaccinations or immunizations. My last one was quite some time ago, and it doesn't seem related to the swelling."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin texture or hair loss that could indicate a hormonal imbalance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my skin texture or any hair loss. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any night sweats or unexplained fevers recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any night sweats or unexplained fevers. My temperature has been normal, and I feel comfortable at night."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or imaging studies done that could provide more information about the swelling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests or imaging studies done for the swelling. The last tests I had were a while ago for my diabetes management."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Neck_Ultrasound. Let's get an ultrasound of your neck to evaluate the swelling further and check for any abnormalities in the lymph nodes or thyroid gland."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Well-circumscribed lesion in the subcutaneous tissue suggestive of a cystic nature. No lymphadenopathy or thyromegaly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the ultrasound results indicating a well-circumscribed lesion suggestive of a cystic nature, have you experienced any changes in the size of the swelling since it first appeared?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The swelling has definitely increased in size since it first appeared about two months ago. It seems to be growing gradually but consistently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the gradual increase in size of the well-circumscribed lesion and the ultrasound results, it seems likely that this could be a benign cyst. Have you experienced any discomfort or tenderness in the area, or is it completely asymptomatic?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's completely asymptomatic. I haven't felt any discomfort or tenderness in the area at all. The swelling is just there, and that's it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "DIAGNOSIS READY: Benign cyst (likely a sebaceous cyst) in the subcutaneous tissue of the neck."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Epidermoid cyst",
+    "DIAGNOSIS_READY_Simulation": "Scene 15, The diagnosis was INCORRECT, 50%"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Thank you for the diagnosis. What are the next steps for managing this cyst?"
+  }
+]

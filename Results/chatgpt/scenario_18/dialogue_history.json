@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me how far along you are in your pregnancy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm 38 weeks along in my pregnancy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any contractions or changes in fetal movement?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I felt some contractions before the bleeding started, but they stopped once the bleeding began. I\u2019m not sure about the baby's movement since the symptoms started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed the color or amount of the vaginal bleeding? Is it bright red, dark, or more like spotting?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The bleeding is bright red and seems to be more than just spotting. It's been consistent for the past hour."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any dizziness, lightheadedness, or weakness since the bleeding started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt dizzy or lightheaded, but I do feel a bit weak from the pain."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous complications during this pregnancy, such as high blood pressure, gestational diabetes, or any history of miscarriage?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any complications during this pregnancy. My only significant medical history is my previous cesarean delivery."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any abdominal tenderness or pain that is localized to a specific area, or is it more generalized?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The abdominal pain is quite severe and feels more generalized rather than localized to a specific area."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your urinary habits, such as pain during urination or blood in your urine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any changes in my urinary habits, and I don't have any pain or blood in my urine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent trauma or falls that could have contributed to the bleeding or pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent trauma or falls. I feel like everything started suddenly without any warning."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any signs of labor, such as increased pelvic pressure or changes in your cervical mucus?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any increased pelvic pressure or changes in my cervical mucus. The contractions I felt earlier were brief and stopped when the bleeding began."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fever, chills, or unusual discharge from the vagina?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any fever or chills, and there hasn't been any unusual discharge from the vagina. The bleeding is the only thing I've noticed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any prenatal visits recently, and if so, were there any concerns noted by your healthcare provider?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I had my last prenatal visit about a week ago, and everything seemed normal at that time. There were no concerns noted by my healthcare provider."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any significant stress or emotional distress recently that could be affecting your pregnancy?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any significant stress or emotional distress recently. Everything has been pretty normal in my life up until now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the baby's movements since the bleeding started, or have you been able to feel the baby move at all?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm not sure about the baby's movements since the bleeding started. I felt the baby move before the symptoms began, but now I haven't noticed anything."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any ultrasound examinations during this pregnancy, and if so, were there any abnormalities noted?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any ultrasound examinations during this pregnancy, so I can't comment on any abnormalities. My last ultrasound was during the second trimester, and everything was normal then."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any severe headaches, visual disturbances, or swelling in your hands or face recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any severe headaches, visual disturbances, or swelling in my hands or face. Everything has felt normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any history of placental issues in previous pregnancies, such as placenta previa or placental abruption?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any history of placental issues in my previous pregnancy. My only significant medical history is my previous cesarean delivery."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the frequency or intensity of the abdominal pain since the bleeding started?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The abdominal pain has remained quite severe and consistent since the bleeding started. I haven't noticed any changes in its frequency or intensity."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any back pain or pressure in your lower back along with the abdominal pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any back pain or pressure in my lower back. The pain is mostly concentrated in my abdomen."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests, and if so, what were the results regarding your hemoglobin levels?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests, so I don't know my hemoglobin levels. My last blood work was done during my last prenatal visit about a week ago."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Complete_Blood_Count. I need to check your hemoglobin levels and overall blood count to assess for any signs of anemia or other complications related to the bleeding."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Hemoglobin: 10.2 g/dL (decreased), Platelets: 200,000 /\u03bcL"
+  }
+]

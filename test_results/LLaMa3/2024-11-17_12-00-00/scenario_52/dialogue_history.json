@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first started noticing these symptoms - jaundice, pruritus, weight loss, pale stool, and dark urine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, it started a couple of weeks ago. I just noticed the yellow discoloration of my skin, and over time, I've been experiencing some itching, especially on my arms and legs."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the timing of these symptoms? Were they all present at the same time or did they develop gradually over a period of weeks or months?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I'd say it started about two weeks ago, but the itching came on a bit later, maybe a week or so after the skin discoloration appeared. The weight loss and pale stool came on a bit faster, over the course of maybe three or four days."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So, they've been present for about 6 weeks now, and at first, it was just the jaundice, but then pruritus started around 4 weeks ago, and weight loss and pale stools came in around 2 weeks ago. Can you tell me if there's been any recent travel or exposure to certain medications that might have triggered these symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't traveled anywhere recently, but I did have a bit of a scare a few weeks ago when I was at the hospital for a check-up. I had an episode of severe abdominal pain, and I was treated with IV fluids and some medication. I don't think it's related to these new symptoms, but I do remember that the doctor told me to make some dietary changes to help with my digestive issues."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your skin, specifically the affected areas. Can you show me exactly where the jaundice is located?\n\n\n\nAlso, have you experienced any fever or chills recently?\n\n\n\nREQUEST TEST: Liver Function Tests"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital Signs: \n  - Temperature: Normal\n  - Blood Pressure: Normal\n  - Heart Rate: Normal\n  - Respiratory Rate: Normal\nAbdominal Examination: \n  - Inspection: Jaundice noted in the conjunctivae and skin, primarily on the face, neck, and upper torso.\n  - Auscultation: Normal\n  - Percussion: Abdomen is soft, non-distended.\n  - Palpation: No tenderness, but a soft, cystic mass palpated in the right upper quadrant.\ntests: \n  - Serum Studies: \n    - Bilirubin_Total: 5.6 mg/dL\n    - Direct_Bilirubin: 4.8 mg/dL\n    - Alkaline_Phosphatase: 192 U/L\n    - AST: 32 U/L\n    - ALT: 34 U/L\n  - Imaging: \n    - Ab"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you point out the location of the jaundice on your skin? I'd like to take a closer look. Is it primarily in your abdomen or does it spread to other areas as well?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The jaundice is mostly on my face, neck, and upper torso, but I can see it on my hands and feet too, especially on the palmar surface and the soles of my feet. It's a bit more noticeable on my hands, to be honest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the location of the jaundice on your skin, exactly? Is it more yellowish, greenish, or does it have a different coloration?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The yellow discoloration is more of a golden color, and it's quite noticeable, especially on my face and neck. It's not just a light yellow, it's a bit deeper, like a honey-like color, but it's not greenish."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the location of the jaundice on your skin, exactly? Is it more yellowish, greenish, or does it have a different coloration?\n\nAlso, when you say the jaundice was just yellow, do you think it was primarily around the eyes or did it spread to other areas as well?\n\n\n\nAlso, have you noticed any areas on your body that are particularly itchy, given the pruritus you've been experiencing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The jaundice seems to be more concentrated on my face, neck, and upper torso, with a bit of it on my hands and feet, especially on the palmar surface and the soles of my feet. It's a golden color, almost honey-like, but not quite greenish. Around my eyes, it's primarily around the conjunctivae, but it's also noticeable on the skin, especially on the bridge of my nose and the tops of my ears."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the jaundice on your skin. Can you gently move your arm to show me where the jaundice is located, and I'll take a better look. \n\nAlso, have you noticed any areas on your skin that are particularly itchy, given the pruritus you've been experiencing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "You've taken a look at the jaundice on my skin, doctor. It's mostly on my face, neck, and upper torso, with a bit of it on my hands and feet, especially on the palmar surface and the soles of my feet. The golden color is quite noticeable.\n\nAs for the itching, it's mainly on my arms and legs, but it's also quite uncomfortable on my hands, especially the palmar surface. It feels like there's something irritating the skin, but I'm not sure what it is."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you show me exactly where the jaundice is located on your arm, and how it's spreading, if at all?\n\n\n\nAlso, can you tell me if the pruritus is mainly in the affected area or if it's radiating to other parts of your body?\n\n\n\nHave you noticed any other symptoms like fatigue, loss of appetite, or abdominal pain?\n\n\n\nREQUEST TEST: Blood Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \n  - Temperature: Normal\n  - Blood Pressure: Normal\n  - Heart Rate: Normal\n  - Respiratory Rate: Normal\n\nAbdominal Examination: \n  - Inspection: Jaundice noted in the conjunctivae and skin, primarily on the face, neck, and upper torso.\n  - Auscultation: Normal\n  - Percussion: Abdomen is soft, non-distended.\n  - Palpation: No tenderness, but a soft, cystic mass palpated in the right upper quadrant.\n\ntests: \n  - Serum Studies: \n    - Bilirubin_Total: 5.6 mg/dL\n    - Direct_Bilirubin: 4.8 mg/dL\n    - Alkaline_Phosphatase: 192 U/L\n    - AST: 32 U/L\n    - ALT: 34 U/L\n  - Imaging: \n    - Ab"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the intensity of the pruritus? Is it a mild, constant itch or is it more severe, causing you discomfort and disrupting your daily activities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The itching is quite uncomfortable, to be honest. It's not just a mild itch, it's more of a constant, burning sensation, especially on my arms and legs. It's hard to concentrate on anything because of the discomfort it causes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the severity of the pruritus, is it constant, or does it come and go throughout the day?\n\n\n\nAlso, have you noticed any areas on your skin that are particularly scaly or flaky, in addition to the pruritus?\n\n\n\nCan you tell me more about your diet and eating habits over the past few weeks, have you noticed any changes or difficulties digesting certain foods?\n\n\n\nI'd like to examine your abdomen, can you hold your stomach for me?\n\n\n\nCan you point out any areas on your abdomen that feel tender or uncomfortable?\n\n\n\nIs there anything you've recently stopped doing or changed in your daily routine that might be contributing to these symptoms?\n\n\n\nCan you tell me more about the intensity of the weight loss, is it a gradual loss or has it been more rapid over the past few weeks?\n\n\n\nCan you tell me more about your family history, have any of your relatives had similar symptoms or conditions in the past?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The itching has been constant for about a week now, but it does seem to come and go slightly throughout the day. It's not constant in terms of severity, but it's definitely a discomforting sensation that's hard to ignore.\n\nI've noticed that my skin is a bit scaly on my arms and legs, especially after taking a shower. It's not flaky, but it does feel a bit rough.\n\nTo be honest, my diet hasn't changed much over the past few weeks. I've been eating the same foods I always do, but I have noticed that I've been feeling a bit bloated and uncomfortable after meals. I'm not sure if it's related to my digestive issues or not.\n\nI'll hold my stomach for you. As for tender or uncomfortable areas, I wouldn't say there's anything that stands out right now. The cystic mass in the right upper quadrant feels soft and non-tender to me.\n\nI stopped smoking about three years ago, but I"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "So you've noticed a significant change in the location of the jaundice over the past few weeks. Can you tell me more about how it's spreading?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mainly spreading to my hands and feet, especially on the palmar surface and the soles of my feet. I've also noticed it's becoming more noticeable around my eyes, especially on the conjunctivae."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your abdomen, specifically the area you mentioned feels tender or uncomfortable. Can you show me exactly where it is?\n\nAlso, I'd like to ask, have you noticed any difficulty urinating or painful urination recently?\n\nCan you tell me more about your family history, particularly any relatives with liver or digestive issues?\n\nCan you describe the sensation of the pruritus, is it a burning, itching, or crawling feeling?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The cystic mass in the right upper quadrant feels soft and non-tender to me. It's a bit to the right of my belly button, and I can feel it moving slightly when I take a deep breath.\n\nAs for urinating, I have noticed that my urine is very dark, almost coffee-colored. It's been like that for a few weeks now.\n\nI come from a family of people with liver issues, actually. My grandfather had cirrhosis, and my mother had hepatitis. So, there's definitely a history of liver problems in my family."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation of the weight loss, is it a gradual loss or has it been more rapid over the past few weeks?\n\nAlso, have you experienced any significant changes in your bowel movements or stool consistency, such as diarrhea or constipation?\n\nAnd can you point out the location of the tender area on your abdomen that I was examining earlier?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say the weight loss is a combination of both, but it feels more like a rapid loss over the past few weeks. It's like I've been losing weight, but it's not just a gradual decrease, it's like I've lost a lot of weight in a short amount of time.\n\nAs for bowel movements, I have noticed that my stool is quite pale and it's been quite dry. I don't know if it's diarrhea or constipation, but it feels like my stool is just not forming properly.\n\nThe tender area on my abdomen is actually right above my belly button, and it's a bit soft to the touch. It feels like a cyst or something, but it's hard to say for sure."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation of the weight loss, is it a gradual loss or has it been more rapid over the past few weeks?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a combination of both, but I'd say it's more rapid over the past few weeks. It's like I've been losing weight, but it's not just a gradual decrease, it's like I've lost a lot of weight in a short amount of time. I've also noticed that my appetite has decreased significantly, which I think is contributing to the weight loss."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sensation of the weight loss, is it a gradual loss or has it been more rapid over the past few weeks?\n\n\n\nAlso, have you noticed any difficulty urinating or painful urination recently?\n\n\n\nCan you tell me more about your family history, particularly any relatives with liver or digestive issues?\n\n\n\nCan you describe the sensation of the pruritus, is it a burning, itching, or crawling feeling?\n\n\n\nCan you tell me more about the sensation of the weight loss, is it a gradual loss or has it been more rapid over the past few weeks?\n\n\n\nAlso, have you experienced any significant changes in your bowel movements or stool consistency, such as diarrhea or constipation?\n\n\n\nAnd can you point out the location of the tender area on your abdomen that I was examining earlier?\n\n\n\nREQUEST TEST: Abdominal Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \n  - Temperature: Normal\n  - Blood Pressure: Normal\n  - Heart Rate: Normal\n  - Respiratory Rate: Normal\n\nAbdominal Examination: \n  - Inspection: Jaundice noted in the conjunctivae and skin, primarily on the face, neck, and upper torso.\n  - Auscultation: Normal\n  - Percussion: Abdomen is soft, non-distended.\n  - Palpation: No tenderness, but a soft, cystic mass palpated in the right upper quadrant.\n  - Tenderness: Tender area above belly button, soft to the touch.\n\ntests: \n  - Serum Studies: \n    - Bilirubin_Total: 5.6 mg/dL\n    - Direct_Bilirubin: 4.8 mg/dL\n    - Alkaline_Phosphatase: 192 U/L\n    - AST: 32 U/L\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the abdominal tenderness, is it a dull ache or a sharp pain, and does it radiate to other areas?\n\n\n\nAlso, have you noticed any nausea or vomiting in the past few weeks?\n\n\n\nCan you point out any other areas on your abdomen that feel tender or uncomfortable?\n\n\n\nHave you noticed any changes in your bowel movements, such as diarrhea or constipation, in addition to the pale stools?\n\n\n\nCan you describe the sensation of the weight loss, is it a gradual loss or has it been more rapid over the past few weeks?\n\n\n\nCan you tell me more about your overall energy level, have you noticed any fatigue or weakness?\n\n\n\nCan you tell me more about your activities and exercise level, have you noticed any changes or difficulty performing daily tasks?\n\n\n\nCan you point out the location of the tender area on your abdomen that I was examining earlier?\n\n\n\nCan you describe the sensation of the pruritus, is it a burning, itching, or crawling feeling?\n\n\n\nCan you tell me more"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say the tenderness is more of a dull ache, but it's not a sharp pain. It's just a soft, gentle feeling when I press on the area above my belly button.\n\nAs for nausea, I have noticed that I've been feeling a bit queasy after meals, but it's not constant. It's more of an occasional feeling.\n\nThe tender area on my abdomen is actually right above my belly button, and it's a bit soft to the touch. It feels like a cyst or something, but it's hard to say for sure.\n\nI've noticed that my bowel movements are quite pale and dry. It's not diarrhea, but it's definitely not normal either. It feels like my stool is just not forming properly.\n\nThe sensation of the weight loss is a bit hard to describe. It feels like I've lost a lot of weight in a short amount of time, but it's not just a gradual decrease. It's like my body is just... shedding something"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sensation of the pruritus, is it a burning, itching, or crawling feeling?\n\n\n\nCan you tell me more about your overall energy level, have you noticed any fatigue or weakness?\n\n\n\nCan you point out the location of the tender area on your abdomen that I was examining earlier?\n\n\n\nCan you describe the sensation of the weight loss, is it a gradual loss or has it been more rapid over the past few weeks?\n\n\n\nCan you tell me more about your activities and exercise level, have you noticed any changes or difficulty performing daily tasks?\n\n\n\nCan you describe the sensation of the pruritus, is it a burning, itching, or crawling feeling?\n\n\n\nCan you tell me more about your bowel movements, have you noticed any diarrhea or constipation?\n\n\n\nCan you point out the location of the tender area on your abdomen that I was examining earlier?\n\n\n\nCan you tell me more about your overall health, have you noticed any other symptoms or concerns that might be related to these symptoms?\n\n\n\nCan"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say the sensation of the pruritus is a bit hard to describe, but it's more of a burning, intense itching feeling, especially on my arms and legs. It's like there's something under the skin that's irritating me, but I don't know what it is.\n\nAs for my energy level, I have to admit that I've been feeling a bit fatigued lately, especially after meals. It's like my body is just drained of energy, and I have to take naps just to feel okay.\n\nThe tender area on my abdomen is right above my belly button, and it's a bit soft to the touch. It feels like a cyst or something, but it's hard to say for sure.\n\nThe sensation of the weight loss is a bit hard to describe. It feels like I've lost a lot of weight in a short amount of time, but it's not just a gradual decrease. It's like my body is just... shedding something, like it"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your overall health, have you noticed any other symptoms or concerns that might be related to these symptoms?\n\n\n\nAlso, I'd like to ask, have you recently taken any supplements or started any new medications that might be contributing to these symptoms?\n\n\n\nCan you describe the sensation of the pruritus, is it a burning, itching, or crawling feeling?\n\n\n\nI'd like to take a closer look at the abdominal tenderness, can you gently press the area where you feel discomfort and see if it radiates to other areas?\n\n\n\nAlso, have you noticed any changes in your skin, such as redness, swelling, or rashes, in addition to the pruritus?\n\n\n\nCan you point out the location of the tender area on your abdomen that I was examining earlier?\n\n\n\nREQUEST TEST: Complete Blood Count"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \n\nVital Signs: \n  - Temperature: Normal\n  - Blood Pressure: Normal\n  - Heart Rate: Normal\n  - Respiratory Rate: Normal\n\nAbdominal Examination: \n  - Inspection: Jaundice noted in the conjunctivae and skin, primarily on the face, neck, and upper torso.\n  - Auscultation: Normal\n  - Percussion: Abdomen is soft, non-distended.\n  - Palpation: No tenderness, but a soft, cystic mass palpated in the right upper quadrant.\n  - Tenderness: Tender area above belly button, soft to the touch.\n\ntests: \n  - Serum Studies: \n    - Bilirubin_Total: 5.6 mg/dL\n    - Direct_Bilirubin: 4.8 mg/dL\n    - Alkaline_Phosphatase: 192 U/L\n    - AST: 32 U/L\n"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Based on your symptoms and the test results, I'm going to take a stab at a diagnosis. Can you tell me if you've noticed any recent changes in your liver size or if it feels enlarged in any way?\""
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pancreatic adenocarcinoma",
+    "DIAGNOSIS_READY_Simulation": "Scene 52, The diagnosis was INCORRECT (3.77%)"
+  }
+]

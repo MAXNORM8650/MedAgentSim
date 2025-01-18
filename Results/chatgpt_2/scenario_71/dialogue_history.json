@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms are you experiencing besides dizziness, nausea, and imbalance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any fever, vomiting, or significant headaches. I also haven't experienced any ear pain or recent foreign travel."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your medication or started any new medications?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't started any new medications recently, but I did take diphenhydramine to help me sleep and ease my symptoms."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your vision, such as blurriness or double vision?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my vision, like blurriness or double vision. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent head injuries or falls that could have contributed to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent head injuries or falls. I've been feeling fine until this morning when the spinning sensation started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your hearing, such as ringing in the ears or hearing loss?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any ringing in my ears or hearing loss. My hearing seems to be normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been under any significant stress or anxiety lately that could be contributing to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been under any significant stress or anxiety lately. I've been feeling pretty stable overall."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent illnesses, such as a cold or sinus infection, that might be related to your current symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I had a cold a few days ago, and I've been trying to recover from it. I've also increased my garlic intake recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your appetite or weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my appetite or weight recently. I've been eating normally."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any lightheadedness or fainting spells in addition to your dizziness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any lightheadedness or fainting spells. The dizziness has been constant since this morning."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been experiencing any gastrointestinal symptoms, such as diarrhea or abdominal pain, alongside your nausea?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any diarrhea or abdominal pain. The nausea is occasional, but my stomach feels fine otherwise."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you been feeling more fatigued than usual, or do you have any unusual sleep patterns?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't felt more fatigued than usual, and my sleep patterns have been normal aside from taking diphenhydramine to help me sleep."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your coordination or difficulty walking?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my coordination, but I do feel a bit unsteady when I walk. It's mostly the spinning sensation that makes it challenging."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your blood pressure or heart rate, such as feeling your heart racing or feeling faint when standing up?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my blood pressure or heart rate. I don't feel my heart racing, and I haven't felt faint when standing up."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests or other medical evaluations that might provide insight into your current condition?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests or medical evaluations. My past medical history is generally unremarkable, so I haven't felt the need for any evaluations."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your environment, such as exposure to new allergens or toxins?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been exposed to any new allergens or toxins recently. My environment has been pretty stable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your hydration levels, such as increased thirst or urination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my hydration levels. My thirst and urination seem normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your sleep patterns, such as insomnia or excessive sleepiness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any insomnia or excessive sleepiness. My sleep has been normal aside from taking diphenhydramine to help me sleep."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent dental work or changes in your oral health that could be related to your symptoms?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent dental work or changes in my oral health. Everything has been fine in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any recent changes in your sense of smell or taste?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my sense of smell or taste. Everything seems normal in that aspect."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and recent cold, I suspect you may be experiencing vestibular neuritis, which can occur after a viral infection. However, I would like to confirm this with a test. REQUEST TEST: Audiogram."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: Bilateral decreased hearing sensitivity, details not specified."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I understand that my hearing sensitivity is decreased, but I haven't noticed any issues with my hearing otherwise. I'm still primarily concerned about the spinning sensation and occasional nausea. What do you think could be causing these symptoms?"
+  }
+]

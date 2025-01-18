@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What is the age of the newborn, and when did the feeding intolerance and bilious vomiting start?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I am a newborn, just six hours old. The feeding intolerance and bilious vomiting started within the first day after birth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn had any bowel movements since birth, and if so, what was the appearance of the stool?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any bowel movements since birth."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn been able to tolerate any fluids or feedings at all, or has there been complete intolerance?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I have not been able to tolerate any fluids or feedings at all."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the newborn shown any signs of abdominal distension or tenderness upon examination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been examined for abdominal distension or tenderness yet, but I feel uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any signs of bile in the vomit, such as a greenish color?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, the vomit has a greenish color, which I believe indicates bile."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of respiratory distress or abnormal breathing patterns in the newborn?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't shown any signs of respiratory distress, and my breathing seems normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any maternal complications during pregnancy or delivery that we should be aware of?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any information about maternal complications, but I know my mother missed several prenatal checkups."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of abdominal swelling or any visible loops of bowel upon physical examination?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been examined for abdominal swelling or visible loops of bowel yet, but I feel some discomfort in my belly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in the newborn's skin color, such as jaundice or pallor?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my skin color, so I don't think I have jaundice or pallor."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have there been any signs of meconium passage, or has there been any indication of a meconium ileus?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't passed any meconium since birth, so I don't think there's been any indication of a meconium ileus."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any signs of dehydration, such as dry mucous membranes or decreased skin turgor?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been examined for dehydration, but I feel a bit dry and uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any episodes of lethargy or decreased responsiveness since birth?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any episodes of lethargy or decreased responsiveness, but I do feel a bit uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of gastrointestinal issues or congenital abnormalities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, my older brother had surgery for pyloric stenosis when he was an infant."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given your brother's history of pyloric stenosis, I need to ask if there have been any signs of projectile vomiting or if the vomiting has been forceful?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, the vomiting has been quite forceful, almost like it comes out suddenly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the forceful vomiting and the absence of bowel movements, I need to assess for any potential obstruction. REQUEST TEST: Abdominal_Ultrasound."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the normal abdominal ultrasound results, I need to ask if there have been any signs of abdominal pain or discomfort that seem to come and go?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any specific episodes of abdominal pain that come and go, but I do feel discomfort consistently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the consistent discomfort and the absence of bowel movements, I need to know if there have been any signs of a distended abdomen upon physical examination. Have you been examined for that yet?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been examined for abdominal distension yet, but I do feel some discomfort in my belly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any signs of a \"currant jelly\" stool, which can indicate a specific type of obstruction?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any bowel movements at all, so I haven't experienced any stool, including \"currant jelly\" stool."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the symptoms of bilious vomiting, feeding intolerance, and the absence of bowel movements, I need to ask if there have been any signs of abdominal distension upon physical examination. Have you been examined for that yet?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't been examined for abdominal distension yet, but I do feel some discomfort in my belly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Given the symptoms you've described, including bilious vomiting, feeding intolerance, and the absence of bowel movements, I suspect a possible condition. I will proceed with my diagnosis. DIAGNOSIS READY: Duodenal Atresia"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Duodenal atresia",
+    "DIAGNOSIS_READY_Simulation": "Scene 38, The diagnosis was CORRECT, 35%"
+  }
+]

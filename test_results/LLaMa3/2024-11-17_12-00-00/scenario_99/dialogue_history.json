@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the duration of your fatigue? When did it start, and has it changed or worsened over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started about two months ago, and it's been gradually getting worse, like a slow leak. I've been trying to keep up with my daily routine, but lately, it's been really hard to get out of bed in the morning.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about any significant changes in your appetite or weight over the past few months, and have you noticed any triggers that make your fatigue better or worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"To be honest, my appetite hasn't really changed, but I do find myself eating smaller meals throughout the day. I've also noticed that I don't feel like I have the energy to cook or prepare meals like I used to. As for triggers, I'd say the fatigue is constant, but I do feel a slight improvement when I'm out in the sun for a bit, which is weird since I'm not really one for outdoor activities.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "How long did you say the fatigue started? Was it a gradual onset or did it come on suddenly?\n\n\n\nAlso, I'd like to take a look at your nails, can you please show me your fingernails and toenails?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started about two months ago, yeah, it's been a gradual thing, like you said, a slow leak. I didn't really notice anything out of the ordinary at first, but over time, it just kept getting worse and worse.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me about your recent medication regimen, have you recently started or stopped taking anything that could be contributing to your symptoms?\n\n\n\nAlso, I'd like to take a closer look at your nails, can you please show me both your fingernails and toenails again?\n\n\n\nHave you traveled recently or been exposed to anyone who's been traveling or has been ill recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I've been taking my usual medications for blood pressure and cholesterol, but I did take some acetaminophen a few weeks ago when I had a headache. That's about it. Nothing else out of the ordinary.\"\n\n\"Okay, let me take a look at your nails... (examines fingernails and toenails) Hmm, I do notice some small, pinpoint spots on your nails, particularly on your fingernails. They're not very prominent, but they're definitely there.\"\n\n\"As for travel, I did take a trip to visit my niece a few months ago, but it was just a short weekend getaway. We didn't really do anything too strenuous, so I don't think that could be the cause of my fatigue.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your fingernails and toenails again, can you please extend your fingers and toes for me? I'm looking for any discoloration, ridging, or brittleness that could be indicative of underlying health issues.\n\nAnd just to confirm, you mentioned a gradual onset of fatigue, correct? Can you tell me more about what you mean by \"gradual\" - was it a slow increase in energy levels or a sudden drop?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Ah, yeah, I'll extend my fingers and toes for you. And yeah, I guess what I mean by gradual is that it started with little things, like not having the energy to play with my grandkids one day, and then it just kept going downhill from there. It's hard to pinpoint exactly when it started becoming a big issue, but I'd say it's been steadily getting worse over the past two months.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a look at your fingernails and toenails again, can you please show me both your fingernails and toenails, and can you also point out any areas that appear pale or discolored to me?\n\n\n\nCan you tell me more about your sleep patterns over the past few months? Have you noticed any changes in the amount of sleep you're getting or the quality of your sleep?\n\n\n\nAlso, I'd like to check your peripheral pulses to see if I can find any abnormalities that might be contributing to your fatigue. Can you please lean forward slightly so I can listen to your pulses?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, let me show you my fingernails and toenails again... (extends fingers and toes) Hmm, I don't really notice anything out of the ordinary, just the usual ridges and imperfections. (points to fingernails) As for pale or discolored areas, I do have some tiny red spots on my fingernails, but they're not very noticeable.\n\nAs for sleep, I've been having trouble sleeping at night, I'd say about 3-4 hours of sleep, and I wake up feeling pretty tired and sluggish. I've also noticed that I don't feel rested in the mornings, like I'm not getting enough quality sleep.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's take a closer look at your fingernails and toenails. I notice that the nails appear pale and brittle, which could indicate a lack of iron or vitamin B12 deficiency. I'd like to request a blood test to confirm this, can you please request TEST: Complete_Blood_Count and TEST: Ferritin_level?\n\nAlso, can you tell me more about your sleep patterns, specifically do you wake up feeling rested and refreshed, or do you wake up feeling tired and groggy?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your fingernails and toenails, I notice that the nails appear pale and brittle, which could indicate a lack of iron or vitamin B12 deficiency. I'd like to request a blood test to confirm this, can you please request TEST: Complete_Blood_Count and TEST: Ferritin_level?\n\nAlso, can you tell me more about your sleep patterns, specifically do you wake up feeling rested and refreshed, or do you wake up feeling tired and groggy?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of the patient's nail appearance, and I agree that it could be indicative of an iron or vitamin B12 deficiency. I'd like to request some additional test results to confirm this. Can you please request TEST: Vitamin_B12_level?\n\nAlso, I'd like to examine your gums more closely, can you please open your mouth so I can take a look?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your diet over the past few months? Have you been eating a balanced diet, and are there any specific foods or supplements you've been taking that might be contributing to your fatigue?\n\n\n\nAlso, I'd like to take a closer look at your gums, I notice that they appear a bit pale, which could indicate a potential issue with your iron levels. I'd like to request a blood test to confirm this, can you please request TEST: Complete_Blood_Count and TEST: Iron_level?\n\n\n\nAnd just to confirm, you mentioned that you've been experiencing fatigue, pallor, and abnormal blood findings, but you haven't noticed any other symptoms such as fever, joint pain, or difficulty breathing. Is that correct?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request TEST: Complete_Blood_Count and TEST: Ferritin_level to confirm the results of the nail examination and rule out any other underlying conditions.\n\nAlso, can you tell me more about your diet over the past few months? Have you been eating a balanced diet, and are there any specific foods or supplements you've been taking that might be contributing to your fatigue?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at your gums again, can you please show me the inside of your mouth and let me examine them more closely?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll open my mouth. I don't really notice anything out of the ordinary, but I do have a bit of bleeding when I brush my teeth.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your gums more closely. Please open your mouth so I can take a look at the inside of your mouth, including the gums, tongue, and any visible oral lesions. Also, can you please describe your last bowel movement and have you noticed any changes in your stool or urine output?\n\n\n\nAlso, I'd like to request TEST: Complete_Blood_Count and TEST: Iron_level to confirm the results of the nail examination and rule out any other underlying conditions."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's take a closer look at your gums again. I notice that they appear a bit pale, which could indicate a potential issue with your iron levels. I'd like to request a blood test to confirm this, can you please request TEST: Complete_Blood_Count and TEST: Iron_level? \n\nAlso, I'd like to examine your tongue and the inside of your mouth more closely. Please open your mouth so I can take a look at the inside of your mouth, including the gums, tongue, and any visible oral lesions."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your menstrual cycle, if you have one? Have you noticed any irregularities or changes in your periods recently?\n\n\n\nAlso, I'd like to request TEST: Complete_Blood_Count and TEST: Iron_level to confirm our suspicions about your iron levels."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \nTemperature: 36.8\u00b0C (98.2\u00b0F)\nBlood_Pressure: 135/85 mmHg\nHeart_Rate: 82 bpm\nRespiratory_Rate: 14 breaths/min\nGeneral_Examination: \nInspection: The patient appears pale.\nSkin_Examination: Multiple pinpoint, red, nonblanching spots (petechiae) noted on the extremities.\nAbdominal_Examination: \nInspection: No visible abnormalities.\nPalpation: Significant splenomegaly.\ntests: \nComplete_Blood_Count: \nHemoglobin: 8.3 g/dL (low)\nWBC: 81,000 /mm3 (elevated)\nPlatelets: 35,600 /mm3 (low)\nPeripheral_Blood_Smear: \nFindings: Presence of immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cy"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like we've been quite thorough in examining your nails and gums. Now, let's talk about your menstrual cycle. Can you tell me if you have a regular menstrual cycle, and if so, have you noticed any irregularities or changes in your periods recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Oh, I'd say my menstrual cycle has always been pretty regular, but I did notice that my periods have been a bit lighter and less frequent over the past few months. It's not a huge deal, but I've been wondering if it might be related to my fatigue.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've taken note of the patient's nail and gum appearance, and I'm concerned about the potential for iron deficiency. Can you tell me more about your menstrual cycle, specifically if you've noticed any irregularities or changes in your periods recently?\n\n\n\nAlso, I'd like to review the test results we've requested so far. Can you please confirm that you've had the TEST: Complete_Blood_Count and TEST: Ferritin_level run, and are you aware of the expected results?\n\n\n\nPlease open your mouth so I can take a closer look at the inside of your mouth, including the gums, tongue, and any visible oral lesions. I'd like to examine your tongue for any signs of inflammation or irritation."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Okay, I'll open my mouth. I don't really notice anything out of the ordinary, but I do have a bit of bleeding when I brush my teeth. The bleeding seems to be more noticeable than usual, though. I've been trying to be gentle with my gums and teeth, but it's still happening a bit more often than I'd like.\"\n\n(I lean forward slightly, allowing the doctor to examine my gums, tongue, and mouth)"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you please point out any areas of tenderness or discomfort in your mouth, particularly around the gums, tongue, or jawline?\n\n\n\nAlso, I'd like to review the test results we've requested so far. Have you noticed any changes in your urine output or color recently?\n\n\n\nPlease take a deep breath in and out slowly, and let me listen to your heart sounds for a moment to assess your overall cardiovascular status."
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Ah, yeah, I think I've got some tenderness around my gums, especially when I bite down on my teeth. It's not too painful, but it's definitely noticeable. And as for my urine output, I've noticed that I've been having to pee a bit more frequently lately, even though I'm not drinking that much more water. I've also noticed that my urine is a bit darker than usual, but I'm not sure if that's just a coincidence or if there's something else going on.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to ask, have you noticed any changes in your urine color or output recently, such as darker or lighter urine, or decreased urine frequency?\n\n\n\nAlso, I'd like to confirm that you've had the TEST: Complete_Blood_Count and TEST: Ferritin_level run, and are you aware of the expected results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yeah, my urine is definitely darker than usual. It's almost like tea color. And I've been having to pee more often, like I said before. It's not a huge deal, but it's definitely noticeable.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed all of the test results and your symptoms. Based on the results of the Complete Blood Count, Ferritin level, Vitamin B12 level, and Iron level, I believe your fatigue is likely due to an iron deficiency. The low levels of iron in your blood are consistent with iron deficiency anemia, which can cause fatigue, pallor, and shortness of breath.\n\nI also notice that your Vitamin B12 level is slightly low, which could be contributing to your fatigue and other symptoms. However, it's unlikely that this is the primary cause of your symptoms.\n\nConsidering your nail and gum appearance, I believe that iron deficiency is the most likely cause of your symptoms. I would like to make a diagnosis of iron deficiency anemia.\n\nDIAGNOSIS READY: Iron_deficiency_anemia"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Acute myelogenous leukemia",
+    "DIAGNOSIS_READY_Simulation": "Scene 99, The diagnosis was INCORRECT (5.00%)"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the onset of your shortness of breath?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It started a few weeks ago, I was doing some heavy lesson planning for my classes and suddenly I felt like I couldn't catch my breath, even when I was just sitting still. At first, I thought it was just exhaustion from grading papers, but it's been getting worse over time.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Is the shortness of breath sudden or gradual?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"It's been a bit of both, to be honest. It started with short bursts of difficulty breathing when I was exerting myself, but over the past week or so, it's become more persistent, even when I'm just resting. I feel like I'm getting winded more easily now.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Has the shortness of breath been accompanied by any chest pain or dizziness? REQUEST TEST: Abdominal Ultrasound"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "The shortness of breath has been gradual and seems to worsen when your abdomen feels more full. Can you tell me if you've noticed any changes in your appetite or weight?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Yes, I have noticed that I'm eating a bit more than I normally would, just because I feel a bit lightheaded after meals. And to be honest, I've also gained a bit of weight, but I'm not sure if it's just water retention or actual weight gain. I've been trying to keep track of it, but it's hard to tell.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Do you experience any swelling in your legs? Have you had recent infections or surgeries? DIAGNOSIS READY: Possible ovarian cyst with ascites."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Meigs syndrome",
+    "DIAGNOSIS_READY_Simulation": "Scene 24, The diagnosis was INCORRECT (0%)"
+  }
+]

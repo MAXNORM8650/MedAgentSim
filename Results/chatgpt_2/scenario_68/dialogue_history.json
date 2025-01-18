@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What specific activities or movements cause the most pain in your wrist?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Holding my infant son definitely causes the most pain, especially when I try to lift him or support him with my right hand. Also, gripping objects tightly seems to aggravate it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any swelling, redness, or warmth around the wrist joint?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling or redness, but sometimes it feels a bit warm to the touch after I've been using it a lot."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent injuries or trauma to your wrist, even if it seemed minor at the time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I did have a fall about six months ago where I landed on my right outstretched hand. It didn't seem serious at the time, but I've been having this pain since then."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any numbness or tingling in your fingers or hand?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any numbness or tingling in my fingers or hand. The pain is mostly localized to my wrist and thumb area."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you tried any treatments or remedies for the pain, such as rest, ice, or over-the-counter medications? If so, what has been effective?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been using ice packs, which help alleviate the pain somewhat. I've also been taking ibuprofen as needed, but it only provides temporary relief. Resting my wrist seems to help too, but it's hard to do with a baby."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your grip strength or difficulty performing daily tasks, such as opening jars or writing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed that my grip strength isn't what it used to be, and I struggle a bit with tasks like opening jars or even writing for extended periods. It feels like my hand gets fatigued quickly."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any clicking or popping sounds in your wrist when moving it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any clicking or popping sounds in my wrist when I move it. The pain is more of a constant ache rather than any specific noises."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any previous history of wrist or hand conditions, such as arthritis or tendonitis?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any previous history of wrist or hand conditions. However, my mother does have chronic joint pain that she treats with methotrexate."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any specific times of day when the pain is worse, such as in the morning or after activity?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain tends to be worse in the evenings after I've been using my hand throughout the day. It can also feel more intense after I've held my son for a while."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any stiffness in your wrist, especially after periods of inactivity or in the morning?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed significant stiffness, but my wrist does feel a bit tight after I've been resting it for a while. It usually loosens up after I start moving it again."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done on your wrist, such as an X-ray or MRI, since your fall six months ago?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any imaging studies done since my fall. I thought it would get better on its own, but the pain has persisted."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Wrist_X-Ray. Can you describe the type of pain you're experiencing? Is it sharp, dull, throbbing, or something else?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on the normal X-ray results, let's explore further. Have you noticed any changes in your wrist's range of motion, such as difficulty bending or straightening it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've noticed that my wrist feels a bit stiff, especially when trying to bend it fully. It doesn't feel as flexible as it used to, and certain movements can be uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain radiating from your wrist to your forearm or hand?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I do feel some pain that radiates from my wrist up to my elbow. It can be quite uncomfortable, especially after using my hand for a while."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in your elbow or shoulder as well, or is it primarily localized to the wrist?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The pain is primarily localized to my wrist and thumb, but I do feel some discomfort radiating up to my elbow. I haven't noticed any pain in my shoulder, though."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your ability to perform fine motor tasks, like buttoning a shirt or typing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've definitely noticed some difficulty with fine motor tasks. Buttoning my shirt can be challenging, and typing for long periods makes my wrist feel fatigued and painful."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent changes in your physical activity or any new hobbies that might have increased the strain on your wrist?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any significant changes in my physical activity or picked up any new hobbies recently. My routine has mostly been the same, just taking care of my baby and doing household chores."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fatigue or weakness in your hand or wrist, especially after prolonged use?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, I do feel some fatigue in my hand after using it for a while. It seems to get weaker, and I have to take breaks more often than I used to."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like you're experiencing significant discomfort and fatigue in your wrist and hand. Have you noticed any specific positions or activities that provide relief or worsen the pain?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've found that resting my wrist and applying ice helps relieve the pain somewhat. However, holding my son or doing any gripping activities definitely worsens it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Based on your symptoms and the information you've provided, it sounds like you may be experiencing a condition related to overuse or strain, possibly De Quervain's tenosynovitis, especially given the pain with gripping and lifting. However, I would like to confirm this with a physical examination of your wrist. DIAGNOSIS READY: De Quervain's tenosynovitis."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "De Quervain tenosynovitis",
+    "DIAGNOSIS_READY_Simulation": "Scene 68, The diagnosis was CORRECT, 20%"
+  }
+]

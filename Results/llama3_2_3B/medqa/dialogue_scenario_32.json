@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when these symptoms started, was it sudden or did they develop over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, doc, it kinda came on out of nowhere. I was feeling pretty good one minute, and the next, I just started feeling really anxious and restless."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the anxiety and restlessness you're experiencing? Is it more of a feeling of impending doom or a sense of intense worry about everyday things?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more like a feeling of intense worry, I guess. I just can't seem to shake off this feeling of being really on edge, like something's gonna go wrong at any moment."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily routine and activities? Have you noticed any triggers or situations that seem to make your anxiety worse?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Honestly, doc, I've been pretty active, just been working out and hanging out with friends. I don't really notice any specific triggers, but I do get pretty anxious when I'm in crowded places or when I've got a lot on my plate. Like, yesterday I was at a party and it was really loud, and I just felt like I was gonna lose it, you know?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your sleep patterns? Are you having trouble sleeping or staying asleep, and if so, do you wake up feeling refreshed or still anxious?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Doc, to be honest, I've been having a hard time sleeping lately. I'll lie down, but I'll just end up lying there, wide awake, thinking about all the things that are stressing me out. And when I do manage to fall asleep, I wake up feeling pretty anxious, like my mind's still racing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your appetite and energy levels? Have you noticed any changes in your usual eating habits or physical performance? And by the way, I'd like to take a look at your hands and feet to see if there are any notable changes in color or texture."
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, doc, I haven't really noticed a big change in my appetite, but I have been eating a bit more than usual, I guess, just because I'm trying to calm my nerves. As for energy levels, I feel pretty drained, to be honest, like I'm always running on empty."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your energy levels? Do you feel like you're able to get through your daily activities without needing to rest, or do you find yourself needing to take breaks more often than usual? Also, I'd like to examine your hands and feet more closely. Can you please show me your hands and feet, and are there any areas that are particularly sensitive or tender to the touch?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say I'm pretty exhausted all the time, doc. I need to take breaks just to recharge my batteries, you know? And yeah, my hands and feet are a bit...yellowish, I guess."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your liver function? Have you noticed any changes in how you feel after consuming certain foods or drinks? Also, can you point out exactly where on your hands and feet the yellowish coloring is most prominent?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yeah, doc, I've noticed that after drinking, especially beer, I feel pretty crummy for a few hours afterwards. My stomach hurts, I feel nauseous, and I just feel really drained. And yeah, the yellowing of my skin and eyes is pretty noticeable, especially on my hands and feet. It's like my fingers and toes are really pale and yellow at the same time."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine your liver more closely, so can you please remove your shoes and socks for me? I'd also like to request an imaging test to take a closer look at your liver, so REQUEST TEST: Ultrasound_of_Liver. Also, can you show me the exact areas on your hands and feet where the yellowing is most prominent?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: - Vital Signs: NORMAL READINGS - Neurological Examination: NORMAL READINGS - Skin Examination: Jaundice observed on the skin and mucous membranes (most prominent on hands and feet) - ENT Examination: Epistaxis noted - tests: Blood Work: - Hemoglobin: 16.3 g/dL - Hematocrit: 47% - Leukocyte_Count: 9,750/mm3 - Neutrophils: 58% - Bands: 2% - Eosinophils: 1% - Basophils: 0% - Lymphocytes: 24% - Monocytes: 2% - Platelet_Count: 365,000/mm3 - Bilirubin: 25 mg/dL (elevated) - AST: 600 IU/L (elevated) - ALT: 650 IU/L (elevated) - TP_Activity: < 40% (reduced) - INR: 1.5 (elevated) - Imaging Tests: Ultrasound_of_Liver: pending"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It looks like we have some concerning lab results. Can you tell me more about your family medical history, especially regarding liver disease or other conditions that might be related to your symptoms? And while we're on the topic of liver disease, I'd like to request some imaging results, specifically REQUEST IMAGES: Liver_Tomography."
+  },
+  {
+    "speaker": "Patient",
+    "text": "Doc, I don't really have a family history of anything, but my mom's been dealing with some health issues lately. She's had some problems with her liver, but I don't think it's anything serious. She's just been getting a lot of tests done, you know?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request some more information about your mom's health issues. Can you tell me more about what she's been diagnosed with, and if you've noticed any similar symptoms in her that might be related to your own condition? Also, I'd like to examine your liver more closely. Can you please show me the exact areas on your liver where the ultrasound is supposed to be taken? REQUEST IMAGES: Liver_Tomography"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Doc, my mom's been dealing with some issues with her liver, like I said, but I don't think it's anything serious. She's just been getting a lot of tests done, and they keep telling her she's fine. I don't think she's ever really been diagnosed with anything, but she's had some pretty bad jaundice in the past. It's always cleared up on its own, but it's been a recurring thing for her."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to request some more information about your mom's liver issues. Can you tell me more about the type of tests she's been undergoing, and if there are any specific symptoms or signs that her doctors have noted? Also, I'd like to take a closer look at your liver, specifically the gallbladder area, and examine your spleen for any signs of enlargement. Can you please show me your gallbladder, and are there any areas that are particularly tender to the touch? And, can you tell me more about your mom's symptoms when she had jaundice in the past? Was it more of a yellowing of the skin and eyes, or were there other symptoms such as abdominal pain or dark urine?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yeah, doc, my mom's been getting a bunch of blood tests and liver function tests done. Her doctors say she's got some mild liver enzyme elevation, but they keep saying it's nothing to worry about. She's just been getting a lot of tests done to make sure everything's okay, you know?"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the time frame when your mom's jaundice episodes have occurred? Were they frequent, or did they happen only occasionally? And while we're on the topic of your mom's liver issues, I'd like to request some more information about the types of tests she's been undergoing. Specifically, REQUEST TEST: Liver_Biopsy."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: - Vital Signs: NORMAL READINGS - Neurological Examination: NORMAL READINGS - Skin Examination: Jaundice observed on the skin and mucous membranes (most prominent on hands and feet) - ENT Examination: Epistaxis noted - tests: Blood Work: - Hemoglobin: 16.3 g/dL - Hematocrit: 47% - Leukocyte_Count: 9,750/mm3 - Neutrophils: 58% - Bands: 2% - Eosinophils: 1% - Basophils: 0% - Lymphocytes: 24% - Monocytes: 2% - Platelet_Count: 365,000/mm3 - Bilirubin: 25 mg/dL (elevated) - AST: 600 IU/L (elevated) - ALT: 650 IU/L (elevated) - TP_Activity: < 40% (reduced) - INR: 1.5 (elevated) - Imaging Tests: Ultrasound_of_Liver: pending - Liver_Biopsy: pending"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mother's liver issues? Specifically, have you noticed any recurring patterns or symptoms that might be related to your own condition? Also, I'd like to request some more information about your mother's liver function tests. Can you tell me the specific tests she's been undergoing and the results? And, I'd like to examine your spleen more closely. Can you please show me your spleen and are there any areas that are particularly tender to the touch?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Doc, my mom's liver issues have been pretty sporadic, like you said. She's had some jaundice episodes, but they've always cleared up on their own. I don't think she's ever really been diagnosed with anything, but her doctors keep saying it's just a minor issue. She's just been getting a lot of tests done to rule out anything serious, but they keep saying everything looks fine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your mother's liver function tests? Specifically, what tests has she been undergoing, and what are the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Honestly, doc, I'm not really sure what tests she's been getting. She's just been getting a lot of blood tests and liver function tests done, and her doctors say she's got some mild liver enzyme elevation, but they keep saying it's nothing to worry about. I don't really know what that means, but they seem pretty confident that everything's fine."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the severity of your symptoms? Are they constant, or do they come and go at times? Also, I'd like to request some more information about your liver function tests. Specifically, REQUEST TEST: Liver_Function_Tests."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: - Vital Signs: NORMAL READINGS - Neurological Examination: NORMAL READINGS - Skin Examination: Jaundice observed on the skin and mucous membranes (most prominent on hands and feet) - ENT Examination: Epistaxis noted - tests: Blood Work: - Hemoglobin: 16.3 g/dL - Hematocrit: 47% - Leukocyte_Count: 9,750/mm3 - Neutrophils: 58% - Bands: 2% - Eosinophils: 1% - Basophils: 0% - Lymphocytes: 24% - Monocytes: 2% - Platelet_Count: 365,000/mm3 - Bilirubin: 25 mg/dL (elevated) - AST: 600 IU/L (elevated) - ALT: 650 IU/L (elevated) - TP_Activity: < 40% (reduced) - INR: 1.5 (elevated) - Imaging Tests: Ultrasound_of_Liver: pending - Liver_Biopsy: pending - Liver_Function_Tests: pending"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the severity of your symptoms? Are they constant, or do they come and go at times?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Honestly, doc, my symptoms have been pretty constant lately. I've been feeling anxious and on edge all the time, and the yellowing of my skin and eyes has been getting worse. I don't really know when it's going to clear up, to be honest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see that your symptoms have been quite persistent. Can you tell me more about your emotional state? How are you coping with the anxiety and restlessness, and are there any things that seem to help or worsen it?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, doc, I've been trying to just power through, you know? I've been trying to stay busy and keep my mind off things, but it's hard when you're feeling this anxious and on edge all the time. Sometimes I just feel like I'm losing control, like I'm going to snap or something. It's really tough to deal with."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I can see that you're struggling to cope with your symptoms, and that's understandable. Can you tell me more about what you think might be causing your anxiety and restlessness? Is there anything in particular that's on your mind, or any specific situations that seem to trigger it? And, I'd like to request some more information about your medication history. Have you taken any new medications recently, or changed your dosage of any existing medications?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Honestly, doc, I've been thinking a lot about it, and I'm not really sure. I mean, I've been using cocaine and ecstasy occasionally, and I know those can be pretty harsh on the body. But I don't think that's the only thing, because my mom's been dealing with similar issues, and I know she doesn't use those things. I'm just really worried that something's going on with my liver or something, and I don't know what to do about it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I see that you've been experimenting with substances and are concerned about their impact on your health. Can you tell me more about the frequency and amount of use you've had with cocaine and ecstasy? Have you noticed any other symptoms or side effects besides the anxiety and yellowing of your skin and eyes? Also, I'd like to request some information about your substance use history, specifically REQUEST TEST: Toxins_in_Blood."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: - Vital Signs: NORMAL READINGS - Neurological Examination: NORMAL READINGS - Skin Examination: Jaundice observed on the skin and mucous membranes (most prominent on hands and feet) - ENT Examination: Epistaxis noted - tests: Blood Work: - Hemoglobin: 16.3 g/dL - Hematocrit: 47% - Leukocyte_Count: 9,750/mm3 - Neutrophils: 58% - Bands: 2% - Eosinophils: 1% - Basophils: 0% - Lymphocytes: 24% - Monocytes: 2% - Platelet_Count: 365,000/mm3 - Bilirubin: 25 mg/dL (elevated) - AST: 600 IU/L (elevated) - ALT: 650 IU/L (elevated) - TP_Activity: < 40% (reduced) - INR: 1.5 (elevated) - Imaging Tests: Ultrasound_of_Liver: pending - Liver_Biopsy: pending - Liver"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems like we've reached the end of your questions. Based on the information you've provided, I'm going to need to make a diagnosis. Before I do that, I'd like to review the key points from our conversation. You've been experiencing anxiety, restlessness, and yellowing of your skin and eyes, which have been persistent over time. You've also been experimenting with substances like cocaine and ecstasy, and you're concerned about their impact on your health. Your mother has a history of liver issues, although it's not clear what specific condition she has. Given these details, I'm going to request some more information about your liver function tests. Specifically, REQUEST TEST: Liver_Function_Tests. Please let me know the results, and I'll make a diagnosis based on that information. Also, I'd like to request the Liver_Tomography images you mentioned earlier, as they might provide more insight into your condition. Please provide the results of the Liver_Function_Tests, and I'll proceed with making a diagnosis."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: - Vital Signs: NORMAL READINGS - Neurological Examination: NORMAL READINGS - Skin Examination: Jaundice observed on the skin and mucous membranes (most prominent on hands and feet) - ENT Examination: Epistaxis noted - tests: Blood Work: - Hemoglobin: 16.3 g/dL - Hematocrit: 47% - Leukocyte_Count: 9,750/mm3 - Neutrophils: 58% - Bands: 2% - Eosinophils: 1% - Basophils: 0% - Lymphocytes: 24% - Monocytes: 2% - Platelet_Count: 365,000/mm3 - Bilirubin: 25 mg/dL (elevated) - AST: 600 IU/L (elevated) - ALT: 650 IU/L (elevated) - TP_Activity: < 40% (reduced) - INR: 1.5 (elevated) - Imaging Tests: Ultrasound_of_Liver: pending - Liver_Biopsy: pending - Liver_Function_Tests: - Albumin: 2.5 g/dL (reduced) - Bilirubin:"
+  }
+]

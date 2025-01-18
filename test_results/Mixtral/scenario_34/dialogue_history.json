@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the rash you're experiencing? Is it itchy all the time, or is it more of a burning sensation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's kind of itchy, but sometimes it feels like a gentle tingle, and other times it feels like there's a tiny pinprick."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the duration of the rash? Has it been present for a few days, a week, or more?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started about a week ago, and it's been getting a bit worse over the past few days. I had a bit of a fever at first, and then my nose started running a lot."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a closer look at the rash. Can you show me exactly where it's located on your body, and how it's spread?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly on my arms and legs, but I also have some on my torso. It seems to be spreading a bit, but not too quickly. It's kind of forming little patches, like they're moving around."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to take a look at your rash now. Can you point out exactly where it's located on your body and how it's spreading, is it in a specific pattern or is it more scattered?\n\nAnd I also want to ask, when did you first notice the rash, was it a sudden onset or did it develop gradually over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's mostly on my arms and legs, but I also have some on my torso. It seems to be spreading a bit, but not too quickly. It's kind of forming little patches, like they're moving around.\n\nI think it started around the same time as my fever and runny nose, so it's been about a week now."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the color and texture of the rash? Is it raised, flat, or does it seem to have a distinct border?\n\nAlso, have you noticed any triggers or patterns to when the rash seems to be worse, such as after exposure to certain foods, temperatures, or stress?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The rash is kind of a pale yellowish color, and it feels a bit soft to the touch. It's not raised or scaly, and it doesn't seem to have a distinct border. I've noticed that when I scratch it, it can get a bit red and inflamed for a little while, but it usually goes back to its normal color after a few minutes."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I'd like to examine the rash more closely. Can you gently lift your shirt or sweater to show me exactly where the rash is located on your trunk and extremities?\n\n\n\nAlso, I'd like to ask about your recent activities. Have you traveled recently, or been exposed to anyone who's been sick?\n\n\n\nREQUEST TEST: Blood_Screen"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.6\u00b0C (99.8\u00b0F)\n  Blood_Pressure: 102/72 mmHg\n  Heart_Rate: 82 bpm\n  Respiratory_Rate: 20 breaths/min\nSkin_Examination: \n  Observation: Lacy, reticular rash noted on the trunk and extremities, with patches on the arms, legs, and torso. Facial rash present but sparing the perioral area.\n  Palpation: Rash is slightly raised but not accompanied by significant warmth or tenderness.\ntests: \n  Complete_Blood_Count: \n    WBC: 12,500 cells/\u03bcL (slightly elevated)\n    Hemoglobin: 13.5 g/dL (slightly elevated)\n    Platelets: 180,000 cells/\u03bcL (slightly elevated)\n  Blood_Screen: \n    Negative for Influenza A and B\n   "
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Let's take a closer look at the rash on your trunk. It appears to be more scattered than I initially thought. I'd like to examine it further. Can you tell me if the rash seems to be more prominent on one side of your body than the other?\n\n\n\nAlso, when you mentioned the rash seems to be worse after certain triggers, can you narrow it down to specific examples like certain foods, temperatures, or stress levels?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's a bit more prominent on my left side, I think. And as for triggers, I've noticed it seems to get a bit worse when I'm around certain people, but I'm not really sure if it's because of them or just because I'm around them a lot.\n\nThe fever and runny nose seem to come and go, but they're still there. It's like they're just background noises.\n\nI'm not really sure if it's just me being dramatic, but when I scratch the rash, it can get pretty red and inflamed for a little while."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me if you've noticed any relief or improvement in the rash when you take a warm bath or use moisturizer on the affected areas?\n\n\n\nAlso, have you experienced any joint or muscle pain in conjunction with the rash?\n\n\n\nREQUEST TEST: Complete_Medical_History"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.6\u00b0C (99.8\u00b0F)\n  Blood_Pressure: 102/72 mmHg\n  Heart_Rate: 82 bpm\n  Respiratory_Rate: 20 breaths/min\nSkin_Examination: \n  Observation: Lacy, reticular rash noted on the trunk and extremities, with patches on the arms, legs, and torso. Facial rash present but sparing the perioral area.\n  Palpation: Rash is slightly raised but not accompanied by significant warmth or tenderness.\ntests: \n  Complete_Blood_Count: \n    WBC: 12,500 cells/\u03bcL (slightly elevated)\n    Hemoglobin: 13.5 g/dL (slightly elevated)\n    Platelets: 180,000 cells/\u03bcL (slightly elevated)\n  Blood_Screen: \n    Negative for Influenza A and B\nComplete"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the joint or muscle pain you're experiencing? Is it mild and intermittent, or is it constant and severe?\n\nAlso, can you describe the temperature at which you find relief from the rash? Is it warm, hot, or is there a specific range that seems to provide some comfort?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm not really feeling any joint or muscle pain, actually. I do get a bit tired easily, but that's about it.\n\nAs for relief from the rash, I've noticed that when I take a cool shower, it seems to feel a bit better. And when I'm in a cooler room, the rash doesn't seem to be as itchy and inflamed as it is when I'm hot."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the joint or muscle pain you're experiencing? Is it mild and intermittent, or is it constant and severe?\n\n\n\nAlso, can you walk me through your daily routine, including any activities that might trigger the rash or pain, such as exercise or exposure to the sun?\n\n\n\nHave you noticed any other symptoms, such as fatigue, weight loss, or difficulty sleeping, in addition to the rash and joint pain?\n\n\n\nAlso, can you tell me if you've had any recent illnesses or vaccinations that might be related to the symptoms you're experiencing?\n\n\n\nCan you point out any other areas on your body where you're experiencing pain or discomfort, aside from the rash?\n\n\n\nAlso, have you noticed any changes in your skin, such as dryness, redness, or swelling, in areas other than the rash?\n\n\n\nREQUEST TEST: Skin_Biopsy"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.5\u00b0C (99.5\u00b0F)\n  Blood_Pressure: 101/70 mmHg\n  Heart_Rate: 81 bpm\n  Respiratory_Rate: 19 breaths/min\nSkin_Examination: \n  Observation: Lacy, reticular rash noted on the trunk and extremities, with patches on the arms, legs, and torso. Facial rash present but sparing the perioral area.\n  Palpation: Rash is slightly raised but not accompanied by significant warmth or tenderness.\ntests: \n  Complete_Blood_Count: \n    WBC: 12,200 cells/\u03bcL (slightly elevated)\n    Hemoglobin: 13.4 g/dL (slightly elevated)\n    Platelets: 175,000 cells/\u03bcL (slightly elevated)\n  Blood_Screen: \n    Negative for Influenza A and B\n "
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the joint or muscle pain you're experiencing? Is it mild and intermittent, or is it constant and severe?\n\n\n\nAlso, can you walk me through your daily routine, including any activities that might trigger the rash or pain, such as exercise or exposure to the sun?\n\n\n\nHave you noticed any other symptoms, such as fatigue, weight loss, or difficulty sleeping, in addition to the rash and joint pain?\n\n\n\nCan you point out any other areas on your body where you're experiencing pain or discomfort, aside from the rash?\n\n\n\nAlso, have you noticed any changes in your skin, such as dryness, redness, or swelling, in areas other than the rash?\n\n\n\nCan you describe the nature of the joint pain? Is it a dull ache, sharp pain, or more of a stiffness?\n\n\n\nAlso, have you experienced any swelling or redness in your joints?\n\n\n\nREQUEST TEST: Erythrocyte_Sedimentation_Rate"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.4\u00b0C (99.3\u00b0F)\n  Blood_Pressure: 100/70 mmHg\n  Heart_Rate: 80 bpm\n  Respiratory_Rate: 18 breaths/min\nSkin_Examination: \n  Observation: Lacy, reticular rash noted on the trunk and extremities, with patches on the arms, legs, and torso. Facial rash present but sparing the perioral area.\n  Palpation: Rash is slightly raised but not accompanied by significant warmth or tenderness.\ntests: \n  Complete_Blood_Count: \n    WBC: 12,000 cells/\u03bcL (slightly elevated)\n    Hemoglobin: 13.2 g/dL (slightly elevated)\n    Platelets: 170,000 cells/\u03bcL (slightly elevated)\n  Blood_Screen: \n    Negative for Influenza A and B\n "
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the joint pain you're experiencing? Is it a dull ache, sharp pain, or more of a stiffness? \n\nAlso, can you walk me through your daily routine, including any activities that might trigger the rash or pain, such as exercise or exposure to the sun?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say it's more of a dull ache, but not painful enough to stop me from moving around. It's just kind of there, you know?\n\nMy daily routine is pretty normal. I go to school, play with my friends, and help with household chores at home. I try to avoid scratching the rash too much, but sometimes I do when I'm feeling really itchy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the joint pain you're experiencing? Is it mild and intermittent, or is it constant and severe?\n\n\n\nAlso, have you noticed any other symptoms, such as fatigue, weight loss, or difficulty sleeping, in addition to the rash and joint pain?\n\n\n\nI'd like to review the test results you've provided so far, specifically the Blood_Screen. Can you tell me if you've noticed any changes in your behavior or mood since taking the test?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more of a dull ache, but not painful enough to stop me from moving around. I'd say it's a 3 out of 10 in terms of discomfort."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the joint pain you're experiencing? Is it mild and intermittent, or is it constant and severe?\n\n\n\nAlso, have you noticed any changes in your energy levels over the past few days, and are there any activities that seem to exacerbate the pain?\n\n\n\nAlso, when you mentioned the joint pain, did you also experience any stiffness or limited range of motion?\n\n\n\nREQUEST TEST: C-Reactive_Protein"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: \nVital_Signs: \n  Temperature: 37.4\u00b0C (99.3\u00b0F)\n  Blood_Pressure: 100/70 mmHg\n  Heart_Rate: 80 bpm\n  Respiratory_Rate: 18 breaths/min\nSkin_Examination: \n  Observation: Lacy, reticular rash noted on the trunk and extremities, with patches on the arms, legs, and torso. Facial rash present but sparing the perioral area.\n  Palpation: Rash is slightly raised but not accompanied by significant warmth or tenderness.\ntests: \n  Complete_Blood_Count: \n    WBC: 12,000 cells/\u03bcL (slightly elevated)\n    Hemoglobin: 13.2 g/dL (slightly elevated)\n    Platelets: 170,000 cells/\u03bcL (slightly elevated)\n  Blood_Screen: \n    Negative for Influenza A and B\n "
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the joint pain you're experiencing? Is it mild and intermittent, or is it constant and severe?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more of a dull ache, but not painful enough to stop me from moving around. I'd say it's a 3 out of 10 in terms of discomfort."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed the Blood_Screen test results. Can you tell me if you've noticed any changes in your energy levels over the past few days, and are there any activities that seem to exacerbate the pain?\n\n\n\nAlso, when you mentioned the joint pain, did you also experience any stiffness or limited range of motion?\n\n\n\nPlease continue to point out the areas of discomfort or pain on your body, so I can better understand the extent of your condition."
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my energy levels have been pretty low lately, to be honest. I just feel tired all the time, and I don't have the motivation to do things I normally love.\n\nAs for stiffness, I'd say it's mostly just a general feeling of stiffness, but it's not really noticeable unless I'm trying to move quickly or make sudden movements.\n\nThe areas of discomfort are mostly on my arms, legs, and torso, where the rash is. It's a dull ache, like I mentioned before, but it's not really painful."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your daily activities, have you noticed any changes in your routine or exposure to new environments that might be contributing to the rash and joint pain?\n\n\n\nAlso, have you experienced any weight loss or changes in your appetite, and are there any specific foods that you find yourself avoiding or craving?\n\n\n\nCan you describe the sensation of the joint pain, is it more of a dull ache or a sharp stabbing sensation?\n\n\n\nAlso, have you noticed any changes in your skin's texture or color, aside from the rash, such as dryness, redness, or swelling?\n\n\n\nPlease continue to point out any areas of discomfort or pain on your body, and I'll take note of any patterns or correlations.\n\n\n\nAlso, have you experienced any relief or improvement in the rash and joint pain when you rest or engage in relaxation techniques, such as meditation or deep breathing?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'd say my daily activities have been pretty normal, I go to school and play with my friends, but I've been feeling a bit more tired than usual. I've also been spending more time indoors, especially on hot days, and I've noticed that when I'm hot, the rash seems to be worse."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about your recent activities, specifically your travel history and any new environments you've been exposed to recently?\n\n\n\nAlso, have you noticed any changes in your sleep patterns, such as difficulty falling asleep or staying asleep?\n\n\n\nI'd like to examine your joints more closely. Can you move your arm or leg for me to see how much range of motion you have?\n\n\n\nCan you describe the sensation of the joint pain, is it more of a dull ache or a sharp stabbing sensation?\n\n\n\nI'd like to review the test results again, specifically the Erythrocyte Sedimentation Rate. Can you tell me if you've noticed any changes in your overall health or well-being since taking the test?\n\n\n\nAlso, have you noticed any changes in your bowel movements or urination patterns, such as diarrhea or constipation?\n\n\n\nCan you point out any other areas on your body where you're experiencing pain or discomfort, aside from the rash and joints?\n\n\n\nAlso, have you noticed any changes in your heart"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's just that I've been feeling really tired lately, and I don't have the motivation to do things I normally love. I'm usually active and enjoy playing with my friends, but lately, I just feel like I'm running on empty.\n\nDoctor: Can you tell me more about your recent activities, specifically your travel history and any new environments you've been exposed to recently?\n\nPatient: We went to grandma's house for the holidays, and I think I might have gotten some bug there. We stayed in a crowded hotel room, and I was around a lot of people who seemed to be sick. I also went to the school dance last week, and I remember feeling really hot and sweaty.\n\nDoctor: Have you noticed any changes in your sleep patterns, such as difficulty falling asleep or staying asleep?\n\nPatient: Yeah, I've been having trouble sleeping at night. I'll lie in bed, and my mind will start racing, and I'll be wide awake for hours. And sometimes,"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the sensation of the joint pain in more detail? Is it a dull ache that spreads throughout the joint, or is it a sharp stabbing sensation that feels localized to a specific area?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It's more of a dull ache that spreads throughout my joint, but it's not really stabbing. It's just kind of there, like I mentioned before. It's not really painful, but it's definitely uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "I've reviewed all the information you've provided. I'm going to request one more test to confirm my findings.\n\nREQUEST TEST: Complete_Thyroid_Functional_Test\n\nPlease wait while I review the test results."
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Erythema Infectiosum",
+    "DIAGNOSIS_READY_Simulation": "Scene 34, The diagnosis was INCORRECT (5.71%)"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about when you first noticed the newborn was having trouble breathing, was it at birth or did it start after a few days of life?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It was right after birth, actually. The mother was pushing and then suddenly she let out a loud cry and the baby started making these high-pitched sounds, like a really loud, strained cry."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the sounds the baby was making, were they more of a wail or a squeal, and did they seem to be getting worse or staying the same over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The sounds were more of a high-pitched wail, and at first, they seemed to be getting worse, but then they kind of... paused for a bit, and then they started again, like it was a bit of an up-and-down pattern."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pattern of breathing you've been observing, were the wails and pauses accompanied by any changes in chest movement or coloration?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "Yes, the wails and pauses were definitely accompanied by changes in chest movement - the baby's chest would rise and fall more rapidly, and then it would almost freeze for a second before the wails would start again. And as for coloration, the baby's skin would turn a bit blue around the mouth and nose, especially when the wails were at their loudest."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the baby's overall condition, are they able to feed or are they having trouble latching, and have you noticed any other signs of distress besides the respiratory symptoms? Also, I'd like to perform a physical examination of the baby, can you please bring the baby to me so I can assess their overall condition and look for any signs of distress?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm having a bit of trouble feeding, to be honest. The baby's not really latching well, and when they do, it's just a really weak, struggling cry. The mother is trying her best, but it's just not seeming to work out."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the mother's prenatal history, did she have any complications or pre-existing conditions that might be contributing to the baby's symptoms? And while I'm waiting for your response, I'd like to take a look at the baby's overall condition and perform a quick examination. Can you please bring the baby to me so I can assess their overall condition and look for any signs of distress?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, the mother had a pretty uneventful pregnancy until the premature labor. There wasn't much mentioned about any prenatal care or complications."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the mother's labor and delivery, was it a normal labor or did it seem to progress quickly? Also, I'd like to take a look at the baby's overall condition, can you please place them on the exam table for me?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It was a pretty rapid labor, to be honest. The mother was pushing for a few minutes and then suddenly she just let out a loud cry and the baby was born. I didn't even get a chance to take a look at the baby right away, the nurse just rushed me to the nursery and started checking on the baby right away."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the baby's birth weight, was it within a normal range for a newborn of this gestational age? Also, I'd like to take a look at the baby's overall condition and perform a quick examination. Please place them on the exam table for me."
+  },
+  {
+    "speaker": "Patient",
+    "text": "Our baby was born at 2 pounds 11 ounces, which is a bit on the lighter side for a newborn at 33 weeks of gestation. I'm not sure if that's a concern, but the baby seems to be struggling to breathe."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the baby's overall condition while they're on the exam table? Are they able to relax at all, or are they still very tense and distressed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The baby seems really tense, they're not relaxing at all, and they're still making those high-pitched sounds, it's like they're trying to breathe but it's just not working out. Their chest is still rising and falling rapidly, and their skin is turning that blue color around the mouth and nose."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the mother's prenatal care and whether she received any vaccinations or medications that might be relevant to the baby's current condition? Also, would you be willing to request a chest X-ray to get a better look at the baby's lungs and see if there's any evidence of congestion or fluid buildup?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, the mother didn't seem to be taking any prenatal care seriously, and I don't think she received any vaccinations or medications that might be relevant to the baby's condition."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: Chest X-Ray Can you tell me more about the baby's overall condition now that I've taken a look at them, are there any other signs of distress besides the respiratory symptoms we've already discussed?"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It seems the chest X-ray results are normal, but that doesn't necessarily rule out any conditions. Can you tell me more about the baby's overall condition now that I've taken a look at them, are there any other signs of distress besides the respiratory symptoms we've already discussed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The baby is still making those high-pitched sounds, and their chest is still moving really rapidly. They're not really relaxing at all, and their skin is still turning that blue color around the mouth and nose, especially when they're wailing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the baby's position while they're on the exam table, are they in a supine or prone position, and are they able to change positions easily? And while I'm assessing their position, I'd like to check their heart rate, can you please place a Doppler on the baby's chest to get an accurate reading? Also, I'd like to request some more information about the mother's labor and delivery, was there any meconium present during the delivery, and was the baby's umbilical cord intact when it was cut? REQUEST TEST: Doppler"
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: - Position: Prone, able to change positions with assistance - Heart Rate: 140 bpm - Meconium: Present - Umbilical Cord: Intact, with minimal bleeding Please note that the Doppler reading was taken to assess the baby's heart rate, and the results are as follows."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the mother's labor and delivery, did the presence of meconium seem unusual or unexpected to her, and did she report any unusual sensations or discomfort during the delivery? Also, I'd like to take another look at the baby's chest movement and coloration, can you please adjust the position of the baby to a supine position and check their chest movement and coloration again?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The mother didn't seem to be too concerned about the meconium, she just kind of brushed it off and said it was a normal part of labor. She did mention that during the pushing phase, she felt a bit of pressure and discomfort, but it wasn't anything that seemed out of the ordinary."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the pressure and discomfort the mother experienced during the pushing phase, was it a sharp pain or a dull ache, and did it seem to be getting worse or staying the same over time?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It was more of a dull ache, like a heavy feeling in her lower back. It didn't seem to be getting worse, but it was definitely uncomfortable."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the baby's position while they're in the supine position, are their chest movements becoming more rapid or is it still the same?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The baby's chest movements seem to be slowing down a bit, but they're still moving quite rapidly. Their skin is still turning blue around the mouth and nose, especially when they're wailing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the baby's overall condition now that we've adjusted their position to supine, are there any other signs of distress besides the respiratory symptoms we've already discussed?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "The baby seems to be still in distress, making those high-pitched sounds and their chest is still moving rapidly. Their skin is still turning blue around the mouth and nose, especially when they're wailing."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the mother's prenatal care and whether she received any vaccinations or medications that might be relevant to the baby's current condition, specifically regarding any treatments for respiratory issues or infections that could be transmitted from mother to child during delivery?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I don't think she received any vaccinations or medications that would be relevant to this situation, and I also don't think she was taking any prenatal care seriously. She just kind of went through with the labor and delivery without really paying attention to anything."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "It sounds like we've gathered a lot of information about the baby's symptoms and history. I'd like to ask a few more questions to help narrow down the possible causes. Can you tell me more about the mother's labor and delivery, did she report any unusual sensations or discomfort during the delivery, such as a strong urge to push or a feeling of pressure in the pelvis? And while I'm asking questions, I'd also like to perform a quick examination of the baby's abdomen to see if there are any signs of distension or other abnormalities. Can you please place the baby on their back so I can assess their abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I think she mentioned that during the pushing phase, she felt a bit of pressure and discomfort, but it wasn't anything that seemed out of the ordinary. She just kind of brushed it off and said it was a normal part of labor."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the mother's prenatal care and whether she received any vaccinations or medications that might be relevant to the baby's current condition, specifically regarding any treatments for respiratory issues or infections that could be transmitted from mother to child during delivery? Is there anything else you can tell me about the mother's labor and delivery that might be relevant to the baby's symptoms, such as any unusual sensations or discomfort during the delivery? Can you please place the baby on their back so I can assess their abdomen and check for any signs of distension or other abnormalities?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "To be honest, I don't think she received any vaccinations or medications that would be relevant to this situation. And as for the mother's labor and delivery, she did mention that during the pushing phase, she felt a bit of pressure and discomfort, but it wasn't anything that seemed out of the ordinary. She just kind of brushed it off and said it was a normal part of labor."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the mother's overall health, did she have any underlying medical conditions or take any medications that could be relevant to the baby's symptoms? And while I'm asking questions, I'd also like to request some medical images of the baby's lungs to get a better look at the condition of their airways. Can you please request some images of the baby's lungs, specifically a chest X-ray or CT scan? REQUEST IMAGES: Lungs"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a bit worried about the mother's overall health, to be honest. She seemed a bit disorganized and didn't seem to be taking her prenatal care seriously, which makes me a bit concerned about her overall health and the potential risks to the baby."
+  }
+]

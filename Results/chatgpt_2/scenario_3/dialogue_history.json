@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "What other symptoms have you been experiencing besides fatigue, abdominal pain, night sweats, weight loss, and the enlarged supraclavicular lymph node?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've also been feeling an unusual fullness in my belly area, and it's been difficult to wear my usual clothing because of it."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your bowel habits, such as diarrhea or constipation?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant changes in my bowel habits; everything seems pretty normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any fever or chills recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't experienced any fever or chills recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent infections or illnesses that required treatment?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent infections or illnesses that required treatment. I generally feel like I've been in good health until these symptoms started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent travel history or exposure to anyone who has been ill?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "No, I haven't traveled recently, and I haven't been around anyone who was ill."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any skin changes, such as rashes, itching, or unusual bruising?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any skin changes like rashes or unusual bruising. My skin seems normal to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any significant changes in your appetite or dietary habits recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've definitely noticed a decrease in my appetite. I just don't feel like eating as much as I used to."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any pain or discomfort in your joints or muscles?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any pain or discomfort in my joints or muscles. They feel fine to me."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent blood tests done, and if so, what were the results?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any recent blood tests done. I haven't felt the need to see a doctor until these symptoms started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any swelling in your legs or feet, or any other areas of your body?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any swelling in my legs or feet, but I do have that swelling in my neck that developed recently."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your sleep patterns, aside from the night sweats?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I've been feeling more tired during the day, but I haven't noticed any significant changes in my sleep patterns aside from the night sweats. I still try to get a full night's sleep."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any family history of cancer or other significant illnesses?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I don't have any known family history of cancer or significant illnesses. My family has generally been healthy."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any difficulty swallowing or a sensation of something being stuck in your throat?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any difficulty swallowing or a sensation of something being stuck in my throat. Everything seems fine in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you noticed any changes in your skin color, such as jaundice or paleness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any changes in my skin color; it looks normal to me. No jaundice or paleness that I've observed."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any unusual bleeding or bruising, such as from your gums or nose?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't experienced any unusual bleeding or bruising from my gums or nose. Everything seems normal in that regard."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any recent weight changes aside from the weight loss you've mentioned? For example, have you gained any weight recently?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't gained any weight recently; it's just been the weight loss I've mentioned. I feel like I've lost my appetite, which might be contributing to that."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any abdominal swelling or tenderness when pressing on your abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't noticed any significant swelling in my abdomen, but it does feel tender when I press on it. It can be quite uncomfortable at times."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you experienced any changes in your menstrual cycle, if applicable, or any other reproductive health issues?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I'm a male, so I don't have a menstrual cycle or any reproductive health issues to report."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Have you had any imaging studies done, such as an ultrasound or CT scan of your abdomen?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I haven't had any imaging studies done yet. I haven't felt the need to see a doctor until these symptoms started."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "REQUEST TEST: CT_Scan_Abdomen_and_Pelvis."
+  },
+  {
+    "speaker": "Measurement",
+    "text": "RESULTS: NORMAL READINGS"
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Maximum inferences reached"
+  },
+  {
+    "speaker": "Patient",
+    "text": "I understand that my symptoms are concerning, and I'm ready to follow any recommendations you have for further evaluation or treatment. What should we do next?"
+  }
+]
