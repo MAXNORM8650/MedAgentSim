@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me more about the knee pain you're experiencing? Is it constant or does it come and go?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It started yesterday, and it's been getting progressively worse, especially when I pivot or twist my knee, like during volleyball. It's a sharp pain, but it also feels like it's been there for a while, even when I'm not actively moving."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you describe the pain to me? Is it more of a dull ache or a sharp stabbing sensation?"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Pes anserine bursitis",
+    "DIAGNOSIS_READY_Simulation": "Scene 5, The diagnosis was CORRECT (33.33%)"
+  }
+]

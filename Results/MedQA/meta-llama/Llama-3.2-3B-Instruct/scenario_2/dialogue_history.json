@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, let's start with the basics. Can you tell me what's been going on with your feeding difficulties? Has there been a change in appetite or is it a new development?\""
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"Mom says I've been fussing a lot more than usual, especially when she's, you know, touching my tummy. It's been making her really worried.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "\"Okay, can you show me exactly where the abdominal distension is? Is it more prominent on one side or all around your tummy?\""
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Hirschsprung disease",
+    "DIAGNOSIS_READY_Simulation": "Scene 2, The diagnosis was INCORRECT (0.00%)"
+  }
+]

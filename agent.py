@@ -14,31 +14,47 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 
 class BAgent:
-    def __init__(self, model_name="Qwen/Qwen2.5-0.5B-Instruct"):
-        # Load the model and tokenizer once during initialization
-        print("Loading model and tokenizer...")
+    def __init__(self, model_name="Qwen/Qwen2.5-0.5B-Instruct", loaded=True):
+        """
+        Initialize the BAgent class. Load the model and tokenizer if a model name is provided.
+        If a Hugging Face pipeline is passed, use it directly.
+        """
+        print("Initializing BAgent...")
+        if loaded:
+            # Use the provided pipeline directlyzssss
+            self.pipeline = model_name.pipeline
+            print("Using the provided Hugging Face pipeline.")
+        else:
+            # Load the model and tokenizer if a model name is provided
+            print("Loading model and tokenizer...")
 
-        # Configure quantization for low-bit precision
-        bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,  # Use 4-bit precision (set to False for 8-bit)
-            bnb_4bit_use_double_quant=True,  # Use double quantization
-            bnb_4bit_quant_type="nf4",  # Quantization type (nf4 is generally better)
-            bnb_4bit_compute_dtype=torch.float16  # Compute dtype (float16 or float32)
-        )
+            # Configure quantization for low-bit precision
+            bnb_config = BitsAndBytesConfig(
+                load_in_8bit=True,  # Use 4-bit precision (set to False for 8-bit)
+                llm_int8_enable_fp32_cpu_offload=True
+                # bnb_4bit_use_double_quant=True,  # Use double quantization
+                # bnb_4bit_quant_type="nf4",  # Quantization type (nf4 is generally better)
+                # bnb_4bit_compute_dtype=torch.float16  # Compute dtype (float16 or float32)
+            )
 
-        # Initialize the pipeline
-        self.pipeline = transformers.pipeline(
-            "text-generation",
-            model=model_name,
-            torch_dtype = 'auto',
-            # quantization_config=bnb_config, 
-            # offload_buffers=True,
-            # model_kwargs={"torch_dtype": torch.bfloat16},
-            device_map="auto",
-        )
+            # Load the model with quantization
+            model = AutoModelForCausalLM.from_pretrained(
+                model_name,
+                quantization_config=bnb_config,
+                device_map="auto",  # Automatically map to GPU if available
+            )
 
-        print("Model and tokenizer loaded successfully.")
+            # Load the tokenizer
+            tokenizer = AutoTokenizer.from_pretrained(model_name)
+            # Initialize the pipeline
+            self.pipeline = pipeline(
+                "text-generation",
+                model=model,
+                tokenizer=tokenizer,
+                device_map="auto",  # Ensure the device map is passed correctly
+            )
 
+            print("Model and tokenizer loaded successfully.")
     def query_model(
         self,
         prompt,
@@ -176,7 +192,7 @@ class DoctorAgent:
         #     self.pipe = LBAgent(model_name=backend_str)
         # else:
         self.pipe = BAgent(model_name=backend_str)
-
+        self.num_doctors = 5
     def update_scenario(self, scenario, max_infs=20, bias_present=None, img_request=False):
         # number of inference calls to the doctor
         self.infs = 0
@@ -234,11 +250,50 @@ class DoctorAgent:
 
     def inference_doctor(self, question, image_requested=False, thread_id = 1) -> str:
         answer = str()
-        if self.infs >= self.MAX_INFS: return "Maximum inferences reached"
+        if self.infs >= self.MAX_INFS-1:
+            return self.internal_discussion(question)
         answer = self.pipe.query_model("\nHere is a history of your dialogue: " + self.agent_hist + "\n Here was the patient response: " + question + "Now please continue your dialogue\nDoctor: ", self.system_prompt(), image_requested=image_requested, scene=self.scenario, thread_id = thread_id)
-        self.agent_hist += question + "\n\n" + answer + "\n\n"
+        self.agent_hist += question + "\n\n" + answer + "\n\nq[[[]"
         self.infs += 1
         return answer
+    def col_system_prompt(self):
+        return (
+            "You are a team of collaborative doctors engaged in a discussion about a patient's case. Each doctor is expected to provide their professional opinion "
+            "based on the presented symptoms and test results. The objective is to work together to reach a consensus diagnosis. "
+            "Each response should be formatted as 'Doctor X: [response]'. Once the discussion concludes, the group will collectively decide on the diagnosis, "
+            "summarized as 'DIAGNOSIS READY: [final diagnosis based on majority vote]'."
+        )
+
+    def internal_discussion(self, patient_statement, image_requested = None, thread_id=1)->str:
+        """
+        Simulates an internal multi-doctor discussion to refine diagnosis.
+
+        Args:
+            patient_statement (str): The patient's latest statement or response.
+            context (str): Additional context (e.g., test results or history).
+
+        Returns:
+            str: The final diagnosis after internal discussion.
+        """
+        discussion_prompt = (
+            f"Patient Statement: {patient_statement}\n"
+            f"Additional Context: {self.agent_hist}\n"
+            f"Doctors, please discuss this case and refine your opinions based on the symptoms and test results. "
+        )
+        responses = []
+
+        for i in range(1, self.num_doctors + 1):
+            # breakpoint()
+            prompt = (f"{discussion_prompt} Doctor {i}, please share your opinion on the diagnosis and reasoning.\n")
+            response = self.pipe.query_model(prompt, self.col_system_prompt(), image_requested=image_requested, scene=self.scenario, thread_id = thread_id)
+            responses.append(f"Doctor {i}: {response.strip()}")
+
+        # Final consensus based on discussion
+        consensus_prompt = (f"The following discussion occurred among doctors:\n\n" + "\n".join(responses) + "\n\nBased on this discussion, provide a Final Diagnosis.")
+        final_response = self.pipe.query_model(consensus_prompt, self.col_system_prompt(), image_requested=None, scene=self.scenario, thread_id = thread_id)
+        self.agent_hist += "\n".join(responses) + f"\nFinal Diagnosis: {final_response.strip()}\n"
+
+        return final_response.strip()
 
     def system_prompt(self) -> str:
         bias_prompt = ""
@@ -284,50 +339,63 @@ class MeasurementAgent:
         self.agent_hist = ""
         self.information = self.scenario.exam_information()
 
-def compare_results(diagnosis, correct_diagnosis, moderator_llm, mod_pipe, tries=3, timeout=5.0):
+
+def compare_results(diagnosis, correct_diagnosis, mod_pipe, similarity_threshold=0.8, tries=3, timeout=5.0):
     """
-    Compares the doctor's diagnosis with the correct diagnosis using a moderator model.
+    Compares the doctor's diagnosis with the correct diagnosis using a similarity-based approach.
 
     Args:
         diagnosis (str): The diagnosis provided by the doctor.
         correct_diagnosis (str): The correct diagnosis for the case.
-        mod_pipe (BAgent): The initialized QAssistant instance for the moderator.
-        tries (int): Number of retry attempts for querying the model. Defaults to 3.
+        mod_pipe (BAgent): The initialized moderator instance.
+        similarity_threshold (float): Threshold for similarity to decide "Yes". Defaults to 0.8.
+        tries (int): Number of retry attempts. Defaults to 3.
         timeout (float): Time in seconds between retries. Defaults to 5.0.
 
     Returns:
-        bool: True if the diagnoses match (Yes), False otherwise (No).
+        tuple: (decision (str), similarity (float))
     """
-    # Prepare the prompt for comparison
     prompt = (
         f"Here is the correct diagnosis: {correct_diagnosis}\n"
-        f"Here was the doctor dialogue and diagnosis: {diagnosis}\n"
-        f"Are these the same? Please respond only with Yes or No."
+        f"Here was the doctor's diagnosis: {diagnosis}\n"
+        f"Rate the similarity between the two diagnoses on a scale of 0 to 1, where 0 means completely dissimilar and 1 means identical. "
+        f"Based on the similarity score, decide whether they match. Respond strictly in the format:\n"
+        f"[0.XX]\n"
+        f"Do not include any additional text or explanation."
     )
-
-    # Define the system prompt for the moderator
     system_prompt = (
-        "You are a medical moderator responsible for determining if the doctor's diagnosis matches the correct "
-        "diagnosis. Please respond with either 'Yes' or 'No'. Do not provide any explanation or additional content."
+        "You are a medical moderator responsible for assessing similarity between two diagnoses. "
+        "Respond strictly in the format [0.XX] where 0.XX is similarity. Do not include any extra text."
     )
-
-    # Query the moderator model
+    # breakpoint()
     for attempt in range(tries):
         try:
-            # Use the mod_pipe's query_model to get the response
-            response = mod_pipe.query_model(
-                prompt=prompt,
-                system_prompt=system_prompt,
-                tries=1,  # Single attempt per loop iteration
-                timeout=timeout
-            )
+            # Query the model
+            response = mod_pipe.query_model(prompt=prompt, system_prompt=system_prompt, tries=1, timeout=timeout)
+            print(f"Attempt {attempt + 1} response: {response}")
 
-            # Process the response and return a boolean result
-            return response.strip().lower() == "yes"
+            # Extract response
+            if response.startswith("[") and response.endswith("]"):
+                similarity_str = response[1:-1]  # Remove square brackets
+                # similarity_str, decision_str = response_content.split(",")
+                
+                # Parse similarity and decision
+                similarity = float(similarity_str)
+                # decision = decision_str.split(":")[1].strip().lower()
+
+                # Validate response
+                if 0 <= similarity <= 1:
+                    return similarity>=similarity_threshold
+                else:
+                    print(f"Invalid similarity score: {similarity}")
+
+            else:
+                print(f"Response not in expected format: {response}")
 
         except Exception as e:
             print(f"Attempt {attempt + 1} failed with error: {e}")
-            time.sleep(timeout)
 
-    # Raise an exception if all retries fail
+        # Wait before retrying
+        time.sleep(timeout)
+
     raise Exception("Failed to compare results after multiple attempts.")

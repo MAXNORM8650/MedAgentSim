@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "So, can you tell me more about this episode of loss of consciousness you're experiencing? Was it sudden or did it come on gradually?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "It happened really quickly, one minute I was standing in the bathroom, the next I was on the floor. I don't remember anything before that, and when I came to, everything seemed normal."
+  },
+  {
+    "speaker": "Doctor",
+    "text": "Can you walk me through what happened right before you lost consciousness?"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Situational syncope",
+    "DIAGNOSIS_READY_Simulation": "Scene 6, The diagnosis was INCORRECT (28.57%)"
+  }
+]

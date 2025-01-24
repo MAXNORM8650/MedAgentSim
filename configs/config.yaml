@@ -13,14 +13,14 @@ biases:
   patient: "None"  # Options: None, recency, frequency, false_consensus, self_diagnosis, gender, race, sexual_orientation, cultural, education, religion, socioeconomic
 
 language_models:
-  doctor: "Qwen/Qwen2.5-7B-Instruct"
-  patient: "Qwen/Qwen2.5-7B-Instruct"
+  doctor: "meta-llama/Llama-3.2-3B-Instruct"
+  patient: "meta-llama/Llama-3.2-3B-Instruct"
   measurement: "meta-llama/Llama-3.2-3B-Instruct"
   moderator: "meta-llama/Llama-3.2-3B-Instruct"
 
 scenario:
-  dataset: "MedQA"  # Options: MedQA, MedQA_Ext, NEJM, NEJM_Ext, MIMICIV
+  dataset: MedQA # Options: "NHS"  MedQA, MedQA_Ext, NEJM, NEJM_Ext, MIMICIV
   image_request: false
   num_scenarios: null  # Set to a specific integer or null for default
   total_inferences: 20
-  output_dir: /home/komal.kumar/documment/MultiAgent/AgentClinic/Results/Qwen/Doc/Qwen2.5-72B-Instruct
+  output_dir: /home/komal.kumar/document/MultiAgent/AgentClinic/Results/MedQA/meta-llama/Llama-3.2-3B-Instruct/

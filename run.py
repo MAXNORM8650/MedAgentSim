@@ -21,6 +21,7 @@ from scenario import (
     ScenarioLoaderNEJM,
     ScenarioLoaderNEJMExtended,
     ScenarioLoaderMIMICIV,
+    ScenarioLoaderNHS,
     resolve_model_name,
 )
 from query import *
@@ -164,6 +165,7 @@ def load_scenario_loader(dataset: str):
         "NEJM": ScenarioLoaderNEJM,
         "NEJM_Ext": ScenarioLoaderNEJMExtended,
         "MIMICIV": ScenarioLoaderMIMICIV,
+        "NHS": ScenarioLoaderNHS
     }
     loader_class = loaders.get(dataset)
     if loader_class:
@@ -222,10 +224,10 @@ def run_simulation(
     Returns:
         Tuple[int, int]: Total correct diagnoses and total scenarios presented.
     """
-    meas_agent = MeasurementAgent(backend_str=measurement_llm)
-    patient_agent = PatientAgent(backend_str=patient_llm)
-    doctor_agent = DoctorAgent(backend_str=doctor_llm, graph=True)
-    mpipe = BAgent(moderator_llm)# patient_agent.pipe#BAgent(moderator_llm)
+    mpipe = BAgent(moderator_llm, loaded=False)# patient_agent.pipe#BAgent(moderator_llm)
+    patient_agent = PatientAgent(backend_str=mpipe)
+    doctor_agent = DoctorAgent(backend_str=mpipe)
+    meas_agent = MeasurementAgent(backend_str=mpipe)
 
     total_correct = 0
     total_scenarios = 0
@@ -338,7 +340,6 @@ def run_interaction_loop(
             result = compare_results(
                 doctor_dialogue,
                 scenario.diagnosis_information(),
-                moderator_llm,
                 mpipe,
             )
             is_correct = result
@@ -521,7 +522,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--agent_dataset",
         type=str,
-        choices=["MedQA", "MedQA_Ext", "NEJM", "NEJM_Ext", "MIMICIV"],
+        choices=["MedQA", "MedQA_Ext", "NEJM", "NEJM_Ext", "MIMICIV", "NHS"],
         help="Override agent dataset.",
     )
     parser.add_argument(

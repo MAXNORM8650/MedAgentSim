@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "Doctor",
+    "text": "Can you tell me when you first started experiencing double vision, difficulty climbing stairs, and upper limb weakness?"
+  },
+  {
+    "speaker": "Patient",
+    "text": "\"I started noticing it about a month ago, to be honest, I was working on a project and had to type for a few hours straight. The next morning, I had trouble seeing things clearly, and then it started affecting my daily activities like climbing stairs and brushing my hair.\""
+  },
+  {
+    "speaker": "Doctor",
+    "text": "When did these symptoms first start occurring, and have they been constant or have they come and gone over time?"
+  },
+  {
+    "DIAGNOSIS_READY_Answer": "Myasthenia gravis",
+    "DIAGNOSIS_READY_Simulation": "Scene 0, The diagnosis was INCORRECT (0.00%)"
+  }
+]
