@@ -104,6 +104,83 @@ class BAgent:
                 continue
         raise Exception("Max retries exceeded: unable to generate response.")
 
+    def query_model_with_ensembling(
+        self,
+        prompt,
+        system_prompt,
+        tries=3,
+        timeout=5.0,
+        image_requested=False,
+        scene=None,
+        max_prompt_len=2**14,
+        clip_prompt=False,
+        thread_id=1,
+        shuffle_ensemble_count=3  # Number of ensembles to create using choice shuffling
+    ):
+        for attempt in range(tries):
+            if clip_prompt:
+                prompt = prompt[:max_prompt_len]
+            try:
+                responses = []
+
+                # Generate multiple responses using shuffled prompts
+                for _ in range(shuffle_ensemble_count):
+                    shuffled_prompt = self.shuffle_choices_in_prompt(prompt)
+                    messages = self.build_messages(system_prompt, shuffled_prompt, image_requested, scene)
+
+                    # Use the pipeline to generate the response
+                    outputs = self.pipeline(
+                        messages,
+                        max_new_tokens=200,
+                        do_sample=True,
+                        temperature=0.7,
+                        top_p=0.9
+                    )
+                    responses.append(outputs[0]['generated_text'][-1]['content'])
+
+                # Aggregate responses (e.g., majority vote, longest consistent response, etc.)
+                final_response = self.aggregate_responses(responses)
+                return final_response
+
+            except Exception as e:
+                print(f"Attempt {attempt + 1} failed with error: {e}")
+                time.sleep(timeout)
+                continue
+        raise Exception("Max retries exceeded: unable to generate response.")
+
+    def shuffle_choices_in_prompt(self, prompt):
+        # This function identifies choices (e.g., multiple-choice options) and shuffles them
+        # Modify this logic based on how your choices are structured in the prompt
+        choices_pattern = r"\((a|b|c|d)\)\s+[^\n]+"
+        choices = re.findall(choices_pattern, prompt)
+        if choices:
+            random.shuffle(choices)
+            shuffled_prompt = re.sub(choices_pattern, lambda match: choices.pop(0), prompt, count=len(choices))
+            return shuffled_prompt
+        return prompt
+
+    def build_messages(self, system_prompt, prompt, image_requested, scene):
+        if image_requested:
+            if scene is None or not hasattr(scene, 'image_url'):
+                raise ValueError("Image requested but no scene or image_url provided.")
+            return [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": [
+                    {"type": "text", "text": prompt},
+                    {"type": "image_url", "image_url": {"url": scene.image_url}},
+                ]},
+            ]
+        else:
+            return [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt},
+            ]
+
+    def aggregate_responses(self, responses):
+        # Aggregate responses (e.g., by selecting the most common one)
+        response_counts = {response: responses.count(response) for response in responses}
+        return max(response_counts, key=response_counts.get)
+
     def generate_response(self, system_prompt, user_prompt):
         return self.query_model(
             prompt=user_prompt,
@@ -290,7 +367,7 @@ class DoctorAgent:
 
         # Final consensus based on discussion
         consensus_prompt = (f"The following discussion occurred among doctors:\n\n" + "\n".join(responses) + "\n\nBased on this discussion, provide a Final Diagnosis.")
-        final_response = self.pipe.query_model(consensus_prompt, self.col_system_prompt(), image_requested=None, scene=self.scenario, thread_id = thread_id)
+        final_response = self.pipe.query_model_with_ensembling(consensus_prompt, self.col_system_prompt(), image_requested=None, scene=self.scenario, thread_id = thread_id)
         self.agent_hist += "\n".join(responses) + f"\nFinal Diagnosis: {final_response.strip()}\n"
 
         return final_response.strip()
