@@ -4,6 +4,8 @@ from transformers import BitsAndBytesConfig
 import json
 import os
 import time
+import random
+import re
 
 import time
 import torch
@@ -150,7 +152,6 @@ class BAgent:
 
     def shuffle_choices_in_prompt(self, prompt):
         # This function identifies choices (e.g., multiple-choice options) and shuffles them
-        # Modify this logic based on how your choices are structured in the prompt
         choices_pattern = r"\((a|b|c|d)\)\s+[^\n]+"
         choices = re.findall(choices_pattern, prompt)
         if choices:
