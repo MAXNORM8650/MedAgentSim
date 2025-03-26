@@ -1,0 +1,18 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY_HERE",
+    "replicate_api_key": "YOUR_REPLICATE_API_KEY_HERE",
+    "inf_type": "llm",
+    "save_path": "./logs/round2",
+    "save_intermediate": "scenario",
+    "doctor_bias": "None",
+    "patient_bias": "None",
+    "doctor_llm": "None",
+    "patient_llm": "None",
+    "measurement_llm": "None",
+    "moderator_llm": "None",
+    "agent_dataset": "MedQA",
+    "doctor_image_request": false,
+    "num_scenarios": 106,
+    "total_inferences": 20,
+    "anthropic_api_key": "YOUR_ANTHROPIC_API_KEY_HERE"
+  }

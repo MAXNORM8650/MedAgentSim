@@ -1,0 +1,334 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    36,
+    25
+  ],
+  "daily_plan_req": "",
+  "name": "Latoya Williams",
+  "first_name": "Latoya",
+  "last_name": "Williams",
+  "age": 25,
+  "innate": "organized, logical, attentive",
+  "learned": "Latoya Williams is a digital photographer who has a keen eye for details. She is very organized and analytical when it comes to her art.",
+  "currently": "Latoya Williams is creating a series of photography inspired by her travels. She mostly works from the artists' co-living space. Latoya is also curious about who will be running for the local mayor election next month and that is a central topic in her conversations with others.",
+  "lifestyle": "Latoya Williams goes to bed around 10pm, awakes up around 6am, eats dinner around 17:30pm.",
+  "living_area": "the Ville:artist's co-living space:Latoya Williams's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 58,
+  "importance_ele_n": 89,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "work on editing photos for her photography series at the artists' co-living space from 9:00 am to 1:00 pm",
+    "have lunch at 1:00 pm",
+    "research about the potential candidates for the local mayor election from 2:00 pm to 3:00 pm",
+    "continue editing photos from 3:30 pm to 5:30 pm",
+    "go for a walk to clear her mind at 6:00 pm",
+    "have dinner at 7:00 pm",
+    "relax and unwind with a book at 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her phone for any urgent messages or notifications)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (going to the bathroom to freshen up)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (changing into her morning clothes)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (tidying up her bedroom)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (going to the kitchen to prepare breakfast)",
+      10
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (making her bed)",
+      5
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (taking a shower)",
+      15
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (getting dressed)",
+      10
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (tidying up her living space)",
+      10
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (on the way to checking her emails)",
+      0
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (conversing about Latoya Williams and Rajiv Patel are discussing potential local mayor candidates, focusing on their platforms regarding environmental issues, economic development, and support for the arts community, and planning to attend candidate debates, community meetings, and organize a forum for artists to make an informed decision during the election.)",
+      11
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (preparing breakfast)",
+      30
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (on the way to eating breakfast)",
+      0
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (conversing about editing the latest episode of the web series, planning to attend candidate debates and community meetings, discussing the candidates' platforms on environmental issues and the concerns of the arts community, and organizing a forum for artists to gather perspectives on the candidates.)",
+      8
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (eating breakfast)",
+      20
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (washing dishes)",
+      10
+    ],
+    [
+      "continuing her morning routine and preparing breakfast (getting her photography gear ready)",
+      1
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (organizing her photos from the latest trip)",
+      20
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (selecting the best photos for editing)",
+      30
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (editing the selected photos)",
+      60
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (taking a break)",
+      10
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (reviewing the edited photos)",
+      30
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (making final adjustments to the edited photos)",
+      30
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (saving the edited photos to her computer)",
+      10
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (backing up the edited photos)",
+      10
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (preparing a presentation of the edited photos)",
+      30
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space (organizing the edited photos in a folder)",
+      10
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "researching potential candidates for the local mayor election",
+      60
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "going for a walk to clear her mind",
+      120
+    ],
+    [
+      "relaxing and unwinding with a book",
+      180
+    ],
+    [
+      "relaxing and getting ready to go to bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "continuing her morning routine and preparing breakfast",
+      120
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space",
+      240
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "researching potential candidates for the local mayor election",
+      60
+    ],
+    [
+      "working on editing photos for her photography series at the artists' co-living space",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "going for a walk to clear her mind",
+      120
+    ],
+    [
+      "relaxing and unwinding with a book",
+      180
+    ],
+    [
+      "relaxing and getting ready to go to bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:kitchen:refrigerator",
+  "act_start_time": "February 13, 2023, 08:12:00",
+  "act_duration": 30,
+  "act_description": "continuing her morning routine and preparing breakfast (preparing breakfast)",
+  "act_pronunciatio": "\ud83c\udf73",
+  "act_event": [
+    "Latoya Williams",
+    "prepare",
+    "breakfast"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "refrigerator",
+    "use",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Rajiv Patel": 591,
+    "Francisco Lopez": 738
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

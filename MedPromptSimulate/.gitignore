@@ -1,0 +1,29 @@
+**/datasets/*
+**/log.md
+**/warnings.log
+*.pyc
+*.json
+*.json.gz
+env/
+src/*.egg-info/*
+src/promptbase/generations/*
+*.log
+*.jsonl
+src/promptbase/datasets/BigBench/**
+
+
+notebooks/*
+
+# Don't include my actual configs
+azureml/pipelines/configs/aml_config.yaml
+azureml/pipelines/configs/aoai_config.yaml
+azureml/pipelines/configs/aoai_embedding_config.yaml
+
+# Don't include Hydra output directory
+azureml/**/outputs/*
+
+# DO include our schema jsons
+!azureml/json_schemas/*.json
+
+# Do include the example other_config
+!aml-tutorial/other_configs_example.json

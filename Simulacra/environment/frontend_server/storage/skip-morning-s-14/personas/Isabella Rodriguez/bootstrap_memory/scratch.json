@@ -1,0 +1,418 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    65,
+    32
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and stands at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on *February 14th, 2023, from 5pm to 7pm*.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 46,
+  "importance_ele_n": 122,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "plan the Valentine's Day party and gather party materials throughout the day",
+    "interact with customers and ensure they are aware of the party at the cafe on February 14th, 2023 from 5pm to 7pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (having breakfast)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (checking her schedule for the day)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (turning on all the lights and equipment in the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (checking the inventory and making a list of items that need to be restocked)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (setting up the outdoor seating area)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (brewing fresh coffee and preparing the espresso machine)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (arranging the pastries and desserts in the display case)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (checking the reservation book for any upcoming events or parties)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (organizing the condiment station and making sure everything is fully stocked)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead (putting on her apron and getting ready to welcome the first customers of the day)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (unlocking the doors and turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (checking inventory and restocking supplies)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (on the way to setting up the tables and chairs)",
+      0
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (conversing about preparations for a Valentine's Day party at Hobbs Cafe, with Isabella asking Carmen to bring red and pink balloons for the decorations)",
+      8
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (setting up the tables and chairs)",
+      2
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (turning on the coffee machines and other equipment)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (preparing the display case with pastries and treats)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (checking the cleanliness of the cafe and tidying up any mess)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers (reviewing the specials board and updating it if needed)",
+      5
+    ],
+    [
+      "interacting with customers and discussing the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm (greeting customers as they enter the cafe)",
+      10
+    ],
+    [
+      "interacting with customers and discussing the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm (handing out flyers about the Valentine's Day party)",
+      10
+    ],
+    [
+      "interacting with customers and discussing the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm (explaining the details of the party to interested customers)",
+      15
+    ],
+    [
+      "interacting with customers and discussing the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm (taking reservations from customers who want to attend the party)",
+      10
+    ],
+    [
+      "interacting with customers and discussing the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm (answering questions about the party menu and activities)",
+      15
+    ],
+    [
+      "interacting with suppliers to ensure she has all the necessary ingredients and supplies for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "interacting with customers and finalizing the details for the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm",
+      60
+    ],
+    [
+      "interacting with her staff to delegate tasks and ensure everything is in place for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "interacting with customers and promoting the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm",
+      60
+    ],
+    [
+      "continuing to interact with customers and promote the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm",
+      60
+    ],
+    [
+      "continuing to interact with customers and promote the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm. She is also finalizing any last-minute details for the event",
+      480
+    ],
+    [
+      "continuing to interact with customers and promote the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm. She is also finalizing any last-minute details for the event. Isabella will",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day ahead",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and starting her day by preparing the cafe for customers",
+      60
+    ],
+    [
+      "interacting with customers and discussing the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm",
+      60
+    ],
+    [
+      "interacting with suppliers to ensure she has all the necessary ingredients and supplies for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "interacting with customers and finalizing the details for the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm",
+      60
+    ],
+    [
+      "interacting with her staff to delegate tasks and ensure everything is in place for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "interacting with customers and promoting the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm",
+      60
+    ],
+    [
+      "continuing to interact with customers and promote the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm",
+      60
+    ],
+    [
+      "continuing to interact with customers and promote the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm. She is also finalizing any last-minute details for the event",
+      480
+    ],
+    [
+      "continuing to interact with customers and promote the Valentine's Day party at Hobbs Cafe on February 14th, 2023 from 5pm to 7pm. She is also finalizing any last-minute details for the event. Isabella will",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:20:00",
+  "act_duration": 8,
+  "act_description": "opening Hobbs Cafe and starting her day by preparing the cafe for customers (conversing about preparations for a Valentine's Day party at Hobbs Cafe, with Isabella asking Carmen to bring red and pink balloons for the decorations)",
+  "act_pronunciatio": "\ud83c\udf88",
+  "act_event": [
+    "Isabella Rodriguez",
+    "converse",
+    "preparations"
+  ],
+  "act_obj_description": "being arranged for the Valentine's Day party",
+  "act_obj_pronunciatio": "\ud83d\udc95",
+  "act_obj_event": [
+    "cafe customer seating",
+    "arrange",
+    "Valentine's Day party"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Carmen Ortiz": 786
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      65,
+      30
+    ],
+    [
+      66,
+      30
+    ],
+    [
+      67,
+      30
+    ],
+    [
+      68,
+      30
+    ],
+    [
+      69,
+      30
+    ],
+    [
+      70,
+      30
+    ],
+    [
+      71,
+      30
+    ],
+    [
+      72,
+      30
+    ],
+    [
+      73,
+      30
+    ],
+    [
+      74,
+      30
+    ],
+    [
+      75,
+      30
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      76,
+      25
+    ]
+  ]
+}

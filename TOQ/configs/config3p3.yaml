@@ -1,0 +1,27 @@
+# config.yaml
+
+api_keys:
+  openai: "sk-your-openai-api-key"
+  replicate: "your-replicate-api-key"
+  anthropic: "your-anthropic-api-key"  # Optional
+
+inference:
+  type: "llm"  # Options: llm, human_doctor, human_patient
+
+biases:
+  doctor: "None"  # Options: None, recency, frequency, false_consensus, confirmation, status_quo, gender, race, sexual_orientation, cultural, education, religion, socioeconomic
+  patient: "None"  # Options: None, recency, frequency, false_consensus, self_diagnosis, gender, race, sexual_orientation, cultural, education, religion, socioeconomic
+
+language_models:
+  doctor: "meta-llama/Llama-3.3-70B-Instruct"
+  patient: "meta-llama/Llama-3.3-70B-Instruct"
+  measurement: "meta-llama/Llama-3.3-70B-Instruct"
+  moderator: "meta-llama/Llama-3.3-70B-Instruct"
+
+scenario:
+  dataset: "MedQA"  # Options: MedQA, MedQA_Ext, NEJM, NEJM_Ext, MIMICIV
+  image_request: false
+  num_scenarios: null  # Set to a specific integer or null for default
+  total_inferences: 20
+  output_dir: /home/komal.kumar/documment/MultiAgent/AgentClinic/Results/meta-llama/Llama-3.3-70B-Instruct/
+
