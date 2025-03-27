@@ -1,0 +1,435 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    38,
+    36
+  ],
+  "daily_plan_req": "Ayesha Khan goes to the library at Oak Hill College to take classes from 10am to 2pm, and then spends her days studying at the library.",
+  "name": "Ayesha Khan",
+  "first_name": "Ayesha",
+  "last_name": "Khan",
+  "age": 20,
+  "innate": "curious, determined, independent",
+  "learned": "Ayesha Khan is a college student who loves to explore literature. She is curious and determined to understand the nuances of each work.",
+  "currently": "Ayesha Khan is researching for her senior thesis on the use of language in Shakespeare\u2019s plays. She is also taking classes to learn more about writing.",
+  "lifestyle": "Ayesha Khan goes to bed around 10pm, awakes up around 6am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Ayesha Khan's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 1,
+  "importance_ele_n": 104,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "go for a run at 7:00 am",
+    "have breakfast at 8:00 am",
+    "head to the library at Oak Hill College for classes from 10:00 am to 2:00 pm",
+    "have lunch at the library at 12:00 pm",
+    "continue studying at the library until 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (changing into her workout clothes)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing a light breakfast)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (packing her bag for the day)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (checking her schedule for the day)",
+      5
+    ],
+    [
+      "going for a run (stretching and warming up)",
+      10
+    ],
+    [
+      "going for a run (on the way to putting on her running shoes and getting ready)",
+      0
+    ],
+    [
+      "going for a run (conversing about Ayesha Khan and Wolfgang Schulz discussing Ayesha's research on the use of language in Shakespeare's plays and planning to meet for coffee to continue their conversation.)",
+      8
+    ],
+    [
+      "going for a run (setting her running route and goals for the day)",
+      5
+    ],
+    [
+      "going for a run (starting her run)",
+      30
+    ],
+    [
+      "going for a run (on the way to on the way to cooling down and stretching after the run)",
+      0
+    ],
+    [
+      "going for a run (conversing about creativity, innovation, and fostering creativity in different environments between Ayesha Khan and Adam Smith.)",
+      12
+    ],
+    [
+      "going for a run (cooling down and stretching after the run)",
+      6
+    ],
+    [
+      "having breakfast (on the way to preparing her breakfast)",
+      0
+    ],
+    [
+      "having breakfast (conversing about Ayesha Khan and Sam Moore discussing Shakespeare's works, their love for literature, live performances, borrowing a collection of plays, Sam's mayoral run, plans to meet for coffee to discuss the community and campaign details.)",
+      11
+    ],
+    [
+      "having breakfast (making a cup of tea)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (checking her phone for any urgent messages)",
+      5
+    ],
+    [
+      "having breakfast (enjoying her breakfast)",
+      20
+    ],
+    [
+      "having breakfast (cleaning up the dishes and getting ready to head to the library)",
+      4
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes (getting ready for the day by showering and getting dressed)",
+      20
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes (packing her backpack with her notebooks and textbooks)",
+      10
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes (checking the schedule for her classes and making sure she has all the necessary materials)",
+      10
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes (grabbing a quick snack to eat on the way to the library)",
+      5
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes (walking or driving to the library at Oak Hill College)",
+      20
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes (finding a parking spot or locking her bike before heading into the library)",
+      5
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes (greeting her classmates and finding a seat in the classroom)",
+      49
+    ],
+    [
+      "continuing her classes at the library at Oak Hill College",
+      60
+    ],
+    [
+      "having lunch at the library at Oak Hill College",
+      60
+    ],
+    [
+      "continuing her classes at the library at Oak Hill College",
+      300
+    ],
+    [
+      "studying at the library at Oak Hill College",
+      240
+    ],
+    [
+      "researching for her senior thesis on the use of language in Shakespeare\u2019s plays",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going for a run",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "heading to the library at Oak Hill College for her classes",
+      120
+    ],
+    [
+      "continuing her classes at the library at Oak Hill College",
+      60
+    ],
+    [
+      "having lunch at the library at Oak Hill College",
+      60
+    ],
+    [
+      "continuing her classes at the library at Oak Hill College",
+      300
+    ],
+    [
+      "studying at the library at Oak Hill College",
+      240
+    ],
+    [
+      "researching for her senior thesis on the use of language in Shakespeare\u2019s plays",
+      120
+    ]
+  ],
+  "act_address": "the Ville:The Rose and Crown Pub:pub:bar customer seating",
+  "act_start_time": "February 13, 2023, 08:18:00",
+  "act_duration": 11,
+  "act_description": "having breakfast (conversing about Ayesha Khan and Sam Moore discussing Shakespeare's works, their love for literature, live performances, borrowing a collection of plays, Sam's mayoral run, plans to meet for coffee to discuss the community and campaign details.)",
+  "act_pronunciatio": "\ud83d\udcda",
+  "act_event": [
+    "Ayesha Khan",
+    "converse",
+    "discussing"
+  ],
+  "act_obj_description": "occupied by Ayesha Khan and Sam Moore having breakfast and discussing literature, community, and campaign details",
+  "act_obj_pronunciatio": "\ud83c\udf73",
+  "act_obj_event": [
+    "bar customer seating",
+    "occupy",
+    "Ayesha Khan and Sam Moore"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": 366,
+    "John Lin": 480,
+    "Adam Smith": 564,
+    "Sam Moore": 774
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      40,
+      36
+    ],
+    [
+      41,
+      36
+    ],
+    [
+      41,
+      35
+    ],
+    [
+      41,
+      34
+    ],
+    [
+      41,
+      33
+    ],
+    [
+      41,
+      32
+    ],
+    [
+      42,
+      32
+    ],
+    [
+      43,
+      32
+    ],
+    [
+      44,
+      32
+    ],
+    [
+      44,
+      31
+    ],
+    [
+      45,
+      31
+    ],
+    [
+      46,
+      31
+    ],
+    [
+      47,
+      31
+    ],
+    [
+      48,
+      31
+    ],
+    [
+      49,
+      31
+    ],
+    [
+      49,
+      30
+    ],
+    [
+      50,
+      30
+    ],
+    [
+      51,
+      30
+    ],
+    [
+      52,
+      30
+    ],
+    [
+      53,
+      30
+    ],
+    [
+      54,
+      30
+    ],
+    [
+      55,
+      30
+    ],
+    [
+      56,
+      30
+    ],
+    [
+      56,
+      29
+    ],
+    [
+      56,
+      28
+    ],
+    [
+      56,
+      27
+    ],
+    [
+      56,
+      26
+    ],
+    [
+      55,
+      26
+    ],
+    [
+      55,
+      25
+    ],
+    [
+      55,
+      24
+    ],
+    [
+      55,
+      23
+    ]
+  ]
+}

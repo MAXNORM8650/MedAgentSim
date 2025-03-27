@@ -1,0 +1,269 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    36,
+    30
+  ],
+  "daily_plan_req": "",
+  "name": "Francisco Lopez",
+  "first_name": "Francisco",
+  "last_name": "Lopez",
+  "age": 23,
+  "innate": "outgoing, friendly, honest",
+  "learned": "Francisco Lopez is an actor and comedian who loves to entertain others. They are always looking for new ways to make people laugh.",
+  "currently": "Francisco Lopez is working on a web series about life in a co-living space. They are also exploring improvisational comedy classes.",
+  "lifestyle": "Francisco Lopez goes to bed around 11pm, awakes up around 7am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Francisco Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 94,
+  "importance_ele_n": 64,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "work on editing the latest episode of the web series from 8:00 am to 12:00 pm",
+    "have lunch at 12:30 pm",
+    "attend an improvisational comedy class from 2:00 pm to 4:00 pm",
+    "brainstorm ideas for new material for the web series from 4:30 pm to 6:00 pm",
+    "have dinner at 6:30 pm",
+    "relax and watch a comedy show at 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed and making the bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (going to the bathroom to freshen up)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth and washing face)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing the morning routine (getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (having breakfast)",
+      10
+    ],
+    [
+      "working on editing the latest episode of the web series (on the way to setting up the editing software)",
+      0
+    ],
+    [
+      "working on editing the latest episode of the web series (conversing about Rajiv Patel and Francisco Lopez are discussing their plans to attend candidate debates and community meetings to learn more about the candidates in the upcoming local elections.)",
+      9
+    ],
+    [
+      "working on editing the latest episode of the web series (on the way to setting up the editing software)",
+      0
+    ],
+    [
+      "working on editing the latest episode of the web series (conversing about editing the latest episode of the web series, planning to attend candidate debates and community meetings, discussing the candidates' platforms on environmental issues and the concerns of the arts community, and organizing a forum for artists to gather perspectives on the candidates.)",
+      8
+    ],
+    [
+      "working on editing the latest episode of the web series (setting up the editing software)",
+      20
+    ],
+    [
+      "working on editing the latest episode of the web series (importing the raw footage into the editing software)",
+      20
+    ],
+    [
+      "working on editing the latest episode of the web series (organizing the footage into different scenes)",
+      30
+    ],
+    [
+      "working on editing the latest episode of the web series (selecting the best takes for each scene)",
+      30
+    ],
+    [
+      "working on editing the latest episode of the web series (editing the scenes together to create a cohesive story)",
+      60
+    ],
+    [
+      "working on editing the latest episode of the web series (adding music and sound effects)",
+      30
+    ],
+    [
+      "working on editing the latest episode of the web series (adding transitions between scenes)",
+      20
+    ],
+    [
+      "working on editing the latest episode of the web series (color correcting the footage)",
+      20
+    ],
+    [
+      "working on editing the latest episode of the web series (reviewing the edited episode)",
+      30
+    ],
+    [
+      "working on editing the latest episode of the web series (making final adjustments based on the review)",
+      20
+    ],
+    [
+      "working on editing the latest episode of the web series (exporting the final episode)",
+      3
+    ],
+    [
+      "having lunch at 12:30 pm",
+      60
+    ],
+    [
+      "attending an improvisational comedy class",
+      60
+    ],
+    [
+      "brainstorming ideas for new material for the web series",
+      300
+    ],
+    [
+      "relaxing and watching a comedy show",
+      120
+    ],
+    [
+      "relaxing and watching a comedy show at 9:00 pm",
+      60
+    ],
+    [
+      "relaxing and winding down before going to bed around 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "working on editing the latest episode of the web series",
+      300
+    ],
+    [
+      "having lunch at 12:30 pm",
+      60
+    ],
+    [
+      "attending an improvisational comedy class",
+      60
+    ],
+    [
+      "brainstorming ideas for new material for the web series",
+      300
+    ],
+    [
+      "relaxing and watching a comedy show",
+      120
+    ],
+    [
+      "relaxing and watching a comedy show at 9:00 pm",
+      60
+    ],
+    [
+      "relaxing and winding down before going to bed around 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room table",
+  "act_start_time": "February 13, 2023, 08:20:00",
+  "act_duration": 20,
+  "act_description": "working on editing the latest episode of the web series (setting up the editing software)",
+  "act_pronunciatio": "\ud83d\udcbb",
+  "act_event": [
+    "Francisco Lopez",
+    "set up",
+    "editing software"
+  ],
+  "act_obj_description": "being used by Francisco Lopez for editing the latest episode of the web series",
+  "act_obj_pronunciatio": "\ud83d\udcbb",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "Francisco Lopez"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Rajiv Patel": 684,
+    "Latoya Williams": 738
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

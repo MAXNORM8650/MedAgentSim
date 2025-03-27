@@ -1,0 +1,319 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    81,
+    49
+  ],
+  "daily_plan_req": "Tom Moreno opens The Willow Market and Pharmacy at 8am, stands behind the grocery counter, and goes home afterwards to eat dinner with his wife.",
+  "name": "Tom Moreno",
+  "first_name": "Tom",
+  "last_name": "Moreno",
+  "age": 52,
+  "innate": "rude, aggressive, energetic",
+  "learned": "Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.",
+  "currently": "Tom Moreno is living with his wife, Jane Moreno, and is managing the day to day operations at the store and helping out customers with their orders. Tom is also really interested in the local mayor election that is coming up next month. You don't like Sam Moore.",
+  "lifestyle": "Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 66,
+  "importance_ele_n": 101,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open The Willow Market and Pharmacy at 8:00 am",
+    "stand behind the grocery counter assisting customers until closing time",
+    "go home around 6:00 pm",
+    "have dinner with his wife Jane at 6:30 pm",
+    "check the local mayor election updates and news from 7:00 pm onwards"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (on the way to brushing his teeth)",
+      0
+    ],
+    [
+      "waking up and completing his morning routine (conversing about preparing and enjoying a breakfast of omelets, toast, orange juice, butter, and coffee, while Tom and Jane Moreno chat and help each other with setting the table and serving the food)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter (unlocking the doors and turning on the lights)",
+      5
+    ],
+    [
+      "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter (checking inventory levels and restocking shelves)",
+      15
+    ],
+    [
+      "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter (organizing the display of fresh produce)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter (setting up the cash register and POS system)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter (checking the cleanliness of the store and ensuring it's presentable)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter (preparing the deli counter for the day)",
+      10
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (greeting customers as they enter the store)",
+      10
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (helping customers find specific items in the store)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (restocking shelves with new products)",
+      30
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting an elderly customer with their groceries to the car)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (answering phone calls and taking orders over the phone)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (handling a customer complaint about a product)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (helping a customer with a special dietary restriction find suitable products)",
+      25
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (checking inventory levels and making notes of items that need to be restocked)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a parent with a crying child to find a distraction)",
+      10
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (guiding a customer to the pharmacy section for their prescription)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (offering samples of new products to customers)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (helping a customer with a large order at the checkout counter)",
+      30
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (taking a short break to grab a snack)",
+      10
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with finding a gift for a special occasion)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (organizing a display of seasonal products near the entrance)",
+      25
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with a loyalty program sign-up)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (helping a customer with a return or exchange)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (guiding a customer to the best deals and discounts in the store)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with a product inquiry that requires research)",
+      30
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (checking the cleanliness of the store and ensuring it's well-maintained)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with a bulk order for a party)",
+      25
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (helping a customer with a broken item and arranging a replacement)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with finding a specific brand that is usually hard to locate)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (guiding a customer to the best products for a DIY project they are working on)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with a product demonstration)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (helping a customer with a last-minute gift selection)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with a product that requires assembly instructions)",
+      25
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (guiding a customer to the best products for a healthy lifestyle)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with finding a substitute for an out-of-stock item)",
+      20
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (helping a customer with a product that needs special handling or care instructions)",
+      15
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (assisting a customer with a product that requires customization)",
+      25
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled (wrapping up the day's tasks and preparing to close the store)",
+      10
+    ],
+    [
+      "checking the local mayor election updates and news",
+      300
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter",
+      60
+    ],
+    [
+      "assisting customers at The Willow Market and Pharmacy, ensuring everyone is taken care of and their orders are fulfilled",
+      600
+    ],
+    [
+      "checking the local mayor election updates and news",
+      300
+    ]
+  ],
+  "act_address": "the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+  "act_start_time": "February 13, 2023, 08:20:00",
+  "act_duration": 10,
+  "act_description": "opening The Willow Market and Pharmacy, ready to assist customers behind the grocery counter (organizing the display of fresh produce)",
+  "act_pronunciatio": "\ud83c\udf4e",
+  "act_event": [
+    "Tom Moreno",
+    "organize",
+    "display"
+  ],
+  "act_obj_description": "being restocked",
+  "act_obj_pronunciatio": "\ud83d\udd01",
+  "act_obj_event": [
+    "grocery store shelf",
+    "restock",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Jane Moreno": 331
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,345 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    69,
+    73
+  ],
+  "daily_plan_req": "",
+  "name": "Jane Moreno",
+  "first_name": "Jane",
+  "last_name": "Moreno",
+  "age": 46,
+  "innate": "friendly, helpful, organized",
+  "learned": "Jane Moreno is a housewife who loves to take care of her family. She is always looking for new ways to make life easier and more enjoyable for everyone.",
+  "currently": "Jane Moreno is living with her husband, Tom Moreno, who is a shop keeper at The Willow Market and Pharmacy.",
+  "lifestyle": "Jane Moreno goes to bed around 10pm, awakes up around 6am, eats dinner around 6pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 246,
+  "importance_ele_n": 2,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "make breakfast for Tom and herself at 7:00 am",
+    "help Tom get ready for work at 8:00 am",
+    "tidy up the house and do laundry at 9:00 am",
+    "prepare lunch for Tom to take to work at 11:00 am",
+    "have lunch at 12:00 pm",
+    "go grocery shopping at The Willow Market and Pharmacy at 1:00 pm",
+    "pick up dry cleaning at 3:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (changing into her morning clothes)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making the bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (tidying up the bedroom)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (going to the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing a glass of water)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her schedule for the day)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making a to-do list for the day)",
+      10
+    ],
+    [
+      "making breakfast for Tom and herself (preparing ingredients for breakfast)",
+      10
+    ],
+    [
+      "making breakfast for Tom and herself (on the way to cooking eggs)",
+      0
+    ],
+    [
+      "making breakfast for Tom and herself (conversing about preparing and enjoying a breakfast of omelets, toast, orange juice, butter, and coffee, while Tom and Jane Moreno chat and help each other with setting the table and serving the food)",
+      5
+    ],
+    [
+      "making breakfast for Tom and herself (cooking eggs)",
+      5
+    ],
+    [
+      "making breakfast for Tom and herself (toasting bread)",
+      5
+    ],
+    [
+      "making breakfast for Tom and herself (brewing coffee)",
+      5
+    ],
+    [
+      "making breakfast for Tom and herself (setting the table)",
+      5
+    ],
+    [
+      "making breakfast for Tom and herself (pouring juice)",
+      5
+    ],
+    [
+      "making breakfast for Tom and herself (serving breakfast)",
+      5
+    ],
+    [
+      "making breakfast for Tom and herself (sitting down to eat breakfast with Tom)",
+      15
+    ],
+    [
+      "helping Tom get ready for work (waking Tom up)",
+      5
+    ],
+    [
+      "helping Tom get ready for work (preparing Tom's breakfast)",
+      10
+    ],
+    [
+      "helping Tom get ready for work (making coffee for Tom)",
+      5
+    ],
+    [
+      "helping Tom get ready for work (helping Tom pick out his clothes for the day)",
+      10
+    ],
+    [
+      "helping Tom get ready for work (ironing Tom's shirt)",
+      10
+    ],
+    [
+      "helping Tom get ready for work (packing Tom's lunch)",
+      10
+    ],
+    [
+      "helping Tom get ready for work (reminding Tom about his schedule for the day)",
+      5
+    ],
+    [
+      "helping Tom get ready for work (giving Tom a goodbye kiss)",
+      5
+    ],
+    [
+      "tidying up the house and doing laundry (organizing the living room)",
+      15
+    ],
+    [
+      "tidying up the house and doing laundry (tidying up the bedroom)",
+      15
+    ],
+    [
+      "tidying up the house and doing laundry (cleaning the bathroom)",
+      15
+    ],
+    [
+      "tidying up the house and doing laundry (doing laundry)",
+      15
+    ],
+    [
+      "preparing lunch for Tom to take to work",
+      360
+    ],
+    [
+      "preparing dinner for her and Tom",
+      180
+    ],
+    [
+      "making a grocery list for the week ahead",
+      120
+    ],
+    [
+      "making a to-do list for the next day",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "making breakfast for Tom and herself",
+      60
+    ],
+    [
+      "helping Tom get ready for work",
+      60
+    ],
+    [
+      "tidying up the house and doing laundry",
+      60
+    ],
+    [
+      "preparing lunch for Tom to take to work",
+      360
+    ],
+    [
+      "preparing dinner for her and Tom",
+      180
+    ],
+    [
+      "making a grocery list for the week ahead",
+      120
+    ],
+    [
+      "making a to-do list for the next day",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:closet",
+  "act_start_time": "February 13, 2023, 08:20:00",
+  "act_duration": 10,
+  "act_description": "helping Tom get ready for work (helping Tom pick out his clothes for the day)",
+  "act_pronunciatio": "\ud83d\udc55",
+  "act_event": [
+    "Jane Moreno",
+    "help",
+    "Tom"
+  ],
+  "act_obj_description": "being organized by Jane Moreno as she helps Tom pick out his clothes for the day",
+  "act_obj_pronunciatio": "\ud83d\udc57",
+  "act_obj_event": [
+    "closet",
+    "organize",
+    "Jane Moreno"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tom Moreno": 331
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

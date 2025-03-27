@@ -1,0 +1,195 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    40,
+    18
+  ],
+  "daily_plan_req": "",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology.",
+  "currently": "Abigail Chen is working on an animation project for a client. She is also experimenting with different tools and techniques to create interactive art.",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 221,
+  "importance_ele_n": 19,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast at 8:30 am",
+    "work on animation project for client from 9:00 am to 1:00 pm",
+    "have lunch at 1:00 pm",
+    "experiment with interactive art tools and techniques from 2:00 pm to 5:00 pm",
+    "take a break and go for a walk at 5:00 pm",
+    "have dinner at 6:00 pm",
+    "continue working on animation project for client from 7:00 pm to 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (checking her emails and messages)",
+      10
+    ],
+    [
+      "starting to work on her animation project for the client (setting up her workspace and gathering all necessary materials)",
+      10
+    ],
+    [
+      "starting to work on her animation project for the client (reviewing the client's project requirements and brief)",
+      15
+    ],
+    [
+      "starting to work on her animation project for the client (sketching out initial ideas and concepts for the animation)",
+      30
+    ],
+    [
+      "starting to work on her animation project for the client (researching and experimenting with different animation techniques)",
+      30
+    ],
+    [
+      "starting to work on her animation project for the client (creating a storyboard for the animation)",
+      30
+    ],
+    [
+      "starting to work on her animation project for the client (starting to work on the animation project using her preferred software)",
+      30
+    ],
+    [
+      "starting to work on her animation project for the client (taking a short break to rest her eyes and stretch)",
+      35
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "continuing to work on her animation project for the client",
+      60
+    ],
+    [
+      "experimenting with interactive art tools and techniques",
+      180
+    ],
+    [
+      "taking a break and going for a walk",
+      120
+    ],
+    [
+      "continuing to work on her animation project for the client",
+      300
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "starting to work on her animation project for the client",
+      180
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "continuing to work on her animation project for the client",
+      60
+    ],
+    [
+      "experimenting with interactive art tools and techniques",
+      180
+    ],
+    [
+      "taking a break and going for a walk",
+      120
+    ],
+    [
+      "continuing to work on her animation project for the client",
+      300
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:Abigail Chen's room:closet",
+  "act_start_time": "February 13, 2023, 08:15:00",
+  "act_duration": 10,
+  "act_description": "waking up and completing her morning routine (getting dressed for the day)",
+  "act_pronunciatio": "\ud83d\udc54",
+  "act_event": [
+    "Abigail Chen",
+    "get dressed",
+    "day"
+  ],
+  "act_obj_description": "being used by Abigail Chen to get dressed for the day",
+  "act_obj_pronunciatio": "\ud83d\udc57",
+  "act_obj_event": [
+    "closet",
+    "use",
+    "Abigail Chen"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

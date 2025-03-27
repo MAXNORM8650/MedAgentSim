@@ -1,0 +1,362 @@
+{
+  "persona": {
+    "Latoya Williams": {
+      "movement": [
+        21,
+        18
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "continuing her morning routine and preparing breakfast (taking a shower) @ the Ville:artist's co-living space:Latoya Williams's bathroom:shower",
+      "chat": null
+    },
+    "Rajiv Patel": {
+      "movement": [
+        31,
+        22
+      ],
+      "pronunciatio": "\ud83e\udea5",
+      "description": "waking up and completing his morning routine (brushing his teeth) @ the Ville:artist's co-living space:Rajiv Patel's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "Francisco Lopez": {
+      "movement": [
+        16,
+        32
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "waking up and completing the morning routine (getting out of bed and making the bed) @ the Ville:artist's co-living space:Francisco Lopez's room:bed",
+      "chat": null
+    },
+    "Hailey Johnson": {
+      "movement": [
+        26,
+        32
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Hailey Johnson's room:bed",
+      "chat": null
+    },
+    "Arthur Burton": {
+      "movement": [
+        54,
+        14
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "waking up and completing his morning routine (making his bed) @ the Ville:Arthur Burton's apartment:main room:bed",
+      "chat": null
+    },
+    "Ryan Park": {
+      "movement": [
+        66,
+        19
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "opening Hobbs Cafe and preparing for the day ahead (checking the inventory and making a list of items that need to be restocked) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Giorgio Rossi": {
+      "movement": [
+        87,
+        18
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "waking up and completing his morning routine (making his bed) @ the Ville:Giorgio Rossi's apartment:main room:bed",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        95,
+        13
+      ],
+      "pronunciatio": "\ud83e\udea5",
+      "description": "waking up and completing his morning routine (brushing his teeth) @ the Ville:Carlos Gomez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz discussing Ayesha's research on the use of language in Shakespeare's plays and planning to meet for coffee to continue their conversation. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Wolfgang, how are you today?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hi Ayesha, I'm doing well, thank you! How about you?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm good, thank you! Are you enjoying your breakfast?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, thank you! I'm just fueling up before my run. How about you, are you going for a long run today?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I'm planning on a longer run today. I'm researching for my senior thesis on the use of language in Shakespeare's plays, and I find that running really helps me clear my mind and think more creatively."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's interesting, I agree that physical activity can really help with mental clarity and creativity. Good luck with your senior thesis, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Wolfgang! I appreciate your support and encouragement."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Have you come across any interesting insights or discoveries during your research so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "I have actually found some interesting insights about the use of metaphors in Shakespeare's plays. It's fascinating how the language can convey such deep meanings."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds really intriguing! I'd love to hear more about your research sometime."
+        ],
+        [
+          "Ayesha Khan",
+          "I'd be happy to share more about my research with you sometime. Maybe we can grab coffee and discuss it further?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds great, Ayesha! Let's plan to meet up next week for coffee and continue our discussion."
+        ],
+        [
+          "Ayesha Khan",
+          "I'll text you next week to set up a time to meet for coffee. Thank you for your interest in my research, Wolfgang!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Looking forward to our coffee chat! Have a great run and enjoy your research, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "I'll definitely keep you updated on any new findings or insights I come across in my research."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Good luck with your run, Ayesha! Looking forward to hearing more about your research next week over coffee."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz discussing Ayesha's research on the use of language in Shakespeare's plays and planning to meet for coffee to continue their conversation. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Wolfgang, how are you today?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hi Ayesha, I'm doing well, thank you! How about you?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm good, thank you! Are you enjoying your breakfast?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, thank you! I'm just fueling up before my run. How about you, are you going for a long run today?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I'm planning on a longer run today. I'm researching for my senior thesis on the use of language in Shakespeare's plays, and I find that running really helps me clear my mind and think more creatively."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's interesting, I agree that physical activity can really help with mental clarity and creativity. Good luck with your senior thesis, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Wolfgang! I appreciate your support and encouragement."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Have you come across any interesting insights or discoveries during your research so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "I have actually found some interesting insights about the use of metaphors in Shakespeare's plays. It's fascinating how the language can convey such deep meanings."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds really intriguing! I'd love to hear more about your research sometime."
+        ],
+        [
+          "Ayesha Khan",
+          "I'd be happy to share more about my research with you sometime. Maybe we can grab coffee and discuss it further?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds great, Ayesha! Let's plan to meet up next week for coffee and continue our discussion."
+        ],
+        [
+          "Ayesha Khan",
+          "I'll text you next week to set up a time to meet for coffee. Thank you for your interest in my research, Wolfgang!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Looking forward to our coffee chat! Have a great run and enjoy your research, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "I'll definitely keep you updated on any new findings or insights I come across in my research."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Good luck with your run, Ayesha! Looking forward to hearing more about your research next week over coffee."
+        ]
+      ]
+    },
+    "Mei Lin": {
+      "movement": [
+        90,
+        74
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "waking up and completing her morning routine (getting out of bed and making her bed) @ the Ville:Lin family's house:Mei and John Lin's bedroom:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "going for a morning jog (conversing about John and Eddy are discussing their morning routines and plans for the day, including having breakfast together, Eddy's classes at Oak Hill College, his composition project, and music theory, as well as John opening the pharmacy counter at Willow Market and Pharmacy.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        91,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "waking up and completing his morning routine (conversing about John and Eddy are discussing their morning routines and plans for the day, including having breakfast together, Eddy's classes at Oak Hill College, his composition project, and music theory, as well as John opening the pharmacy counter at Willow Market and Pharmacy.) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83e\udd56",
+      "description": "waking up and completing his morning routine (conversing about preparing and enjoying a breakfast of omelets, toast, orange juice, butter, and coffee, while Tom and Jane Moreno chat and help each other with setting the table and serving the food) @ the Ville:Moreno family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Jane Moreno": {
+      "movement": [
+        75,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "making breakfast for Tom and herself (preparing ingredients for breakfast) @ the Ville:Moreno family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "working on writing her children's book series (reviewing the outline for the next book in the series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Carmen Ortiz": {
+      "movement": [
+        58,
+        74
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "waking up and completing her morning routine (making her bed) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Carmen Ortiz's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\u2615",
+      "description": "having breakfast with Jennifer (making coffee for Jennifer) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Jennifer Moore": {
+      "movement": [
+        37,
+        61
+      ],
+      "pronunciatio": "\ud83d\udd8c\ufe0f",
+      "description": "continuing to work on final preparations for the exhibition at her home studio (setting up her painting supplies) @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Yuriko Yamamoto": {
+      "movement": [
+        29,
+        65
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "waking up and completing her morning routine (making her bed) @ the Ville:Yuriko Yamamoto's house:main room:bed",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on writing his book (outlining the first chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:07:50"
+  }
+}

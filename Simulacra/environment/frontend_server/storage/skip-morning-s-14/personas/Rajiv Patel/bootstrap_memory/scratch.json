@@ -1,0 +1,254 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:22:10",
+  "curr_tile": [
+    35,
+    30
+  ],
+  "daily_plan_req": "",
+  "name": "Rajiv Patel",
+  "first_name": "Rajiv",
+  "last_name": "Patel",
+  "age": 27,
+  "innate": "patient, reliable, cheerful",
+  "learned": "Rajiv Patel is a painter who wants live quietly and paint while enjoying his everyday life.",
+  "currently": "Rajiv Patel is preparing for his first solo show. He mostly works from the artists' co-living space. Also, he recently got into playing the guitar.",
+  "lifestyle": "Rajiv Patel goes to bed around midnight, awakes up around 9am, eats dinner around 5pm.",
+  "living_area": "the Ville:artist's co-living space:Rajiv Patel's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 57,
+  "importance_ele_n": 81,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 9:00 am",
+    "have a light breakfast at 9:30 am",
+    "work on his paintings at the artist co-living space from 10:00 am to 1:00 pm",
+    "take a break for lunch at 1:00 pm",
+    "continue painting from 2:00 pm to 5:00 pm",
+    "attend a guitar lesson at 6:00 pm",
+    "have dinner at 7:00 pm",
+    "relax and unwind by playing the guitar or watching TV from 8:00 pm onwards"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (choosing his outfit for the day)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (having breakfast)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (on the way to on the way to checking his emails)",
+      0
+    ],
+    [
+      "waking up and completing his morning routine (conversing about Rajiv Patel and Francisco Lopez are discussing their plans to attend candidate debates and community meetings to learn more about the candidates in the upcoming local elections.)",
+      9
+    ],
+    [
+      "waking up and completing his morning routine (practicing playing the guitar)",
+      30
+    ],
+    [
+      "waking up and completing his morning routine (packing his painting supplies)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (grabbing a snack for later)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (putting on his shoes)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (eating breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (cleaning up the kitchen)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (gathering his painting supplies)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (leaving the co-living space) (leaving the co-living space)",
+      11
+    ],
+    [
+      "working on his paintings at the artist co-living space",
+      180
+    ],
+    [
+      "having a light breakfast",
+      120
+    ],
+    [
+      "working on his paintings at the artist co-living space",
+      300
+    ],
+    [
+      "relaxing and unwinding by playing the guitar or watching TV",
+      120
+    ],
+    [
+      "working on his paintings at the artist co-living space",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      180
+    ],
+    [
+      "working on his paintings at the artist co-living space",
+      180
+    ],
+    [
+      "having a light breakfast",
+      120
+    ],
+    [
+      "working on his paintings at the artist co-living space",
+      300
+    ],
+    [
+      "relaxing and unwinding by playing the guitar or watching TV",
+      120
+    ],
+    [
+      "working on his paintings at the artist co-living space",
+      120
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room sofa",
+  "act_start_time": "February 13, 2023, 08:12:00",
+  "act_duration": 30,
+  "act_description": "waking up and completing his morning routine (practicing playing the guitar)",
+  "act_pronunciatio": "\ud83c\udfb8",
+  "act_event": [
+    "Rajiv Patel",
+    "practice",
+    "play the guitar"
+  ],
+  "act_obj_description": "being used by Rajiv Patel",
+  "act_obj_pronunciatio": "\ud83d\udc54",
+  "act_obj_event": [
+    "common room sofa",
+    "use",
+    "Rajiv Patel"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Latoya Williams": 591,
+    "Francisco Lopez": 684
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
