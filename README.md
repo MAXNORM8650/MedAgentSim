@@ -1,13 +1,14 @@
 # MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions
+<div align="center">
+  <img src="assets/Tom_Moreno_scaled_10x_pngcrushed.jpg" alt="MedAgentSim Logo" width="100"/>
+  <p><i>An open-source framework for simulating realistic doctor-patient interactions</i></p>
+</div>
 <a href="https://arxiv.org/abs/xxxxxxx">
   <img src="https://img.shields.io/badge/📝-Paper-blue" height="25">
 </a>
 <a href="https://www.youtube.com/watch?v=0qmC0ovWcr4">
   <img src="https://img.shields.io/badge/🎥-Video-red" height="25">
 </a>
-  <img src="assets/Tom_Moreno_scaled_10x_pngcrushed.jpg" alt="MedAgentSim Logo" width="100"/>
-  <p><i>An open-source framework for simulating realistic doctor-patient interactions</i></p>
-</div>
 <a href="https://github.com/MAXNORM8650/MedAgentSim/graphs/contributors">
   <img src="https://img.shields.io/github/contributors/MAXNORM8650/MedAgentSim" height="25">
 </a>
