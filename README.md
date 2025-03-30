@@ -5,7 +5,6 @@
 <a href="https://www.youtube.com/watch?v=0qmC0ovWcr4">
   <img src="https://img.shields.io/badge/🎥-Video-red" height="25">
 </a>
-<div align="center">
   <img src="assets/Tom_Moreno_scaled_10x_pngcrushed.jpg" alt="MedAgentSim Logo" width="100"/>
   <p><i>An open-source framework for simulating realistic doctor-patient interactions</i></p>
 </div>
