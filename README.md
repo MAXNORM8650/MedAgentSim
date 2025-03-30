@@ -24,6 +24,9 @@
 <a href="https://github.com/MAXNORM8650/MedAgentSim/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/MAXNORM8650/MedAgentSim" height="25">
 </a>
+<a href="https://medagentsim.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐-Website-green" height="25">
+</a>
 <a href="https://www.python.org/downloads/">
   <img src="https://img.shields.io/badge/python-3.10+-blue.svg" height="25">
 </a>
