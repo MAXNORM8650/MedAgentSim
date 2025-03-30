@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/MAXNORM8650/MedAgentSim)](https://github.com/MAXNORM8650/MedAgentSim/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/MAXNORM8650/MedAgentSim)](https://github.com/MAXNORM8650/MedAgentSim/issues)
 [![License](https://img.shields.io/github/license/MAXNORM8650/MedAgentSim)](https://github.com/MAXNORM8650/MedAgentSim/blob/main/LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 <div align="center">
   <img src="assets/medasim_logo.png" alt="MedAgentSim Logo" width="300"/>
@@ -148,30 +148,35 @@ class MyCustomModel(BaseModel):
         # Generate a response
         pass
 ```
-
 ## 👥 Contributing
 
 We welcome contributions to MedAgentSim! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) - see [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/) for details.
 
 ## 🙏 Acknowledgements
-
+- Thanks to [AgentClinic](https://github.com/samuelschmidgall/agentclinic) and [Microsoft PromptBase](https://github.com/microsoft/promptbase) for open-sourcing their works
 - Mohamed bin Zayed University of Artificial Intelligence for supporting this research
 - Contributors to the open-source LLM community
 - Medical professionals who provided domain expertise and validation
+
+## Other Resources
+- Open-source multi-agent framework: [CAMEL-AI OWL](https://github.com/camel-ai/owl)
+- Multi-agent framework: [OpenMANAUS](https://github.com/mannaandpoem/OpenManus)
+- MedPrompt Blog: [The Power of Prompting](https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/)
+- MedPrompt Research Paper: [https://arxiv.org/abs/2311.16452](https://arxiv.org/abs/2311.16452)
+- MedPrompt+: [Steering at the Frontier: Extending the Power of Prompting](https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/)
+- Microsoft Introduction to Prompt Engineering: [https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
+- Microsoft Advanced Prompt Engineering Guide: [https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 
 ## 📞 Contact
 
 For questions or support, please open an issue or contact the maintainers:
 
 - GitHub: [@MAXNORM8650](https://github.com/MAXNORM8650)
-- Email: medsim@example.com
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ by the MedAgentSim Team</p>
-</div>
+Made with ❤️ by the MedAgentSim Team
