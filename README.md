@@ -169,9 +169,6 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 ## 🙏 Acknowledgements
 - Thanks to [AgentClinic](https://github.com/samuelschmidgall/agentclinic) and [Microsoft PromptBase](https://github.com/microsoft/promptbase) for open-sourcing their works
 - Mohamed bin Zayed University of Artificial Intelligence for supporting this research
-- Contributors to the open-source LLM community
-- Medical professionals who provided domain expertise and validation
-
 ## Other Resources
 - Open-source multi-agent framework: [CAMEL-AI OWL](https://github.com/camel-ai/owl)
 - Multi-agent framework: [OpenMANAUS](https://github.com/mannaandpoem/OpenManus)
