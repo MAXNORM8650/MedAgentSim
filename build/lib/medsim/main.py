@@ -12,7 +12,7 @@ def main(api_key, replicate_api_key, inf_type, doctor_bias, patient_bias, doctor
         os.environ["REPLICATE_API_TOKEN"] = replicate_api_key
     if doctor_llm in anthropic_llms:
         os.environ["ANTHROPIC_API_KEY"] = anthropic_api_key
-    output_dir = "/home/komal.kumar/documment/MultiAgent/AgentClinic/Results/3p2again"
+    output_dir = "./"
     os.makedirs(output_dir, exist_ok=True)
     # Load the appropriate scenario loader
     if dataset == "MedQA":
