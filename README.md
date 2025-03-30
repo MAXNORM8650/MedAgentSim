@@ -58,10 +58,10 @@ pip install -r requirements.txt
 python -m medsim.server
 
 # In a separate terminal, launch the client
-python -m medsim.client
+python -m medsim.simulate
 ```
 
-Visit `http://localhost:8000` in your browser to interact with the simulation.
+Visit `http://localhost:8000/simulator` in your browser.
 
 ## 🏥 Simulation Modes
 
@@ -127,36 +127,10 @@ MedAgentSim/
 
 ## 🛠️ Development
 
-### Adding a Custom Agent
-
-```python
-from medsim.agents import BaseAgent
-
-class MyCustomAgent(BaseAgent):
-    def __init__(self, name, role, **kwargs):
-        super().__init__(name, role, **kwargs)
-        
-    def process_observation(self, observation):
-        # Process the observation
-        pass
-        
-    def decide_action(self):
-        # Decide the next action
-        pass
-```
-
 ### Implementing a New Model
 
 ```python
-from medsim.models import BaseModel
-
-class MyCustomModel(BaseModel):
-    def __init__(self, model_path, **kwargs):
-        super().__init__(model_path, **kwargs)
-        
-    def generate(self, prompt, **kwargs):
-        # Generate a response
-        pass
+coming soon!
 ```
 ## 👥 Contributing
 
