@@ -13,6 +13,15 @@
   <p><i>An open-source framework for simulating realistic doctor-patient interactions</i></p>
 </div>
 
+## 📣 Recent Updates
+
+* [08/17/2024] 🎆 Major updates is coming soon 🎇 stay tuned.
+* [31/02/2025] 🔥 We release **MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**.
+
+## ✅ Todo
+* Running simulation
+* 
+
 ## 🔍 Overview
 
 MedAgentSim is an open-source simulated hospital environment designed to evaluate and enhance large language model (LLM) performance in dynamic diagnostic settings. Unlike prior approaches, our framework requires doctor agents to actively engage with patients through multi-turn conversations, requesting relevant medical examinations and imaging results to mimic real-world diagnostic processes.
@@ -23,6 +32,7 @@ Key features:
 - **Experience Replay**: Past successful diagnoses inform future cases through knowledge retrieval
 - **Visual Game Simulation**: Built with Phaser for an intuitive, interactive environment
 - **Multi-Modal Capabilities**: Integration with vision language models for medical image interpretation
+
 
 ## 🚀 Quick Start
 
