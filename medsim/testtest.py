@@ -11,7 +11,7 @@ import random
 
 import openai
 
-api_key = "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"
+api_key = "put your keys here"
 openai.api_key = api_key
 
 messages = [] 

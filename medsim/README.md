@@ -1,4 +1,2 @@
-# TOQ
-Multi-agent simulation on train of thoughts
-
+# Medsim direct run
 python run.py --config configs/configs.yaml
