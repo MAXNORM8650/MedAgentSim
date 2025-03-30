@@ -42,7 +42,7 @@ Key features:
 # Clone the repository
 git clone https://github.com/MAXNORM8650/MedAgentSim.git
 cd MedAgentSim
-
+pip install e .
 # Set up a virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -60,9 +60,14 @@ python -m medsim.server
 # In a separate terminal, launch the client
 python -m medsim.simulate
 ```
-
 Visit `http://localhost:8000/simulator` in your browser.
+### Host models using vLLM to query
+```bash 
+vllm serve unsloth/Llama-3.2-11B-Vision-Instruct-unsloth-bnb-4bit --dtype 'auto'  --quantization "bitsandbytes" --load_format "bitsandbytes" --tensor-parallel-size 4 --max-model-len 8192 --limit-mm-per-prompt image=1
 
+vllm serve llava-hf/llava-v1.6-mistral-7b-hf --tensor-parallel-size 4
+vllm serve unsloth/Llama-3.3-70B-Instruct-bnb-4bit --quantization "bitsandbytes" --load_format "bitsandbytes"
+```
 ## 🏥 Simulation Modes
 
 MedAgentSim supports three core interaction modes:
@@ -109,17 +114,18 @@ If you use MedAgentSim in your research, please cite our paper:
 ```
 MedAgentSim/
 ├── assets/               # Images, CSS, and other static files
-├── data/                 # Sample datasets and medical knowledge base
-├── docs/                 # Documentation
+├── datasets/             # Sample datasets and medical knowledge base. Put your dataset here
+├── docs/                 # Documentation. Coming soon
 ├── medsim/               # Core simulation code
-│   ├── agents/           # Agent implementations
-│   ├── environment/      # Simulation environment
-│   ├── models/           # Model interfaces
+│   ├── configs/          # configs for for models
+│   ├── core/             # Agent implementations
+│   ├── server/           # Simulation environment server
+│   ├── simulate/         # Multi-agnet running interfaces
 │   ├── utils/            # Utility functions
-│   ├── server.py         # Server implementation
-│   └── client.py         # Client implementation
+├── Simulacra/            # Backend support
+├── MedPromptSimulate/    # Dignosis memory support
 ├── examples/             # Example scenarios and configurations
-├── tests/                # Unit and integration tests
+├── tests/                # Unit and integration tests. Coming soon
 ├── requirements.txt      # Python dependencies
 ├── LICENSE               # License information
 └── README.md             # This file
