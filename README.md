@@ -9,7 +9,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 <div align="center">
-  <img src="assets/Tom_Moreno_scaled_10x_pngcrushed.jpg" alt="MedAgentSim Logo" width="300"/>
+  <img src="assets/Tom_Moreno_scaled_10x_pngcrushed.jpg" alt="MedAgentSim Logo" width="100"/>
   <p><i>An open-source framework for simulating realistic doctor-patient interactions</i></p>
 </div>
 
