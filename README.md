@@ -33,7 +33,7 @@
 
 ## 📣 Recent Updates
 
-* [05/05/2024] 🎆 More updates is coming soon 🎇 stay tuned.
+* [05/05/2025] 🎆 More updates is coming soon 🎇 stay tuned.
 * [31/03/2025] 🔥 We release **MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**.
 
 
