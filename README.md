@@ -30,7 +30,9 @@
 <a href="https://www.python.org/downloads/">
   <img src="https://img.shields.io/badge/python-3.10+-blue.svg" height="25">
 </a>
-
+<a href="https://huggingface.co/ItsMaxNorm/MedAgentSim-datasets">
+  <img src="https://img.shields.io/badge/HuggingFace-Datasets-orange" height="25">
+</a>
 ## 📣 Recent Updates
 
 * [05/05/2025] 🎆 More updates is coming soon 🎇 stay tuned.
