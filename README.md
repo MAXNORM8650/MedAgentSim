@@ -111,22 +111,6 @@ MedAgentSim has been evaluated on several medical benchmarks:
 | MedQA Extended | Extended diagnostic scenarios | 214 |
 | MIMIC-IV | Real-world clinical cases | 288 |
 
-## 📚 Citation
-
-If you use MedAgentSim in your research, please cite our paper:
-
-```bibtex
-@misc{almansoori2025selfevolvingmultiagentsimulationsrealistic,
-      title={Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions}, 
-      author={Mohammad Almansoori and Komal Kumar and Hisham Cholakkal},
-      year={2025},
-      eprint={2503.22678},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2503.22678}, 
-}
-```
-
 ## 🧩 Project Structure
 
 ```
@@ -163,7 +147,21 @@ We welcome contributions to MedAgentSim! Please see [CONTRIBUTING.md](CONTRIBUTI
 ## 📄 License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) - see [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/) for details.
+## 📚 Citation
 
+If you use MedAgentSim in your research, please cite our paper:
+
+```bibtex
+@misc{almansoori2025selfevolvingmultiagentsimulationsrealistic,
+      title={Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions}, 
+      author={Mohammad Almansoori and Komal Kumar and Hisham Cholakkal},
+      year={2025},
+      eprint={2503.22678},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.22678}, 
+}
+```
 ## 🙏 Acknowledgements
 - Thanks to [AgentClinic](https://github.com/samuelschmidgall/agentclinic) and [Microsoft PromptBase](https://github.com/microsoft/promptbase) for open-sourcing their works
 - Mohamed bin Zayed University of Artificial Intelligence for supporting this research
