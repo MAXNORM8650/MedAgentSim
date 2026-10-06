@@ -450,7 +450,7 @@ def query_model(model_str: str,
                 from openai import OpenAI  # Assuming OpenAI integration for this model
                 client_nvidia = OpenAI(
                     base_url="https://integrate.api.nvidia.com/v1",
-                    api_key="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"
+                    api_key="...."
                 )
                 response = client_nvidia.chat.completions.create(
                     model="meta/llama-3.1-405b-instruct",
